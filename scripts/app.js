@@ -2,7 +2,7 @@ class QuizApp {
     constructor() {
         this.quizEngine = new QuizEngine();
         // UPDATED: New Script URL provided by the user
-        this.SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzNnQpUMXO8NBfCNQaaH0hCXGr3GAnwMY1g0GRf8dW5J7BzkGvnfXso3pZuWVYehFtpYg/exec";
+        this.SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyxarWm6icp9pHItDBsPJzhN-8szjj-MrzIY6_e40Y58xorOpnu1UPMh9jclLTZCLSo/exec";
         this.ADMIN_PASSWORD = "Admin@2026"; 
         this.GITHUB_CONFIG = { owner: "mcaravikantpotdar", repo: "Multi-Class-Quiz", path: "jsons" };
         
