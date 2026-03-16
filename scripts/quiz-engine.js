@@ -2,12 +2,12 @@ class QuizEngine {
     constructor() {
         this.quizData = null;
         this.currentQuestionIndex = 0;
-        this.userAnswers = {}; 
+        this.userAnswers = {};
         this.score = 0;
         this.startTime = null;
         this.timer = null;
         this.currentTimer = 99;
-        this.mode = 'practice'; 
+        this.mode = 'practice';
         this.questionTimers = {};
         this.questionTimeSpent = {};
         this.currentQuestionId = null;
@@ -15,7 +15,7 @@ class QuizEngine {
         // --- IDENTITY & MASTER CLOCK ---
         this.studentName = '';
         this.schoolName = '';
-        this.totalElapsedSeconds = 0; 
+        this.totalElapsedSeconds = 0;
         this.overallTimer = null;
     }
 
@@ -39,7 +39,7 @@ class QuizEngine {
     recordAnswer(questionId, selectedOption, attemptNumber, hintUsed = false) {
         const question = this.quizData.questions.find(q => q.question_id === questionId);
         if (!question) return;
-        const isCorrect = selectedOption === question.correct_option;
+        const isCorrect = String(selectedOption) === String(question.correct_option);
         let marks = 0;
         if (!this.userAnswers[questionId]) {
             this.userAnswers[questionId] = { history: [], attempts: 0, isCorrect: false, marks: 0, hintUsed: hintUsed };
@@ -49,7 +49,7 @@ class QuizEngine {
 
         if (this.mode === 'test') {
             marks = isCorrect ? (hintUsed ? 2 : 4) : 0;
-            currentData.attempts = 3; 
+            currentData.attempts = 3;
         } else {
             if (isCorrect) {
                 switch (attemptNumber) {
@@ -68,14 +68,13 @@ class QuizEngine {
         const finalized = (isCorrect || currentData.attempts >= 3);
         currentData.isPartial = !finalized;
         
-        if (finalized) this.stopTimer(); 
+        if (finalized) this.stopTimer();
         this.calculateScore();
         this.saveProgress();
         return { isCorrect, marks };
     }
 
     startTimer(questionId, onTick, onExpire) {
-        // Master Clock: Ensures absolute time tracking
         if (!this.overallTimer) {
             this.overallTimer = setInterval(() => {
                 this.totalElapsedSeconds++;
@@ -87,7 +86,7 @@ class QuizEngine {
             onTick(this.questionTimers[questionId] || 0);
             return;
         }
-        this.stopTimer(); 
+        this.stopTimer();
         const startSeconds = this.initializeQuestionTimer(questionId);
         this.currentTimer = startSeconds;
         this.currentQuestionId = questionId;
@@ -96,9 +95,6 @@ class QuizEngine {
         this.timer = setInterval(() => {
             const distance = endTime - Date.now();
             this.currentTimer = Math.ceil(distance / 1000);
-            if (this.currentTimer <= (this.mode === 'test' ? 10 : 30)) {
-                document.getElementById('timer')?.classList.add('pulse');
-            }
             if (this.currentTimer >= 0) onTick(this.currentTimer);
             if (this.currentTimer <= 0) {
                 this.recordTimeout(questionId, this.userAnswers[questionId]?.hintUsed);
@@ -113,7 +109,6 @@ class QuizEngine {
             this.questionTimeSpent[this.currentQuestionId] = (this.mode === 'test' ? 40 : 99) - this.currentTimer;
         }
         if (this.timer) { clearInterval(this.timer); this.timer = null; }
-        document.getElementById('timer')?.classList.remove('pulse');
     }
 
     recordTimeout(questionId, hintUsed = false) {
@@ -156,14 +151,14 @@ class QuizEngine {
     saveProgress() {
         const p = { 
             studentName: this.studentName,
-            schoolName: this.schoolName, 
-            currentQuestionIndex: this.currentQuestionIndex, 
-            userAnswers: this.userAnswers, 
-            score: this.score, 
-            questionTimers: this.questionTimers, 
-            questionTimeSpent: this.questionTimeSpent, 
+            schoolName: this.schoolName,
+            currentQuestionIndex: this.currentQuestionIndex,
+            userAnswers: this.userAnswers,
+            score: this.score,
+            questionTimers: this.questionTimers,
+            questionTimeSpent: this.questionTimeSpent,
             mode: this.mode,
-            totalElapsedSeconds: this.totalElapsedSeconds 
+            totalElapsedSeconds: this.totalElapsedSeconds
         };
         localStorage.setItem('quizProgress', JSON.stringify(p));
     }
@@ -191,22 +186,22 @@ class QuizEngine {
     }
 
     /**
-     * FIX: NUCLEAR RESET
-     * Ensures absolute termination of the clock and clearing of memory.
+     * NUCLEAR RESET: Ensures absolute memory clearing.
      */
     nuclearReset() {
         if (this.overallTimer) { clearInterval(this.overallTimer); this.overallTimer = null; }
         this.totalElapsedSeconds = 0;
+        this.quizData = null; // CRITICAL: Clear stale questions
         this.clearProgress();
     }
 
     clearProgress() {
         localStorage.removeItem('quizProgress');
         if (this.overallTimer) { clearInterval(this.overallTimer); this.overallTimer = null; }
-        this.currentQuestionIndex = 0; 
-        this.userAnswers = {}; 
-        this.score = 0; 
-        this.questionTimers = {}; 
+        this.currentQuestionIndex = 0;
+        this.userAnswers = {};
+        this.score = 0;
+        this.questionTimers = {};
         this.questionTimeSpent = {};
         this.totalElapsedSeconds = 0;
         this.stopTimer();
@@ -216,11 +211,11 @@ class QuizEngine {
         const mins = Math.floor(this.totalElapsedSeconds / 60);
         const secs = this.totalElapsedSeconds % 60;
         return {
-            totalScore: this.score, 
+            totalScore: this.score,
             maxScore: this.getMaxScore(),
             percentage: this.getMaxScore() > 0 ? Math.round((this.score / this.getMaxScore()) * 100) : 0,
             timeTaken: `${mins.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`,
-            userAnswers: this.userAnswers, 
+            userAnswers: this.userAnswers,
             questions: this.quizData.questions,
             unattemptedCount: this.quizData.questions.length - Object.keys(this.userAnswers).filter(id => !this.userAnswers[id].isPartial).length
         };
