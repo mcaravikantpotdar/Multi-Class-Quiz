@@ -1,21 +1,20 @@
 class QuizApp {
     constructor() {
         this.quizEngine = new QuizEngine();
-        // UPDATED: New Script URL provided by the user
-        this.SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyxarWm6icp9pHItDBsPJzhN-8szjj-MrzIY6_e40Y58xorOpnu1UPMh9jclLTZCLSo/exec";
-        this.ADMIN_PASSWORD = "Admin@2026"; 
-        this.GITHUB_CONFIG = { owner: "mcaravikantpotdar", repo: "Multi-Class-Quiz", path: "jsons" };
+        // UPDATED: User's new Script URL
+        this.SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxNWnLdQxUnjOCfWHoyZALx-orP0D1v9Q04ic9hl3Ido3W3gOgRoYiq2MuN-bv687I/exec";
+        this.ADMIN_PASSWORD = "Admin@2026";
+        this.GITHUB_CONFIG = { owner: "surindershamshi-rgb", repo: "the-quiz-app", path: "jsons" };
         
-        // State Management
-        this.fullLibraryData = {}; // Structure: { "Class 10": { "English": [ {name, path}, ... ] } }
+        this.fullLibraryData = {};
         this.selectedClass = null;
         this.selectedSubject = null;
         this.selectedQuizPath = null;
         
-        this.currentAttempts = {}; 
-        this.hintUsed = {}; 
-        this.shuffledOrders = {}; 
-        this.scoreboardData = []; 
+        this.currentAttempts = {};
+        this.hintUsed = {};
+        this.shuffledOrders = {};
+        this.scoreboardData = [];
         this.sortConfig = { key: 'date', asc: false };
         
         this.init();
@@ -36,9 +35,8 @@ class QuizApp {
             'confirmReset', 'closeAdmin', 'adminError', 'quitModal', 'errorMessage',
             'optionsContainer', 'questionGrid', 'questionEn', 'questionHi',
             'resultsBreakdown', 'finalScore', 'totalPossible', 'percentage', 'totalTime',
-            'leaderboardHeaders', 'scoreboardBody',
-            // NEW SELECTORS
-            'classSelect', 'subjectSelect', 'subjectGroup', 'lessonGroup'
+            'leaderboardHeaders', 'scoreboardBody', 'classSelect', 'subjectSelect', 
+            'subjectGroup', 'lessonGroup'
         ];
         ids.forEach(id => { 
             const el = document.getElementById(id);
@@ -53,13 +51,8 @@ class QuizApp {
         if (this.studentName) this.studentName.addEventListener('input', () => this.validateStartForm());
         if (this.schoolName) this.schoolName.addEventListener('input', () => this.validateStartForm());
         
-        // Hierarchy Listeners
-        if (this.classSelect) {
-            this.classSelect.addEventListener('change', (e) => this.handleClassSelection(e.target.value));
-        }
-        if (this.subjectSelect) {
-            this.subjectSelect.addEventListener('change', (e) => this.handleSubjectSelection(e.target.value));
-        }
+        if (this.classSelect) this.classSelect.addEventListener('change', (e) => this.handleClassSelection(e.target.value));
+        if (this.subjectSelect) this.subjectSelect.addEventListener('change', (e) => this.handleSubjectSelection(e.target.value));
 
         if (this.startQuiz) this.startQuiz.addEventListener('click', () => this.handleStart());
         
@@ -105,32 +98,20 @@ class QuizApp {
         }
         
         if (this.closeAdmin) this.closeAdmin.addEventListener('click', () => this.adminModal.classList.remove('active'));
-        
-        if (this.adminPassword) {
-            this.adminPassword.addEventListener('keypress', (e) => { if (e.key === 'Enter') this.handleDatabaseReset(); });
-        }
+        if (this.adminPassword) this.adminPassword.addEventListener('keypress', (e) => { if (e.key === 'Enter') this.handleDatabaseReset(); });
         if (this.confirmReset) this.confirmReset.addEventListener('click', () => this.handleDatabaseReset());
     }
 
     async autoScanGitHubLibrary() {
         const { owner, repo } = this.GITHUB_CONFIG;
-        // Use recursive tree to get all folders and files at once
         const apiUrl = `https://api.github.com/repos/${owner}/${repo}/git/trees/main?recursive=1`;
-        
         try {
             const response = await fetch(apiUrl, { cache: 'no-cache' });
             if (!response.ok) throw new Error(`GitHub Error: ${response.status}`);
             const data = await response.json();
-            
-            // Filter only JSON files within the 'jsons/' directory
-            const jsonFiles = data.tree.filter(item => 
-                item.path.startsWith('jsons/') && 
-                item.path.toLowerCase().endsWith('.json')
-            );
-
+            const jsonFiles = data.tree.filter(item => item.path.startsWith('jsons/') && item.path.toLowerCase().endsWith('.json'));
             this.parseLibraryTree(jsonFiles);
             this.renderClassDropdown();
-
         } catch (error) {
             if (this.errorDiv) this.errorDiv.textContent = `Library Error: ${error.message}`;
         }
@@ -138,44 +119,31 @@ class QuizApp {
 
     parseLibraryTree(files) {
         files.forEach(file => {
-            const parts = file.path.split('/'); // e.g., ["jsons", "Class_10", "English", "Lesson.json"]
-            if (parts.length < 4) return; // Skip files not in the Class/Subject structure
-
+            const parts = file.path.split('/');
+            if (parts.length < 4) return;
             const className = this.cleanName(parts[1]);
             const subjectName = this.cleanName(parts[2]);
             const lessonName = this.cleanName(parts[3].replace('.json', ''));
-
             if (!this.fullLibraryData[className]) this.fullLibraryData[className] = {};
             if (!this.fullLibraryData[className][subjectName]) this.fullLibraryData[className][subjectName] = [];
-
-            this.fullLibraryData[className][subjectName].push({
-                displayName: lessonName,
-                path: file.path
-            });
+            this.fullLibraryData[className][subjectName].push({ displayName: lessonName, path: file.path });
         });
     }
 
-    cleanName(str) {
-        return str.replace(/_/g, ' ').replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
-    }
+    cleanName(str) { return str.replace(/_/g, ' ').replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase()); }
 
     renderClassDropdown() {
         if (!this.classSelect) return;
         const classes = Object.keys(this.fullLibraryData).sort();
         classes.forEach(cls => {
             const opt = document.createElement('option');
-            opt.value = cls;
-            opt.textContent = cls;
+            opt.value = cls; opt.textContent = cls;
             this.classSelect.appendChild(opt);
         });
     }
 
     handleClassSelection(cls) {
-        this.selectedClass = cls;
-        this.selectedSubject = null;
-        this.selectedQuizPath = null;
-        
-        // UI Reset
+        this.selectedClass = cls; this.selectedSubject = null; this.selectedQuizPath = null;
         if (this.subjectGroup) this.subjectGroup.style.display = 'block';
         if (this.lessonGroup) this.lessonGroup.style.display = 'none';
         if (this.subjectSelect) {
@@ -183,8 +151,7 @@ class QuizApp {
             const subjects = Object.keys(this.fullLibraryData[cls]).sort();
             subjects.forEach(sub => {
                 const opt = document.createElement('option');
-                opt.value = sub;
-                opt.textContent = sub;
+                opt.value = sub; opt.textContent = sub;
                 this.subjectSelect.appendChild(opt);
             });
         }
@@ -192,10 +159,7 @@ class QuizApp {
     }
 
     handleSubjectSelection(sub) {
-        this.selectedSubject = sub;
-        this.selectedQuizPath = null;
-        
-        // UI Transition
+        this.selectedSubject = sub; this.selectedQuizPath = null;
         if (this.lessonGroup) this.lessonGroup.style.display = 'block';
         this.renderLessonButtons();
         this.validateStartForm();
@@ -204,16 +168,13 @@ class QuizApp {
     renderLessonButtons() {
         if (!this.quizListContainer || !this.selectedClass || !this.selectedSubject) return;
         this.quizListContainer.innerHTML = '';
-        
         const lessons = this.fullLibraryData[this.selectedClass][this.selectedSubject];
         lessons.forEach(lesson => {
             const btn = document.createElement('div');
-            btn.className = 'quiz-btn';
-            btn.textContent = `📂 ${lesson.displayName}`;
+            btn.className = 'quiz-btn'; btn.textContent = `📂 ${lesson.displayName}`;
             btn.onclick = () => {
                 document.querySelectorAll('.quiz-btn').forEach(b => b.classList.remove('selected'));
-                btn.classList.add('selected');
-                this.selectedQuizPath = lesson.path;
+                btn.classList.add('selected'); this.selectedQuizPath = lesson.path;
                 this.validateStartForm();
             };
             this.quizListContainer.appendChild(btn);
@@ -221,28 +182,20 @@ class QuizApp {
     }
 
     validateStartForm() {
-        const ok = this.studentName?.value.trim() && 
-                   this.schoolName?.value.trim() && 
-                   this.selectedClass && 
-                   this.selectedSubject && 
-                   this.selectedQuizPath;
+        const ok = this.studentName?.value.trim() && this.schoolName?.value.trim() && this.selectedClass && this.selectedSubject && this.selectedQuizPath;
         if (this.startQuiz) this.startQuiz.disabled = !ok;
     }
 
     async handleStart() {
         QuizUtils.showLoading(true);
         try {
-            this.quizEngine.nuclearReset(); 
-            // Fetch directly using the path from our parsed tree
+            this.quizEngine.nuclearReset();
             const r = await fetch(`${this.selectedQuizPath}?t=${Date.now()}`);
             const data = await r.json();
             this.quizEngine.loadQuizData(data, this.studentName.value, this.schoolName.value);
             this.startActualQuiz();
-        } catch (e) { 
-            if (this.errorDiv) this.errorDiv.textContent = `Load Error: ${e.message}`; 
-        } finally { 
-            QuizUtils.showLoading(false); 
-        }
+        } catch (e) { if (this.errorDiv) this.errorDiv.textContent = `Load Error: ${e.message}`; }
+        finally { QuizUtils.showLoading(false); }
     }
 
     startActualQuiz() {
@@ -265,80 +218,52 @@ class QuizApp {
 
     updateHeaderIdentity() {
         const old = document.getElementById('identityBar'); if(old) old.remove();
-        const html = `
-            <div id="identityBar">
-                <div class="id-student-info">
-                    <div class="id-name">👤 ${this.studentName.value}</div>
-                    <div class="id-school">${this.selectedClass} • ${this.selectedSubject}</div>
-                </div>
-                <div class="stat-badge ${this.quizEngine.mode === 'test' ? 'strict' : ''}">
-                    ${this.quizEngine.mode.toUpperCase()} MODE
-                </div>
-            </div>`;
+        const html = `<div id="identityBar"><div class="id-student-info"><div class="id-name">👤 ${this.studentName.value}</div><div class="id-school">${this.selectedClass} • ${this.selectedSubject}</div></div><div class="stat-badge ${this.quizEngine.mode === 'test' ? 'strict' : ''}">${this.quizEngine.mode.toUpperCase()} MODE</div></div>`;
         const temp = document.createElement('div'); temp.innerHTML = html.trim();
         const header = document.querySelector('.quiz-header');
         if (header) header.insertBefore(temp.firstChild, header.firstChild);
     }
 
     showQuestion(i) {
-        this.quizEngine.stopTimer(); 
+        this.quizEngine.stopTimer();
         this.quizEngine.currentQuestionIndex = i;
         const q = this.quizEngine.getCurrentQuestion();
-        
         if (!q || !q.question) return;
 
+        // --- NEW: Safe Image Rendering Logic ---
+        const imageHtml = q.question_image ? `<div class="quiz-image-container"><img src="${q.question_image}" class="quiz-img" alt="Question Diagram"></div>` : '';
+        
         const qText = q.question;
-        if (this.questionEn) this.questionEn.innerHTML = (typeof qText === 'object') ? qText.en : qText;
+        if (this.questionEn) this.questionEn.innerHTML = imageHtml + ((typeof qText === 'object') ? qText.en : qText);
         if (this.questionHi) this.questionHi.innerHTML = (typeof qText === 'object') ? qText.hi : '';
         
         const currentQEl = document.getElementById('currentQuestion');
         if (currentQEl) currentQEl.textContent = i + 1;
         
         this.renderOptions(q);
-        
         document.querySelectorAll('#feedbackContainer, #hintArea').forEach(el => el.remove());
         
-        const fb = `
-            <div id="feedbackContainer" style="display:none;">
-                <div class="feedback-area explanation-area">
-                    <h4>✅ Explanation</h4>
-                    <div>${q.explanation.en}</div>
-                    <div style="margin-top:5px; opacity:0.8;">${q.explanation.hi}</div>
-                </div>
-                <div class="key-takeaway-area">
-                    <h4>🔑 Key Takeaway</h4>
-                    <div>${q.key_takeaway.en}</div>
-                    <div style="margin-top:5px; opacity:0.8;">${q.key_takeaway.hi}</div>
-                </div>
-            </div>
-            <div id="hintArea" class="feedback-area hint-area" style="display:none;">
-                <h4>💡 Hint</h4>
-                <div>${q.hint.en}</div>
-                <div style="margin-top:5px; opacity:0.8;">${q.hint.hi}</div>
-            </div>`;
+        // SAFE FALLBACKS FOR OPTIONAL FIELDS
+        const enExpl = q.explanation?.en || (typeof q.explanation === 'string' ? q.explanation : 'Check takeaway.');
+        const hiExpl = q.explanation?.hi || '';
+        const explImg = q.explanation?.expl_image ? `<img src="${q.explanation.expl_image}" class="expl-img">` : '';
+
+        const fb = `<div id="feedbackContainer" style="display:none;"><div class="feedback-area explanation-area"><h4>✅ Explanation</h4><div>${enExpl}</div><div style="margin-top:5px; opacity:0.8;">${hiExpl}</div>${explImg}</div><div class="key-takeaway-area"><h4>🔑 Key Takeaway</h4><div>${q.key_takeaway?.en || ''}</div><div style="margin-top:5px; opacity:0.8;">${q.key_takeaway?.hi || ''}</div></div></div><div id="hintArea" class="feedback-area hint-area" style="display:none;"><h4>💡 Hint</h4><div>${q.hint?.en || 'Try narrowing it down.'}</div><div style="margin-top:5px; opacity:0.8;">${q.hint?.hi || ''}</div></div>`;
             
         if (this.optionsContainer) this.optionsContainer.insertAdjacentHTML('afterend', fb);
-        
-        this.updateQuestionGrid(); 
-        this.updateNavigation(); 
+        this.updateQuestionGrid();
+        this.updateNavigation();
         
         this.quizEngine.startTimer(q.question_id, (t) => { 
             const timerEl = document.getElementById('timer');
-            if (timerEl) timerEl.textContent = t; 
+            if (timerEl) timerEl.textContent = t;
         }, () => this.showQuestion(i));
 
         const fbCont = document.getElementById('feedbackContainer');
         const hArea = document.getElementById('hintArea');
-        
-        if (this.quizEngine.isQuestionDisabled(q.question_id) && this.quizEngine.mode === 'practice' && fbCont) {
-            fbCont.style.display = 'block';
-        }
-        if (this.hintUsed[q.question_id] && hArea) {
-            hArea.style.display = 'block';
-        }
-        if (this.hintBtn) {
-            this.hintBtn.disabled = this.quizEngine.isQuestionDisabled(q.question_id) || this.hintUsed[q.question_id];
-        }
+        if (this.quizEngine.isQuestionDisabled(q.question_id) && this.quizEngine.mode === 'practice' && fbCont) fbCont.style.display = 'block';
+        if (this.hintUsed[q.question_id] && hArea) hArea.style.display = 'block';
+        if (this.hintBtn) this.hintBtn.disabled = this.quizEngine.isQuestionDisabled(q.question_id) || this.hintUsed[q.question_id];
     }
 
     renderOptions(q) {
@@ -350,7 +275,10 @@ class QuizApp {
         order.forEach((key, idx) => {
             const card = document.createElement('div'); card.className = 'option-card';
             const data = q.options[key];
-            card.innerHTML = `<div class="option-label">${['A','B','C','D'][idx]}</div><div class="option-content"><div class="opt-lang en">${data.en}</div><div class="opt-lang hi">${data.hi}</div></div>`;
+            // Safe rendering for image-based options
+            const optImg = data.opt_image ? `<div class="option-img-container"><img src="${data.opt_image}" class="option-img"></div>` : '';
+            
+            card.innerHTML = `${optImg}<div class="option-label">${['A','B','C','D'][idx] || '?'}</div><div class="option-content"><div class="opt-lang en">${data.en || data}</div><div class="opt-lang hi">${data.hi || ''}</div></div>`;
             if (ans) {
                 if (this.quizEngine.mode === 'practice') {
                     if (ans.history.includes(key)) card.classList.add(key === q.correct_option ? 'correct' : 'wrong');
@@ -361,6 +289,16 @@ class QuizApp {
             else card.onclick = () => this.selectOption(key);
             this.optionsContainer.appendChild(card);
         });
+    }
+
+    getShuffledOptions(q) {
+        if (this.shuffledOrders[q.question_id]) return this.shuffledOrders[q.question_id];
+        // UPDATED: Dynamic options detection instead of hardcoded 'abcd'
+        let o = Object.keys(q.options);
+        if (!JSON.stringify(q.options).toLowerCase().match(/both|all of|none of/)) {
+            for (let i = o.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [o[i], o[j]] = [o[j], o[i]]; }
+        }
+        this.shuffledOrders[q.question_id] = o; return o;
     }
 
     selectOption(opt) {
@@ -374,9 +312,9 @@ class QuizApp {
 
     showHint() {
         const qId = this.quizEngine.getCurrentQuestion().question_id;
-        this.hintUsed[qId] = true; 
+        this.hintUsed[qId] = true;
         const hArea = document.getElementById('hintArea');
-        if (hArea) hArea.style.display = 'block'; 
+        if (hArea) hArea.style.display = 'block';
         if (this.hintBtn) this.hintBtn.disabled = true;
     }
 
@@ -405,7 +343,7 @@ class QuizApp {
     previousQuestion() { this.showQuestion(this.quizEngine.currentQuestionIndex - 1); }
     nextQuestion() { 
         if (this.quizEngine.currentQuestionIndex === this.quizEngine.getTotalQuestions() - 1) this.completeQuiz();
-        else this.showQuestion(this.quizEngine.currentQuestionIndex + 1); 
+        else this.showQuestion(this.quizEngine.currentQuestionIndex + 1);
     }
     
     quitQuiz() {
@@ -415,14 +353,11 @@ class QuizApp {
 
     completeQuiz(forced = false) { 
         try {
-            const res = this.quizEngine.getResults(); 
+            const res = this.quizEngine.getResults();
             if (!forced && res.unattemptedCount > 0) {
                 if (!confirm(`Finish with ${res.unattemptedCount} unattempted questions?`)) return;
             }
-            
-            this.quizEngine.stopTimer(); 
-            QuizUtils.createConfetti(); 
-            
+            this.quizEngine.stopTimer(); QuizUtils.createConfetti(); 
             try {
                 if (this.finalScore) this.finalScore.textContent = res.totalScore; 
                 if (this.totalPossible) this.totalPossible.textContent = res.maxScore; 
@@ -430,14 +365,10 @@ class QuizApp {
                 if (this.totalTime) this.totalTime.textContent = res.timeTaken; 
                 this.renderResultsBreakdown(res); 
             } catch (uiError) { console.warn("UI sync error:", uiError); }
-
             QuizUtils.showScreen('resultsScreen'); 
             this.submitScore(res); 
             this.quizEngine.nuclearReset(); 
-        } catch (error) {
-            console.error("QuizApp: completeQuiz fail-safe triggered", error);
-            this.quizEngine.nuclearReset(); 
-        }
+        } catch (error) { console.error("QuizApp: recovery reset", error); this.quizEngine.nuclearReset(); }
     }
 
     renderResultsBreakdown(res) {
@@ -450,15 +381,6 @@ class QuizApp {
             const correctText = (typeof correctOpt === 'object') ? correctOpt.en : correctOpt;
             return `<div class="result-item ${status}"><div class="result-meta">Q${i+1} • ${a?.marks || 0} Marks</div><div class="result-question">${qEn}</div><div style="font-size:13px; color:#64748b;">Answer: ${correctText}</div></div>`;
         }).join('');
-    }
-
-    getShuffledOptions(q) {
-        if (this.shuffledOrders[q.question_id]) return this.shuffledOrders[q.question_id];
-        let o = ['a', 'b', 'c', 'd'];
-        if (!JSON.stringify(q.options).toLowerCase().match(/both|all of|none of/)) {
-            for (let i = o.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [o[i], o[j]] = [o[j], o[i]]; }
-        }
-        this.shuffledOrders[q.question_id] = o; return o;
     }
 
     async fetchScoreboard() {
@@ -474,16 +396,12 @@ class QuizApp {
         let raw = String(s || '').replace('⏱️', '').replace("'", "").trim();
         if (raw.includes('T')) raw = raw.split('T')[1].split('.')[0];
         if (raw.startsWith('00:')) raw = raw.substring(3);
-        if (raw.startsWith('18:') || raw.startsWith('19:')) {
-            const parts = raw.split(':');
-            return parts.length === 3 ? `0:${parts[2]}` : '0:02';
-        }
         return raw || '0:00';
     }
 
     sortScoreboard(key) {
         if (this.sortConfig.key === key) this.sortConfig.asc = !this.sortConfig.asc;
-        else this.sortConfig.key = key;
+        else { this.sortConfig.key = key; this.sortConfig.asc = (key === 'student' || key === 'class'); }
         
         const headers = document.querySelectorAll('#leaderboardHeaders th');
         headers.forEach(th => th.classList.remove('sort-asc', 'sort-desc'));
@@ -494,7 +412,6 @@ class QuizApp {
         data.sort((a, b) => {
             let vA, vB;
             switch (key) {
-                // Mapping indexes to new 9-column sheet (A=0, B=1, etc.)
                 case 'rank': 
                 case 'score': vA = parseFloat(a[7]) || 0; vB = parseFloat(b[7]) || 0; break;
                 case 'date': vA = new Date(a[0]); vB = new Date(b[0]); break;
@@ -544,7 +461,7 @@ class QuizApp {
 
     async submitScore(res) {
         const lockedTime = `'${res.timeTaken}`;
-        // PAYLOAD UPDATED FOR 9 COLUMNS
+        // PAYLOAD UPDATED FOR 9 COLUMNS IN BACKEND
         const p = { 
             action: 'submit', 
             studentName: this.studentName.value, 
