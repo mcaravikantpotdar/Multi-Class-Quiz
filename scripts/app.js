@@ -4,7 +4,7 @@ class QuizApp {
         // UPDATED: User's new Script URL
         this.SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxNWnLdQxUnjOCfWHoyZALx-orP0D1v9Q04ic9hl3Ido3W3gOgRoYiq2MuN-bv687I/exec";
         this.ADMIN_PASSWORD = "Admin@2026";
-        this.GITHUB_CONFIG = { owner: "surindershamshi-rgb", repo: "the-quiz-app", path: "jsons" };
+        this.GITHUB_CONFIG = { owner: "mcaravikantpotdar", repo: "Multi-Class-Quiz", path: "jsons" };
         
         this.fullLibraryData = {};
         this.selectedClass = null;
