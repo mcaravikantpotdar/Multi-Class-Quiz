@@ -1,0 +1,1923 @@
+{
+  "metadata": {
+    "chapter_number": 1,
+    "chapter_title": "Digital Literacy (Advanced)",
+    "chapter_title_hindi": "डिजिटल साक्षरता (उन्नत)",
+    "subject": "Computer Science",
+    "total_questions": 50,
+    "source_language": "en",
+    "target_language": "hi",
+    "note": "Options completely balanced (A:13, B:13, C:12, D:12). Exhaustive coverage of Unit 1."
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "corrections": [
+      "No markdown formatting used.",
+      "Strict schema enforced for 50 items."
+    ],
+    "notes": "Covers OHP rules, specific LED/LCD/Plasma applications and drawbacks, plotters, all printers, fax, and audio."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "In an Overhead Projector, what components are specifically found in the base unit acting as the primary light source?",
+        "hi": "ओवरहेड प्रोजेक्टर में, मुख्य प्रकाश स्रोत के रूप में कार्य करने वाले कौन से घटक विशेष रूप से बेस यूनिट में पाए जाते हैं?"
+      },
+      "options": {
+        "a": {
+          "en": "Lamp and Reflector",
+          "hi": "लैंप और रिफ्लेक्टर"
+        },
+        "b": {
+          "en": "Blower and Fan",
+          "hi": "ब्लोअर और फैन"
+        },
+        "c": {
+          "en": "Objective Lens",
+          "hi": "ऑब्जेक्टिव लेंस"
+        },
+        "d": {
+          "en": "Focus Knob",
+          "hi": "फोकस नॉब"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Think about where the light originates.",
+        "hi": "सोचें कि प्रकाश कहाँ से उत्पन्न होता है।"
+      },
+      "explanation": {
+        "en": "The lamp is the light source found on the base of the OHP, accompanied by a reflector behind it.",
+        "hi": "लैंप प्रकाश स्रोत है जो OHP के बेस पर पाया जाता है, जिसके पीछे एक रिफ्लेक्टर होता है।"
+      },
+      "key_takeaway": {
+        "en": "The lamp and reflector reside in the OHP base.",
+        "hi": "लैंप और रिफ्लेक्टर OHP के बेस में रहते हैं।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Why is a reflector placed strictly behind the lamp in an Overhead Projector?",
+        "hi": "ओवरहेड प्रोजेक्टर में रिफ्लेक्टर को कड़ाई से लैंप के पीछे क्यों रखा जाता है?"
+      },
+      "options": {
+        "a": {
+          "en": "To generate artificial colors",
+          "hi": "कृत्रिम रंग उत्पन्न करने के लिए"
+        },
+        "b": {
+          "en": "To prevent light from spreading inside the base",
+          "hi": "प्रकाश को बेस के अंदर फैलने से रोकने के लिए"
+        },
+        "c": {
+          "en": "To magnify the digital image",
+          "hi": "डिजिटल छवि को बड़ा करने के लिए"
+        },
+        "d": {
+          "en": "To cool the internal machine",
+          "hi": "आंतरिक मशीन को ठंडा करने के लिए"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It ensures the light travels efficiently in one direction.",
+        "hi": "यह सुनिश्चित करता है कि प्रकाश एक दिशा में कुशलतापूर्वक यात्रा करे।"
+      },
+      "explanation": {
+        "en": "The reflector directs the light forward toward a mirror, preventing it from wasting or spreading inside the base unit.",
+        "hi": "रिफ्लेक्टर प्रकाश को दर्पण की ओर आगे निर्देशित करता है, इसे बेस यूनिट के अंदर बर्बाद होने या फैलने से रोकता है।"
+      },
+      "key_takeaway": {
+        "en": "Reflectors prevent internal light dispersion.",
+        "hi": "रिफ्लेक्टर आंतरिक प्रकाश फैलाव को रोकते हैं।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Where is the condenser accurately positioned inside an Overhead Projector?",
+        "hi": "ओवरहेड प्रोजेक्टर के अंदर कंडेनसर को सटीक रूप से कहाँ रखा जाता है?"
+      },
+      "options": {
+        "a": {
+          "en": "On the projection stage",
+          "hi": "प्रोजेक्शन स्टेज पर"
+        },
+        "b": {
+          "en": "In the upper arm section",
+          "hi": "ऊपरी आर्म सेक्शन में"
+        },
+        "c": {
+          "en": "Between the lamp and the mirror in the base",
+          "hi": "बेस में लैंप और दर्पण के बीच"
+        },
+        "d": {
+          "en": "Outside the base near the cord",
+          "hi": "कॉर्ड के पास बेस के बाहर"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It sits in the middle of the light path in the lower unit.",
+        "hi": "यह निचली इकाई में प्रकाश पथ के मध्य में बैठता है।"
+      },
+      "explanation": {
+        "en": "To properly focus or condense light onto the base mirror, it is strategically positioned between the lamp and the mirror.",
+        "hi": "प्रकाश को बेस मिरर पर ठीक से केंद्रित या संघनित करने के लिए, इसे लैंप और दर्पण के बीच रणनीतिक रूप से रखा गया है।"
+      },
+      "key_takeaway": {
+        "en": "The condenser sits between the lamp and the mirror.",
+        "hi": "कंडेनसर लैंप और दर्पण के बीच स्थित होता है।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "At what approximate angle is the base mirror situated inside an OHP to direct light upward?",
+        "hi": "प्रकाश को ऊपर की ओर निर्देशित करने के लिए OHP के अंदर बेस मिरर लगभग किस कोण पर स्थित होता है?"
+      },
+      "options": {
+        "a": {
+          "en": "90 degrees",
+          "hi": "90 डिग्री"
+        },
+        "b": {
+          "en": "180 degrees",
+          "hi": "180 डिग्री"
+        },
+        "c": {
+          "en": "60 degrees",
+          "hi": "60 डिग्री"
+        },
+        "d": {
+          "en": "45 degrees",
+          "hi": "45 डिग्री"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "It splits a right angle perfectly in half to change horizontal light to vertical.",
+        "hi": "यह क्षैतिज प्रकाश को लंबवत में बदलने के लिए समकोण को पूरी तरह से आधा विभाजित करता है।"
+      },
+      "explanation": {
+        "en": "The base mirror is placed at an approximate 45-degree angle to effectively change the light's horizontal direction to an upward vertical direction.",
+        "hi": "बेस मिरर को लगभग 45-डिग्री के कोण पर रखा जाता है ताकि प्रकाश की क्षैतिज दिशा को ऊपर की ओर लंबवत दिशा में प्रभावी ढंग से बदला जा सके।"
+      },
+      "key_takeaway": {
+        "en": "The base mirror uses a 45-degree angle.",
+        "hi": "बेस मिरर 45-डिग्री कोण का उपयोग करता है।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Where are the Fresnel lenses located on an Overhead Projector to focus the image?",
+        "hi": "छवि को केंद्रित करने के लिए ओवरहेड प्रोजेक्टर पर फ्रेस्नेल लेंस कहाँ स्थित होते हैं?"
+      },
+      "options": {
+        "a": {
+          "en": "Under the Projection Stage",
+          "hi": "प्रोजेक्शन स्टेज के नीचे"
+        },
+        "b": {
+          "en": "Inside the Cooling Blower",
+          "hi": "कूलिंग ब्लोअर के अंदर"
+        },
+        "c": {
+          "en": "Behind the Lamp base",
+          "hi": "लैंप बेस के पीछे"
+        },
+        "d": {
+          "en": "On the Reflector surface",
+          "hi": "रिफ्लेक्टर सतह पर"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It is located where the transparent sheets are placed.",
+        "hi": "यह वहां स्थित है जहां पारदर्शी शीट रखी जाती हैं।"
+      },
+      "explanation": {
+        "en": "The projection stage is a glass surface where transparencies are placed, and it is also where the Fresnel lenses reside to magnify the image upward.",
+        "hi": "प्रोजेक्शन स्टेज एक कांच की सतह है जहाँ ट्रांसपेरेंसी रखी जाती है, और यहीं पर छवि को ऊपर की ओर बड़ा करने के लिए फ्रेस्नेल लेंस रहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Fresnel lenses are located at the projection stage.",
+        "hi": "फ्रेस्नेल लेंस प्रोजेक्शन स्टेज पर स्थित होते हैं।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What two critical components are housed in the 'Upper Section' of the OHP above the stage?",
+        "hi": "स्टेज के ऊपर OHP के 'ऊपरी भाग' में कौन से दो महत्वपूर्ण घटक रखे गए हैं?"
+      },
+      "options": {
+        "a": {
+          "en": "Projector Stage and Condenser",
+          "hi": "प्रोजेक्टर स्टेज और कंडेनसर"
+        },
+        "b": {
+          "en": "Objective lens and another mirror",
+          "hi": "ऑब्जेक्टिव लेंस और एक अन्य दर्पण"
+        },
+        "c": {
+          "en": "Lamp and Reflector",
+          "hi": "लैंप और रिफ्लेक्टर"
+        },
+        "d": {
+          "en": "Cooling Blower and Fan",
+          "hi": "कूलिंग ब्लोअर और फैन"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These parts catch the upward light and redirect it to the wall.",
+        "hi": "ये भाग ऊपर की ओर आने वाले प्रकाश को पकड़ते हैं और उसे दीवार की ओर पुनर्निर्देशित करते हैं।"
+      },
+      "explanation": {
+        "en": "The upper section consists of a focusing knob, an objective lens, and a top mirror to finally guide the projected image onto the wall or screen.",
+        "hi": "ऊपरी भाग में एक फोकसिंग नॉब, एक ऑब्जेक्टिव लेंस और अनुमानित छवि को दीवार या स्क्रीन पर मार्गदर्शन करने के लिए एक शीर्ष दर्पण होता है।"
+      },
+      "key_takeaway": {
+        "en": "The upper section contains an objective lens and mirror.",
+        "hi": "ऊपरी भाग में एक ऑब्जेक्टिव लेंस और दर्पण होता है।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "How should a presenter handle a transparency sheet on the OHP immediately after finishing with it?",
+        "hi": "एक प्रस्तुतकर्ता को OHP पर ट्रांसपेरेंसी शीट का काम खत्म करने के तुरंत बाद उसे कैसे संभालना चाहिए?"
+      },
+      "options": {
+        "a": {
+          "en": "Turn up the cooling fan speed",
+          "hi": "कूलिंग फैन की गति बढ़ाएं"
+        },
+        "b": {
+          "en": "Spray it with chemical cleaner",
+          "hi": "इस पर रासायनिक क्लीनर का छिड़काव करें"
+        },
+        "c": {
+          "en": "Cover it with an opaque piece of cardboard",
+          "hi": "इसे गत्ते के एक अपारदर्शी टुकड़े से ढक दें"
+        },
+        "d": {
+          "en": "Leave it on permanently",
+          "hi": "इसे स्थायी रूप से चालू छोड़ दें"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "You need to block the light temporarily without shutting down the bulb entirely.",
+        "hi": "आपको बल्ब को पूरी तरह से बंद किए बिना प्रकाश को अस्थायी रूप से रोकने की आवश्यकता है।"
+      },
+      "explanation": {
+        "en": "It is best to cover the transparency with an opaque piece of cardboard. Turning the projector off and on repeatedly can cause the bulb to burn out sooner.",
+        "hi": "गत्ते के अपारदर्शी टुकड़े से ट्रांसपेरेंसी को ढंकना सबसे अच्छा है। प्रोजेक्टर को बार-बार बंद करने और चालू करने से बल्ब जल्दी खराब हो सकता है।"
+      },
+      "key_takeaway": {
+        "en": "Use cardboard to cover transparencies instead of turning off the OHP.",
+        "hi": "OHP को बंद करने के बजाय ट्रांसपेरेंसी को कवर करने के लिए कार्डबोर्ड का उपयोग करें।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "When changing a spare bulb on an OHP, why must a presenter always wear a protective glove?",
+        "hi": "OHP पर स्पेयर बल्ब बदलते समय, प्रस्तुतकर्ता को हमेशा सुरक्षात्मक दस्ताने क्यों पहनने चाहिए?"
+      },
+      "options": {
+        "a": {
+          "en": "Cold glass glows green in light",
+          "hi": "ठंडा कांच प्रकाश में हरा चमकता है"
+        },
+        "b": {
+          "en": "Bulbs are permanently fixed to the base",
+          "hi": "बल्ब स्थायी रूप से बेस पर तय होते हैं"
+        },
+        "c": {
+          "en": "Hot glass changes color significantly",
+          "hi": "गर्म कांच का रंग काफी बदल जाता है"
+        },
+        "d": {
+          "en": "Hot glass looks exactly the same as cold glass",
+          "hi": "गर्म कांच बिल्कुल ठंडे कांच जैसा दिखता है"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "There is no visual warning that the material will burn your hand.",
+        "hi": "कोई दृश्य चेतावनी नहीं है कि सामग्री आपके हाथ को जला देगी।"
+      },
+      "explanation": {
+        "en": "A glove is required because the old bulb will be intensely hot, and visually, hot glass looks identical to cold glass, posing a severe burn hazard.",
+        "hi": "दस्ताने की आवश्यकता होती है क्योंकि पुराना बल्ब अत्यधिक गर्म होगा, और दृष्टिगत रूप से, गर्म कांच ठंडे कांच के समान दिखता है, जो जलने का एक गंभीर खतरा पैदा करता है।"
+      },
+      "key_takeaway": {
+        "en": "Hot glass looks like cold glass; always use a glove.",
+        "hi": "गर्म कांच ठंडे कांच जैसा दिखता है; हमेशा दस्ताने का प्रयोग करें।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "If a presenter is naturally right-handed, where is the optimal placement for the Overhead Projector?",
+        "hi": "यदि एक प्रस्तुतकर्ता स्वाभाविक रूप से दाएं हाथ का है, तो ओवरहेड प्रोजेक्टर के लिए इष्टतम स्थान कहाँ है?"
+      },
+      "options": {
+        "a": {
+          "en": "To their right side",
+          "hi": "उनके दाईं ओर"
+        },
+        "b": {
+          "en": "To their left side",
+          "hi": "उनके बाईं ओर"
+        },
+        "c": {
+          "en": "Directly behind them",
+          "hi": "सीधे उनके पीछे"
+        },
+        "d": {
+          "en": "Under the table",
+          "hi": "टेबल के नीचे"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It should be on the same side as their dominant writing hand.",
+        "hi": "यह उनके प्रमुख लेखन हाथ के समान तरफ होना चाहिए।"
+      },
+      "explanation": {
+        "en": "You should place the overhead to your right if you are right-handed. This makes it easier to face the audience and write simultaneously.",
+        "hi": "यदि आप दाएं हाथ के हैं तो आपको ओवरहेड को अपने दाईं ओर रखना चाहिए। इससे दर्शकों का सामना करना और एक साथ लिखना आसान हो जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Place the OHP on the side of your dominant hand.",
+        "hi": "OHP को अपने प्रमुख हाथ की ओर रखें।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "To avoid a humorous but dangerous tripping hazard during a presentation, what must be done with the OHP cord?",
+        "hi": "प्रस्तुति के दौरान एक हास्यास्पद लेकिन खतरनाक ट्रिपिंग (उलझने) के खतरे से बचने के लिए, OHP कॉर्ड के साथ क्या किया जाना चाहिए?"
+      },
+      "options": {
+        "a": {
+          "en": "Hold it securely in your hand",
+          "hi": "इसे अपने हाथ में सुरक्षित रूप से पकड़ें"
+        },
+        "b": {
+          "en": "Tape the power cord securely to the floor",
+          "hi": "पावर कॉर्ड को फर्श पर सुरक्षित रूप से टेप करें"
+        },
+        "c": {
+          "en": "Hang it from the ceiling tiles",
+          "hi": "इसे छत की टाइलों से लटका दें"
+        },
+        "d": {
+          "en": "Cut it short to reduce length",
+          "hi": "लंबाई कम करने के लिए इसे छोटा काट लें"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Secure it flat so feet can pass over it easily.",
+        "hi": "इसे सपाट सुरक्षित करें ताकि पैर इसके ऊपर से आसानी से गुजर सकें।"
+      },
+      "explanation": {
+        "en": "Taping the power cord to the floor protects the presenter and audience from tripping, preventing injury and damage to the projector.",
+        "hi": "पावर कॉर्ड को फर्श पर टेप करने से प्रस्तुतकर्ता और दर्शक उलझने से बचते हैं, जिससे प्रोजेक्टर को चोट और क्षति से बचाया जा सकता है।"
+      },
+      "key_takeaway": {
+        "en": "Always tape power cords to the floor for safety.",
+        "hi": "सुरक्षा के लिए हमेशा पावर कॉर्ड को फर्श पर टेप करें।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Who is credited as the genius mind that came up with the idea of the Light Emitting Diode?",
+        "hi": "लाइट एमिटिंग डायोड के विचार को सामने लाने वाले प्रतिभाशाली दिमाग के रूप में किसे श्रेय दिया जाता है?"
+      },
+      "options": {
+        "a": {
+          "en": "Thomas Edison",
+          "hi": "थॉमस एडिसन"
+        },
+        "b": {
+          "en": "Tim Berners-Lee",
+          "hi": "टिम बर्नर्स-ली"
+        },
+        "c": {
+          "en": "Nick Holonyak",
+          "hi": "निक होलोन्यक"
+        },
+        "d": {
+          "en": "Charles Babbage",
+          "hi": "चार्ल्स बैबेज"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "He worked for General Electric when he invented it.",
+        "hi": "जब उन्होंने इसका आविष्कार किया तब वह जनरल इलेक्ट्रिक के लिए काम करते थे।"
+      },
+      "explanation": {
+        "en": "Nick Holonyak came up with the idea for the first practical visible-spectrum LED while working at General Electric.",
+        "hi": "निक होलोन्यक ने जनरल इलेक्ट्रिक में काम करते हुए पहले व्यावहारिक दृश्य-स्पेक्ट्रम LED का विचार दिया था।"
+      },
+      "key_takeaway": {
+        "en": "Nick Holonyak invented the LED.",
+        "hi": "निक होलोन्यक ने LED का आविष्कार किया था।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "In what specific historical year was the Light Emitting Diode (LED) invented?",
+        "hi": "किस विशिष्ट ऐतिहासिक वर्ष में लाइट एमिटिंग डायोड (LED) का आविष्कार किया गया था?"
+      },
+      "options": {
+        "a": {
+          "en": "1995",
+          "hi": "1995"
+        },
+        "b": {
+          "en": "1980",
+          "hi": "1980"
+        },
+        "c": {
+          "en": "1950",
+          "hi": "1950"
+        },
+        "d": {
+          "en": "1962",
+          "hi": "1962"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "It was during the early 1960s.",
+        "hi": "यह 1960 के दशक की शुरुआत में था।"
+      },
+      "explanation": {
+        "en": "The LED was invented in the year 1962 by Nick Holonyak.",
+        "hi": "LED का आविष्कार वर्ष 1962 में निक होलोन्यक द्वारा किया गया था।"
+      },
+      "key_takeaway": {
+        "en": "LED technology was introduced in 1962.",
+        "hi": "LED तकनीक 1962 में पेश की गई थी।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Which major corporation was the inventor of the LED working for at the time of its creation?",
+        "hi": "LED के निर्माता इसके निर्माण के समय किस प्रमुख निगम के लिए काम कर रहे थे?"
+      },
+      "options": {
+        "a": {
+          "en": "General Electric Company",
+          "hi": "जनरल इलेक्ट्रिक कंपनी"
+        },
+        "b": {
+          "en": "Microsoft Corporation",
+          "hi": "माइक्रोसॉफ्ट कॉर्पोरेशन"
+        },
+        "c": {
+          "en": "Apple Inc.",
+          "hi": "एप्पल इंक."
+        },
+        "d": {
+          "en": "IBM",
+          "hi": "आईबीएम"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It is a famous American multinational known by its initials GE.",
+        "hi": "यह एक प्रसिद्ध अमेरिकी बहुराष्ट्रीय कंपनी है जिसे इसके शुरुआती अक्षर GE के नाम से जाना जाता है।"
+      },
+      "explanation": {
+        "en": "Nick Holonyak was working for the General Electric Company when he developed the LED in 1962.",
+        "hi": "1962 में LED विकसित करते समय निक होलोन्यक जनरल इलेक्ट्रिक कंपनी के लिए काम कर रहे थे।"
+      },
+      "key_takeaway": {
+        "en": "The LED was developed at General Electric.",
+        "hi": "LED को जनरल इलेक्ट्रिक में विकसित किया गया था।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Physically, how small is the core area occupied by a standard LED diode?",
+        "hi": "भौतिक रूप से, एक मानक LED डायोड द्वारा घेरा गया मुख्य क्षेत्र कितना छोटा होता है?"
+      },
+      "options": {
+        "a": {
+          "en": "Less than 10 square centimeters",
+          "hi": "10 वर्ग सेंटीमीटर से कम"
+        },
+        "b": {
+          "en": "Less than 1 square millimeter",
+          "hi": "1 वर्ग मिलीमीटर से कम"
+        },
+        "c": {
+          "en": "Around 5 square inches",
+          "hi": "लगभग 5 वर्ग इंच"
+        },
+        "d": {
+          "en": "Exactly 100 square millimeters",
+          "hi": "बिल्कुल 100 वर्ग मिलीमीटर"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is incredibly tiny, measured in single digits of millimeters.",
+        "hi": "यह अविश्वसनीय रूप से छोटा है, मिलीमीटर के एकल अंकों में मापा जाता है।"
+      },
+      "explanation": {
+        "en": "One of the major advantages of an LED is its tiny size; it occupies an area of less than 1 square millimeter.",
+        "hi": "LED का एक बड़ा लाभ इसका छोटा आकार है; यह 1 वर्ग मिलीमीटर से भी कम क्षेत्र घेरता है।"
+      },
+      "key_takeaway": {
+        "en": "LEDs are extremely compact, under 1 mm².",
+        "hi": "LED बेहद कॉम्पैक्ट होते हैं, 1 मिमी² से कम।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "Technically, what type of semiconductor structure forms a Light Emitting Diode?",
+        "hi": "तकनीकी रूप से, किस प्रकार की सेमीकंडक्टर संरचना लाइट एमिटिंग डायोड बनाती है?"
+      },
+      "options": {
+        "a": {
+          "en": "A vibrating magnetic coil",
+          "hi": "एक कंपनशील चुंबकीय कुंडल"
+        },
+        "b": {
+          "en": "A polarized liquid crystal",
+          "hi": "एक ध्रुवीकृत लिक्विड क्रिस्टल"
+        },
+        "c": {
+          "en": "A specially doped p-n junction",
+          "hi": "एक विशेष रूप से डोप किया गया पी-एन जंक्शन"
+        },
+        "d": {
+          "en": "A heated tungsten filament",
+          "hi": "एक गर्म टंगस्टन फिलामेंट"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It relies on positive and negative semiconductor layers meeting.",
+        "hi": "यह सकारात्मक और नकारात्मक सेमीकंडक्टर परतों के मिलने पर निर्भर करता है।"
+      },
+      "explanation": {
+        "en": "The light emitting diode is a specially doped p-n junction diode made of semiconductor materials.",
+        "hi": "लाइट एमिटिंग डायोड एक विशेष रूप से डोप किया गया पी-एन जंक्शन डायोड है जो सेमीकंडक्टर सामग्री से बना है।"
+      },
+      "key_takeaway": {
+        "en": "LEDs are p-n junction diodes.",
+        "hi": "LED पी-एन जंक्शन डायोड हैं।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "How is the brightness or intensity of an LED easily varied or controlled?",
+        "hi": "LED की चमक या तीव्रता को आसानी से कैसे बदला या नियंत्रित किया जाता है?"
+      },
+      "options": {
+        "a": {
+          "en": "By blowing an external fan over it",
+          "hi": "इसके ऊपर एक बाहरी पंखा चलाकर"
+        },
+        "b": {
+          "en": "By pumping more gas inside",
+          "hi": "अंदर अधिक गैस पंप करके"
+        },
+        "c": {
+          "en": "By changing the thickness of the glass",
+          "hi": "कांच की मोटाई बदलकर"
+        },
+        "d": {
+          "en": "By using a microcontroller",
+          "hi": "माइक्रोकंट्रोलर का उपयोग करके"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "It requires a small electronic logic chip to adjust the current.",
+        "hi": "करंट को समायोजित करने के लिए एक छोटे इलेक्ट्रॉनिक लॉजिक चिप की आवश्यकता होती है।"
+      },
+      "explanation": {
+        "en": "One of the advantages of LEDs is that their light intensity can easily differ and be controlled with the help of a microcontroller.",
+        "hi": "एलईडी का एक फायदा यह है कि माइक्रोकंट्रोलर की मदद से उनकी प्रकाश की तीव्रता आसानी से भिन्न और नियंत्रित की जा सकती है।"
+      },
+      "key_takeaway": {
+        "en": "Microcontrollers easily adjust LED intensity.",
+        "hi": "माइक्रोकंट्रोलर आसानी से LED की तीव्रता को समायोजित करते हैं।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What older, bulkier display technology was directly replaced by flat, thin LCD screens?",
+        "hi": "फ्लैट, पतले LCD स्क्रीन ने किस पुरानी, भारी डिस्प्ले तकनीक को सीधे बदल दिया?"
+      },
+      "options": {
+        "a": {
+          "en": "CRT (Cathode Ray Tube)",
+          "hi": "सीआरटी (कैथोड रे ट्यूब)"
+        },
+        "b": {
+          "en": "Plasma",
+          "hi": "प्लाज्मा"
+        },
+        "c": {
+          "en": "LED Panels",
+          "hi": "एलईडी पैनल"
+        },
+        "d": {
+          "en": "Overhead Projectors",
+          "hi": "ओवरहेड प्रोजेक्टर"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "This older technology used large, heavy glass vacuum tubes.",
+        "hi": "यह पुरानी तकनीक बड़ी, भारी ग्लास वैक्यूम ट्यूब का उपयोग करती थी।"
+      },
+      "explanation": {
+        "en": "LCDs are flat, thin display devices that successfully replaced the much older and bulkier CRT (Cathode Ray Tube) displays.",
+        "hi": "एलसीडी फ्लैट, पतले डिस्प्ले डिवाइस हैं जिन्होंने बहुत पुराने और भारी सीआरटी (कैथोड रे ट्यूब) डिस्प्ले को सफलतापूर्वक बदल दिया।"
+      },
+      "key_takeaway": {
+        "en": "LCD screens replaced legacy CRT monitors.",
+        "hi": "LCD स्क्रीन ने लेगेसी CRT मॉनिटर की जगह ले ली।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Most modern LCD computer monitors rely on which common cable connections?",
+        "hi": "अधिकांश आधुनिक LCD कंप्यूटर मॉनिटर किन सामान्य केबल कनेक्शनों पर निर्भर करते हैं?"
+      },
+      "options": {
+        "a": {
+          "en": "USB and Ethernet",
+          "hi": "USB और ईथरनेट"
+        },
+        "b": {
+          "en": "HDMI and DVI",
+          "hi": "HDMI और DVI"
+        },
+        "c": {
+          "en": "Serial and Parallel",
+          "hi": "सीरियल और पैरेलल"
+        },
+        "d": {
+          "en": "Optical and Coaxial",
+          "hi": "ऑप्टिकल और कोएक्सियल"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These are standard high-definition video connections.",
+        "hi": "ये मानक हाई-डेफिनिशन वीडियो कनेक्शन हैं।"
+      },
+      "explanation": {
+        "en": "Most modern LCD computer monitors have a digital connection for HDMI and DVI cables. VGA is still supported by some, but it is less common.",
+        "hi": "अधिकांश आधुनिक LCD कंप्यूटर मॉनिटर में HDMI और DVI केबल के लिए डिजिटल कनेक्शन होता है। VGA अभी भी कुछ द्वारा समर्थित है, लेकिन यह कम आम है।"
+      },
+      "key_takeaway": {
+        "en": "LCDs primarily use HDMI and DVI for video input.",
+        "hi": "LCD मुख्य रूप से वीडियो इनपुट के लिए HDMI और DVI का उपयोग करते हैं।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Beyond standard computer monitors, what is a specialized scientific application for Liquid Crystals?",
+        "hi": "मानक कंप्यूटर मॉनिटर के अलावा, लिक्विड क्रिस्टल के लिए एक विशेष वैज्ञानिक अनुप्रयोग क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "Cooking microwaves",
+          "hi": "कुकिंग माइक्रोवेव"
+        },
+        "b": {
+          "en": "Laser cutters",
+          "hi": "लेजर कटर"
+        },
+        "c": {
+          "en": "Liquid crystal thermometers",
+          "hi": "लिक्विड क्रिस्टल थर्मामीटर"
+        },
+        "d": {
+          "en": "Car engine sensors",
+          "hi": "कार इंजन सेंसर"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It uses color-changing properties to measure temperature.",
+        "hi": "यह तापमान मापने के लिए रंग बदलने वाले गुणों का उपयोग करता है।"
+      },
+      "explanation": {
+        "en": "Liquid crystal technology is heavily used in scientific fields, specifically in devices like Liquid crystal thermometers and optical imaging tools.",
+        "hi": "वैज्ञानिक क्षेत्रों में लिक्विड क्रिस्टल तकनीक का भारी उपयोग किया जाता है, विशेष रूप से लिक्विड क्रिस्टल थर्मामीटर और ऑप्टिकल इमेजिंग टूल जैसे उपकरणों में।"
+      },
+      "key_takeaway": {
+        "en": "Liquid crystals are used in specialized thermometers.",
+        "hi": "लिक्विड क्रिस्टल का उपयोग विशेष थर्मामीटर में किया जाता है।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "When comparing the power efficiency of LCDs versus LEDs, which statement is factually accurate?",
+        "hi": "LCD बनाम LED की शक्ति दक्षता की तुलना करते समय, कौन सा कथन तथ्यात्मक रूप से सटीक है?"
+      },
+      "options": {
+        "a": {
+          "en": "LCD requires kilowatts of power",
+          "hi": "LCD को किलोवाट बिजली की आवश्यकता होती है"
+        },
+        "b": {
+          "en": "LCD uses megawatts of energy",
+          "hi": "LCD मेगावाट ऊर्जा का उपयोग करता है"
+        },
+        "c": {
+          "en": "LED uses microwatts compared to LCDs",
+          "hi": "LCD की तुलना में LED माइक्रोवाट का उपयोग करता है"
+        },
+        "d": {
+          "en": "LCDs use microwatts, while LEDs use milliwatts",
+          "hi": "LCD माइक्रोवाट का उपयोग करते हैं, जबकि LED मिलीवाट का उपयोग करते हैं"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "LCDs use an even smaller fraction of power than LEDs for the base display technology.",
+        "hi": "LCD बेस डिस्प्ले तकनीक के लिए LED की तुलना में बिजली के और भी छोटे अंश का उपयोग करते हैं।"
+      },
+      "explanation": {
+        "en": "LCDs are highly power-efficient; they consist of some microwatts for display operation in comparison to some milliwatts for LEDs.",
+        "hi": "LCD अत्यधिक शक्ति-कुशल हैं; इनमें डिस्प्ले ऑपरेशन के लिए कुछ माइक्रोवाट होते हैं जबकि एलईडी के लिए कुछ मिलीवाट होते हैं।"
+      },
+      "key_takeaway": {
+        "en": "LCDs consume power in the microwatt range.",
+        "hi": "LCD माइक्रोवाट रेंज में बिजली की खपत करते हैं।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "What is considered the primary physical disadvantage of using LCD technology for screens?",
+        "hi": "स्क्रीन के लिए LCD तकनीक का उपयोग करने का प्राथमिक भौतिक नुकसान क्या माना जाता है?"
+      },
+      "options": {
+        "a": {
+          "en": "They require additional external light sources",
+          "hi": "उन्हें अतिरिक्त बाहरी प्रकाश स्रोतों की आवश्यकता होती है"
+        },
+        "b": {
+          "en": "They are extremely heavy and thick",
+          "hi": "वे बेहद भारी और मोटे होते हैं"
+        },
+        "c": {
+          "en": "They have extremely high power consumption",
+          "hi": "उनमें अत्यधिक उच्च बिजली की खपत होती है"
+        },
+        "d": {
+          "en": "They can only display black and white images",
+          "hi": "वे केवल श्वेत और श्याम चित्र ही प्रदर्शित कर सकते हैं"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "The crystals themselves do not glow in the dark.",
+        "hi": "क्रिस्टल स्वयं अंधेरे में नहीं चमकते हैं।"
+      },
+      "explanation": {
+        "en": "Because liquid crystals do not emit their own light, LCDs inherently require an additional external light source (a backlight) to make images visible.",
+        "hi": "चूंकि लिक्विड क्रिस्टल अपना प्रकाश उत्सर्जित नहीं करते हैं, इसलिए छवियों को दृश्यमान बनाने के लिए LCD को स्वाभाविक रूप से अतिरिक्त बाहरी प्रकाश स्रोत (बैकलाइट) की आवश्यकता होती है।"
+      },
+      "key_takeaway": {
+        "en": "LCDs depend entirely on external backlights.",
+        "hi": "LCD पूरी तरह से बाहरी बैकलाइट्स पर निर्भर करते हैं।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "In a Plasma display panel, what exactly illuminates each individual pixel on the screen?",
+        "hi": "प्लाज्मा डिस्प्ले पैनल में, स्क्रीन पर प्रत्येक व्यक्तिगत पिक्सेल को वास्तव में क्या रोशन करता है?"
+      },
+      "options": {
+        "a": {
+          "en": "Liquid ink droplets",
+          "hi": "तरल स्याही की बूंदें"
+        },
+        "b": {
+          "en": "A tiny bit of charged gas (plasma)",
+          "hi": "आवेशित गैस (प्लाज्मा) का एक छोटा अंश"
+        },
+        "c": {
+          "en": "Magnetic tape resonance",
+          "hi": "चुंबकीय टेप अनुनाद"
+        },
+        "d": {
+          "en": "Concentrated laser beams",
+          "hi": "संकेन्द्रित लेजर बीम"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It acts like a miniature neon light bulb for every dot.",
+        "hi": "यह हर एक बिंदु के लिए एक छोटे नियॉन लाइट बल्ब की तरह काम करता है।"
+      },
+      "explanation": {
+        "en": "A plasma display works by trapping electrically charged ionized gas (plasma). When electricity is applied, it acts somewhat like a tiny neon light to illuminate the pixels.",
+        "hi": "प्लाज्मा डिस्प्ले विद्युत आवेशित आयनित गैस (प्लाज्मा) को फंसाकर काम करता है। जब बिजली लागू की जाती है, तो यह पिक्सल को रोशन करने के लिए एक छोटे नियॉन प्रकाश की तरह काम करता है।"
+      },
+      "key_takeaway": {
+        "en": "Charged gas illuminates plasma screen pixels.",
+        "hi": "आवेशित गैस प्लाज्मा स्क्रीन पिक्सल को रोशन करती है।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "When comparing Plasma displays directly against LCD displays, what is one established visual advantage of Plasma?",
+        "hi": "सीधे LCD डिस्प्ले के मुकाबले प्लाज्मा डिस्प्ले की तुलना करते समय, प्लाज्मा का एक स्थापित दृश्य लाभ क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "They are much smaller in size",
+          "hi": "वे आकार में बहुत छोटे होते हैं"
+        },
+        "b": {
+          "en": "They use significantly less power",
+          "hi": "वे काफी कम शक्ति का उपयोग करते हैं"
+        },
+        "c": {
+          "en": "Plasma displays are inherently brighter than LCDs",
+          "hi": "प्लाज्मा डिस्प्ले स्वाभाविक रूप से LCD की तुलना में अधिक चमकीले होते हैं"
+        },
+        "d": {
+          "en": "They are cheaper to manufacture",
+          "hi": "इनका निर्माण सस्ता है"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Because each pixel emits its own light, the overall screen possesses higher luminosity.",
+        "hi": "चूंकि प्रत्येक पिक्सेल अपना स्वयं का प्रकाश उत्सर्जित करता है, इसलिए समग्र स्क्रीन में उच्च चमक (luminosity) होती है।"
+      },
+      "explanation": {
+        "en": "According to display characteristics, Plasma displays are thinner than older CRTs and generally brighter than standard Liquid Crystal Displays (LCDs).",
+        "hi": "डिस्प्ले विशेषताओं के अनुसार, प्लाज्मा डिस्प्ले पुराने CRT की तुलना में पतले होते हैं और आमतौर पर मानक लिक्विड क्रिस्टल डिस्प्ले (LCD) की तुलना में अधिक चमकीले होते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Plasma screens are brighter than standard LCDs.",
+        "hi": "प्लाज्मा स्क्रीन मानक LCD की तुलना में अधिक चमकीली होती हैं।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "To provide highly realistic image depth, exactly how many distinct colors can a typical Plasma display reproduce?",
+        "hi": "अत्यधिक यथार्थवादी छवि गहराई प्रदान करने के लिए, एक विशिष्ट प्लाज्मा डिस्प्ले ठीक कितने अलग-अलग रंगों को पुन: उत्पन्न कर सकता है?"
+      },
+      "options": {
+        "a": {
+          "en": "256 colors",
+          "hi": "256 रंग"
+        },
+        "b": {
+          "en": "65,000 colors",
+          "hi": "65,000 रंग"
+        },
+        "c": {
+          "en": "1 million colors",
+          "hi": "1 मिलियन रंग"
+        },
+        "d": {
+          "en": "16.77 million colors",
+          "hi": "16.77 मिलियन रंग"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "It matches the 'True Color' standard found in advanced computer graphics.",
+        "hi": "यह उन्नत कंप्यूटर ग्राफिक्स में पाए जाने वाले 'ट्रू कलर' मानक से मेल खाता है।"
+      },
+      "explanation": {
+        "en": "A standout advantage of Plasma displays is their vast color gamut, capable of displaying exactly 16.77 million colors.",
+        "hi": "प्लाज्मा डिस्प्ले का एक उत्कृष्ट लाभ उनका विशाल रंग सरगम ​​है, जो ठीक 16.77 मिलियन रंगों को प्रदर्शित करने में सक्षम है।"
+      },
+      "key_takeaway": {
+        "en": "Plasma screens display 16.77 million colors.",
+        "hi": "प्लाज्मा स्क्रीन 16.77 मिलियन रंग प्रदर्शित करती हैं।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "What is the standard widescreen aspect ratio offered by modern Plasma displays?",
+        "hi": "आधुनिक प्लाज्मा डिस्प्ले द्वारा प्रदान किया जाने वाला मानक वाइडस्क्रीन पहलू अनुपात (aspect ratio) क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "16:9 ratio",
+          "hi": "16:9 अनुपात"
+        },
+        "b": {
+          "en": "4:3 ratio",
+          "hi": "4:3 अनुपात"
+        },
+        "c": {
+          "en": "1:1 ratio",
+          "hi": "1:1 अनुपात"
+        },
+        "d": {
+          "en": "21:9 ratio",
+          "hi": "21:9 अनुपात"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "This is the identical shape of an HDTV signal.",
+        "hi": "यह HDTV सिग्नल का समान आकार है।"
+      },
+      "explanation": {
+        "en": "Plasma displays are built for high definition and naturally offer a widescreen 16:9 aspect ratio.",
+        "hi": "प्लाज्मा डिस्प्ले हाई डेफिनिशन के लिए बनाए गए हैं और स्वाभाविक रूप से वाइडस्क्रीन 16:9 पहलू अनुपात प्रदान करते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Plasma screens utilize a 16:9 widescreen ratio.",
+        "hi": "प्लाज्मा स्क्रीन 16:9 वाइडस्क्रीन अनुपात का उपयोग करती हैं।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Due to the gas trapped inside its panels, what unique environmental disadvantage do Plasma screens face?",
+        "hi": "इसके पैनलों के अंदर फंसी गैस के कारण, प्लाज्मा स्क्रीन को किस अद्वितीय पर्यावरणीय नुकसान का सामना करना पड़ता है?"
+      },
+      "options": {
+        "a": {
+          "en": "Smearing ink in high humidity",
+          "hi": "उच्च आर्द्रता में स्याही का फैलना"
+        },
+        "b": {
+          "en": "Altitude considerations",
+          "hi": "ऊंचाई संबंधी विचार"
+        },
+        "c": {
+          "en": "Susceptibility to software viruses",
+          "hi": "सॉफ्टवेयर वायरस के प्रति संवेदनशीलता"
+        },
+        "d": {
+          "en": "Ribbon jams in cold weather",
+          "hi": "ठंड के मौसम में रिबन जाम"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Air pressure differences can affect the trapped gas.",
+        "hi": "हवा के दबाव का अंतर फंसी हुई गैस को प्रभावित कर सकता है।"
+      },
+      "explanation": {
+        "en": "Because plasma screens rely on pressurized gas between glass panels, operating them at very high altitudes can cause buzzing noises or failure due to pressure differences.",
+        "hi": "चूंकि प्लाज्मा स्क्रीन ग्लास पैनलों के बीच दबाव वाली गैस पर निर्भर करती हैं, इसलिए उन्हें बहुत अधिक ऊंचाई पर संचालित करने से दबाव के अंतर के कारण गूंजने की आवाज या विफलता हो सकती है।"
+      },
+      "key_takeaway": {
+        "en": "Altitude affects the performance of Plasma screens.",
+        "hi": "ऊंचाई प्लाज्मा स्क्रीन के प्रदर्शन को प्रभावित करती है।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "If a static image is left too long on a Plasma display, what permanent damage can occur?",
+        "hi": "यदि एक स्थिर छवि को प्लाज्मा डिस्प्ले पर बहुत लंबे समय तक छोड़ दिया जाता है, तो कौन सी स्थायी क्षति हो सकती है?"
+      },
+      "options": {
+        "a": {
+          "en": "Permanent water damage",
+          "hi": "स्थायी जल क्षति"
+        },
+        "b": {
+          "en": "Internal ribbon tearing",
+          "hi": "आंतरिक रिबन फटना"
+        },
+        "c": {
+          "en": "Potential to Burn-In",
+          "hi": "बर्न-इन की संभावना"
+        },
+        "d": {
+          "en": "Complete paper jams",
+          "hi": "पूर्ण पेपर जाम"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "A ghost outline of the image stays on the screen forever.",
+        "hi": "छवि की एक भूतिया रूपरेखा हमेशा के लिए स्क्रीन पर बनी रहती है।"
+      },
+      "explanation": {
+        "en": "Plasma technology is highly susceptible to 'Burn-In', where static images permanently wear out specific phosphors, leaving a faint permanent ghost image on the screen.",
+        "hi": "प्लाज्मा तकनीक 'बर्न-इन' के प्रति अत्यधिक संवेदनशील है, जहां स्थिर छवियां विशिष्ट फॉस्फोरस को स्थायी रूप से नष्ट कर देती हैं, जिससे स्क्रीन पर एक फीकी स्थायी भूतिया छवि रह जाती है।"
+      },
+      "key_takeaway": {
+        "en": "Plasma screens suffer from permanent static burn-in.",
+        "hi": "प्लाज्मा स्क्रीन स्थायी स्थिर बर्न-इन से ग्रस्त हैं।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "What is a major maintenance drawback regarding the lifespan of a Plasma display?",
+        "hi": "प्लाज्मा डिस्प्ले के जीवनकाल के संबंध में रखरखाव की एक बड़ी कमी क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "It needs frequent oiling",
+          "hi": "इसे बार-बार तेल लगाने की आवश्यकता होती है"
+        },
+        "b": {
+          "en": "It requires expensive ink refills",
+          "hi": "इसके लिए महंगे स्याही रिफिल की आवश्यकता होती है"
+        },
+        "c": {
+          "en": "The internal cooling fan breaks easily",
+          "hi": "आंतरिक कूलिंग फैन आसानी से टूट जाता है"
+        },
+        "d": {
+          "en": "There is no option to repair a burnt-out tube",
+          "hi": "जले हुए ट्यूब को सुधारने का कोई विकल्प नहीं है"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Once the lighting mechanism dies, the entire TV is unfixable.",
+        "hi": "एक बार प्रकाश तंत्र खराब हो जाने पर, पूरा टीवी ठीक नहीं किया जा सकता।"
+      },
+      "explanation": {
+        "en": "Plasma screens generally have a shorter lifespan compared to newer tech, and if the tube or gas mechanism burns out, there is simply no option to repair it.",
+        "hi": "नई तकनीक की तुलना में प्लाज्मा स्क्रीन का जीवनकाल आम तौर पर कम होता है, और यदि ट्यूब या गैस तंत्र जल जाता है, तो इसे सुधारने का कोई विकल्प नहीं है।"
+      },
+      "key_takeaway": {
+        "en": "Burnt-out plasma panels cannot be repaired.",
+        "hi": "जले हुए प्लाज्मा पैनलों की मरम्मत नहीं की जा सकती।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "How does the physical build quality of a Plasma TV pose a disadvantage during transportation?",
+        "hi": "प्लाज्मा टीवी की भौतिक निर्माण गुणवत्ता परिवहन के दौरान किस प्रकार नुकसान पहुंचाती है?"
+      },
+      "options": {
+        "a": {
+          "en": "They are extremely fragile and easy to damage",
+          "hi": "वे बेहद नाजुक होते हैं और आसानी से क्षतिग्रस्त हो जाते हैं"
+        },
+        "b": {
+          "en": "The exterior metal rusts easily in rain",
+          "hi": "बारिश में बाहरी धातु में आसानी से जंग लग जाता है"
+        },
+        "c": {
+          "en": "The plastic melts at room temperature",
+          "hi": "प्लास्टिक कमरे के तापमान पर पिघल जाता है"
+        },
+        "d": {
+          "en": "The bright lights attract insects",
+          "hi": "तेज रोशनी कीड़ों को आकर्षित करती है"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "They are essentially large panes of delicate glass holding gas.",
+        "hi": "वे अनिवार्य रूप से गैस रखने वाले नाजुक कांच के बड़े फलक हैं।"
+      },
+      "explanation": {
+        "en": "Because they consist of large, pressurized glass panels, Plasma TV technology is very fragile, making the units incredibly easy to damage if moved incorrectly.",
+        "hi": "चूंकि वे बड़े, दबाव वाले ग्लास पैनलों से मिलकर बने होते हैं, इसलिए प्लाज्मा टीवी तकनीक बहुत नाजुक होती है, जिससे इकाइयों को गलत तरीके से ले जाने पर आसानी से नुकसान पहुंच सकता है।"
+      },
+      "key_takeaway": {
+        "en": "Plasma TVs are extremely fragile.",
+        "hi": "प्लाज्मा टीवी बेहद नाजुक होते हैं।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Unlike a standard dot-matrix printer, how does a Graphic Plotter fundamentally draw images?",
+        "hi": "मानक डॉट-मैट्रिक्स प्रिंटर के विपरीत, ग्राफिक प्लॉटर मूल रूप से चित्र कैसे बनाता है?"
+      },
+      "options": {
+        "a": {
+          "en": "By simulating lines with microscopic dots",
+          "hi": "सूक्ष्म बिंदुओं के साथ रेखाओं का अनुकरण करके"
+        },
+        "b": {
+          "en": "By producing continuous lines using a mechanical pen",
+          "hi": "एक यांत्रिक पेन का उपयोग करके निरंतर रेखाएं बनाकर"
+        },
+        "c": {
+          "en": "By spraying liquid ink onto paper",
+          "hi": "कागज पर तरल स्याही छिड़क कर"
+        },
+        "d": {
+          "en": "By burning toner with laser beams",
+          "hi": "लेजर बीम से टोनर को जलाकर"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It physically holds a writing instrument.",
+        "hi": "यह भौतिक रूप से एक लेखन उपकरण रखता है।"
+      },
+      "explanation": {
+        "en": "Plotters differ from standard printers because they physically move a mechanical pen to draw true, continuous lines, whereas printers simulate lines using dots.",
+        "hi": "प्लॉटर मानक प्रिंटरों से भिन्न होते हैं क्योंकि वे सच्ची, निरंतर रेखाएँ खींचने के लिए एक यांत्रिक पेन को भौतिक रूप से घुमाते हैं, जबकि प्रिंटर डॉट्स का उपयोग करके रेखाओं का अनुकरण करते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Plotters draw continuous lines using physical pens.",
+        "hi": "प्लॉटर भौतिक पेन का उपयोग करके निरंतर रेखाएं खींचते हैं।"
+      }
+    },
+    {
+      "question_id": 31,
+      "question": {
+        "en": "What specific type of digital artwork are plotters perfectly suited to output?",
+        "hi": "प्लॉटर किस विशिष्ट प्रकार की डिजिटल कलाकृति को आउटपुट करने के लिए पूरी तरह अनुकूल हैं?"
+      },
+      "options": {
+        "a": {
+          "en": "Standard text files",
+          "hi": "मानक टेक्स्ट फ़ाइलें"
+        },
+        "b": {
+          "en": "3D animated movies",
+          "hi": "3D एनिमेटेड फिल्में"
+        },
+        "c": {
+          "en": "Large vector designs and architectural blueprints",
+          "hi": "बड़े वेक्टर डिज़ाइन और आर्किटेक्चरल ब्लूप्रिंट"
+        },
+        "d": {
+          "en": "Digital audio waves",
+          "hi": "डिजिटल ऑडियो तरंगें"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "These designs rely on precise geometry and straight lines rather than colored pixels.",
+        "hi": "ये डिज़ाइन रंगीन पिक्सेल के बजाय सटीक ज्यामिति और सीधी रेखाओं पर निर्भर करते हैं।"
+      },
+      "explanation": {
+        "en": "Plotters are the ideal output device for CAD (Computer-Aided Design) applications, used primarily to print large vector designs like architectural blueprints.",
+        "hi": "प्लॉटर सीएडी (कंप्यूटर-एडेड डिज़ाइन) अनुप्रयोगों के लिए आदर्श आउटपुट डिवाइस हैं, जिनका उपयोग मुख्य रूप से आर्किटेक्चरल ब्लूप्रिंट जैसे बड़े वेक्टर डिज़ाइन को प्रिंट करने के लिए किया जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Plotters are essential for architectural vector blueprints.",
+        "hi": "आर्किटेक्चरल वेक्टर ब्लूप्रिंट के लिए प्लॉटर आवश्यक हैं।"
+      }
+    },
+    {
+      "question_id": 32,
+      "question": {
+        "en": "How does the mechanical drawing process occur in a 'Flatbed' Plotter?",
+        "hi": "'फ्लैटबेड' प्लॉटर में मैकेनिकल ड्राइंग प्रक्रिया कैसे होती है?"
+      },
+      "options": {
+        "a": {
+          "en": "The paper continuously rolls while the pen remains fixed",
+          "hi": "कागज लगातार घूमता है जबकि पेन स्थिर रहता है"
+        },
+        "b": {
+          "en": "A central drum rotates both the pen and the paper",
+          "hi": "एक केंद्रीय ड्रम पेन और कागज दोनों को घुमाता है"
+        },
+        "c": {
+          "en": "A laser burns the image into a stationary sheet",
+          "hi": "एक लेजर एक स्थिर शीट में छवि को जलाता है"
+        },
+        "d": {
+          "en": "The paper is fixed, and the pen moves up, down, left, and right",
+          "hi": "कागज स्थिर रहता है, और पेन ऊपर, नीचे, बाएँ और दाएँ घूमता है"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "The term 'flatbed' implies the canvas does not move.",
+        "hi": "'फ्लैटबेड' शब्द का तात्पर्य है कि कैनवास नहीं हिलता है।"
+      },
+      "explanation": {
+        "en": "In a flatbed plotter, the paper is completely fixed on a flat surface, and the machine moves the pen across both the X and Y axes to draw.",
+        "hi": "फ्लैटबेड प्लॉटर में, कागज एक सपाट सतह पर पूरी तरह से स्थिर होता है, और मशीन चित्र बनाने के लिए X और Y दोनों अक्षों पर पेन को घुमाती है।"
+      },
+      "key_takeaway": {
+        "en": "In flatbed plotters, the paper is stationary.",
+        "hi": "फ्लैटबेड प्लॉटर में कागज स्थिर रहता है।"
+      }
+    },
+    {
+      "question_id": 33,
+      "question": {
+        "en": "How does a 'Drum' Plotter manage to minimize its footprint while printing large drawings?",
+        "hi": "'ड्रम' प्लॉटर बड़े चित्र प्रिंट करते समय अपने पदचिह्न (फुटप्रिंट) को कम करने का प्रबंधन कैसे करता है?"
+      },
+      "options": {
+        "a": {
+          "en": "By moving the pen up/down and rotating the drum left/right",
+          "hi": "पेन को ऊपर/नीचे ले जाकर और ड्रम को बाएं/दाएं घुमाकर"
+        },
+        "b": {
+          "en": "By keeping the paper completely flat on a desk",
+          "hi": "कागज को डेस्क पर पूरी तरह से सपाट रखकर"
+        },
+        "c": {
+          "en": "By scanning the drawing with a stationary laser",
+          "hi": "एक स्थिर लेजर के साथ ड्राइंग को स्कैन करके"
+        },
+        "d": {
+          "en": "By striking a ribbon with small pins",
+          "hi": "छोटे पिन के साथ रिबन पर प्रहार करके"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Both the pen and the canvas move simultaneously.",
+        "hi": "पेन और कैनवास दोनों एक साथ चलते हैं।"
+      },
+      "explanation": {
+        "en": "Drum plotters move the pen up and down, while simultaneously rotating the paper left and right using a drum, allowing the machine to take up less physical space than the paper itself.",
+        "hi": "ड्रम प्लॉटर पेन को ऊपर और नीचे ले जाते हैं, जबकि साथ ही ड्रम का उपयोग करके कागज को बाएँ और दाएँ घुमाते हैं, जिससे मशीन स्वयं कागज की तुलना में कम भौतिक स्थान घेरती है।"
+      },
+      "key_takeaway": {
+        "en": "Drum plotters rotate paper while moving the pen vertically.",
+        "hi": "ड्रम प्लॉटर पेन को लंबवत ले जाते हुए कागज को घुमाते हैं।"
+      }
+    },
+    {
+      "question_id": 34,
+      "question": {
+        "en": "What is the typical, high-speed capability of a standard Laser Printer?",
+        "hi": "एक मानक लेजर प्रिंटर की विशिष्ट, उच्च गति क्षमता क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "1000 pages per minute",
+          "hi": "1000 पृष्ठ प्रति मिनट"
+        },
+        "b": {
+          "en": "Around 30 pages in one minute",
+          "hi": "एक मिनट में लगभग 30 पृष्ठ"
+        },
+        "c": {
+          "en": "5 pages per minute",
+          "hi": "5 पृष्ठ प्रति मिनट"
+        },
+        "d": {
+          "en": "1 page every five minutes",
+          "hi": "हर पांच मिनट में 1 पृष्ठ"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is fast enough for busy offices, printing roughly one page every two seconds.",
+        "hi": "यह व्यस्त कार्यालयों के लिए काफी तेज़ है, लगभग हर दो सेकंड में एक पृष्ठ प्रिंट करता है।"
+      },
+      "explanation": {
+        "en": "Laser printers are known for their high printing speed, typically capable of printing around 30 pages in one minute.",
+        "hi": "लेज़र प्रिंटर अपनी उच्च छपाई गति के लिए जाने जाते हैं, जो आमतौर पर एक मिनट में लगभग 30 पृष्ठ प्रिंट करने में सक्षम होते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Laser printers can print up to 30 pages per minute.",
+        "hi": "लेजर प्रिंटर प्रति मिनट 30 पेज तक प्रिंट कर सकते हैं।"
+      }
+    },
+    {
+      "question_id": 35,
+      "question": {
+        "en": "How does a Laser Printer internally form the image before transferring it to the page?",
+        "hi": "पृष्ठ पर स्थानांतरित करने से पहले एक लेजर प्रिंटर आंतरिक रूप से छवि कैसे बनाता है?"
+      },
+      "options": {
+        "a": {
+          "en": "By striking physical pins through a ribbon",
+          "hi": "एक रिबन के माध्यम से भौतिक पिन पर प्रहार करके"
+        },
+        "b": {
+          "en": "By spraying liquid ink nozzles",
+          "hi": "तरल स्याही नोजल का छिड़काव करके"
+        },
+        "c": {
+          "en": "By directing a laser beam at a mirror which bounces onto a drum",
+          "hi": "एक दर्पण पर लेजर बीम को निर्देशित करके जो ड्रम पर उछलती है"
+        },
+        "d": {
+          "en": "By heating specially treated thermal paper",
+          "hi": "विशेष रूप से उपचारित थर्मल पेपर को गर्म करके"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It uses light to draw an electrostatic outline.",
+        "hi": "यह इलेक्ट्रोस्टैटिक रूपरेखा खींचने के लिए प्रकाश का उपयोग करता है।"
+      },
+      "explanation": {
+        "en": "They produce images on paper by directing a highly focused laser beam at a mirror, which then bounces the beam onto a photosensitive drum.",
+        "hi": "वे एक दर्पण पर अत्यधिक केंद्रित लेजर बीम को निर्देशित करके कागज पर चित्र बनाते हैं, जो फिर बीम को प्रकाश-संवेदनशील ड्रम पर उछालता है।"
+      },
+      "key_takeaway": {
+        "en": "Lasers draw images via mirrors onto a drum.",
+        "hi": "लेजर दर्पण के माध्यम से ड्रम पर चित्र बनाते हैं।"
+      }
+    },
+    {
+      "question_id": 36,
+      "question": {
+        "en": "Despite a low cost per page, what is a major financial disadvantage of maintaining a Laser Printer?",
+        "hi": "प्रति पृष्ठ कम लागत के बावजूद, लेजर प्रिंटर को बनाए रखने का एक बड़ा वित्तीय नुकसान क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "It results in a very high electricity bill",
+          "hi": "इसके परिणामस्वरूप बहुत अधिक बिजली का बिल आता है"
+        },
+        "b": {
+          "en": "It requires special thermal paper",
+          "hi": "इसके लिए विशेष थर्मल पेपर की आवश्यकता होती है"
+        },
+        "c": {
+          "en": "The liquid ink evaporates quickly",
+          "hi": "तरल स्याही जल्दी वाष्पित हो जाती है"
+        },
+        "d": {
+          "en": "The cost of toner and drum replacement is very high",
+          "hi": "टोनर और ड्रम को बदलने की लागत बहुत अधिक है"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "The core internal components are very expensive to swap out.",
+        "hi": "कोर आंतरिक घटकों को बदलना बहुत महंगा है।"
+      },
+      "explanation": {
+        "en": "While daily printing is cheap, the hardware maintenance is not. The eventual cost to replace the laser toner cartridge and the imaging drum is very high.",
+        "hi": "जबकि दैनिक छपाई सस्ती है, हार्डवेयर रखरखाव नहीं है। लेजर टोनर कार्ट्रिज और इमेजिंग ड्रम को बदलने की अंतिम लागत बहुत अधिक है।"
+      },
+      "key_takeaway": {
+        "en": "Replacing laser toner and drums is expensive.",
+        "hi": "लेजर टोनर और ड्रम को बदलना महंगा है।"
+      }
+    },
+    {
+      "question_id": 37,
+      "question": {
+        "en": "Which category does an Inkjet Printer strictly fall under based on its printing mechanism?",
+        "hi": "इंकजेट प्रिंटर अपनी छपाई तकनीक के आधार पर सख्ती से किस श्रेणी में आता है?"
+      },
+      "options": {
+        "a": {
+          "en": "Non-Impact character printer",
+          "hi": "नॉन-इम्पैक्ट कैरेक्टर प्रिंटर"
+        },
+        "b": {
+          "en": "Impact line printer",
+          "hi": "इम्पैक्ट लाइन प्रिंटर"
+        },
+        "c": {
+          "en": "Vector graphic plotter",
+          "hi": "वेक्टर ग्राफिक प्लॉटर"
+        },
+        "d": {
+          "en": "Impact character printer",
+          "hi": "इम्पैक्ट कैरेक्टर प्रिंटर"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It sprays ink without touching the paper forcefully.",
+        "hi": "यह कागज को बलपूर्वक छुए बिना स्याही का छिड़काव करता है।"
+      },
+      "explanation": {
+        "en": "Inkjet printers are character printers that lie precisely in the category of non-impact printers, as no physical hammer strikes the page.",
+        "hi": "इंकजेट प्रिंटर कैरेक्टर प्रिंटर हैं जो ठीक नॉन-इम्पैक्ट प्रिंटर की श्रेणी में आते हैं, क्योंकि कोई भी भौतिक हथौड़ा पृष्ठ पर वार नहीं करता है।"
+      },
+      "key_takeaway": {
+        "en": "Inkjets are non-impact character printers.",
+        "hi": "इंकजेट नॉन-इम्पैक्ट कैरेक्टर प्रिंटर हैं।"
+      }
+    },
+    {
+      "question_id": 38,
+      "question": {
+        "en": "Inside an Inkjet Printer, what exactly guides the tiny sprayed ink droplets to form the desired pattern on the paper?",
+        "hi": "इंकजेट प्रिंटर के अंदर, कागज पर वांछित पैटर्न बनाने के लिए छोटे छिड़काव वाली स्याही की बूंदों का मार्गदर्शन वास्तव में कौन करता है?"
+      },
+      "options": {
+        "a": {
+          "en": "A striking ribbon",
+          "hi": "एक स्ट्राइकिंग रिबन"
+        },
+        "b": {
+          "en": "Magnetized plates",
+          "hi": "चुंबकीय प्लेटें"
+        },
+        "c": {
+          "en": "A burning laser",
+          "hi": "एक जलता हुआ लेजर"
+        },
+        "d": {
+          "en": "Thermal heating elements",
+          "hi": "थर्मल हीटिंग तत्व"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The ink drops are ionized, so they react to a specific force field.",
+        "hi": "स्याही की बूंदें आयनित होती हैं, इसलिए वे एक विशिष्ट बल क्षेत्र पर प्रतिक्रिया करती हैं।"
+      },
+      "explanation": {
+        "en": "The printer sprays ionized tiny drops of ink, and magnetized plates inside the machine direct the ink's path onto the paper in the desired pattern.",
+        "hi": "प्रिंटर स्याही की आयनित छोटी बूंदों का छिड़काव करता है, और मशीन के अंदर चुंबकीय प्लेटें स्याही के पथ को वांछित पैटर्न में कागज पर निर्देशित करती हैं।"
+      },
+      "key_takeaway": {
+        "en": "Magnetized plates direct ionized ink in inkjet printers.",
+        "hi": "चुंबकीय प्लेटें इंकजेट प्रिंटर में आयनित स्याही को निर्देशित करती हैं।"
+      }
+    },
+    {
+      "question_id": 39,
+      "question": {
+        "en": "What is the maximum detailed resolution standard commonly achieved by Inkjet Printers?",
+        "hi": "आमतौर पर इंकजेट प्रिंटर द्वारा प्राप्त अधिकतम विस्तृत रिज़ॉल्यूशन मानक क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "10 x 10 dpi",
+          "hi": "10 x 10 डीपीआई"
+        },
+        "b": {
+          "en": "300 x 300 dpi",
+          "hi": "300 x 300 डीपीआई"
+        },
+        "c": {
+          "en": "1440 x 720 dpi",
+          "hi": "1440 x 720 डीपीआई"
+        },
+        "d": {
+          "en": "4K Ultra HD",
+          "hi": "4K अल्ट्रा एचडी"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It measures dots per inch in the high thousands.",
+        "hi": "यह उच्च हजारों में डॉट्स प्रति इंच मापता है।"
+      },
+      "explanation": {
+        "en": "Inkjet dots are positioned very precisely, allowing resolutions of up to 1440 x 720 dots per inch (dpi) for photo-quality images.",
+        "hi": "इंकजेट डॉट्स बहुत सटीकता से स्थित होते हैं, जो फोटो-गुणवत्ता वाली छवियों के लिए 1440 x 720 डॉट्स प्रति इंच (dpi) तक के रिज़ॉल्यूशन की अनुमति देते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Inkjets can achieve up to 1440 x 720 dpi.",
+        "hi": "इंकजेट 1440 x 720 dpi तक प्राप्त कर सकते हैं।"
+      }
+    },
+    {
+      "question_id": 40,
+      "question": {
+        "en": "What is a practical, everyday disadvantage of handling documents printed by an Inkjet Printer?",
+        "hi": "इंकजेट प्रिंटर द्वारा मुद्रित दस्तावेज़ों को संभालने का एक व्यावहारिक, रोज़मर्रा का नुकसान क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "The paper might explode",
+          "hi": "कागज में विस्फोट हो सकता है"
+        },
+        "b": {
+          "en": "The document smells like burnt paper",
+          "hi": "दस्तावेज़ से जले हुए कागज की गंध आती है"
+        },
+        "c": {
+          "en": "The printer constantly jams",
+          "hi": "प्रिंटर लगातार जाम होता है"
+        },
+        "d": {
+          "en": "Highlighter or markers can cause the ink to smear",
+          "hi": "हाइलाइटर या मार्कर स्याही को फैला सकते हैं"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "The liquid-based ink remains somewhat sensitive on the page.",
+        "hi": "तरल-आधारित स्याही पृष्ठ पर कुछ हद तक संवेदनशील रहती है।"
+      },
+      "explanation": {
+        "en": "Because it relies on liquid ink sprayed onto the page, using a wet highlighter or marker over inkjet text will easily cause smearing.",
+        "hi": "चूंकि यह पृष्ठ पर छिड़की गई तरल स्याही पर निर्भर करता है, इंकजेट टेक्स्ट पर गीले हाइलाइटर या मार्कर का उपयोग करने से आसानी से स्याही फैल जाएगी।"
+      },
+      "key_takeaway": {
+        "en": "Inkjet prints smear when marked with highlighters.",
+        "hi": "हाइलाइटर से चिह्नित किए जाने पर इंकजेट प्रिंट फैल जाते हैं।"
+      }
+    },
+    {
+      "question_id": 41,
+      "question": {
+        "en": "What are the two standard matrix grid sizes used for the needles inside a Dot Matrix print head?",
+        "hi": "डॉट मैट्रिक्स प्रिंट हेड के अंदर सुइयों के लिए उपयोग किए जाने वाले दो मानक मैट्रिक्स ग्रिड आकार क्या हैं?"
+      },
+      "options": {
+        "a": {
+          "en": "5x7 or 9x7 matrix",
+          "hi": "5x7 या 9x7 मैट्रिक्स"
+        },
+        "b": {
+          "en": "100x100 matrix",
+          "hi": "100x100 मैट्रिक्स"
+        },
+        "c": {
+          "en": "2x2 matrix",
+          "hi": "2x2 मैट्रिक्स"
+        },
+        "d": {
+          "en": "1000x1000 matrix",
+          "hi": "1000x1000 मैट्रिक्स"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It requires just a few rows and columns to outline letters.",
+        "hi": "अक्षरों की रूपरेखा तैयार करने के लिए इसमें बस कुछ पंक्तियों और स्तंभों की आवश्यकता होती है।"
+      },
+      "explanation": {
+        "en": "The print head consists of a matrix of small tiny needles, specifically arranged in grids of 5x7 or 9x7 (rows and columns).",
+        "hi": "प्रिंट हेड में छोटी सुइयों का एक मैट्रिक्स होता है, जो विशेष रूप से 5x7 या 9x7 (पंक्तियों और स्तंभों) के ग्रिड में व्यवस्थित होता है।"
+      },
+      "key_takeaway": {
+        "en": "Dot matrix grids are usually 5x7 or 9x7.",
+        "hi": "डॉट मैट्रिक्स ग्रिड आमतौर पर 5x7 या 9x7 होते हैं।"
+      }
+    },
+    {
+      "question_id": 42,
+      "question": {
+        "en": "Why are Dot Matrix printers notoriously loud while operating?",
+        "hi": "संचालन के दौरान डॉट मैट्रिक्स प्रिंटर कुख्यात रूप से इतने शोर करने वाले क्यों होते हैं?"
+      },
+      "options": {
+        "a": {
+          "en": "They use heat fusion",
+          "hi": "वे ताप संलयन का उपयोग करते हैं"
+        },
+        "b": {
+          "en": "They use an electro-mechanical striking mechanism",
+          "hi": "वे इलेक्ट्रो-मैकेनिकल स्ट्राइकिंग तकनीक का उपयोग करते हैं"
+        },
+        "c": {
+          "en": "They spray ink at high speeds",
+          "hi": "वे उच्च गति पर स्याही छिड़कते हैं"
+        },
+        "d": {
+          "en": "They use a loud laser beam",
+          "hi": "वे एक तेज़ लेजर बीम का उपयोग करते हैं"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Physical metal hits the paper repeatedly.",
+        "hi": "भौतिक धातु बार-बार कागज से टकराती है।"
+      },
+      "explanation": {
+        "en": "Being impact printers, they rely on physical hammers or pins forcefully striking against a ribbon and paper (electro-mechanical mechanism), which produces significant noise.",
+        "hi": "इम्पैक्ट प्रिंटर होने के नाते, वे भौतिक हथौड़ों या पिनों पर निर्भर करते हैं जो एक रिबन और कागज (इलेक्ट्रो-मैकेनिकल तंत्र) के खिलाफ बलपूर्वक प्रहार करते हैं, जिससे महत्वपूर्ण शोर उत्पन्न होता है।"
+      },
+      "key_takeaway": {
+        "en": "Impact striking causes dot matrix printers to be loud.",
+        "hi": "इम्पैक्ट स्ट्राइकिंग के कारण डॉट मैट्रिक्स प्रिंटर शोर करते हैं।"
+      }
+    },
+    {
+      "question_id": 43,
+      "question": {
+        "en": "What is a unique structural advantage of the Dot Matrix printer that allows it to create long banners?",
+        "hi": "डॉट मैट्रिक्स प्रिंटर का एक अनूठा संरचनात्मक लाभ क्या है जो इसे लंबे बैनर बनाने की अनुमति देता है?"
+      },
+      "options": {
+        "a": {
+          "en": "They offer photo-quality resolution",
+          "hi": "वे फोटो-गुणवत्ता रिज़ॉल्यूशन प्रदान करते हैं"
+        },
+        "b": {
+          "en": "They are completely silent",
+          "hi": "वे पूरी तरह से खामोश हैं"
+        },
+        "c": {
+          "en": "They can print on continuous paper without breaks",
+          "hi": "वे बिना ब्रेक के निरंतर कागज पर प्रिंट कर सकते हैं"
+        },
+        "d": {
+          "en": "They are wireless by default",
+          "hi": "वे डिफ़ॉल्ट रूप से वायरलेस हैं"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It uses paper that does not come in single, separate sheets.",
+        "hi": "यह ऐसे कागज का उपयोग करता है जो एकल, अलग शीट में नहीं आता है।"
+      },
+      "explanation": {
+        "en": "A major advantage is their ability to feed and print on continuous paper, allowing users to print long banners spanning across several attached sheets.",
+        "hi": "एक बड़ा फायदा यह है कि वे निरंतर कागज पर फीड और प्रिंट करने की क्षमता रखते हैं, जिससे उपयोगकर्ता कई जुड़ी हुई शीटों में फैले लंबे बैनर प्रिंट कर सकते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Dot matrix printers support continuous banner paper.",
+        "hi": "डॉट मैट्रिक्स प्रिंटर निरंतर बैनर पेपर का समर्थन करते हैं।"
+      }
+    },
+    {
+      "question_id": 44,
+      "question": {
+        "en": "What is molded directly onto the surface of the large cylinder inside a Drum Printer?",
+        "hi": "ड्रम प्रिंटर के अंदर बड़े सिलेंडर की सतह पर सीधे क्या ढाला जाता है?"
+      },
+      "options": {
+        "a": {
+          "en": "Laser diodes",
+          "hi": "लेजर डायोड"
+        },
+        "b": {
+          "en": "Liquid ink cartridges",
+          "hi": "तरल स्याही कार्ट्रिज"
+        },
+        "c": {
+          "en": "A completely blank surface",
+          "hi": "पूरी तरह से खाली सतह"
+        },
+        "d": {
+          "en": "A complete set of characters running around its circumference",
+          "hi": "इसकी परिधि के चारों ओर चलने वाले वर्णों का एक पूरा सेट"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "The metal itself contains the shapes of letters and numbers.",
+        "hi": "धातु में ही अक्षरों और संख्याओं के आकार होते हैं।"
+      },
+      "explanation": {
+        "en": "The drum contains actual physical characters molded onto its surface in columns running entirely around its circumference.",
+        "hi": "ड्रम में वास्तविक भौतिक वर्ण होते हैं जो इसकी परिधि के चारों ओर कॉलम में इसकी सतह पर ढाले जाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Drum printers have characters molded on the drum.",
+        "hi": "ड्रम प्रिंटर में ड्रम पर वर्ण ढाले जाते हैं।"
+      }
+    },
+    {
+      "question_id": 45,
+      "question": {
+        "en": "What is the remarkable operational speed of a heavy-duty Drum Printer?",
+        "hi": "हेवी-ड्यूटी ड्रम प्रिंटर की उल्लेखनीय परिचालन गति क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "300 to 2000 lines per minute",
+          "hi": "300 से 2000 लाइन प्रति मिनट"
+        },
+        "b": {
+          "en": "5 lines per minute",
+          "hi": "5 लाइन प्रति मिनट"
+        },
+        "c": {
+          "en": "10000 lines per second",
+          "hi": "10000 लाइन प्रति सेकंड"
+        },
+        "d": {
+          "en": "1 line per hour",
+          "hi": "1 लाइन प्रति घंटा"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It prints entire lines at once, reaching into the thousands per minute.",
+        "hi": "यह एक बार में पूरी पंक्तियाँ प्रिंट करता है, प्रति मिनट हजारों तक पहुँचता है।"
+      },
+      "explanation": {
+        "en": "Because they are line printers that print an entire line in one revolution, they are extremely fast and can print 300 to 2000 lines per minute.",
+        "hi": "चूंकि वे लाइन प्रिंटर हैं जो एक चक्कर में पूरी लाइन प्रिंट करते हैं, वे बेहद तेज हैं और प्रति मिनट 300 से 2000 लाइन प्रिंट कर सकते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Drum printers can output up to 2000 lines per minute.",
+        "hi": "ड्रम प्रिंटर प्रति मिनट 2000 लाइनों तक आउटपुट कर सकते हैं।"
+      }
+    },
+    {
+      "question_id": 46,
+      "question": {
+        "en": "Why are Drum Printers fundamentally incapable of printing custom graphics or charts?",
+        "hi": "ड्रम प्रिंटर कस्टम ग्राफिक्स या चार्ट प्रिंट करने में मौलिक रूप से अक्षम क्यों हैं?"
+      },
+      "options": {
+        "a": {
+          "en": "They are too small",
+          "hi": "वे बहुत छोटे हैं"
+        },
+        "b": {
+          "en": "They can only print the predefined set of characters embossed on the drum",
+          "hi": "वे केवल ड्रम पर उभरे वर्णों के पूर्व-निर्धारित सेट को ही प्रिंट कर सकते हैं"
+        },
+        "c": {
+          "en": "The ink melts the paper",
+          "hi": "स्याही कागज को पिघला देती है"
+        },
+        "d": {
+          "en": "They rely on invisible laser light",
+          "hi": "वे अदृश्य लेजर प्रकाश पर निर्भर करते हैं"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They are limited by their rigid, physical metal stamps.",
+        "hi": "वे अपने कठोर, भौतिक धातु टिकटों द्वारा सीमित हैं।"
+      },
+      "explanation": {
+        "en": "Since the drum relies on physically embossed characters molded onto the metal, it cannot dynamically draw images. It can only print the exact letters and numbers pre-defined on its surface.",
+        "hi": "चूंकि ड्रम धातु पर ढले भौतिक रूप से उभरे हुए वर्णों पर निर्भर करता है, इसलिए यह गतिशील रूप से चित्र नहीं खींच सकता है। यह केवल अपनी सतह पर पूर्व-परिभाषित सटीक अक्षरों और संख्याओं को ही प्रिंट कर सकता है।"
+      },
+      "key_takeaway": {
+        "en": "Drum printers cannot print dynamic graphics.",
+        "hi": "ड्रम प्रिंटर डायनेमिक ग्राफिक्स प्रिंट नहीं कर सकते।"
+      }
+    },
+    {
+      "question_id": 47,
+      "question": {
+        "en": "How does a traditional fax machine initially digitize a physical paper document before sending it?",
+        "hi": "एक पारंपरिक फैक्स मशीन भौतिक कागजी दस्तावेज़ को भेजने से पहले उसे शुरुआत में कैसे डिजिटल करती है?"
+      },
+      "options": {
+        "a": {
+          "en": "Using radio waves",
+          "hi": "रेडियो तरंगों का उपयोग करके"
+        },
+        "b": {
+          "en": "Using magnetic tape",
+          "hi": "चुंबकीय टेप का उपयोग करके"
+        },
+        "c": {
+          "en": "Using an internal optical scanner",
+          "hi": "एक आंतरिक ऑप्टिकल स्कैनर का उपयोग करके"
+        },
+        "d": {
+          "en": "Using a laser drum",
+          "hi": "लेजर ड्रम का उपयोग करके"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It uses light to 'read' the page.",
+        "hi": "यह पृष्ठ को 'पढ़ने' के लिए प्रकाश का उपयोग करता है।"
+      },
+      "explanation": {
+        "en": "A fax machine digitizes the physical material using an internal optical scanner to convert the image into transmittable electronic signals.",
+        "hi": "फैक्स मशीन छवि को ट्रांसमिटेबल इलेक्ट्रॉनिक सिग्नल में बदलने के लिए आंतरिक ऑप्टिकल स्कैनर का उपयोग करके भौतिक सामग्री को डिजिटल करती है।"
+      },
+      "key_takeaway": {
+        "en": "Fax machines utilize an internal optical scanner.",
+        "hi": "फैक्स मशीनें एक आंतरिक ऑप्टिकल स्कैनर का उपयोग करती हैं।"
+      }
+    },
+    {
+      "question_id": 48,
+      "question": {
+        "en": "What medium do traditional fax machines use to transmit digitized information to another location?",
+        "hi": "पारंपरिक फैक्स मशीनें डिजिटल जानकारी को दूसरे स्थान पर संचारित करने के लिए किस माध्यम का उपयोग करती हैं?"
+      },
+      "options": {
+        "a": {
+          "en": "Bluetooth signals",
+          "hi": "ब्लूटूथ सिग्नल"
+        },
+        "b": {
+          "en": "Wi-Fi connections",
+          "hi": "वाई-फाई कनेक्शन"
+        },
+        "c": {
+          "en": "Satellite uplinks",
+          "hi": "सैटेलाइट अपलिंक"
+        },
+        "d": {
+          "en": "Standard telephone lines",
+          "hi": "मानक टेलीफोन लाइनें"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "They rely on the oldest form of wired long-distance communication.",
+        "hi": "वे वायर्ड लंबी दूरी के संचार के सबसे पुराने रूप पर निर्भर करते हैं।"
+      },
+      "explanation": {
+        "en": "A traditional fax machine sends and receives printed pages by transmitting electronic signals over standard telephone lines.",
+        "hi": "एक पारंपरिक फैक्स मशीन मानक टेलीफोन लाइनों पर इलेक्ट्रॉनिक सिग्नल संचारित करके मुद्रित पृष्ठ भेजती और प्राप्त करती है।"
+      },
+      "key_takeaway": {
+        "en": "Fax machines transmit data via telephone lines.",
+        "hi": "फैक्स मशीनें टेलीफोन लाइनों के माध्यम से डेटा संचारित करती हैं।"
+      }
+    },
+    {
+      "question_id": 49,
+      "question": {
+        "en": "How can modern Bluetooth speakers be connected to a computer if it lacks built-in Bluetooth?",
+        "hi": "यदि कंप्यूटर में अंतर्निहित ब्लूटूथ का अभाव है, तो आधुनिक ब्लूटूथ स्पीकर को कंप्यूटर से कैसे जोड़ा जा सकता है?"
+      },
+      "options": {
+        "a": {
+          "en": "Using an Aux jack and compatible adaptor",
+          "hi": "Aux जैक और संगत एडॉप्टर का उपयोग करके"
+        },
+        "b": {
+          "en": "Using a USB thumb drive only",
+          "hi": "केवल USB थंब ड्राइव का उपयोग करके"
+        },
+        "c": {
+          "en": "Through a parallel printer port",
+          "hi": "समानांतर प्रिंटर पोर्ट के माध्यम से"
+        },
+        "d": {
+          "en": "Using a VGA serial cable",
+          "hi": "VGA सीरियल केबल का उपयोग करके"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It involves the standard headphone port and a bridge device.",
+        "hi": "इसमें मानक हेडफ़ोन पोर्ट और एक ब्रिज डिवाइस शामिल है।"
+      },
+      "explanation": {
+        "en": "Even if the computer lacks native Bluetooth, Bluetooth speakers can still be connected by using the computer's Aux jack and a compatible Bluetooth adaptor.",
+        "hi": "भले ही कंप्यूटर में मूल ब्लूटूथ का अभाव हो, फिर भी कंप्यूटर के Aux जैक और एक संगत ब्लूटूथ एडाप्टर का उपयोग करके ब्लूटूथ स्पीकर को जोड़ा जा सकता है।"
+      },
+      "key_takeaway": {
+        "en": "Bluetooth adaptors plug into Aux jacks for audio output.",
+        "hi": "ऑडियो आउटपुट के लिए ब्लूटूथ एडॉप्टर को Aux जैक में प्लग किया जाता है।"
+      }
+    },
+    {
+      "question_id": 50,
+      "question": {
+        "en": "What specific audio equalization controls are commonly built into higher-quality computer speakers?",
+        "hi": "उच्च गुणवत्ता वाले कंप्यूटर स्पीकर में सामान्यतः कौन से विशिष्ट ऑडियो इक्वलाइजेशन नियंत्रण अंतर्निहित होते हैं?"
+      },
+      "options": {
+        "a": {
+          "en": "Laser printing speed controls",
+          "hi": "लेजर प्रिंटिंग गति नियंत्रण"
+        },
+        "b": {
+          "en": "Bass and treble equalization features",
+          "hi": "बास और ट्रेबल के लिए इक्वलाइजेशन सुविधाएँ"
+        },
+        "c": {
+          "en": "Optical document scanning",
+          "hi": "ऑप्टिकल दस्तावेज़ स्कैनिंग"
+        },
+        "d": {
+          "en": "Direct fax transmission buttons",
+          "hi": "डायरेक्ट फैक्स ट्रांसमिशन बटन"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These control the low and high frequencies of sound.",
+        "hi": "ये ध्वनि की निम्न और उच्च आवृत्तियों को नियंत्रित करते हैं।"
+      },
+      "explanation": {
+        "en": "Unlike basic plastic speakers, higher-quality computer speakers often feature equalization controls specifically allowing the user to adjust bass and treble.",
+        "hi": "बुनियादी प्लास्टिक स्पीकर के विपरीत, उच्च गुणवत्ता वाले कंप्यूटर स्पीकर में अक्सर इक्वलाइजेशन नियंत्रण होते हैं जो विशेष रूप से उपयोगकर्ता को बास और ट्रेबल को समायोजित करने की अनुमति देते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Quality speakers offer bass and treble equalization.",
+        "hi": "गुणवत्ता वाले स्पीकर बास और ट्रेबल इक्वलाइजेशन प्रदान करते हैं।"
+      }
+    }
+  ]
+}
