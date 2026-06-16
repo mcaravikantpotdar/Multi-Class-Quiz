@@ -1,0 +1,784 @@
+{
+  "metadata": {
+    "chapter_number": 1,
+    "chapter_title": "Digital Literacy (Advanced)",
+    "chapter_title_hindi": "डिजिटल साक्षरता (उन्नत)",
+    "subject": "Computer Science",
+    "total_questions": 20,
+    "source_language": "en",
+    "target_language": "hi",
+    "note": "Complete and exhaustive coverage of the Overhead Projector (OHP) section from the provided text."
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "corrections": [
+      "No markdown formatting used.",
+      "Strict JSON schema enforced for 20 OHP-specific items.",
+      "Balanced correct options distribution applied."
+    ],
+    "notes": "Covers OHP history, basic definition, internal parts (base, lenses, mirrors, blower), and all specific handling and safety rules."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "During which decades were overhead projectors widely used as a standard projection system in classrooms?",
+        "hi": "कक्षाओं में एक मानक प्रक्षेपण प्रणाली के रूप में ओवरहेड प्रोजेक्टर का व्यापक रूप से किस दशक में उपयोग किया गया था?"
+      },
+      "options": {
+        "a": {
+          "en": "1980s-1990s",
+          "hi": "1980-1990 के दशक में"
+        },
+        "b": {
+          "en": "1950s-1960s",
+          "hi": "1950-1960 के दशक में"
+        },
+        "c": {
+          "en": "2000s-2010s",
+          "hi": "2000-2010 के दशक में"
+        },
+        "d": {
+          "en": "1920s-1930s",
+          "hi": "1920-1930 के दशक में"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It was the era just before digital smartboards became mainstream.",
+        "hi": "यह डिजिटल स्मार्टबोर्ड के मुख्यधारा बनने से ठीक पहले का युग था।"
+      },
+      "explanation": {
+        "en": "According to the text, overhead projectors were widely used as part of a classroom projection system in the early 1980s-1990s.",
+        "hi": "पाठ के अनुसार, 1980 और 1990 के दशक की शुरुआत में कक्षा प्रक्षेपण प्रणाली के हिस्से के रूप में ओवरहेड प्रोजेक्टर का व्यापक रूप से उपयोग किया जाता था।"
+      },
+      "key_takeaway": {
+        "en": "OHPs were prominent classroom tech in the 80s and 90s.",
+        "hi": "80 और 90 के दशक में OHP प्रमुख कक्षा तकनीक थे।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What is the fundamental purpose of an Overhead Projector (OHP)?",
+        "hi": "एक ओवरहेड प्रोजेक्टर (OHP) का मूल उद्देश्य क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "To play digital video files",
+          "hi": "डिजिटल वीडियो फ़ाइलें चलाने के लिए"
+        },
+        "b": {
+          "en": "To make writing or pictures on a plastic sheet appear on a wall",
+          "hi": "प्लास्टिक शीट पर लिखे या चित्रों को दीवार पर दिखाने के लिए"
+        },
+        "c": {
+          "en": "To print high-resolution graphics",
+          "hi": "उच्च-रिज़ॉल्यूशन ग्राफिक्स प्रिंट करने के लिए"
+        },
+        "d": {
+          "en": "To scan documents into a computer",
+          "hi": "दस्तावेज़ों को कंप्यूटर में स्कैन करने के लिए"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It projects physical transparent materials, not digital files.",
+        "hi": "यह भौतिक पारदर्शी सामग्री को प्रोजेक्ट करता है, डिजिटल फाइलों को नहीं।"
+      },
+      "explanation": {
+        "en": "An OHP is a machine with a light inside used to project images or written material from a sheet of plastic onto a screen or wall.",
+        "hi": "OHP एक मशीन है जिसके अंदर एक प्रकाश होता है जिसका उपयोग प्लास्टिक की शीट से चित्र या लिखित सामग्री को स्क्रीन या दीवार पर प्रोजेक्ट करने के लिए किया जाता है।"
+      },
+      "key_takeaway": {
+        "en": "OHPs project physical transparent sheets onto walls.",
+        "hi": "OHP भौतिक पारदर्शी शीट को दीवारों पर प्रोजेक्ट करते हैं।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "In the base of the OHP, what is the primary function of the reflector placed behind the lamp?",
+        "hi": "OHP के बेस में, लैंप के पीछे रखे रिफ्लेक्टर का प्राथमिक कार्य क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "To cool the lamp",
+          "hi": "लैंप को ठंडा करने के लिए"
+        },
+        "b": {
+          "en": "To change the color of the light",
+          "hi": "प्रकाश का रंग बदलने के लिए"
+        },
+        "c": {
+          "en": "To prevent light from spreading inside the base and direct it forward",
+          "hi": "प्रकाश को बेस के अंदर फैलने से रोकने और उसे आगे निर्देशित करने के लिए"
+        },
+        "d": {
+          "en": "To magnify the image",
+          "hi": "छवि को बड़ा करने के लिए"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It ensures the light travels efficiently in one direction toward the mirror.",
+        "hi": "यह सुनिश्चित करता है कि प्रकाश दर्पण की ओर एक दिशा में कुशलतापूर्वक यात्रा करे।"
+      },
+      "explanation": {
+        "en": "The reflector is placed behind the lamp to direct the light forward toward a mirror, preventing it from being wasted or spread inside the base.",
+        "hi": "रिफ्लेक्टर को लैंप के पीछे रखा जाता है ताकि प्रकाश को दर्पण की ओर आगे निर्देशित किया जा सके, जिससे यह बेस के अंदर बर्बाद होने या फैलने से बच सके।"
+      },
+      "key_takeaway": {
+        "en": "The reflector prevents light dispersion inside the base.",
+        "hi": "रिफ्लेक्टर बेस के अंदर प्रकाश के फैलाव को रोकता है।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What would be the visual result if the OHP did not have a reflector?",
+        "hi": "यदि OHP में रिफ्लेक्टर नहीं होता तो इसका दृश्य परिणाम क्या होता?"
+      },
+      "options": {
+        "a": {
+          "en": "The image would be upside down",
+          "hi": "छवि उल्टी होगी"
+        },
+        "b": {
+          "en": "The image would be too colorful",
+          "hi": "छवि बहुत रंगीन होगी"
+        },
+        "c": {
+          "en": "The machine would catch fire",
+          "hi": "मशीन में आग लग जाएगी"
+        },
+        "d": {
+          "en": "The projected image would be very dim",
+          "hi": "प्रक्षेपित छवि बहुत धुंधली होगी"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Without it, most of the light is lost inside the box.",
+        "hi": "इसके बिना, अधिकांश प्रकाश बॉक्स के अंदर खो जाता है।"
+      },
+      "explanation": {
+        "en": "Because the reflector stops light from spreading randomly inside the base, the absence of it would mean less light reaches the top, resulting in a very dim projected image.",
+        "hi": "चूंकि रिफ्लेक्टर प्रकाश को बेस के अंदर बेतरतीब ढंग से फैलने से रोकता है, इसलिए इसके न होने का मतलब होगा कि कम प्रकाश शीर्ष तक पहुंचता है, जिसके परिणामस्वरूप एक बहुत ही धुंधली प्रक्षेपित छवि बनती है।"
+      },
+      "key_takeaway": {
+        "en": "Without a reflector, an OHP projects a dim image.",
+        "hi": "रिफ्लेक्टर के बिना, OHP एक धुंधली छवि प्रोजेक्ट करता है।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Where is the condenser precisely positioned inside the Overhead Projector?",
+        "hi": "ओवरहेड प्रोजेक्टर के अंदर कंडेनसर ठीक कहाँ स्थित होता है?"
+      },
+      "options": {
+        "a": {
+          "en": "Between the lamp and the mirror in the base",
+          "hi": "बेस में लैंप और दर्पण के बीच"
+        },
+        "b": {
+          "en": "Above the projection stage",
+          "hi": "प्रोजेक्शन स्टेज के ऊपर"
+        },
+        "c": {
+          "en": "Next to the cooling blower",
+          "hi": "कूलिंग ब्लोअर के बगल में"
+        },
+        "d": {
+          "en": "Inside the upper section",
+          "hi": "ऊपरी हिस्से के अंदर"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It sits in the light's path right after it leaves the bulb.",
+        "hi": "यह बल्ब से निकलने के ठीक बाद प्रकाश के मार्ग में बैठता है।"
+      },
+      "explanation": {
+        "en": "The condenser is used to focus or condense the light onto the base mirror, so it is positioned exactly between the lamp and the mirror in the base unit.",
+        "hi": "कंडेनसर का उपयोग प्रकाश को बेस मिरर पर केंद्रित या संघनित करने के लिए किया जाता है, इसलिए इसे बेस यूनिट में लैंप और दर्पण के ठीक बीच में रखा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "The condenser sits between the lamp and the base mirror.",
+        "hi": "कंडेनसर लैंप और बेस मिरर के बीच स्थित होता है।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Why is a blower or cooling fan absolutely critical for an OHP?",
+        "hi": "OHP के लिए ब्लोअर या कूलिंग फैन बिल्कुल महत्वपूर्ण क्यों है?"
+      },
+      "options": {
+        "a": {
+          "en": "To dry the ink on the transparency",
+          "hi": "ट्रांसपेरेंसी पर स्याही सुखाने के लिए"
+        },
+        "b": {
+          "en": "To prevent the machine from blowing out due to extreme heat",
+          "hi": "अत्यधिक गर्मी के कारण मशीन को खराब होने से बचाने के लिए"
+        },
+        "c": {
+          "en": "To keep the presenter cool",
+          "hi": "प्रस्तुतकर्ता को ठंडा रखने के लिए"
+        },
+        "d": {
+          "en": "To clear dust from the objective lens",
+          "hi": "ऑब्जेक्टिव लेंस से धूल साफ करने के लिए"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The powerful lamp generates high temperatures in a closed box.",
+        "hi": "शक्तिशाली लैंप एक बंद बॉक्स में उच्च तापमान उत्पन्न करता है।"
+      },
+      "explanation": {
+        "en": "The base unit of an OHP produces a large amount of heat due to the powerful lamp. A cooling fan (blower) is required to prevent the projector from overheating and blowing out.",
+        "hi": "शक्तिशाली लैंप के कारण OHP की बेस यूनिट बड़ी मात्रा में गर्मी पैदा करती है। प्रोजेक्टर को ओवरहीटिंग और खराब होने से बचाने के लिए कूलिंग फैन (ब्लोअर) की आवश्यकता होती है।"
+      },
+      "key_takeaway": {
+        "en": "A blower prevents the OHP from overheating and failing.",
+        "hi": "एक ब्लोअर OHP को ओवरहीट होने और विफल होने से रोकता है।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "At what approximate angle is the base mirror situated to redirect the light?",
+        "hi": "प्रकाश को पुनर्निर्देशित करने के लिए बेस मिरर लगभग किस कोण पर स्थित होता है?"
+      },
+      "options": {
+        "a": {
+          "en": "90 degrees",
+          "hi": "90 डिग्री"
+        },
+        "b": {
+          "en": "180 degrees",
+          "hi": "180 डिग्री"
+        },
+        "c": {
+          "en": "45 degrees",
+          "hi": "45 डिग्री"
+        },
+        "d": {
+          "en": "30 degrees",
+          "hi": "30 डिग्री"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It perfectly splits a right angle to send horizontal light straight up.",
+        "hi": "यह क्षैतिज प्रकाश को सीधे ऊपर भेजने के लिए एक समकोण को पूरी तरह से विभाजित करता है।"
+      },
+      "explanation": {
+        "en": "The mirror found in the base unit is set at an approximate angle of 45 degrees to efficiently change the light's direction.",
+        "hi": "बेस यूनिट में पाया जाने वाला दर्पण प्रकाश की दिशा को कुशलतापूर्वक बदलने के लिए लगभग 45 डिग्री के कोण पर सेट किया गया है।"
+      },
+      "key_takeaway": {
+        "en": "The base mirror in an OHP is set at a 45-degree angle.",
+        "hi": "OHP में बेस मिरर 45-डिग्री कोण पर सेट होता है।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "What is the primary role of the base mirror?",
+        "hi": "बेस मिरर की प्राथमिक भूमिका क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "To split the light into multiple colors",
+          "hi": "प्रकाश को कई रंगों में विभाजित करने के लिए"
+        },
+        "b": {
+          "en": "To reduce the intensity of the lamp",
+          "hi": "लैंप की तीव्रता को कम करने के लिए"
+        },
+        "c": {
+          "en": "To magnify the image horizontally",
+          "hi": "छवि को क्षैतिज रूप से बड़ा करने के लिए"
+        },
+        "d": {
+          "en": "To change horizontal light to an upward vertical direction",
+          "hi": "क्षैतिज प्रकाश को ऊपर की ओर लंबवत दिशा में बदलने के लिए"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "It forces the light to pass through the glass stage above it.",
+        "hi": "यह प्रकाश को इसके ऊपर स्थित ग्लास स्टेज से गुजरने के लिए मजबूर करता है।"
+      },
+      "explanation": {
+        "en": "The base mirror changes the angle of the light produced by the lamp from its original horizontal direction and directs it upward through the projector's stage.",
+        "hi": "बेस मिरर लैंप द्वारा निर्मित प्रकाश के कोण को उसकी मूल क्षैतिज दिशा से बदलता है और इसे प्रोजेक्टर के स्टेज के माध्यम से ऊपर की ओर निर्देशित करता है।"
+      },
+      "key_takeaway": {
+        "en": "The base mirror directs light upward through the stage.",
+        "hi": "बेस मिरर प्रकाश को स्टेज के माध्यम से ऊपर की ओर निर्देशित करता है।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What is the glass surface called where the plastic transparencies are placed for projection?",
+        "hi": "उस कांच की सतह को क्या कहा जाता है जहाँ प्रक्षेपण के लिए प्लास्टिक ट्रांसपेरेंसी रखी जाती है?"
+      },
+      "options": {
+        "a": {
+          "en": "Projection Stage",
+          "hi": "प्रोजेक्शन स्टेज"
+        },
+        "b": {
+          "en": "Focusing Knob",
+          "hi": "फोकसिंग नॉब"
+        },
+        "c": {
+          "en": "Reflector Stage",
+          "hi": "रिफ्लेक्टर स्टेज"
+        },
+        "d": {
+          "en": "Objective Lens",
+          "hi": "ऑब्जेक्टिव लेंस"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It acts as a flat platform for your presentation materials.",
+        "hi": "यह आपकी प्रस्तुति सामग्री के लिए एक सपाट मंच के रूप में कार्य करता है।"
+      },
+      "explanation": {
+        "en": "The projection stage is the specific flat glass surface on the machine where transparencies are placed to be projected.",
+        "hi": "प्रोजेक्शन स्टेज मशीन पर वह विशिष्ट सपाट कांच की सतह है जहां प्रक्षेपित की जाने वाली ट्रांसपेरेंसी रखी जाती है।"
+      },
+      "key_takeaway": {
+        "en": "Transparencies are placed on the Projection Stage.",
+        "hi": "ट्रांसपेरेंसी को प्रोजेक्शन स्टेज पर रखा जाता है।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Which specific lens is placed at the projection stage to focus and magnify the image upward?",
+        "hi": "छवि को ऊपर की ओर केंद्रित करने और बड़ा करने के लिए प्रोजेक्शन स्टेज पर कौन सा विशिष्ट लेंस रखा गया है?"
+      },
+      "options": {
+        "a": {
+          "en": "Concave Lens",
+          "hi": "अवतल लेंस"
+        },
+        "b": {
+          "en": "Fresnel Lens",
+          "hi": "फ्रेस्नेल लेंस"
+        },
+        "c": {
+          "en": "Objective Lens",
+          "hi": "ऑब्जेक्टिव लेंस"
+        },
+        "d": {
+          "en": "Micro Lens",
+          "hi": "माइक्रो लेंस"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is a flat lens with concentric rings named after a French physicist.",
+        "hi": "यह संकेंद्रित छल्लों वाला एक सपाट लेंस है जिसका नाम एक फ्रांसीसी भौतिक विज्ञानी के नाम पर रखा गया है।"
+      },
+      "explanation": {
+        "en": "The Fresnel lens is placed at the projection stage to focus and magnify the light and the image upward into the upper section.",
+        "hi": "फ्रेस्नेल लेंस को प्रोजेक्शन स्टेज पर रखा जाता है ताकि प्रकाश और छवि को ऊपरी भाग में ऊपर की ओर केंद्रित और बड़ा किया जा सके।"
+      },
+      "key_takeaway": {
+        "en": "The Fresnel lens at the stage magnifies the image upward.",
+        "hi": "स्टेज पर मौजूद फ्रेस्नेल लेंस छवि को ऊपर की ओर बड़ा करता है।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Which of the following components is NOT part of the Upper Section of the OHP?",
+        "hi": "निम्नलिखित में से कौन सा घटक OHP के ऊपरी भाग (Upper Section) का हिस्सा नहीं है?"
+      },
+      "options": {
+        "a": {
+          "en": "Focusing knob",
+          "hi": "फोकसिंग नॉब"
+        },
+        "b": {
+          "en": "Objective lens",
+          "hi": "ऑब्जेक्टिव लेंस"
+        },
+        "c": {
+          "en": "Condenser",
+          "hi": "कंडेनसर"
+        },
+        "d": {
+          "en": "Top mirror",
+          "hi": "टॉप मिरर"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "This component is located down in the base near the lamp.",
+        "hi": "यह घटक लैंप के पास नीचे बेस में स्थित होता है।"
+      },
+      "explanation": {
+        "en": "The condenser is located in the base unit between the lamp and the mirror. The Upper Section consists of the focusing knob, objective lens, and another (top) mirror.",
+        "hi": "कंडेनसर बेस यूनिट में लैंप और दर्पण के बीच स्थित होता है। ऊपरी भाग में फोकसिंग नॉब, ऑब्जेक्टिव लेंस और एक अन्य (शीर्ष) दर्पण होता है।"
+      },
+      "key_takeaway": {
+        "en": "The condenser belongs in the base, not the upper section.",
+        "hi": "कंडेनसर बेस में होता है, ऊपरी हिस्से में नहीं।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What does the objective lens in the upper section do?",
+        "hi": "ऊपरी भाग में ऑब्जेक्टिव लेंस क्या करता है?"
+      },
+      "options": {
+        "a": {
+          "en": "It creates the initial light source",
+          "hi": "यह प्रारंभिक प्रकाश स्रोत बनाता है"
+        },
+        "b": {
+          "en": "It cools the glass stage",
+          "hi": "यह ग्लास स्टेज को ठंडा करता है"
+        },
+        "c": {
+          "en": "It reflects light back to the base",
+          "hi": "यह प्रकाश को वापस बेस पर परावर्तित करता है"
+        },
+        "d": {
+          "en": "It admits light sent upward through the Fresnel lens",
+          "hi": "यह फ्रेस्नेल लेंस के माध्यम से ऊपर भेजे गए प्रकाश को स्वीकार करता है"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "It receives the light coming from the stage before sending it to the final mirror.",
+        "hi": "अंतिम दर्पण पर भेजने से पहले यह स्टेज से आने वाले प्रकाश को प्राप्त करता है।"
+      },
+      "explanation": {
+        "en": "The objective lens is positioned in the upper section to admit the focused light that is sent upward through the Fresnel lens on the stage.",
+        "hi": "ऑब्जेक्टिव लेंस को ऊपरी भाग में रखा गया है ताकि स्टेज पर मौजूद फ्रेस्नेल लेंस के माध्यम से ऊपर की ओर भेजे गए केंद्रित प्रकाश को स्वीकार किया जा सके।"
+      },
+      "key_takeaway": {
+        "en": "The objective lens receives upward light from the Fresnel lens.",
+        "hi": "ऑब्जेक्टिव लेंस फ्रेस्नेल लेंस से ऊपर की ओर प्रकाश प्राप्त करता है।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "When a presenter is temporarily done using a transparency, what is the recommended action instead of turning the projector off completely?",
+        "hi": "जब प्रस्तुतकर्ता अस्थायी रूप से ट्रांसपेरेंसी का उपयोग कर लेता है, तो प्रोजेक्टर को पूरी तरह से बंद करने के बजाय अनुशंसित कार्रवाई क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "Cover it with an opaque piece of cardboard",
+          "hi": "इसे गत्ते के एक अपारदर्शी टुकड़े से ढक दें"
+        },
+        "b": {
+          "en": "Spray it with water",
+          "hi": "इस पर पानी का छिड़काव करें"
+        },
+        "c": {
+          "en": "Remove the bulb immediately",
+          "hi": "बल्ब को तुरंत हटा दें"
+        },
+        "d": {
+          "en": "Unplug the power cord",
+          "hi": "पावर कॉर्ड को अनप्लग करें"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Block the light physically without shutting down the electricity.",
+        "hi": "बिजली बंद किए बिना भौतिक रूप से प्रकाश को रोकें।"
+      },
+      "explanation": {
+        "en": "The manual advises covering the transparency with an opaque piece of cardboard or solid paper when temporarily done. Turning it off and on repeatedly is not recommended.",
+        "hi": "मैनुअल सलाह देता है कि काम अस्थायी रूप से समाप्त होने पर ट्रांसपेरेंसी को कार्डबोर्ड के अपारदर्शी टुकड़े या ठोस कागज से ढक दें। इसे बार-बार बंद और चालू करने की अनुशंसा नहीं की जाती है।"
+      },
+      "key_takeaway": {
+        "en": "Use cardboard to temporarily block light during breaks.",
+        "hi": "ब्रेक के दौरान अस्थायी रूप से प्रकाश को रोकने के लिए कार्डबोर्ड का उपयोग करें।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Why is it advised not to repeatedly turn the OHP off and on during a presentation?",
+        "hi": "प्रस्तुति के दौरान OHP को बार-बार बंद और चालू न करने की सलाह क्यों दी जाती है?"
+      },
+      "options": {
+        "a": {
+          "en": "It erases the marker ink",
+          "hi": "यह मार्कर की स्याही मिटा देता है"
+        },
+        "b": {
+          "en": "It can cause the projector bulb to burn out sooner",
+          "hi": "इससे प्रोजेक्टर का बल्ब जल्दी खराब हो सकता है"
+        },
+        "c": {
+          "en": "It melts the plastic sheets",
+          "hi": "यह प्लास्टिक की चादरों को पिघला देता है"
+        },
+        "d": {
+          "en": "It uncalibrates the focusing knob",
+          "hi": "यह फोकसिंग नॉब को अनकैलिब्रेट कर देता है"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Power cycling drastically reduces the lifespan of the lamp.",
+        "hi": "पावर साइकलिंग लैंप के जीवनकाल को काफी कम कर देती है।"
+      },
+      "explanation": {
+        "en": "Turning the projector off completely and then back on repeatedly stresses the filament and can cause the projector bulb to burn out much sooner.",
+        "hi": "प्रोजेक्टर को पूरी तरह से बंद करना और फिर बार-बार चालू करना फिलामेंट पर दबाव डालता है और प्रोजेक्टर बल्ब बहुत जल्दी खराब हो सकता है।"
+      },
+      "key_takeaway": {
+        "en": "Frequent on/off cycling burns out OHP bulbs faster.",
+        "hi": "बार-बार चालू/बंद करने से OHP बल्ब तेजी से खराब होते हैं।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "When changing a spare bulb, why must you bring and use a protective glove?",
+        "hi": "स्पेयर बल्ब बदलते समय, आपको सुरक्षात्मक दस्ताने क्यों लाने और उपयोग करने चाहिए?"
+      },
+      "options": {
+        "a": {
+          "en": "To avoid leaving fingerprints on the plastic sheet",
+          "hi": "प्लास्टिक शीट पर उंगलियों के निशान छोड़ने से बचने के लिए"
+        },
+        "b": {
+          "en": "Because the new bulb is slippery",
+          "hi": "क्योंकि नया बल्ब फिसलन भरा होता है"
+        },
+        "c": {
+          "en": "Because the old bulb gets extremely hot and hot glass looks like cold glass",
+          "hi": "क्योंकि पुराना बल्ब बेहद गर्म हो जाता है और गर्म कांच ठंडे कांच जैसा दिखता है"
+        },
+        "d": {
+          "en": "To prevent electrical shocks from the power cord",
+          "hi": "पावर कॉर्ड से बिजली के झटके को रोकने के लिए"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "There is a severe burn hazard with no visual warning.",
+        "hi": "बिना किसी दृश्य चेतावनी के गंभीर रूप से जलने का खतरा है।"
+      },
+      "explanation": {
+        "en": "A glove is essential because the old bulb will be very hot from use. The text explicitly warns that 'hot glass looks the same as cold glass,' creating a severe burn risk.",
+        "hi": "दस्ताने आवश्यक है क्योंकि पुराना बल्ब उपयोग के कारण बहुत गर्म होगा। पाठ स्पष्ट रूप से चेतावनी देता है कि 'गर्म कांच ठंडे कांच जैसा ही दिखता है,' जिससे गंभीर रूप से जलने का खतरा पैदा होता है।"
+      },
+      "key_takeaway": {
+        "en": "Always use a glove; hot glass looks identical to cold glass.",
+        "hi": "हमेशा दस्ताने का प्रयोग करें; गर्म कांच बिल्कुल ठंडे कांच जैसा दिखता है।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "If a presenter is left-handed, where should they place the overhead projector for optimal use?",
+        "hi": "यदि कोई प्रस्तुतकर्ता बाएं हाथ का है, तो उसे इष्टतम उपयोग के लिए ओवरहेड प्रोजेक्टर को कहाँ रखना चाहिए?"
+      },
+      "options": {
+        "a": {
+          "en": "Directly in front of the screen",
+          "hi": "सीधे स्क्रीन के सामने"
+        },
+        "b": {
+          "en": "Behind the audience",
+          "hi": "दर्शकों के पीछे"
+        },
+        "c": {
+          "en": "To their right side",
+          "hi": "उनके दाईं ओर"
+        },
+        "d": {
+          "en": "To their left side",
+          "hi": "उनके बाईं ओर"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "It should match the side of their writing hand.",
+        "hi": "यह उनके लिखने वाले हाथ की तरफ होना चाहिए।"
+      },
+      "explanation": {
+        "en": "The guidelines state you should place the overhead to your left if you are left-handed (and to your right if right-handed) to make it easier to face the audience and write simultaneously.",
+        "hi": "दिशानिर्देश बताते हैं कि यदि आप बाएं हाथ के हैं तो आपको ओवरहेड को अपने बाईं ओर (और दाएं हाथ के हैं तो दाईं ओर) रखना चाहिए ताकि दर्शकों का सामना करना और एक साथ लिखना आसान हो सके।"
+      },
+      "key_takeaway": {
+        "en": "Place the OHP on the side of your dominant hand.",
+        "hi": "OHP को अपने प्रमुख हाथ की ओर रखें।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Why should the overhead projector be placed on a table that is low enough?",
+        "hi": "ओवरहेड प्रोजेक्टर को इतनी नीची मेज पर क्यों रखा जाना चाहिए?"
+      },
+      "options": {
+        "a": {
+          "en": "So it does not block the presenter or the screen",
+          "hi": "ताकि यह प्रस्तुतकर्ता या स्क्रीन को अवरुद्ध न करे"
+        },
+        "b": {
+          "en": "So it stays closer to the floor cooling vents",
+          "hi": "ताकि यह फर्श के कूलिंग वेंट्स के करीब रहे"
+        },
+        "c": {
+          "en": "So the power cord can reach the ceiling",
+          "hi": "ताकि पावर कॉर्ड छत तक पहुंच सके"
+        },
+        "d": {
+          "en": "So the audience can look down at it",
+          "hi": "ताकि दर्शक इसे नीचे देख सकें"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Consider the line of sight for the audience viewing the presentation.",
+        "hi": "प्रस्तुति देखने वाले दर्शकों की दृष्टि रेखा (line of sight) पर विचार करें।"
+      },
+      "explanation": {
+        "en": "It is advised to place the overhead projector on a low table so that its upper section does not physically block the audience's view of the presenter or the projected screen.",
+        "hi": "ओवरहेड प्रोजेक्टर को एक नीची मेज पर रखने की सलाह दी जाती है ताकि इसका ऊपरी भाग प्रस्तुतकर्ता या अनुमानित स्क्रीन के दर्शकों के दृश्य को भौतिक रूप से अवरुद्ध न करे।"
+      },
+      "key_takeaway": {
+        "en": "A low table prevents the OHP from blocking the audience's view.",
+        "hi": "एक नीची मेज OHP को दर्शकों के दृश्य को अवरुद्ध करने से रोकती है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What is a crucial safety step regarding the OHP's power cord during a presentation?",
+        "hi": "प्रस्तुति के दौरान OHP के पावर कॉर्ड के संबंध में एक महत्वपूर्ण सुरक्षा कदम क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "Tie it in a knot",
+          "hi": "इसमें गांठ बांध लें"
+        },
+        "b": {
+          "en": "Tape it to the floor to prevent tripping",
+          "hi": "उलझने से रोकने के लिए इसे फर्श पर टेप करें"
+        },
+        "c": {
+          "en": "Hang it over the presenter's shoulder",
+          "hi": "इसे प्रस्तुतकर्ता के कंधे पर लटका दें"
+        },
+        "d": {
+          "en": "Keep it continuously moving",
+          "hi": "इसे लगातार घुमाते रहें"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Avoid a humorous but potentially dangerous fall.",
+        "hi": "एक हास्यास्पद लेकिन संभावित रूप से खतरनाक गिरावट से बचें।"
+      },
+      "explanation": {
+        "en": "Taping the power cord to the floor protects the presenter or anyone else from tripping over it and falling, which could also pull the heavy projector down.",
+        "hi": "पावर कॉर्ड को फर्श पर टेप करने से प्रस्तुतकर्ता या किसी अन्य व्यक्ति को उस पर उलझने और गिरने से बचाया जा सकता है, जिससे भारी प्रोजेक्टर भी नीचे गिर सकता है।"
+      },
+      "key_takeaway": {
+        "en": "Always tape the OHP power cord to the floor.",
+        "hi": "हमेशा OHP पावर कॉर्ड को फर्श पर टेप करें।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "How should overhead transparencies be properly stored for future use?",
+        "hi": "भविष्य में उपयोग के लिए ओवरहेड ट्रांसपेरेंसी को ठीक से कैसे संग्रहीत किया जाना चाहिए?"
+      },
+      "options": {
+        "a": {
+          "en": "Folded inside a heavy book",
+          "hi": "एक भारी किताब के अंदर मोड़कर"
+        },
+        "b": {
+          "en": "Rolled tightly into a tube",
+          "hi": "कसकर एक ट्यूब में रोल करके"
+        },
+        "c": {
+          "en": "In a sturdy box or container with a clean copy of handouts",
+          "hi": "हैंडआउट्स की एक साफ प्रति के साथ एक मजबूत बॉक्स या कंटेनर में"
+        },
+        "d": {
+          "en": "Left permanently on the projection stage",
+          "hi": "प्रोजेक्शन स्टेज पर स्थायी रूप से छोड़कर"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Keep them flat, safe from damage, and well-documented.",
+        "hi": "उन्हें सपाट, क्षति से सुरक्षित और अच्छी तरह से प्रलेखित रखें।"
+      },
+      "explanation": {
+        "en": "Transparencies should be stored in a sturdy box or container so they stay clean and protected. It is also advised to include a clean paper copy of the handouts inside the box.",
+        "hi": "ट्रांसपेरेंसी को एक मजबूत बॉक्स या कंटेनर में संग्रहित किया जाना चाहिए ताकि वे साफ और सुरक्षित रहें। बॉक्स के अंदर हैंडआउट्स की एक साफ कागजी प्रति शामिल करने की भी सलाह दी जाती है।"
+      },
+      "key_takeaway": {
+        "en": "Store transparencies flat in a sturdy box with master copies.",
+        "hi": "मास्टर प्रतियों के साथ एक मजबूत बॉक्स में ट्रांसपेरेंसी को सपाट स्टोर करें।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What is the main structural function of the top mirror located in the upper section of the OHP?",
+        "hi": "OHP के ऊपरी भाग में स्थित टॉप मिरर का मुख्य संरचनात्मक कार्य क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "To show the presenter their reflection",
+          "hi": "प्रस्तुतकर्ता को उनका प्रतिबिंब दिखाने के लिए"
+        },
+        "b": {
+          "en": "To bounce light back to the base mirror",
+          "hi": "प्रकाश को बेस मिरर पर वापस उछालने के लिए"
+        },
+        "c": {
+          "en": "To cool the objective lens",
+          "hi": "ऑब्जेक्टिव लेंस को ठंडा करने के लिए"
+        },
+        "d": {
+          "en": "To guide the image ahead onto the wall or screen",
+          "hi": "छवि को दीवार या स्क्रीन पर आगे निर्देशित करने के लिए"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "It is the final component that aims the picture at the audience.",
+        "hi": "यह अंतिम घटक है जो चित्र को दर्शकों पर लक्षित करता है।"
+      },
+      "explanation": {
+        "en": "The upper section contains another mirror (the top mirror) whose specific purpose is to guide the magnified image ahead onto the presentation wall or screen.",
+        "hi": "ऊपरी भाग में एक और दर्पण (शीर्ष दर्पण) होता है जिसका विशिष्ट उद्देश्य आवर्धित (magnified) छवि को प्रस्तुति दीवार या स्क्रीन पर आगे निर्देशित करना है।"
+      },
+      "key_takeaway": {
+        "en": "The top mirror directs the final image onto the wall.",
+        "hi": "शीर्ष दर्पण अंतिम छवि को दीवार पर निर्देशित करता है।"
+      }
+    }
+  ]
+}
