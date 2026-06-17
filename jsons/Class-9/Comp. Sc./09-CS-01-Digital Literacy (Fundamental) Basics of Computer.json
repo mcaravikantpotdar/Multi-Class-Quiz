@@ -4,1387 +4,209 @@
     "chapter_title": "Digital Literacy (Fundamental) Basics of Computer",
     "chapter_title_hindi": "डिजिटल साक्षरता (मौलिक) कंप्यूटर के मूल सिद्धांत",
     "subject": "Information Technology / Computer Science",
-    "total_questions": 36,
+    "total_questions": 5,
     "source_language": "en",
     "target_language": "hi",
-    "created_at": "2026-06-16T15:55:00Z",
-    "version": "1.0",
-    "note": "Options have been distributed evenly (A: 9, B: 9, C: 9, D: 9) to ensure absolute balance without bias while adhering strictly to Unit-1-HPBOSE-9th-CS-101-Digital Literacy (Fundamental) - Basics of Computer-HP_compressed.pdf."
+    "created_at": "2026-06-17T07:15:00Z",
+    "version": "2.0",
+    "note": "Upgraded hybrid conceptual scenario version. Answer options are mathematically balanced across the sample set."
   },
   "validation_report": {
     "is_valid": true,
     "checked_by": "Expert CS Teacher AI",
-    "checked_at": "2026-06-16T15:55:00Z",
+    "checked_at": "2026-06-17T07:15:00Z",
     "corrections": [],
-    "notes": "Balanced keys mapped precisely across the 36 questions to cover every nuance of the chapter text."
+    "notes": "Questions rewritten to combine short, scannable bilingual prose with student-centric problem scenarios."
   },
   "questions": [
     {
       "question_id": 1,
       "question": {
-        "en": "The word 'Computer' is derived from which word, and what was its historical primary usage considered to be?",
-        "hi": "'कंप्यूटर' शब्द की उत्पत्ति किस शब्द से हुई है, और ऐतिहासिक रूप से इसका प्राथमिक उपयोग क्या माना जाता था?"
+        "en": "Aarav typed his name using a keyboard, but the CPU can only process binary code (0s and 1s). Which unit immediately fixed this language gap for the CPU?",
+        "hi": "आरव ने कीबोर्ड का उपयोग करके अपना नाम टाइप किया, लेकिन CPU केवल बाइनरी कोड (0 और 1) को ही प्रोसेस कर सकता है। किस यूनिट ने CPU के लिए इस भाषा के अंतर को तुरंत ठीक किया?"
       },
       "options": {
         "a": {
-          "en": "From 'compute' meaning to calculate arithmetic operations",
-          "hi": "'compute' शब्द से जिसका अर्थ अंकगणितीय संचालन की गणना करना है"
+          "en": "Output Unit",
+          "hi": "आउटपुट यूनिट"
         },
         "b": {
-          "en": "From 'comprise' meaning to store large informational files",
-          "hi": "'comprise' शब्द से जिसका अर्थ बड़ी सूचनात्मक फ़ाइलों को संग्रहीत करना है"
+          "en": "Input Unit",
+          "hi": "इनपुट यूनिट"
         },
         "c": {
-          "en": "From 'compile' meaning to translate programs automatically",
-          "hi": "'compile' शब्द से जिसका अर्थ प्रोग्रामों का स्वचालित रूप से अनुवाद करना है"
+          "en": "Control Unit",
+          "hi": "कंट्रोल यूनिट"
         },
         "d": {
-          "en": "From 'compel' meaning to execute human logical commands",
-          "hi": "'compel' शब्द से जिसका अर्थ मानव के तार्किक आदेशों को निष्पादित करना है"
+          "en": "Memory Unit",
+          "hi": "मेमोरी यूनिट"
         }
       },
-      "correct_option": "a",
+      "correct_option": "b",
       "hint": {
-        "en": "Look closely at the root word that relates strictly to performing basic mathematical sums in the past.",
-        "hi": "मूल शब्द को ध्यान से देखें जो अतीत में बुनियादी गणितीय योग करने से सख्ती से संबंधित है।"
+        "en": "Think about the hardware component Aarav touched to send his human words into the machine system.",
+        "hi": "उस हार्डवेयर घटक के बारे में सोचें जिसे आरव ने अपने मानवीय शब्दों को मशीन सिस्टम में भेजने के लिए छुआ था।"
       },
       "explanation": {
-        "en": "According to the textbook 'Unit-1-HPBOSE-9th-CS-101-Digital Literacy (Fundamental) - Basics of Computer-HP_compressed.pdf', the word 'Computer' is derived from the word 'compute' which means to calculate. In the past, it was normally considered to be a calculating device used to perform arithmetic operations.",
-        "hi": "पाठ्यपुस्तक 'Unit-1-HPBOSE-9th-CS-101-Digital Literacy (Fundamental) - Basics of Computer-HP_compressed.pdf' के अनुसार, 'Computer' शब्द 'compute' शब्द से बना है जिसका अर्थ गणना करना है। अतीत में, इसे आम तौर पर अंकगणितीय संचालन करने के लिए उपयोग किया जाने वाला एक गणना उपकरण माना जाता था।"
+        "en": "Based on the text, the Input Unit (like a keyboard) takes data from the user and converts it into electrical binary signals (0 and 1) that the computer understands. It acts as the initial translator at the entry door.",
+        "hi": "पाठ के आधार पर, इनपुट यूनिट (जैसे कीबोर्ड) उपयोगकर्ता से डेटा लेती है और इसे इलेक्ट्रिकल बाइनरी सिग्नलों (0 और 1) में बदल देती है जिसे कंप्यूटर समझता है। यह प्रवेश द्वार पर प्रारंभिक अनुवादक के रूप में कार्य करता है।"
       },
       "key_takeaway": {
-        "en": "Computer comes from 'compute', historically meant for calculation.",
-        "hi": "कंप्यूटर शब्द 'compute' से आया है, जिसका ऐतिहासिक अर्थ गणना से था।"
+        "en": "Input Unit converts human text into machine binary code.",
+        "hi": "इनपुट यूनिट मानव टेक्स्ट को मशीन बाइनरी कोड में बदलती है।"
       }
     },
     {
       "question_id": 2,
       "question": {
-        "en": "What constitutes the core definition of a computer as an electronic machine in terms of data handling?",
-        "hi": "डेटा हैंडलिंग के संदर्भ में एक इलेक्ट्रॉनिक मशीन के रूप में कंप्यूटर की मूल परिभाषा क्या है?"
+        "en": "At 9:00 AM Ananya is drawing a graphic project, at 9:05 AM she runs budget numbers, and at 9:10 AM she plays an educational game. Which feature does her computer show?",
+        "hi": "सुबह 9:00 बजे अनन्या एक ग्राफिक प्रोजेक्ट बना रही है, 9:05 बजे वह बजट की गणना करती है, और 9:10 बजे वह एक शैक्षिक गेम खेलती है। उसका कंप्यूटर कौन सी विशेषता दिखाता है?"
       },
       "options": {
         "a": {
-          "en": "It takes output, processes it automatically, and stores instructions",
-          "hi": "यह आउटपुट लेता है, इसे स्वचालित रूप से संसाधित करता है, और निर्देशों को संग्रहीत करता है"
-        },
-        "b": {
-          "en": "It takes input as data/instructions, processes it, and gives output",
-          "hi": "यह डेटा/निर्देशों के रूप में इनपुट लेता है, इसे संसाधित करता है, और आउटपुट देता है"
-        },
-        "c": {
-          "en": "It corrects wrong instructions on its own and generates informational data",
-          "hi": "यह अपने आप गलत निर्देशों को सुधारता है और सूचनात्मक डेटा उत्पन्न करता है"
-        },
-        "d": {
-          "en": "It converts binary code into high-level language structures directly",
-          "hi": "यह बाइनरी कोड को सीधे उच्च-स्तरीय भाषा संरचनाओं में परिवर्तित करता है"
-        }
-      },
-      "correct_option": "b",
-      "hint": {
-        "en": "Think about the correct sequence of the data cycle: what goes in, what happens to it, and what comes out.",
-        "hi": "डेटा चक्र के सही क्रम के बारे में सोचें: क्या अंदर जाता है, उसके साथ क्या होता है, और क्या बाहर आता है।"
-      },
-      "explanation": {
-        "en": "The textbook explicitly defines a computer as an electronic machine that takes input (data and instructions) from the user, processes it, and gives the final result as output to the user.",
-        "hi": "पाठ्यपुस्तक स्पष्ट रूप से कंप्यूटर को एक इलेक्ट्रॉनिक मशीन के रूप में परिभाषित करती है जो उपयोगकर्ता से इनपुट (डेटा और निर्देश) लेती है, उसे संसाधित करती है, और अंतिम परिणाम उपयोगकर्ता को आउटपुट के रूप में देती है।"
-      },
-      "key_takeaway": {
-        "en": "The standard cycle of a computer is Input -> Processing -> Output.",
-        "hi": "कंप्यूटर का मानक चक्र इनपुट -> प्रोसेसिंग -> आउटपुट है।"
-      }
-    },
-    {
-      "question_id": 3,
-      "question": {
-        "en": "Which of the following microcomputers is explicitly defined as a wireless, thin, portable computer with a touch screen interface that lacks a physical keyboard and a flap?",
-        "hi": "निम्नलिखित में से कौन सा माइक्रोकंप्यूटर स्पष्ट रूप से एक वायरलेस, पतले, पोर्टेबल कंप्यूटर के रूप में परिभाषित किया गया है जिसमें टच स्क्रीन इंटरफ़ेस होता है और भौतिक कीबोर्ड व फ्लैप नहीं होता है?"
-      },
-      "options": {
-        "a": {
-          "en": "Laptop",
-          "hi": "लैपटॉप"
-        },
-        "b": {
-          "en": "Notebook",
-          "hi": "नोटबुक"
-        },
-        "c": {
-          "en": "Tablet",
-          "hi": "टैबलेट"
-        },
-        "d": {
-          "en": "Palmtop",
-          "hi": "पामटॉप"
-        }
-      },
-      "correct_option": "c",
-      "hint": {
-        "en": "This device is smaller than a notebook but larger than a mobile phone and doesn't fold like a laptop.",
-        "hi": "यह डिवाइस नोटबुक से छोटा लेकिन मोबाइल फोन से बड़ा होता है और लैपटॉप की तरह फोल्ड नहीं होता।"
-      },
-      "explanation": {
-        "en": "In 'Unit-1-HPBOSE-9th-CS-101-Digital Literacy (Fundamental) - Basics of Computer-HP_compressed.pdf', a tablet is specified as smaller than a notebook but larger than a mobile phone. It is wireless, thin, has a touch screen, and does not have a physical keyboard and flap like a laptop.",
-        "hi": "'Unit-1-HPBOSE-9th-CS-101-Digital Literacy (Fundamental) - Basics of Computer-HP_compressed.pdf' में, टैबलेट को नोटबुक से छोटा लेकिन मोबाइल फोन से बड़ा बताया गया है। यह वायरलेस, पतला है, इसमें टच स्क्रीन है, और लैपटॉप की तरह भौतिक कीबोर्ड और फ्लैप नहीं होता है।"
-      },
-      "key_takeaway": {
-        "en": "Tablets utilize a touch screen interface and lack a physical keyboard or folding flap.",
-        "hi": "टैबलेट में टच स्क्रीन इंटरफ़ेस का उपयोग होता है और इसमें भौतिक कीबोर्ड या फ़ोल्डिंग फ़्लैप नहीं होता है।"
-      }
-    },
-    {
-      "question_id": 4,
-      "question": {
-        "en": "Which microcomputer is battery-powered, small enough to fit in the palm of your hand, has a compressed keyboard, and is often used as a personal organizer?",
-        "hi": "कौन सा माइक्रोकंप्यूटर बैटरी से चलने वाला है, हाथ की हथेली में समाने जितना छोटा है, जिसमें कंप्रेस्ड कीबोर्ड होता है, और अक्सर पर्सनल ऑर्गनाइज़र के रूप में उपयोग किया जाता है?"
-      },
-      "options": {
-        "a": {
-          "en": "Notebook",
-          "hi": "नोटबुक"
-        },
-        "b": {
-          "en": "Tablet",
-          "hi": "टैबलेट"
-        },
-        "c": {
-          "en": "Laptop",
-          "hi": "लैपटॉप"
-        },
-        "d": {
-          "en": "Palmtop",
-          "hi": "पामटॉप"
-        }
-      },
-      "correct_option": "d",
-      "hint": {
-        "en": "The name itself directly reveals the body part where this specific mini-keyboard computer fits.",
-        "hi": "नाम ही सीधे शरीर के उस हिस्से को प्रकट करता है जहाँ यह विशिष्ट मिनी-कीबोर्ड कंप्यूटर फिट बैठता है।"
-      },
-      "explanation": {
-        "en": "The text states that a Palmtop is a battery-powered computer small enough to fit in the palm of the hand. It contains a very small screen and a compressed keyboard to store messages, contacts, and calendars.",
-        "hi": "पाठ में कहा गया है कि पामटॉप एक बैटरी से चलने वाला कंप्यूटर है जो हाथ की हथेली में फिट होने के लिए पर्याप्त छोटा है। इसमें संदेश, संपर्क और कैलेंडर संग्रहीत करने के लिए एक बहुत छोटी स्क्रीन और एक कंप्रेस्ड कीबोर्ड होता है।"
-      },
-      "key_takeaway": {
-        "en": "Palmtops have compressed keyboards and serve as personal organizers inside the hand.",
-        "hi": "पामटॉप में कंप्रेस्ड कीबोर्ड होते हैं और ये हाथ के अंदर पर्सनल ऑर्गनाइज़र के रूप में कार्य करते हैं।"
-      }
-    },
-    {
-      "question_id": 5,
-      "question": {
-        "en": "How does the textbook differentiate a Notebook computer from a Laptop computer?",
-        "hi": "पाठ्यपुस्तक एक नोटबुक कंप्यूटर को लैपटॉप कंप्यूटर से किस प्रकार अलग करती है?"
-      },
-      "options": {
-        "a": {
-          "en": "Notebook is smaller and lighter in weight compared to a laptop",
-          "hi": "नोटबुक लैपटॉप की तुलना में आकार में छोटी और वजन में हल्की होती है"
-        },
-        "b": {
-          "en": "Notebook does not contain its own internal battery system",
-          "hi": "नोटबुक में अपना आंतरिक बैटरी सिस्टम नहीं होता है"
-        },
-        "c": {
-          "en": "Notebook has significantly higher computing capability than a laptop",
-          "hi": "नोटबुक में लैपटॉप की तुलना में काफी अधिक कंप्यूटिंग क्षमता होती है"
-        },
-        "d": {
-          "en": "Notebook is stationary and cannot be used while travelling",
-          "hi": "नोटबुक स्थिर होती है और यात्रा के दौरान इसका उपयोग नहीं किया जा सकता है"
-        }
-      },
-      "correct_option": "a",
-      "hint": {
-        "en": "Think about comparing a heavy textbook to a thin, small writing pad.",
-        "hi": "एक भारी पाठ्यपुस्तक की तुलना एक पतले, छोटे राइटिंग पैड से करने के बारे में सोचें।"
-      },
-      "explanation": {
-        "en": "The textbook explicitly describes a notebook as a smaller laptop that is portable, smaller, and lighter in weight as compared to a laptop, while keeping its own battery system for travelling convenience.",
-        "hi": "पाठ्यपुस्तक स्पष्ट रूप से नोटबुक को एक छोटे लैपटॉप के रूप में वर्णित करती है जो पोर्टेबल है, और लैपटॉप की तुलना में आकार में छोटी और वजन में हल्की होती है, जबकि यात्रा की सुविधा के लिए इसमें अपनी बैटरी प्रणाली होती है।"
-      },
-      "key_takeaway": {
-        "en": "Notebooks are essentially scaled-down, lighter variants of laptops.",
-        "hi": "नोटबुक मुख्य रूप से लैपटॉप के छोटे और हल्के संस्करण हैं।"
-      }
-    },
-    {
-      "question_id": 6,
-      "question": {
-        "en": "Which type of computer is cheaper and smaller than a mainframe but is explicitly designated for 'scientific applications'?",
-        "hi": "कौन सा प्रकार का कंप्यूटर मेनफ्रेम से सस्ता और छोटा है लेकिन विशेष रूप से 'वैज्ञानिक अनुप्रयोगों' के लिए नामित है?"
-      },
-      "options": {
-        "a": {
-          "en": "Microcomputer",
-          "hi": "माइक्रोकंप्यूटर"
-        },
-        "b": {
-          "en": "Minicomputer",
-          "hi": "मिनीकंप्यूटर"
-        },
-        "c": {
-          "en": "Mainframe Computer",
-          "hi": "मेनफ्रेम कंप्यूटर"
-        },
-        "d": {
-          "en": "Supercomputer",
-          "hi": "सुपरकंप्यूटर"
-        }
-      },
-      "correct_option": "b",
-      "hint": {
-        "en": "The textbook shows images of this system labeled 'For Scientific use' and calls it a smaller version of large computers.",
-        "hi": "पाठ्यपुस्तक इस सिस्टम के चित्रों को 'वैज्ञानिक उपयोग के लिए' लेबल के साथ दिखाती है और इसे बड़े कंप्यूटरों का छोटा संस्करण कहती है।"
-      },
-      "explanation": {
-        "en": "The resource text states that a Mini computer has most features of a large computer, offering similar power but is cheaper in cost and small in size. It emphasizes that it is mainly used in scientific applications.",
-        "hi": "संसाधन पाठ में कहा गया है कि मिनी कंप्यूटर में एक बड़े कंप्यूटर की अधिकांश विशेषताएं होती हैं, जो समान शक्ति प्रदान करता है लेकिन लागत में सस्ता और आकार में छोटा होता है। यह इस बात पर जोर देता है कि इसका मुख्य रूप से वैज्ञानिक अनुप्रयोगों में उपयोग किया जाता है।"
-      },
-      "key_takeaway": {
-        "en": "Minicomputers are reliable, mid-sized machines optimized for scientific applications.",
-        "hi": "मिनीकंप्यूटर विश्वसनीय, मध्यम आकार की मशीनें हैं जो वैज्ञानिक अनुप्रयोगों के लिए अनुकूलित हैं।"
-      }
-    },
-    {
-      "question_id": 7,
-      "question": {
-        "en": "Mainframe computers are highly expensive and large. According to the text, in which specific setups are they generally deployed?",
-        "hi": "मेनफ्रेम कंप्यूटर अत्यधिक महंगे और बड़े होते हैं। पाठ के अनुसार, वे आम तौर पर किन विशिष्ट सेटअपों में तैनात किए जाते हैं?"
-      },
-      "options": {
-        "a": {
-          "en": "Advanced military operations and weather forecasting setups",
-          "hi": "उन्नत सैन्य संचालन और मौसम पूर्वानुमान सेटअप"
-        },
-        "b": {
-          "en": "Small business offices, schools, and personal home setups",
-          "hi": "छोटे व्यावसायिक कार्यालय, स्कूल और व्यक्तिगत होम सेटअप"
-        },
-        "c": {
-          "en": "Airline reservation systems, government organizations, and nationalized banks",
-          "hi": "एयरलाइन आरक्षण प्रणाली, सरकारी संगठन और राष्ट्रीयकृत बैंक"
-        },
-        "d": {
-          "en": "Standalone multimedia setups for watching home movies and graphics editing",
-          "hi": "घरेलू फिल्में देखने और ग्राफिक्स संपादन के लिए स्टैंडअलोन मल्टीमीडिया सेटअप"
-        }
-      },
-      "correct_option": "c",
-      "hint": {
-        "en": "Think of environments that need maximum computing power to process huge amounts of citizen or passenger transactions simultaneously, but aren't the top tier supercomputers.",
-        "hi": "ऐसे वातावरण के बारे में सोचें जिन्हें एक साथ भारी मात्रा में नागरिक या यात्री लेनदेन को संसाधित करने के लिए अधिकतम कंप्यूटिंग शक्ति की आवश्यकता होती है, लेकिन वे शीर्ष स्तर के सुपरकंप्यूटर नहीं हैं।"
-      },
-      "explanation": {
-        "en": "The textbook directly lists that Mainframe computers are big, expensive, possess maximum computing power for massive data, and are generally used in airline reservation systems, government organizations, nationalized banks, and large corporations.",
-        "hi": "पाठ्यपुस्तक सीधे सूची बद्ध करती है कि मेनफ्रेम कंप्यूटर बड़े, महंगे होते हैं, भारी डेटा के लिए अधिकतम कंप्यूटिंग शक्ति रखते हैं, और आम तौर पर एयरलाइन आरक्षण प्रणाली, सरकारी संगठनों, राष्ट्रीयकृत बैंकों और बड़े निगमों में उपयोग किए जाते हैं।"
-      },
-      "key_takeaway": {
-        "en": "Mainframes handle large-scale organizational data handling (banks, airlines).",
-        "hi": "मेनफ्रेम बड़े पैमाने पर संगठनात्मक डेटा हैंडलिंग (बैंक, एयरलाइंस) को संभालते हैं।"
-      }
-    },
-    {
-      "question_id": 8,
-      "question": {
-        "en": "What are the designated properties and application fields of a Supercomputer as specified in Chapter 1?",
-        "hi": "अध्याय 1 में निर्दिष्ट सुपरकंप्यूटर के गुण और अनुप्रयोग क्षेत्र क्या हैं?"
-      },
-      "options": {
-        "a": {
-          "en": "Cheaper versions of large computers specialized for home accounting tasks",
-          "hi": "घरेलू लेखांकन कार्यों के लिए विशेषीकृत बड़े कंप्यूटरों के सस्ते संस्करण"
-        },
-        "b": {
-          "en": "Wireless touch-based systems used primarily in public library issue counters",
-          "hi": "मुख्य रूप से सार्वजनिक पुस्तकालय के इश्यू काउंटरों में उपयोग किए जाने वाले वायरलेस टच-आधारित सिस्टम"
-        },
-        "c": {
-          "en": "Portable battery devices used for managing personal contact lists while travelling",
-          "hi": "यात्रा के दौरान व्यक्तिगत संपर्क सूचियों के प्रबंधन के लिए उपयोग किए जाने वाले पोर्टेबल बैटरी उपकरण"
-        },
-        "d": {
-          "en": "Fastest type with high processing speed, used in advanced military and scientific applications",
-          "hi": "उच्च प्रसंस्करण गति वाला सबसे तेज़ प्रकार, जिसका उपयोग उन्नत सैन्य और वैज्ञानिक अनुप्रयोगों में किया जाता है"
-        }
-      },
-      "correct_option": "d",
-      "hint": {
-        "en": "This is the absolute pinnacle of computing performance and budget mentioned in the text, exceeding mainframe power.",
-        "hi": "यह पाठ में उल्लिखित कंप्यूटिंग प्रदर्शन और बजट का पूर्ण शिखर है, जो मेनफ्रेम शक्ति से अधिक है।"
-      },
-      "explanation": {
-        "en": "The textbook notes that a Supercomputer is a very fast, powerful, and costly machine with high processing speed and large data storage. It is explicitly utilized for specialized applications requiring large calculations, like advanced military and scientific applications.",
-        "hi": "पाठ्यपुस्तक में उल्लेख है कि सुपरकंप्यूटर उच्च प्रसंस्करण गति और बड़े डेटा स्टोरेज वाली एक बहुत तेज़, शक्तिशाली और महंगी मशीन है। इसका उपयोग स्पष्ट रूप से बड़ी गणनाओं की आवश्यकता वाले विशेष अनुप्रयोगों, जैसे उन्नत सैन्य और वैज्ञानिक अनुप्रयोगों के लिए किया जाता है।"
-      },
-      "key_takeaway": {
-        "en": "Supercomputers provide the highest processing speeds for military/scientific calculation loads.",
-        "hi": "सुपरकंप्यूटर सैन्य/वैज्ञानिक गणना भार के लिए उच्चतम प्रसंस्करण गति प्रदान करते हैं।"
-      }
-    },
-    {
-      "question_id": 9,
-      "question": {
-        "en": "What is the meaning of the 'Diligence' characteristic of a computer system?",
-        "hi": "कंप्यूटर सिस्टम की 'डिलिजेंस' (Diligence) विशेषता का क्या अर्थ है?"
-      },
-      "options": {
-        "a": {
-          "en": "The capability of performing completely different types of work at the same time",
-          "hi": "एक ही समय में पूरी तरह से अलग-अलग प्रकार के कार्य करने की क्षमता"
-        },
-        "b": {
-          "en": "Working continuously 24X7 without getting tired, bored, or losing concentration",
-          "hi": "बिना थके, ऊबे या एकाग्रता खोए लगातार 24X7 काम करना"
-        },
-        "c": {
-          "en": "The capacity to process millions of instructions in exactly one second",
-          "hi": "ठीक एक सेकंड में लाखों निर्देशों को संसाधित करने की क्षमता"
-        },
-        "d": {
-          "en": "The ability to execute a program automatically without any input instructions",
-          "hi": "बिना किसी इनपुट निर्देशों के स्वचालित रूप से प्रोग्राम को निष्पादित करने की क्षमता"
-        }
-      },
-      "correct_option": "b",
-      "hint": {
-        "en": "Think about a worker who never needs a coffee break, never gets exhausted, and maintains zero errors over long hours.",
-        "hi": "ऐसे कर्मचारी के बारे में सोचें जिसे कभी कॉफी ब्रेक की आवश्यकता नहीं होती, वह कभी थकता नहीं है, और लंबे समय तक शून्य त्रुटियां बनाए रखता है।"
-      },
-      "explanation": {
-        "en": "The text defines 'Diligence' as the ability of a computer to work continuously for a long time (24X7). It never feels bored or tired, is free from lack of concentration, and can work for hours without creating errors.",
-        "hi": "पाठ 'डिलिजेंस' को कंप्यूटर की लंबे समय तक (24X7) लगातार काम करने की क्षमता के रूप में परिभाषित करता है। यह कभी भी ऊब या थकान महसूस नहीं करता है, एकाग्रता की कमी से मुक्त है, और बिना त्रुटि के घंटों काम कर सकता है।"
-      },
-      "key_takeaway": {
-        "en": "Diligence means fatigue-free, non-stop continuous processing performance.",
-        "hi": "डिलिजेंस का अर्थ है थकान-मुक्त, बिना रुके निरंतर प्रसंस्करण प्रदर्शन।"
-      }
-    },
-    {
-      "question_id": 10,
-      "question": {
-        "en": "When a user plays a game at one moment and immediately prepares a project report the next moment, which characteristic is the computer exhibiting?",
-        "hi": "जब एक उपयोगकर्ता एक क्षण गेम खेलता है और अगले ही क्षण प्रोजेक्ट रिपोर्ट तैयार करता है, तो कंप्यूटर कौन सी विशेषता प्रदर्शित कर रहा होता है?"
-      },
-      "options": {
-        "a": {
-          "en": "Automation",
-          "hi": "स्वचालन (Automation)"
-        },
-        "b": {
           "en": "Versatility",
           "hi": "बहुमुखी प्रतिभा (Versatility)"
+        },
+        "b": {
+          "en": "Diligence",
+          "hi": "परिश्रमशीलता (Diligence)"
         },
         "c": {
           "en": "Accuracy",
           "hi": "सटीकता (Accuracy)"
         },
         "d": {
-          "en": "Diligence",
-          "hi": "परिश्रमशीलता (Diligence)"
-        }
-      },
-      "correct_option": "b",
-      "hint": {
-        "en": "This feature highlights the computer's flexibility to adapt and perform completely multi-faceted, distinct tasks seamlessly.",
-        "hi": "यह विशेषता कंप्यूटर की बहु-आयामी, अलग-अलग कार्यों को सहजता से अपनाने और करने की लचीलेपन को उजागर करती है।"
-      },
-      "explanation": {
-        "en": "The textbook notes that 'Versatility' is the most important feature, meaning the capability to perform completely different types of work. It provides the exact example of playing a game at one moment and preparing a project report the next.",
-        "hi": "पाठ्यपुस्तक में उल्लेख है कि 'बहुमुखी प्रतिभा' (Versatility) सबसे महत्वपूर्ण विशेषता है, जिसका अर्थ पूरी तरह से अलग प्रकार के कार्य करने की क्षमता है। यह एक क्षण गेम खेलने और अगले क्षण प्रोजेक्ट रिपोर्ट तैयार करने का सटीक उदाहरण प्रदान करता है।"
-      },
-      "key_takeaway": {
-        "en": "Versatility represents the capability to execute completely diverse operations.",
-        "hi": "बहुमुखी प्रतिभा (Versatility) पूरी तरह से विविध कार्यों को निष्पादित करने की क्षमता का प्रतिनिधित्व करती है।"
-      }
-    },
-    {
-      "question_id": 11,
-      "question": {
-        "en": "Which of the following points is explicitly categorized as a 'Limitation' of a computer system in the textbook?",
-        "hi": "पाठ्यपुस्तक में निम्नलिखित में से कौन सा बिंदु स्पष्ट रूप से कंप्यूटर सिस्टम की 'सीमा' (Limitation) के रूप में वर्गीकृत किया गया है?"
-      },
-      "options": {
-        "a": {
-          "en": "It has no built-in memory structure to hold data details",
-          "hi": "डेटा विवरण रखने के लिए इसमें कोई अंतर्निहित मेमोरी संरचना नहीं है"
-        },
-        "b": {
-          "en": "It distinguishes heavily between different end-users during processing",
-          "hi": "यह प्रसंस्करण के दौरान विभिन्न अंतिम-उपयोगकर्ताओं के बीच भारी अंतर करता है"
-        },
-        "c": {
-          "en": "It cannot correct wrong instructions on its own and has no brain",
-          "hi": "यह अपने आप गलत निर्देशों को सुधार नहीं सकता और इसमें कोई मस्तिष्क नहीं होता"
-        },
-        "d": {
-          "en": "It feels bored and tired after executing complex database calculations",
-          "hi": "जटिल डेटाबेस गणनाओं को निष्पादित करने के बाद यह ऊब और थकान महसूस करता है"
-        }
-      },
-      "correct_option": "c",
-      "hint": {
-        "en": "Think about what a computer lacks when compared to human intelligence and independent problem-solving choice.",
-        "hi": "सोचिए कि मानव बुद्धि और स्वतंत्र समस्या-समाधान के विकल्प की तुलना में कंप्यूटर में किस चीज़ की कमी होती है।"
-      },
-      "explanation": {
-        "en": "The list of limitations in the text explicitly states that a computer has no brain, cannot do any work without getting instructions, cannot correct wrong instructions on its own, and possesses no intelligence of its own.",
-        "hi": "पाठ में सीमाओं की सूची में स्पष्ट रूप से कहा गया है कि कंप्यूटर का कोई मस्तिष्क नहीं होता है, वह निर्देश प्राप्त किए बिना कोई काम नहीं कर सकता है, अपने आप गलत निर्देशों को सही नहीं कर सकता है, और उसके पास अपनी कोई बुद्धि नहीं होती है।"
-      },
-      "key_takeaway": {
-        "en": "Computers are dependent machines that cannot self-correct flawed logic inputs.",
-        "hi": "कंप्यूटर आश्रित मशीनें हैं जो दोषपूर्ण लॉजिक इनपुट को स्वयं ठीक नहीं कर सकती हैं।"
-      }
-    },
-    {
-      "question_id": 12,
-      "question": {
-        "en": "In the business sector, for which specific cluster of tasks are computers explicitly stated to be integrated into organizations?",
-        "hi": "व्यवसाय क्षेत्र में, किन विशिष्ट कार्यों के समूह के लिए कंप्यूटरों को संगठनों में एकीकृत करने की बात स्पष्ट रूप से कही गई है?"
-      },
-      "options": {
-        "a": {
-          "en": "Prescribing scan diagnostic routines and monitoring active surgical actions",
-          "hi": "स्कैन नैदानिक रूटीन निर्धारित करना और सक्रिय सर्जिकल कार्यों की निगरानी करना"
-        },
-        "b": {
-          "en": "Payroll calculations, sales analysis, budgeting, and managing employee databases",
-          "hi": "पेरोल गणना, बिक्री विश्लेषण, बजट, और कर्मचारी डेटाबेस का प्रबंधन"
-        },
-        "c": {
-          "en": "Conducting objective competitive examinations via OMR bubble scanning sheets",
-          "hi": "OMR बबल स्कैनिंग शीट के माध्यम से वस्तुनिष्ठ प्रतियोगी परीक्षाएं आयोजित करना"
-        },
-        "d": {
-          "en": "Generating special cartoon visual effects inside high-end commercial movie releases",
-          "hi": "हाई-एंड कमर्शियल मूवी रिलीज़ के अंदर विशेष कार्टून दृश्य प्रभाव उत्पन्न करना"
-        }
-      },
-      "correct_option": "b",
-      "hint": {
-        "en": "Look for accounting, inventory tracking, and back-office financial forecasting terms mentioned under the Business subsection.",
-        "hi": "बिजनेस उपधारा के तहत उल्लिखित एकाउंटिंग, इन्वेंट्री ट्रैकिंग और बैक-ऑफिस वित्तीय पूर्वानुमान शब्दों को देखें।"
-      },
-      "explanation": {
-        "en": "Under section 1.1.2 'In Business', the textbook notes that computers are used for: Payroll calculations, Sales analysis, Budgeting, Financial forecasting, Managing employee database, and maintenance of stocks.",
-        "hi": "धारा 1.1.2 'In Business' के तहत, पाठ्यपुस्तक में उल्लेख है कि कंप्यूटर का उपयोग किया जाता है: पेरोल गणना, बिक्री विश्लेषण, बजट, वित्तीय पूर्वानुमान, कर्मचारी डेटाबेस का प्रबंधन, और स्टॉक का रखरखाव।"
-      },
-      "key_takeaway": {
-        "en": "Business computing focuses on budgeting, databases, payroll, and stock control.",
-        "hi": "बिजनेस कंप्यूटिंग बजट, डेटाबेस, पेरोल और स्टॉक नियंत्रण पर केंद्रित है।"
-      }
-    },
-    {
-      "question_id": 13,
-      "question": {
-        "en": "According to the textbook's section on marketing, how is 'Home Shopping' explicitly made possible via computers?",
-        "hi": "मार्केटिंग पर पाठ्यपुस्तक के अनुभाग के अनुसार, कंप्यूटर के माध्यम से 'होम शॉपिंग' को स्पष्ट रूप से कैसे संभव बनाया गया है?"
-      },
-      "options": {
-        "a": {
-          "en": "Through magnetic stripe terminal readers attached inside nearby neighborhood brick shops",
-          "hi": "आस-पास के पड़ोस की दुकानों के अंदर लगे मैग्नेटिक स्ट्राइप टर्मिनल रीडर्स के माध्यम से"
-        },
-        "b": {
-          "en": "Through computerized catalogues providing product access and permitting direct entry of orders",
-          "hi": "कंप्यूटरीकृत कैटलॉग के माध्यम से जो उत्पाद तक पहुंच प्रदान करते हैं और ऑर्डर प्रविष्टि की अनुमति देते हैं"
-        },
-        "c": {
-          "en": "By deploying high-speed plotters that draft continuous mechanical advertisements at home",
-          "hi": "हाई-स्पीड प्लॉटर्स को तैनात करके जो घर पर निरंतर मैकेनिकल विज्ञापनों का मसौदा तैयार करते हैं"
-        },
-        "d": {
-          "en": "By scanning printed product barcodes using a handheld light pen scanner device directly",
-          "hi": "सीधे हैंडहेल्ड लाइट पेन स्कैनर डिवाइस का उपयोग करके मुद्रित उत्पाद बारकोड को स्कैन करके"
-        }
-      },
-      "correct_option": "b",
-      "hint": {
-        "en": "Think of an electronic book or catalog that acts as a bridge for a remote customer to view items and send requests.",
-        "hi": "एक इलेक्ट्रॉनिक पुस्तक या कैटलॉग के बारे में सोचें जो दूरस्थ ग्राहक के लिए वस्तुओं को देखने और अनुरोध भेजने के लिए एक पुल के रूप में कार्य करता है।"
-      },
-      "explanation": {
-        "en": "The textbook states under the 'In Marketing' subsection that Home Shopping has been made possible through the use of computerized catalogues that provide access to product information and permit direct entry of orders to be filled.",
-        "hi": "पाठ्यपुस्तक में 'In Marketing' उपधारा के तहत कहा गया है कि कंप्यूटरीकृत कैटलॉग के उपयोग के माध्यम से होम शॉपिंग संभव हो गई है जो उत्पाद की जानकारी तक पहुंच प्रदान करते हैं और ऑर्डर भरने की अनुमति देते हैं।"
-      },
-      "key_takeaway": {
-        "en": "Computerized catalogues are the core vehicle for enabling Home Shopping in marketing.",
-        "hi": "कंप्यूटरीकृत कैटलॉग मार्केटिंग में होम शॉपिंग को सक्षम करने का मुख्य माध्यम हैं।"
-      }
-    },
-    {
-      "question_id": 14,
-      "question": {
-        "en": "What role do computers play inside libraries as specified in the text's application section?",
-        "hi": "पाठ के अनुप्रयोग अनुभाग में निर्दिष्ट पुस्तकालयों के अंदर कंप्यूटर क्या भूमिका निभाते हैं?"
-      },
-      "options": {
-        "a": {
-          "en": "They translate ancient high-level manuscripts into assembly structures line by line",
-          "hi": "वे प्राचीन उच्च-स्तरीय पाण्डुलिपियों का असेम्बली संरचनाओं में लाइन दर लाइन अनुवाद करते हैं"
-        },
-        "b": {
-          "en": "They maintain the record of all books and track books issued to and returned by students",
-          "hi": "वे सभी पुस्तकों का रिकॉर्ड रखते हैं और छात्रों को जारी व उनके द्वारा लौटाई गई पुस्तकों को ट्रैक करते हैं"
-        },
-        "c": {
-          "en": "They calculate interest rates dynamically depending on the student's book-reading duration",
-          "hi": "वे छात्र की पुस्तक-पढ़ने की अवधि के आधार पर गतिशील रूप से ब्याज दरों की गणना करते हैं"
-        },
-        "d": {
-          "en": "They print large graphical maps using electrostatic laser pens over book shelves",
-          "hi": "वे बुक शेल्फ के ऊपर इलेक्ट्रोस्टैटिक लेजर पेन का उपयोग करके बड़े ग्राफिकल मानचित्र प्रिंट करते हैं"
-        }
-      },
-      "correct_option": "b",
-      "hint": {
-        "en": "Think about what a librarian needs to monitor when students borrow resources from the collection.",
-        "hi": "सोचिए कि जब छात्र संग्रह से संसाधन उधार लेते हैं तो एक लाइब्रेरियन को किस चीज़ की निगरानी करने की आवश्यकता होती है।"
-      },
-      "explanation": {
-        "en": "The resource text explicitly mentions under subsection 7 'In Libraries' that a computer is used to maintain the record of all the books. It is also used to keep the records of books issued to the students and returned by them.",
-        "hi": "संसाधन पाठ में स्पष्ट रूप से उपधारा 7 'In Libraries' के तहत उल्लेख किया गया है कि कंप्यूटर का उपयोग सभी पुस्तकों का रिकॉर्ड बनाए रखने के लिए किया जाता है। इसका उपयोग छात्रों को जारी की गई और उनके द्वारा लौटाई गई पुस्तकों का रिकॉर्ड रखने के लिए भी किया जाता है।"
-      },
-      "key_takeaway": {
-        "en": "Library computing simplifies systematic inventory and issue-return logging trackers.",
-        "hi": "पुस्तकालय कंप्यूटिंग व्यवस्थित इन्वेंट्री और इश्यू-रिटर्न लॉगिंग ट्रैकर्स को सरल बनाती है।"
-      }
-    },
-    {
-      "question_id": 15,
-      "question": {
-        "en": "What are the three sub-parts of the Central Processing Unit (CPU) as detailed in the block diagram and component descriptions?",
-        "hi": "ब्लॉक आरेख और घटक विवरण में विस्तृत केंद्रीय प्रसंस्करण इकाई (CPU) के तीन उप-भाग कौन से हैं?"
-      },
-      "options": {
-        "a": {
-          "en": "Input unit, Output unit, Storage unit",
-          "hi": "इनपुट यूनिट, आउटपुट यूनिट, स्टोरेज यूनिट"
-        },
-        "b": {
-          "en": "Memory unit, Control unit, Arithmetic logic unit",
-          "hi": "मेमोरी यूनिट, कंट्रोल यूनिट, अर्थमेटिक लॉजिक यूनिट"
-        },
-        "c": {
-          "en": "Keyboard unit, VDU unit, Multi-media key unit",
-          "hi": "कीबोर्ड यूनिट, VDU यूनिट, मल्टी-मीडिया की यूनिट"
-        },
-        "d": {
-          "en": "Primary memory, Secondary memory, External tape memory",
-          "hi": "प्राइमरी मेमोरी, सेकेंडरी मेमोरी, एक्सटर्नल टेप मेमोरी"
-        }
-      },
-      "correct_option": "b",
-      "hint": {
-        "en": "These three internal blocks form the core brain architecture contained right inside the internal CPU bus layout.",
-        "hi": "ये तीन आंतरिक ब्लॉक आंतरिक CPU बस लेआउट के ठीक अंदर स्थित कोर मस्तिष्क वास्तुकला का निर्माण करते हैं।"
-      },
-      "explanation": {
-        "en": "Section 1.1.4 explicitly details that the Central Processing Unit (CPU) has three sub-parts: (i) Memory unit, (ii) Control unit, and (iii) Arithmetic logic unit. This is also structurally illustrated in the Block Diagram figure.",
-        "hi": "धारा 1.1.4 स्पष्ट रूप से विवरण देती है कि केंद्रीय प्रसंस्करण इकाई (CPU) के तीन उप-भाग हैं: (i) मेमोरी यूनिट, (ii) कंट्रोल यूनिट, और (iii) अर्थमेटिक लॉजिक यूनिट। यह ब्लॉक आरेख चित्र में भी संरचनात्मक रूप से चित्रित है।"
-      },
-      "key_takeaway": {
-        "en": "The CPU's internal engine consists precisely of MU, CU, and ALU.",
-        "hi": "CPU के आंतरिक इंजन में सटीक रूप से MU, CU और ALU शामिल होते हैं।"
-      }
-    },
-    {
-      "question_id": 16,
-      "question": {
-        "en": "How are internal instructions fetched and coordination signals distributed to components by the Control Unit?",
-        "hi": "कंट्रोल यूनिट द्वारा आंतरिक निर्देशों को कैसे प्राप्त किया जाता है और समन्वय संकेतों को घटकों में कैसे वितरित किया जाता है?"
-      },
-      "options": {
-        "a": {
-          "en": "It utilizes the logic unit (LU) to calculate binary mathematical pathways automatically",
-          "hi": "यह बाइनरी गणितीय मार्गों की स्वचालित रूप से गणना करने के लिए लॉजिक यूनिट (LU) का उपयोग करता है"
-        },
-        "b": {
-          "en": "It fetches instructions from main memory and transmits signals via the control bus",
-          "hi": "यह मुख्य मेमोरी से निर्देश प्राप्त करता है और कंट्रोल बस के माध्यम से संकेतों को प्रसारित करता है"
-        },
-        "c": {
-          "en": "It relies on a mechanical refresh circuit that triggers thousands of times per second",
-          "hi": "यह एक मैकेनिकल रिफ्रेश सर्किट पर निर्भर करता है जो प्रति सेकंड हजारों बार ट्रिगर होता है"
-        },
-        "d": {
-          "en": "It uses light sensors to convert optical reflections into electrical impulse keys",
-          "hi": "यह ऑप्टिकल परावर्तन को विद्युत आवेग कुंजियों में बदलने के लिए प्रकाश सेंसर का उपयोग करता है"
-        }
-      },
-      "correct_option": "b",
-      "hint": {
-        "en": "Think about the specialized internal bus lane that carries supervisory directives to smaller and larger processor hardware segments.",
-        "hi": "उस विशिष्ट आंतरिक बस लेन के बारे में सोचें जो छोटे और बड़े प्रोसेसर हार्डवेयर खंडों में पर्यवेक्षी निर्देश ले जाती है।"
-      },
-      "explanation": {
-        "en": "The text states that the control unit fetches internal instructions of programs from the main memory to the processor register. Control signals are then distributed to all elements via a specific part of the overall system bus called the control bus.",
-        "hi": "पाठ में कहा गया है कि कंट्रोल यूनिट मुख्य मेमोरी से प्रोग्राम के आंतरिक निर्देशों को प्रोसेसर रजिस्टर में लाती है। नियंत्रण संकेतों को फिर समग्र सिस्टम बस के एक विशिष्ट भाग के माध्यम से सभी तत्वों में वितरित किया जाता है जिसे कंट्रोल बस कहा जाता है।"
-      },
-      "key_takeaway": {
-        "en": "The Control Bus is the physical pathway for the Control Unit's orchestration signals.",
-        "hi": "कंट्रोल बस, कंट्रोल यूनिट के समन्वय संकेतों के लिए भौतिक पथ है।"
-      }
-    },
-    {
-      "question_id": 17,
-      "question": {
-        "en": "A standard computer keyboard has how many keys, and what is the rule regarding the functioning of its 17-key numeric keypad?",
-        "hi": "एक मानक कंप्यूटर कीबोर्ड में कितनी कुंजियाँ (Keys) होती हैं, और इसके 17-कुंजी वाले न्यूमेरिक कीपैड के कार्य करने का नियम क्या है?"
-      },
-      "options": {
-        "a": {
-          "en": "104 keys; the numeric keypad keys will work only if Num Lock is ON",
-          "hi": "104 कुंजियाँ; न्यूमेरिक कीपैड की कुंजियाँ केवल तभी काम करेंगी जब Num Lock चालू (ON) हो"
-        },
-        "b": {
-          "en": "100 keys; the numeric keypad keys require the multimedia assist keys to be pressed",
-          "hi": "100 कुंजियाँ; न्यूमेरिक कीपैड की कुंजियों को मल्टीमीडिया असिस्ट कुंजियों को दबाने की आवश्यकता होती है"
-        },
-        "c": {
-          "en": "104 keys; the numeric keypad functions solely when the help key F1 is pressed twice",
-          "hi": "104 कुंजियाँ; न्यूमेरिक कीपैड केवल तभी कार्य करता है जब हेल्प कुंजी F1 को दो बार दबाया जाता है"
-        },
-        "d": {
-          "en": "108 keys; the numeric keypad contains 12 specialized arrow tracking switches",
-          "hi": "108 कुंजियाँ; न्यूमेरिक कीपैड में 12 विशिष्ट तीर ट्रैकिंग स्विच होते हैं"
+          "en": "Automation",
+          "hi": "स्वचालन (Automation)"
         }
       },
       "correct_option": "a",
       "hint": {
-        "en": "Look for the total keys value on a traditional layout, and check the specific lock toggle that triggers calculator behavior.",
-        "hi": "पारंपरिक लेआउट पर कुल कुंजियों का मान देखें, और विशिष्ट लॉक टॉगल की जांच करें जो कैलकुलेटर व्यवहार को ट्रिगर करता है।"
+        "en": "Focus on the property that allows a single machine to jump between entirely different multi-faceted jobs smoothly.",
+        "hi": "उस गुण पर ध्यान केंद्रित करें जो एक अकेली मशीन को पूरी तरह से अलग-अलग बहुआयामी कार्यों के बीच आसानी से स्विच करने की अनुमति देता है।"
       },
       "explanation": {
-        "en": "The text notes that a standard keyboard has 104 keys. It further specifies that on the right side, the numeric keypad contains seventeen keys resembling a calculator, and these keys will work only if the Num Lock key is ON.",
-        "hi": "पाठ में उल्लेख है कि एक मानक कीबोर्ड में 104 कुंजियाँ होती हैं। यह आगे निर्दिष्ट करता है कि दाईं ओर, न्यूमेरिक कीपैड में कैलकुलेटर जैसी सत्रह कुंजियाँ होती हैं, और ये कुंजियाँ केवल तभी काम करेंगी जब Num Lock कुंजी चालू (ON) हो।"
+        "en": "The textbook defines Versatility as the capability to perform completely different types of work at the same time, like switching from games to project reports instantly.",
+        "hi": "पाठ्यपुस्तक 'Versatility' को एक ही समय में पूरी तरह से अलग-अलग प्रकार के कार्य करने की क्षमता के रूप में परिभाषित करती है, जैसे गेम से तुरंत प्रोजेक्ट रिपोर्ट पर स्विच करना।"
       },
       "key_takeaway": {
-        "en": "Traditional standard keyboards hold 104 keys; Num Lock governs numeric keypad entries.",
-        "hi": "पारंपरिक मानक कीबोर्ड में 104 कुंजियाँ होती हैं; Num Lock न्यूमेरिक कीपैड प्रविष्टियों को नियंत्रित करता है।"
+        "en": "Versatility means the computer can adapt to totally different tasks.",
+        "hi": "वर्सेटैलिटी का मतलब है कि कंप्यूटर पूरी तरह से अलग-अलग कार्यों को अपना सकता है।"
       }
     },
     {
-      "question_id": 18,
+      "question_id": 3,
       "question": {
-        "en": "What is a multimedia key or media key on a keyboard as defined in the provided textbook material?",
-        "hi": "प्रदान की गई पाठ्यपुस्तक सामग्री में परिभाषित कीबोर्ड पर मल्टीमीडिया कुंजी या मीडिया कुंजी क्या है?"
+        "en": "Rohan is travelling on a long train journey and needs to work. Which portable microcomputer is explicitly noted as too small to have a physical folding flap?",
+        "hi": "रोहन एक लंबी ट्रेन यात्रा पर यात्रा कर रहा है और उसे काम करना है। किस पोर्टेबल माइक्रोकंप्यूटर को विशेष रूप से भौतिक फ़ोल्डिंग फ़्लैप के बिना बहुत छोटा बताया गया है?"
       },
       "options": {
         "a": {
-          "en": "Any functional key stretching from F1 to F12 that provides general interface help",
-          "hi": "F1 से F12 तक फैली कोई भी कार्यात्मक कुंजी जो सामान्य इंटरफ़ेस सहायता प्रदान करती है"
+          "en": "Laptop computer",
+          "hi": "लैपटॉप कंप्यूटर"
         },
         "b": {
-          "en": "A keyboard key that performs a special function not included with the traditional 104-key keyboard",
-          "hi": "कीबोर्ड की एक ऐसी कुंजी जो एक विशेष कार्य करती है जो पारंपरिक 104-कुंजी वाले कीबोर्ड में शामिल नहीं है"
+          "en": "Notebook computer",
+          "hi": "नोटबुक कंप्यूटर"
         },
         "c": {
-          "en": "The core key responsible for switching alphabetical keys into numeric representations",
-          "hi": "वर्णमाला कुंजियों को संख्यात्मक अभ्यावेदन में बदलने के लिए जिम्मेदार मुख्य कुंजी"
+          "en": "Desktop personal computer",
+          "hi": "डेस्कटॉप पर्सनल कंप्यूटर"
         },
         "d": {
-          "en": "An external physical button that automatically dampens print-head impact noise levels",
-          "hi": "एक बाहरी भौतिक बटन जो प्रिंट-हेड प्रभाव शोर स्तरों को स्वचालित रूप से कम करता है"
-        }
-      },
-      "correct_option": "b",
-      "hint": {
-        "en": "Think of non-standard additions on a modern layout used for quickly dampening speaker audio volumes or dimming brightness panels.",
-        "hi": "एक आधुनिक लेआउट पर गैर-मानक परिवर्धन के बारे में सोचें जिसका उपयोग स्पीकर ऑडियो वॉल्यूम को जल्दी से कम करने या चमक पैनलों को मंद करने के लिए किया जाता है।"
-      },
-      "explanation": {
-        "en": "The textbook notes that a multimedia key or media key is a keyboard key that performs a special function not included with the traditional 104-key keyboard, such as controlling speaker volume or computer screen brightness.",
-        "hi": "पाठ्यपुस्तक में उल्लेख है कि मल्टीमीडिया कुंजी या मीडिया कुंजी कीबोर्ड की एक ऐसी कुंजी है जो एक विशेष कार्य करती है जो पारंपरिक 104-कुंजी वाले कीबोर्ड में शामिल नहीं है, जैसे कि स्पीकर वॉल्यूम या कंप्यूटर स्क्रीन की चमक को नियंत्रित करना।"
-      },
-      "key_takeaway": {
-        "en": "Multimedia keys provide expanded volume and display brightness operations beyond 104 keys.",
-        "hi": "मल्टीमीडिया कुंजियाँ 104 कुंजियों से परे विस्तारित वॉल्यूम और डिस्प्ले ब्राइटनेस ऑपरेशन प्रदान करती हैं।"
-      }
-    },
-    {
-      "question_id": 19,
-      "question": {
-        "en": "What are the structural operations associated with clicking a standard computer mouse left and right buttons?",
-        "hi": "एक मानक कंप्यूटर माउस के बाएँ और दाएँ बटन को क्लिक करने से जुड़े संरचनात्मक संचालन क्या हैं?"
-      },
-      "options": {
-        "a": {
-          "en": "Left click triggers computer-aided designs; right click clears volatile cache sectors",
-          "hi": "लेफ्ट क्लिक कंप्यूटर-एडेड डिज़ाइन को ट्रिगर करता है; राइट क्लिक वोलेटाइल कैश सेक्टर को साफ़ करता है"
-        },
-        "b": {
-          "en": "Pressing left button once or twice opens/selects things; right click opens a shortcut menu",
-          "hi": "बाएं बटन को एक या दो बार दबाने से चीजें खुलती/चुनती हैं; राइट क्लिक से शॉर्टकट मेनू खुलता है"
-        },
-        "c": {
-          "en": "Left click moves the screen up and down vertically; right click alters pixel resolution sizes",
-          "hi": "लेफ्ट क्लिक स्क्रीन को लंबवत रूप से ऊपर और नीचे ले जाता है; राइट क्लिक पिक्सेल रिज़ॉल्यूशन के आकार को बदलता है"
-        },
-        "d": {
-          "en": "Left button registers magnetic barcode impulses; right button locks the cursor completely",
-          "hi": "बायां बटन चुंबकीय बारकोड आवेगों को दर्ज करता है; दायां बटन कर्सर को पूरी तरह से लॉक करता है"
-        }
-      },
-      "correct_option": "b",
-      "hint": {
-        "en": "Think about daily usage: one side navigates or launches application profiles, while the opposite side shows a context action options drawer.",
-        "hi": "दैनिक उपयोग के बारे में सोचें: एक पक्ष एप्लिकेशन प्रोफ़ाइल को नेविगेट या लॉन्च करता है, जबकि विपरीत पक्ष संदर्भ क्रिया विकल्पों का दराज दिखाता है।"
-      },
-      "explanation": {
-        "en": "The text defines that pressing the left button once is a 'click' and twice is a 'double click' used to open programs and select things. Pressing the right mouse button is a 'right click' used specifically to open shortcut menus.",
-        "hi": "पाठ परिभाषित करता है कि बाएं बटन को एक बार दबाना 'क्लिक' है और दो बार दबाना 'डबल क्लिक' है जिसका उपयोग प्रोग्राम खोलने और चीजों का चयन करने के लिए किया जाता है। दायां माउस बटन दबाना 'राइट क्लिक' है जिसका उपयोग विशेष रूप से शॉर्टकट मेनू खोलने के लिए किया जाता है।"
-      },
-      "key_takeaway": {
-        "en": "Left mouse clicks select/launch items; right clicks expose context shortcut menus.",
-        "hi": "माउस का लेफ्ट क्लिक आइटम का चयन/लॉन्च करता है; राइट क्लिक संदर्भ शॉर्टकट मेनू को उजागर करता है।"
-      }
-    },
-    {
-      "question_id": 20,
-      "question": {
-        "en": "How does a Scanner structurally contrast with a regular photocopy machine based on the text?",
-        "hi": "पाठ के आधार पर एक स्कैनर संरचनात्मक रूप से एक नियमित फोटोकॉपी मशीन से किस प्रकार भिन्न है?"
-      },
-      "options": {
-        "a": {
-          "en": "Scanner creates ink sprays on large sheets; photocopy machine sketches using a digital pen",
-          "hi": "स्कैनर बड़ी शीट पर स्याही का स्प्रे बनाता है; फोटोकॉपी मशीन डिजिटल पेन का उपयोग करके रेखाचित्र बनाती है"
-        },
-        "b": {
-          "en": "Scanner requires a magnetic stripe; photocopy machine operates via automated control buses",
-          "hi": "स्कैनर को एक चुंबकीय पट्टी की आवश्यकता होती है; फोटोकॉपी मशीन स्वचालित नियंत्रण बसों के माध्यम से संचालित होती है"
-        },
-        "c": {
-          "en": "Photocopy machine gives output on paper; scanner saves a digital copy inside the computer",
-          "hi": "फोटोकॉपी मशीन कागज पर आउटपुट देती है; स्कैनर कंप्यूटर के अंदर एक डिजिटल कॉपी सहेजता है"
-        },
-        "d": {
-          "en": "Photocopy machine reads binary source code characters; scanner prints electrostatic fonts",
-          "hi": "फोटोकॉपी मशीन बाइनरी सोर्स कोड अक्षरों को पढ़ती है; स्कैनर इलेक्ट्रोस्टैटिक फोंट प्रिंट करता है"
-        }
-      },
-      "correct_option": "c",
-      "hint": {
-        "en": "Think about where the final captured clone lands: is it a tangible piece of paper or an electronic file stored in memory?",
-        "hi": "सोचिए कि अंतिम रूप से कैप्चर की गई क्लोन प्रति कहाँ जाती है: क्या यह कागज का एक मूर्त टुकड़ा है या मेमोरी में संग्रहीत एक इलेक्ट्रॉनिक फ़ाइल है?"
-      },
-      "explanation": {
-        "en": "The text states that a scanner captures images from paper sources and works like a photocopy machine. It highlights the explicit difference: 'the only difference is that photocopy machine gives output on a paper on the other hand scanner save a copy in computer.'",
-        "hi": "पाठ में कहा गया है कि एक स्कैनर कागजी स्रोतों से छवियों को कैप्चर करता है और फोटोकॉपी मशीन की तरह काम करता है। यह स्पष्ट अंतर को उजागर करता है: 'अंतर केवल इतना है कि फोटोकॉपी मशीन कागज पर आउटपुट देती है दूसरी ओर स्कैनर कंप्यूटर में एक प्रति सहेजता है।'"
-      },
-      "key_takeaway": {
-        "en": "Scanners produce soft-copy digital records, whereas photocopy machines yield immediate physical paper outputs.",
-        "hi": "स्कैनर सॉफ्ट-कॉपी डिजिटल रिकॉर्ड बनाते हैं, जबकि फोटोकॉपी मशीनें तुरंत भौतिक पेपर आउटपुट देती हैं।"
-      }
-    },
-    {
-      "question_id": 21,
-      "question": {
-        "en": "Which input device is a pen-shaped pointing tool commonly paired with Computer Aided Design (CAD) applications to draw directly on screen?",
-        "hi": "कौन सा इनपुट डिवाइस एक पेन के आकार का पॉइंटिंग टूल है जिसे आमतौर पर कंप्यूटर एडेड डिज़ाइन (CAD) अनुप्रयोगों के साथ सीधे स्क्रीन पर ड्राइंग करने के लिए जोड़ा जाता है?"
-      },
-      "options": {
-        "a": {
-          "en": "Joystick",
-          "hi": "जॉयस्टिक"
-        },
-        "b": {
-          "en": "Joystick wand",
-          "hi": "जॉयस्टिक वैंड"
-        },
-        "c": {
-          "en": "Barcode reader",
-          "hi": "बारकोड रीडर"
-        },
-        "d": {
-          "en": "Light Pen",
-          "hi": "लाइट पेन"
+          "en": "Tablet computer",
+          "hi": "टैबलेट कंप्यूटर"
         }
       },
       "correct_option": "d",
       "hint": {
-        "en": "The name combines an illumination source indicator with a classic handheld text-writing instrument.",
-        "hi": "नाम एक रोशनी स्रोत संकेतक को एक क्लासिक हैंडहेल्ड टेक्स्ट-राइटिंग इंस्ट्रूमेंट के साथ जोड़ता है।"
+        "en": "This flat touch-screen device fits between a notebook and a phone without a closing lid.",
+        "hi": "यह फ्लैट टच-स्क्रीन डिवाइस बिना किसी बंद होने वाले ढक्कन के, नोटबुक और फोन के बीच के आकार में फिट बैठता है।"
       },
       "explanation": {
-        "en": "Chapter 1 describes the Light Pen as a pen-shaped pointing device used to select objects or draw directly on the screen. It notes that users of Computer Aided Design (CAD) applications commonly use light pens.",
-        "hi": "अध्याय 1 लाइट पेन को एक पेन के आकार के पॉइंटिंग डिवाइस के रूप में वर्णित करता है जिसका उपयोग वस्तुओं का चयन करने या सीधे स्क्रीन पर आकर्षित करने के लिए किया जाता है। यह नोट करता है कि कंप्यूटर एडेड डिज़ाइन (CAD) अनुप्रयोगों के उपयोगकर्ता आमतौर पर लाइट पेन का उपयोग करते हैं।"
+        "en": "According to Section 1.1, a tablet is thin, wireless, and portable with a touch screen interface. The textbook explicitly notes that it 'doesn't have a physical keyboard and flap like a laptop'.",
+        "hi": "धारा 1.1 के अनुसार, एक टैबलेट टच स्क्रीन इंटरफ़ेस के साथ पतला, वायरलेस और पोर्टेबल होता है। पाठ्यपुस्तक स्पष्ट रूप से नोट करती है कि इसमें 'लैपटॉप की तरह भौतिक कीबोर्ड और फ़्लैप नहीं होता है'।"
       },
       "key_takeaway": {
-        "en": "Light pens enable precise on-screen drafting interaction inside CAD environments.",
-        "hi": "लाइट पेन CAD वातावरण के भीतर सटीक ऑन-स्क्रीन ड्राफ्टिंग इंटरैक्शन को सक्षम करते हैं।"
+        "en": "Tablets rely entirely on touch interfaces and lack a mechanical folding flap.",
+        "hi": "टैबलेट पूरी तरह से टच इंटरफ़ेस पर निर्भर करते हैं और उनमें मैकेनिकल फ़ोल्डिंग फ़्लैप नहीं होता है।"
       }
     },
     {
-      "question_id": 22,
+      "question_id": 4,
       "question": {
-        "en": "Why is a Digital Camera explicitly highlighted with a unique 'Note' in the textbook regarding its classification?",
-        "hi": "एक डिजिटल कैमरा को उसके वर्गीकरण के संबंध में पाठ्यपुस्तक में एक अनूठे 'नोट' के साथ स्पष्ट रूप से क्यों उजागर किया गया है?"
+        "en": "An engineer needs to print a massive, continuous line blueprint map for a new building project. Which hardware device should they choose over a regular printer?",
+        "hi": "एक इंजीनियर को एक नए बिल्डिंग प्रोजेक्ट के लिए एक विशाल, निरंतर लाइन वाला ब्लूप्रिंट मैप प्रिंट करना है। उन्हें एक नियमित प्रिंटर के बजाय कौन सा हार्डवेयर डिवाइस चुनना चाहिए?"
       },
       "options": {
         "a": {
-          "en": "Because it contains moving mechanical magnetic stripe heads on its back panel",
-          "hi": "क्योंकि इसके बैक पैनल पर मूविंग मैकेनिकल मैग्नेटिक स्ट्राइप हेड्स होते हैं"
+          "en": "Dot Matrix layout",
+          "hi": "डॉट मैट्रिक्स लेआउट"
         },
         "b": {
-          "en": "Because it may be considered both an input and output device (I/O device)",
-          "hi": "क्योंकि इसे इनपुट और आउटपुट डिवाइस (I/O डिवाइस) दोनों माना जा सकता है"
+          "en": "High-speed Projector",
+          "hi": "हाई-स्पीड प्रोजेक्टर"
         },
         "c": {
-          "en": "Because it operates solely via high-level electrostatic digital language compilers",
-          "hi": "क्योंकि यह पूरी तरह से उच्च-स्तरीय इलेक्ट्रोस्टैटिक डिजिटल भाषा कंपाइलर्स के माध्यम से संचालित होता है"
+          "en": "Plotter",
+          "hi": "प्लॉटर (Plotter)"
         },
         "d": {
-          "en": "Because it lacks any flash memory cards and stores pixels directly via control buses",
-          "hi": "क्योंकि इसमें कोई फ्लैश मेमोरी कार्ड नहीं होता है और यह नियंत्रण बसों के माध्यम से सीधे पिक्सेल संग्रहीत करता है"
-        }
-      },
-      "correct_option": "b",
-      "hint": {
-        "en": "Look for the textbook's special highlighted box note discussing its dual capacity to take views in and transmit files out.",
-        "hi": "पाठ्यपुस्तक के विशेष रूप से हाइलाइट किए गए बॉक्स नोट को देखें जिसमें विचारों को अंदर लेने और फ़ाइलों को बाहर प्रसारित करने की इसकी दोहरी क्षमता पर चर्चा की गई है।"
-      },
-      "explanation": {
-        "en": "The textbook contains a verbatim 'Note: A digital camera may be considered both an input and output device (sometimes referred to as an I/O device) as it can both take pictures (input) and send them to your computer (output).'",
-        "hi": "पाठ्यपुस्तक में एक शब्दशः नोट है: 'Note: A digital camera may be considered both an input and output device (sometimes referred to as an I/O device) as it can both take pictures (input) and send them to your computer (output).'"
-      },
-      "key_takeaway": {
-        "en": "Digital cameras span dual I/O status due to capture and transfer properties.",
-        "hi": "कैप्चर और ट्रांसफर गुणों के कारण डिजिटल कैमरे दोहरे I/O दर्जे में आते हैं।"
-      }
-    },
-    {
-      "question_id": 23,
-      "question": {
-        "en": "How do Barcode Readers explicitly scan and translate information from the parallel lines of a product code?",
-        "hi": "बारकोड रीडर किसी उत्पाद कोड की समानांतर रेखाओं से जानकारी को स्पष्ट रूप से कैसे स्कैन और अनुवादित करते हैं?"
-      },
-      "options": {
-        "a": {
-          "en": "By passing an electrical alternating current wave through the paper substrate lines",
-          "hi": "कागज के सबस्ट्रेट लाइनों के माध्यम से एक विद्युत प्रत्यावर्ती धारा तरंग गुजारकर"
-        },
-        "b": {
-          "en": "By scraping a physical mechanical pin across the variations of printed ink text",
-          "hi": "मुद्रित स्याही पाठ की विविधताओं पर एक भौतिक यांत्रिक पिन को खुरच कर"
-        },
-        "c": {
-          "en": "By shining light on the barcode and detecting the amount of light reflected back",
-          "hi": "बारकोड पर प्रकाश चमकाकर और वापस परावर्तित होने वाले प्रकाश की मात्रा का पता लगाकर"
-        },
-        "d": {
-          "en": "By translating magnetic ink particles via automated electrostatic bootstrap systems",
-          "hi": "स्वचालित इलेक्ट्रोस्टैटिक बूटस्ट्रैप प्रणालियों के माध्यम से चुंबकीय स्याही कणों का अनुवाद करके"
+          "en": "Inkjet system",
+          "hi": "इंकजेट सिस्टम"
         }
       },
       "correct_option": "c",
       "hint": {
-        "en": "Think about optical mechanics: a light beam strikes the line widths, a lens processes the bounce-back, and a sensor captures the shift.",
-        "hi": "ऑप्टिकल मैकेनिक्स के बारे में सोचें: एक प्रकाश किरण रेखा की चौड़ाई से टकराती है, एक लेंस बाउंस-बैक को प्रोसेस करता है, और एक सेंसर बदलाव को कैप्चर करता है।"
+        "en": "This special device moves an actual pen around using a computer-controlled motor to draw smooth, non-dotted lines.",
+        "hi": "यह विशेष डिवाइस चिकनी, बिना डॉट वाली रेखाएं खींचने के लिए कंप्यूटर नियंत्रित मोटर का उपयोग करके एक वास्तविक पेन को चारों ओर घुमाता है।"
       },
       "explanation": {
-        "en": "The textbook details that barcode readers function by 'shining a beam of light on the bar code and detecting the amount of light that is reflected back.' It translates optical impulses into electrical impulses via a light source, lens, and sensor.",
-        "hi": "पाठ्यपुस्तक विवरण देती है कि बारकोड रीडर कार्य करते हैं 'बार कोड पर प्रकाश की किरण चमकाकर और वापस परावर्तित होने वाले प्रकाश की मात्रा का पता लगाकर।' यह एक प्रकाश स्रोत, लेंस और सेंसर के माध्यम से ऑप्टिकल आवेगों को विद्युत आवेगों में अनुवादित करता है।"
+        "en": "The textbook explains that a Plotter is a special output device used by engineers and architects to draw building plans on very large pieces of paper using an electronically controlled pen instead of tiny dots.",
+        "hi": "पाठ्यपुस्तक बताती है कि प्लॉटर एक विशेष आउटपुट डिवाइस है जिसका उपयोग इंजीनियरों और आर्किटेक्ट्स द्वारा छोटे डॉट्स के बजाय इलेक्ट्रॉनिक रूप से नियंत्रित पेन का उपयोग करके कागज के बहुत बड़े टुकड़ों पर बिल्डिंग प्लान खींचने के लिए किया जाता है।"
       },
       "key_takeaway": {
-        "en": "Barcode scanners decode data via light beam reflection metrics.",
-        "hi": "बारकोड स्कैनर प्रकाश किरण परावर्तन मेट्रिक्स के माध्यम से डेटा को डिकोड करते हैं।"
+        "en": "Plotters use physical pens to draw large-scale architectural designs.",
+        "hi": "प्लॉटर बड़े पैमाने पर वास्तुशिल्प डिजाइन खींचने के लिए भौतिक पेन का उपयोग करते हैं।"
       }
     },
     {
-      "question_id": 24,
+      "question_id": 5,
       "question": {
-        "en": "What is the primary action performed by output devices on computer data intended for human users?",
-        "hi": "मानव उपयोगकर्ताओं के लिए अभिप्रेत कंप्यूटर डेटा पर आउटपुट उपकरणों द्वारा की जाने वाली प्राथमिक क्रिया क्या है?"
+        "en": "A bank officer is processing a stack of customer checks. Which device will scan the special magnetic ink code characters at the bottom of the check?",
+        "hi": "एक बैंक अधिकारी ग्राहकों के चेक के बंडल को प्रोसेस कर रहा है। कौन सा डिवाइस चेक के नीचे विशेष चुंबकीय स्याही कोड वर्णों को स्कैन करेगा?"
       },
       "options": {
         "a": {
-          "en": "They pack editable text characters into magnetic stripes for real-time validation",
-          "hi": "वे रीयल-टाइम सत्यापन के लिए संपादन योग्य टेक्स्ट वर्णों को चुंबकीय पट्टियों में पैक करते हैं"
+          "en": "OMR scanner sheet reader",
+          "hi": "OMR स्कैनर शीट रीडर"
         },
         "b": {
-          "en": "They convert processed computer language data into human-readable form",
-          "hi": "वे संसाधित कंप्यूटर भाषा डेटा को मानव-पठनीय रूप में परिवर्तित करते हैं"
+          "en": "OCR text recognition system",
+          "hi": "OCR टेक्स्ट रिकग्निशन सिस्टम"
         },
         "c": {
-          "en": "They clear intermediate storage locations inside volatile microprocessor registers",
-          "hi": "वे वोलेटाइल माइक्रोप्रोसेसर रजिस्टरों के अंदर मध्यवर्ती भंडारण स्थानों को साफ़ करते हैं"
+          "en": "Barcode scanner terminal",
+          "hi": "बारकोड स्कैनर टर्मिनल"
         },
         "d": {
-          "en": "They split input words into binary arithmetic logic bits automatically",
-          "hi": "वे इनपुट शब्दों को स्वचालित रूप से बाइनरी अंकगणितीय लॉजिक बिट्स में विभाजित करते हैं"
-        }
-      },
-      "correct_option": "b",
-      "hint": {
-        "en": "Computers converse inside a 0 and 1 electrical grid; output hardware translates this grid so a person can easily read or hear it.",
-        "hi": "कंप्यूटर 0 और 1 के इलेक्ट्रिकल ग्रिड के अंदर बातचीत करते हैं; आउटपुट हार्डवेयर इस ग्रिड का अनुवाद करता है ताकि कोई व्यक्ति इसे आसानी से पढ़ या सुन सके।"
-      },
-      "explanation": {
-        "en": "Section 1.3.1 highlights that the output generated by a computer is in computer language, and 'output devices convert it into human-readable form,' mostly appearing as audio, video, or text.",
-        "hi": "धारा 1.3.1 इस बात पर प्रकाश डालती है कि कंप्यूटर द्वारा उत्पन्न आउटपुट कंप्यूटर की भाषा में होता है, और 'आउटपुट डिवाइस इसे मानव-पठनीय रूप में परिवर्तित करते हैं,' जो ज्यादातर ऑडियो, वीडियो या टेक्स्ट के रूप में दिखाई देता है।"
-      },
-      "key_takeaway": {
-        "en": "Output devices bridge computer machine language back to clear human perception form.",
-        "hi": "आउटपुट डिवाइस कंप्यूटर मशीन भाषा को वापस स्पष्ट मानव धारणा रूप से जोड़ते हैं।"
-      }
-    },
-    {
-      "question_id": 25,
-      "question": {
-        "en": "What are the two kinds of viewing screens listed for monitors, and what is the primary structural building block determining image clarity in CRT screens?",
-        "hi": "मॉनिटरों के लिए सूचीबद्ध दो प्रकार की व्यूइंग स्क्रीन कौन सी हैं, और CRT स्क्रीन में छवि स्पष्टता निर्धारित करने वाला प्राथमिक संरचनात्मक बिल्डिंग ब्लॉक क्या है?"
-      },
-      "options": {
-        "a": {
-          "en": "Impact display and Page display; regulated by electrostatic control buses",
-          "hi": "इम्पैक्ट डिस्प्ले और पेज डिस्प्ले; इलेक्ट्रोस्टैटिक कंट्रोल बसों द्वारा विनियमित"
-        },
-        "b": {
-          "en": "Auxiliary display and Main display; governed by continuous multi-color ink pens",
-          "hi": "ऑक्सिलरी डिस्प्ले और मेन डिस्प्ले; निरंतर बहु-रंगीन स्याही पेन द्वारा शासित"
-        },
-        "c": {
-          "en": "Cathode-Ray Tube (CRT) and Flat-Panel Display; clarity depends on small picture elements called pixels",
-          "hi": "कैथोड-रे ट्यूब (CRT) और फ्लैट-पैनल डिस्प्ले; स्पष्टता पिक्सेल नामक छोटे चित्र तत्वों पर निर्भर करती है"
-        },
-        "d": {
-          "en": "Liquid Crystal and Plasma LED; clarity depends on the diagonal length of magnetic stripes",
-          "hi": "लिक्विड क्रिस्टल और प्लाज्मा LED; स्पष्टता चुंबकीय पट्टियों की विकर्ण लंबाई पर निर्भर करती है"
-        }
-      },
-      "correct_option": "c",
-      "hint": {
-        "en": "Look for the classic screen categories described in Section 1.3.1 and the microscopic dot terms that govern resolutions.",
-        "hi": "धारा 1.3.1 में वर्णित क्लासिक स्क्रीन श्रेणियों और रिज़ॉल्यूशन को नियंत्रित करने वाले सूक्ष्म डॉट शब्दों की खोज करें।"
-      },
-      "explanation": {
-        "en": "The textbook explicitly identifies two kinds of viewing screens: (i) Cathode-Ray Tube (CRT) and (ii) Flat-Panel Display. It notes that a CRT monitor is made up of small picture elements called pixels, adding: 'The smaller the pixels, the better the image clarity, or resolution.'",
-        "hi": "पाठ्यपुस्तक स्पष्ट रूप से दो प्रकार की व्यूइंग स्क्रीन की पहचान करती है: (i) कैथोड-रे ट्यूब (CRT) और (ii) फ्लैट-पैनल डिस्प्ले। यह नोट करता है कि एक CRT मॉनिटर छोटे चित्र तत्वों से बना होता है जिन्हें पिक्सेल कहा जाता है, आगे जोड़ता है: 'पिक्सेल जितने छोटे होंगे, छवि की स्पष्टता या रिज़ॉल्यूशन उतना ही बेहतर होगा।'"
-      },
-      "key_takeaway": {
-        "en": "Monitor types are CRT and Flat-Panel; smaller pixel density creates better visual resolution.",
-        "hi": "मॉनिटर के प्रकार CRT और फ्लैट-पैनल हैं; कम पिक्सेल घनत्व बेहतर दृश्य रिज़ॉल्यूशन बनाता है।"
-      }
-    },
-    {
-      "question_id": 26,
-      "question": {
-        "en": "What exact operational metrics are defined for measuring a computer printer's Resolution and Speed respectively?",
-        "hi": "एक कंप्यूटर प्रिंटर के रिज़ॉल्यूशन और गति को मापने के लिए क्रमशः कौन से सटीक परिचालन मेट्रिक्स परिभाषित किए गए हैं?"
-      },
-      "options": {
-        "a": {
-          "en": "Resolution in pixels per millimeter; Speed in bits per control bus pass",
-          "hi": "रिज़ॉल्यूशन पिक्सेल प्रति मिलीमीटर में; गति बिट्स प्रति कंट्रोल बस पास में"
-        },
-        "b": {
-          "en": "Resolution in dots per inch (dpi); Speed in characters-per-second (cps), lines-per-minute (lpm), or pages-per-minute (ppm)",
-          "hi": "रिज़ॉल्यूशन डॉट्स प्रति इंच (dpi) में; गति कैरेक्टर-पर-सेकंड (cps), लाइन्स-पर-मिनट (lpm), या पेजेस-पर-मिनट (ppm) में"
-        },
-        "c": {
-          "en": "Resolution in total font counts per sheet; Speed in megabytes fused per minute",
-          "hi": "रिज़ॉल्यूशन कुल फ़ॉन्ट संख्या प्रति शीट में; गति मेगाबाइट फ़्यूज्ड प्रति मिनट में"
-        },
-        "d": {
-          "en": "Resolution in continuous pen strokes; Speed in total sheets loaded per standard drawer",
-          "hi": "रिज़ॉल्यूशन निरंतर पेन स्ट्रोक में; गति कुल शीट प्रति मानक दराज में लोड की गई"
-        }
-      },
-      "correct_option": "b",
-      "hint": {
-        "en": "Look for acronyms like dpi for micro-dot spacing, along with time-based execution values like cps, lpm, or ppm.",
-        "hi": "माइक्रो-डॉट स्पेसिंग के लिए dpi जैसे संक्षिप्त रूपों की खोज करें, साथ ही cps, lpm, या ppm जैसे समय-आधारित निष्पादन मानों को देखें।"
-      },
-      "explanation": {
-        "en": "The textbook directly states: 'The resolution of a printer is measured in terms of number of dots per inch (dpi). The speed of a printer is measured in terms of number of characters printed in a unit of time and is represented as characters-per-second (cps), lines-per-minute (lpm), or pages-per-minute (ppm).'",
-        "hi": "पाठ्यपुस्तक सीधे कहती है: 'एक प्रिंटर का रिज़ॉल्यूशन डॉट्स प्रति इंच (dpi) की संख्या के संदर्भ में मापा जाता है। प्रिंटर की गति समय की एक इकाई में मुद्रित अक्षरों की संख्या के संदर्भ में मापी जाती है और इसे कैरेक्टर-पर-सेकंड (cps), लाइन्स-पर-मिनट (lpm), या पेजेस-पर-मिनट (ppm) के रूप में दर्शाया जाता है।'"
-      },
-      "key_takeaway": {
-        "en": "Printer metric parameters: Quality uses DPI; Speed performance spans CPS/LPM/PPM units.",
-        "hi": "प्रिंटर मीट्रिक पैरामीटर: गुणवत्ता DPI का उपयोग करती है; गति प्रदर्शन CPS/LPM/PPM इकाइयों में फैला है।"
-      }
-    },
-    {
-      "question_id": 27,
-      "question": {
-        "en": "Which printer mechanism creates characters by physical impact using a matrix of pins, is slow, and produces lots of noise?",
-        "hi": "कौन सा प्रिंटर तंत्र पिन के मैट्रिक्स का उपयोग करके भौतिक प्रभाव (Impact) द्वारा अक्षर बनाता है, धीमा है, और बहुत अधिक शोर करता है?"
-      },
-      "options": {
-        "a": {
-          "en": "Laser Printer",
-          "hi": "लेजर प्रिंटर"
-        },
-        "b": {
-          "en": "Inkjet Printer",
-          "hi": "इंकजेट प्रिंटर"
-        },
-        "c": {
-          "en": "Dot Matrix Printer",
-          "hi": "डॉट मैट्रिक्स प्रिंटर"
-        },
-        "d": {
-          "en": "Electrostatic Printer",
-          "hi": "इलेक्ट्रोस्टैटिक प्रिंटर"
-        }
-      },
-      "correct_option": "c",
-      "hint": {
-        "en": "This classic black and white hardware strikes an inked ribbon repeatedly to form text characters out of visible small dots.",
-        "hi": "यह क्लासिक ब्लैक एंड वाइट हार्डवेयर दृश्यमान छोटे डॉट्स से टेक्स्ट कैरेक्टर बनाने के लिए एक इंक रिबन पर बार-बार वार करता है।"
-      },
-      "explanation": {
-        "en": "The text states that a Dot Matrix Printer prints one character at a time by joining dots. It uses a print head containing a matrix of pins that strikes the page by impact, creating significant operational noise and poor resolution.",
-        "hi": "पाठ में कहा गया है कि एक डॉट मैट्रिक्स प्रिंटर डॉट्स को जोड़कर एक बार में एक कैरेक्टर प्रिंट करता है। यह पिन के मैट्रिक्स वाले प्रिंट हेड का उपयोग करता है जो प्रभाव (Impact) द्वारा पेज पर वार करता है, जिससे महत्वपूर्ण परिचालन शोर और खराब रिज़ॉल्यूशन उत्पन्न होता है।"
-      },
-      "key_takeaway": {
-        "en": "Dot Matrix systems fall under impact printing, characterized by pin head noise.",
-        "hi": "डॉट मैट्रिक्स सिस्टम इम्पैक्ट प्रिंटिंग के अंतर्गत आते हैं, जो पिन हेड के शोर की विशेषता रखते हैं।"
-      }
-    },
-    {
-      "question_id": 28,
-      "question": {
-        "en": "What distinct operational method and physical tools allow a Plotter to differentiate itself from a standard printer layout?",
-        "hi": "प्लॉटर को एक मानक प्रिंटर लेआउट से अलग करने के लिए कौन सी विशिष्ट परिचालन विधि और भौतिक उपकरण अनुमति देते हैं?"
-      },
-      "options": {
-        "a": {
-          "en": "It sprays electrostatic toner fluid over a thermal fusion plate block",
-          "hi": "यह एक थर्मल फ्यूजन प्लेट ब्लॉक पर इलेक्ट्रोस्टैटिक टोनर तरल स्प्रे करता है"
-        },
-        "b": {
-          "en": "It uses an electronically controlled motor to draw continuous lines using a pen",
-          "hi": "यह पेन का उपयोग करके निरंतर रेखाएं खींचने के लिए इलेक्ट्रॉनिक रूप से नियंत्रित मोटर का उपयोग करता है"
-        },
-        "c": {
-          "en": "It projects visual pixels directly onto large group viewing screens via lenses",
-          "hi": "यह लेंस के माध्यम से सीधे बड़े समूह देखने वाली स्क्रीन पर दृश्य पिक्सेल प्रोजेक्ट करता है"
-        },
-        "d": {
-          "en": "It triggers a series of physical pin head impacts against a magnetic stripe card",
-          "hi": "यह एक चुंबकीय पट्टी कार्ड के खिलाफ भौतिक पिन हेड प्रभावों की एक श्रृंखला को ट्रिगर करता है"
-        }
-      },
-      "correct_option": "b",
-      "hint": {
-        "en": "Standard printers form line shapes by rendering tightly grouped dots; this machine physically moves a writing tool smoothly across paper.",
-        "hi": "मानक प्रिंटर कसकर समूहीकृत डॉट्स प्रस्तुत करके रेखा आकृतियाँ बनाते हैं; यह मशीन कागज पर लिखने के उपकरण को भौतिक रूप से सुचारू रूप से चलाती है।"
-      },
-      "explanation": {
-        "en": "The text explains: 'A plotter differs from a printer in that it draws images using a pen. A pen can be lowered, raised and move across the paper to draw continues lines whereas printer can only simulate lines by printing a closely spaced series of dots.'",
-        "hi": "पाठ बताते हैं: 'एक प्लॉटर प्रिंटर से इस मायने में भिन्न होता है कि वह पेन का उपयोग करके चित्र बनाता है। एक पेन को नीचे किया जा सकता है, उठाया जा सकता है और कागज पर निरंतर रेखाएं खींचने के लिए स्थानांतरित किया जा सकता है जबकि प्रिंटर केवल बारीकी से दूरी वाले डॉट्स की एक श्रृंखला मुद्रित करके रेखाओं का अनुकरण कर सकता है।'"
-      },
-      "key_takeaway": {
-        "en": "Plotters render authentic continuous pen lines for CAD/engineering blueprints.",
-        "hi": "प्लॉटर CAD/इंजीनियरिंग ब्लूप्रिंट के लिए प्रामाणिक निरंतर पेन रेखाएं प्रस्तुत करते हैं।"
-      }
-    },
-    {
-      "question_id": 29,
-      "question": {
-        "en": "How are Bluetooth speakers explicitly connected to a computer layout according to Section 1.3.1?",
-        "hi": "धारा 1.3.1 के अनुसार ब्लूटूथ स्पीकर कंप्यूटर लेआउट से स्पष्ट रूप से कैसे जुड़े होते हैं?"
-      },
-      "options": {
-        "a": {
-          "en": "Via electrostatic toner fuses matching high-speed control registers",
-          "hi": "हाई-स्पीड कंट्रोल रजिस्टरों से मेल खाने वाले इलेक्ट्रोस्टैटिक टोनर फ़्यूज़ के माध्यम से"
-        },
-        "b": {
-          "en": "By embedding flash memory chips right inside a digital barcode lens scanner",
-          "hi": "एक डिजिटल बारकोड लेंस स्कैनर के ठीक अंदर फ्लैश मेमोरी चिप्स को एम्बेड करके"
-        },
-        "c": {
-          "en": "By using an Aux Jack and compatible adaptor",
-          "hi": "एक ऑक्स जैक (Aux Jack) और संगत एडाप्टर का उपयोग करके"
-        },
-        "d": {
-          "en": "Through direct optical light reflections tracking diagonal pixel elements",
-          "hi": "विकर्ण पिक्सेल तत्वों को ट्रैक करने वाले प्रत्यक्ष ऑप्टिकल प्रकाश परावर्तन के माध्यम से"
-        }
-      },
-      "correct_option": "c",
-      "hint": {
-        "en": "Review the specific single-line sentence under the 'Speaker' description detailing alternative auxiliary hookups.",
-        "hi": "'स्पीकर' विवरण के तहत विशिष्ट सिंगल-लाइन वाक्य की समीक्षा करें जो वैकल्पिक सहायक हुकअप का विवरण देता है।"
-      },
-      "explanation": {
-        "en": "The textbook explicitly provides this hardware configuration under the Speaker description text: 'Bluethooth speakers can be connected with a computer by using an Aux Jack and compatible adaptor.'",
-        "hi": "पाठ्यपुस्तक स्पष्ट रूप से स्पीकर विवरण पाठ के तहत यह हार्डवेयर कॉन्फ़िगरेशन प्रदान करती है: 'Bluethooth speakers can be connected with a computer by using an Aux Jack and compatible adaptor.'"
-      },
-      "key_takeaway": {
-        "en": "Bluetooth speakers support physical auxiliary interfaces via an Aux Jack and adaptor setup.",
-        "hi": "ब्लूटूथ स्पीकर ऑक्स जैक और एडॉप्टर सेटअप के माध्यम से भौतिक सहायक इंटरफ़ेस का समर्थन करते हैं।"
-      }
-    },
-    {
-      "question_id": 30,
-      "question": {
-        "en": "What is the smallest unit of digital memory storage as specified in Chapter 1, and what abbreviation does it bear?",
-        "hi": "अध्याय 1 में निर्दिष्ट डिजिटल मेमोरी स्टोरेज की सबसे छोटी इकाई क्या है, और इसका संक्षिप्त नाम (Abbreviation) क्या है?"
-      },
-      "options": {
-        "a": {
-          "en": "Byte, abbreviated as B",
-          "hi": "बाइट (Byte), संक्षिप्त रूप में B"
-        },
-        "b": {
-          "en": "Nibble, abbreviated as Nb",
-          "hi": "निबल (Nibble), संक्षिप्त रूप में Nb"
-        },
-        "c": {
-          "en": "Bit, standing for binary digit",
-          "hi": "बिट (Bit), जिसका अर्थ बाइनरी डिजिट है"
-        },
-        "d": {
-          "en": "Kilobyte, abbreviated as KB",
-          "hi": "किलोबाइट (Kilobyte), संक्षिप्त रूप में KB"
-        }
-      },
-      "correct_option": "c",
-      "hint": {
-        "en": "This atomic baseline can hold only two absolute mathematical state values: either 0 or 1.",
-        "hi": "यह परमाणु आधार रेखा केवल दो पूर्ण गणितीय स्थिति मान रख सकती है: या तो 0 या 1।"
-      },
-      "explanation": {
-        "en": "The text states: 'The smallest unit of memory is Bit. Bit stands for binary digit. It can take only two values either 0 or 1.' A group of 4 bits makes a nibble, and 8 bits form a byte.",
-        "hi": "पाठ में कहा गया है: 'मेमोरी की सबसे छोटी इकाई बिट है। बिट का अर्थ बाइनरी डिजिट है। यह केवल दो मान या तो 0 या 1 ले सकता है।' 4 बिट्स का समूह एक निबल बनाता है, और 8 बिट्स मिलकर एक बाइट बनाते हैं।"
-      },
-      "key_takeaway": {
-        "en": "Bits represent the fundamental, lowest data metric unit block in computing architectures.",
-        "hi": "बिट्स कंप्यूटिंग आर्किटेक्चर में मौलिक, सबसे निचली डेटा मीट्रिक इकाई ब्लॉक का प्रतिनिधित्व करते हैं।"
-      }
-    },
-    {
-      "question_id": 31,
-      "question": {
-        "en": "How many Kilobytes are precisely contained inside 1 Megabyte (MB), and why is it not exactly one thousand?",
-        "hi": "1 मेगाबाइट (MB) के अंदर सटीक रूप से कितने किलोबाइट होते हैं, और यह ठीक एक हजार क्यों नहीं होता है?"
-      },
-      "options": {
-        "a": {
-          "en": "1000 KB; because it follows standard decimal base-10 metrics",
-          "hi": "1000 KB; क्योंकि यह मानक दशमलव आधार-10 मेट्रिक्स का अनुसरण करता है"
-        },
-        "b": {
-          "en": "1024 KB; because computers use binary (base two) math instead of a decimal system",
-          "hi": "1024 KB; क्योंकि कंप्यूटर दशमलव प्रणाली के बजाय बाइनरी (आधार दो) गणित का उपयोग करते हैं"
-        },
-        "c": {
-          "en": "1048 KB; because semiconductor devices require an extra space buffer segment",
-          "hi": "1048 KB; क्योंकि सेमीकंडक्टर उपकरणों को एक अतिरिक्त स्पेस बफर सेगमेंट की आवश्यकता होती है"
-        },
-        "d": {
-          "en": "512 KB; because memory units are divided evenly into two separate static cell rows",
-          "hi": "512 KB; क्योंकि मेमोरी इकाइयाँ दो अलग-अलग स्थिर सेल पंक्तियों में समान रूप से विभाजित होती हैं"
-        }
-      },
-      "correct_option": "b",
-      "hint": {
-        "en": "Think about powers of 2. The value corresponds to $2^{10}$, which is slightly higher than 1000.",
-        "hi": "2 की घातों के बारे में सोचें। मान $2^{10}$ के अनुरूप है, जो 1000 से थोड़ा अधिक है।"
-      },
-      "explanation": {
-        "en": "The textbook explains that a Kilobyte or Megabyte calculation uses 1,024 steps, stating: 'because computers use binary (base two) math, instead of a decimal (base ten) system.' Thus, 1 MB contains exactly 1,024 Kilobytes.",
-        "hi": "पाठ्यपुस्तक बताती है कि किलोबाइट या मेगाबाइट गणना 1,024 चरणों का उपयोग करती है, जिसमें कहा गया है: 'क्योंकि कंप्यूटर दशमलव (आधार दस) प्रणाली के बजाय बाइनरी (आधार दो) गणित का उपयोग करते हैं।' इस प्रकार, 1 MB में ठीक 1,024 किलोबाइट होते हैं।"
-      },
-      "key_takeaway": {
-        "en": "Digital storage tiers climb by factor multiples of 1024 due to binary constraints.",
-        "hi": "बाइनरी बाधाओं के कारण डिजिटल स्टोरेज टियर 1024 के गुणक से बढ़ते हैं।"
-      }
-    },
-    {
-      "question_id": 32,
-      "question": {
-        "en": "Based on the internal memory speed hierarchy chart, what happens to memory access speeds as you move up the pyramid diagram?",
-        "hi": "आंतरिक मेमोरी गति पदानुक्रम चार्ट के आधार पर, जैसे-जैसे आप पिरामिड आरेख में ऊपर बढ़ते हैं, मेमोरी एक्सेस गति का क्या होता है?"
-      },
-      "options": {
-        "a": {
-          "en": "Speed drops significantly as capacity parameters expand",
-          "hi": "क्षमता पैरामीटर बढ़ने पर गति काफी कम हो जाती है"
-        },
-        "b": {
-          "en": "Speed increases as we move up through Main Memory, Cache, to CPU Registers",
-          "hi": "जैसे-जैसे हम मुख्य मेमोरी, कैश से CPU रजिस्टर तक ऊपर बढ़ते हैं, गति बढ़ती है"
-        },
-        "c": {
-          "en": "Speed remains completely static across all internal semiconductor chips",
-          "hi": "सभी आंतरिक सेमीकंडक्टर चिप्स में गति पूरी तरह से स्थिर रहती है"
-        },
-        "d": {
-          "en": "Speed fluctuates depending on whether Num Lock keys are enabled or not",
-          "hi": "गति इस बात पर निर्भर करती है कि Num Lock कुंजियाँ सक्षम हैं या नहीं"
-        }
-      },
-      "correct_option": "b",
-      "hint": {
-        "en": "Look at the vertical arrow indicator on the left side of the memory classification chart in Section 1.4.2.",
-        "hi": "धारा 1.4.2 में मेमोरी वर्गीकरण चार्ट के बाईं ओर वर्टिकल तीर संकेतक को देखें।"
-      },
-      "explanation": {
-        "en": "The textbook diagram explicitly includes a vertical arrow showing 'Speed Increases As we move up'. The layers from bottom to top are Magnetic Tape, Optical Disk, Magnetic Disk, Main Memory, Cache Memory, and CPU Registers at the very peak.",
-        "hi": "पाठ्यपुस्तक के आरेख में स्पष्ट रूप से एक वर्टिकल तीर शामिल है जो दिखाता है 'Speed Increases As we move up'। नीचे से ऊपर की परतें मैग्नेटिक टेप, ऑप्टिकल डिस्क, मैग्नेटिक डिस्क, मेन मेमोरी, कैश मेमोरी और बिल्कुल शीर्ष पर CPU रजिस्टर्स हैं।"
-      },
-      "key_takeaway": {
-        "en": "CPU registers sit at the absolute peak of memory retrieval access speed performance.",
-        "hi": "CPU रजिस्टर मेमोरी रिट्रीवल एक्सेस स्पीड परफॉर्मेंस के बिल्कुल शिखर पर बैठते हैं।"
-      }
-    },
-    {
-      "question_id": 33,
-      "question": {
-        "en": "What operational properties differentiate Static RAM (SRAM) from Dynamic RAM (DRAM) as described in the text?",
-        "hi": "पाठ में वर्णित अनुसार कौन से परिचालन गुण स्टैटिक रैम (SRAM) को डायनेमिक रैम (DRAM) से अलग करते हैं?"
-      },
-      "options": {
-        "a": {
-          "en": "SRAM uses capacitors that require periodic laser flashes to preserve bits",
-          "hi": "SRAM कैपेसिटर का उपयोग करता है जिन्हें बिट्स को सुरक्षित रखने के लिए समय-समय पर लेजर फ्लैश की आवश्यकता होती है"
-        },
-        "b": {
-          "en": "SRAM does not need to be refreshed on a regular basis and can be used as cache memory",
-          "hi": "SRAM को नियमित रूप से रीफ्रेश करने की आवश्यकता नहीं होती है और इसे कैश मेमोरी के रूप में उपयोग किया जा सकता है"
-        },
-        "c": {
-          "en": "DRAM retains data strings permanently even after power supplies click off completely",
-          "hi": "DRAM बिजली की आपूर्ति पूरी तरह से बंद होने के बाद भी डेटा स्ट्रिंग्स को स्थायी रूप से सुरक्षित रखता है"
-        },
-        "d": {
-          "en": "DRAM is faster, more expensive, and requires more chips per MB layout than SRAM",
-          "hi": "DRAM, SRAM की तुलना में तेज़, अधिक महंगा है, और प्रति MB लेआउट में अधिक चिप्स की आवश्यकता होती है"
-        }
-      },
-      "correct_option": "b",
-      "hint": {
-        "en": "SRAM doesn't use capacitors for bit storage, meaning transistors don't suffer from charge leakage that demands constant rewriting circuits.",
-        "hi": "SRAM बिट स्टोरेज के लिए कैपेसिटर का उपयोग नहीं करता है, जिसका अर्थ है कि ट्रांजिस्टर चार्ज लीकेज से पीड़ित नहीं होते हैं जिसके लिए निरंतर रीराइटिंग सर्किट की आवश्यकता होती है।"
-      },
-      "explanation": {
-        "en": "The textbook notes that transistors in Static RAM do not require power to prevent leakage, so 'SRAM need not to be refreshed on regular basis.' It is faster, expensive, and can be used as cache memory, whereas DRAM loses information within milliseconds and must be constantly rewritten by a refresh circuit.",
-        "hi": "पाठ्यपुस्तक में उल्लेख है कि स्टैटिक रैम में ट्रांजिस्टर को लीकेज को रोकने के लिए बिजली की आवश्यकता नहीं होती है, इसलिए 'SRAM को नियमित आधार पर रीफ्रेश करने की आवश्यकता नहीं होती है।' यह तेज़, महंगा है और इसे कैश मेमोरी के रूप में उपयोग किया जा सकता है, जबकि DRAM मिलीसेकंड के भीतर जानकारी खो देता है और इसे लगातार रीफ्रेश सर्किट द्वारा फिर से लिखा जाना चाहिए।"
-      },
-      "key_takeaway": {
-        "en": "SRAM retains states without refresh cycle maintenance loops, serving as cache.",
-        "hi": "SRAM बिना रीफ्रेश चक्र रखरखाव लूप के स्टेट्स को बनाए रखता है, कैश के रूप में कार्य करता है।"
-      }
-    },
-    {
-      "question_id": 34,
-      "question": {
-        "en": "What is the core function of ROM during computer startup, and what specific term is given to this entire operation?",
-        "hi": "कंप्यूटर स्टार्टअप के दौरान ROM का मुख्य कार्य क्या है, और इस संपूर्ण ऑपरेशन को क्या विशिष्ट नाम दिया गया है?"
-      },
-      "options": {
-        "a": {
-          "en": "It copies employee database entries; called financial scheduling pass",
-          "hi": "यह कर्मचारी डेटाबेस प्रविष्टियों की प्रतिलिपि बनाता है; इसे वित्तीय शेड्यूलिंग पास कहा जाता है"
-        },
-        "b": {
-          "en": "It sprays ink characters to calibrate DPI resolutions; called dot passivation",
-          "hi": "यह DPI रिज़ॉल्यूशन को कैलिब्रेट करने के लिए स्याही के अक्षरों को स्प्रे करता है; इसे डॉट पैसिवेशन कहा जाता है"
-        },
-        "c": {
-          "en": "It translates high-level text code via compiler registers; called formatting pass",
-          "hi": "यह कंपाइलर रजिस्टरों के माध्यम से उच्च-स्तरीय टेक्स्ट कोड का अनुवाद करता है; इसे फ़ॉर्मेटिंग पास कहा जाता है"
-        },
-        "d": {
-          "en": "It holds non-volatile programming to boot up the machine; called bootstrap",
-          "hi": "यह मशीन को बूट करने के लिए नॉन-वोलेटाइल प्रोग्रामिंग रखता है; इसे बूटस्ट्रैप (bootstrap) कहा जाता है"
+          "en": "MICR reader",
+          "hi": "MICR रीडर"
         }
       },
       "correct_option": "d",
       "hint": {
-        "en": "Look under Section 1.4.2 under the 'ROM' properties for a term that describes pulling a system up by its own structural laces.",
-        "hi": "स्वयं के संरचनात्मक लेस द्वारा एक सिस्टम को ऊपर खींचने का वर्णन करने वाले शब्द के लिए 'ROM' गुणों के तहत धारा 1.4.2 के अंतर्गत देखें।"
+        "en": "Look for the acronym that stands explicitly for 'Magnetic Ink Character Recognition' built for bank checks.",
+        "hi": "उस संक्षिप्त नाम को खोजें जिसका पूरा नाम विशेष रूप से बैंक चेक के लिए बनाया गया 'मैग्नेटिक इंक कैरेक्टर रिकग्निशन' है।"
       },
       "explanation": {
-        "en": "The text states that ROM is non-volatile and permanently stores data. It contains the programming that allows your computer to be 'booted up' each time you turn it on, explicitly specifying: 'This operation is called bootstrap.'",
-        "hi": "पाठ में कहा गया है कि ROM नॉन-वोलेटाइल है और डेटा को स्थायी रूप से संग्रहीत करता है। इसमें वह प्रोग्रामिंग शामिल है जो आपके कंप्यूटर को हर बार चालू करने पर 'बूट' होने की अनुमति देती है, स्पष्ट रूप से निर्दिष्ट करती है: 'इस ऑपरेशन को बूटस्ट्रैप (bootstrap) कहा जाता है।'"
+        "en": "The textbook notes that MICR is a character-recognition input device heavily used by the banking industry to ease the processing and clearance of cheques printed with machine-readable magnetic particles.",
+        "hi": "पाठ्यपुस्तक में उल्लेख है कि MICR एक कैरेक्टर-रिकग्निशन इनपुट डिवाइस है जिसका बैंकिंग उद्योग द्वारा मशीन-पठनीय चुंबकीय कणों से मुद्रित चेक के प्रसंस्करण और निकासी को आसान बनाने के लिए भारी मात्रा में उपयोग किया जाता है।"
       },
       "key_takeaway": {
-        "en": "ROM firmware launches the initial Bootstrap operation to awaken hardware.",
-        "hi": "हार्डवेयर को जगाने के लिए ROM फर्मवेयर प्रारंभिक बूटस्ट्रैप ऑपरेशन लॉन्च करता है।"
-      }
-    },
-    {
-      "question_id": 35,
-      "question": {
-        "en": "What is the physical layout inside a Hard Disk as defined in Chapter 1, and what data storage capacities are noted as available for it?",
-        "hi": "अध्याय 1 में परिभाषित अनुसार हार्ड डिस्क के अंदर भौतिक लेआउट क्या है, और इसके लिए कौन सी डेटा भंडारण क्षमताएं उपलब्ध बताई गई हैं?"
-      },
-      "options": {
-        "a": {
-          "en": "A series of optical laser beams scanning exactly 700 MB flash files",
-          "hi": "ठीक 700 MB फ्लैश फाइलों को स्कैन करने वाली ऑप्टिकल लेजर बीम की एक श्रृंखला"
-        },
-        "b": {
-          "en": "A wireless thin touch layer terminal supporting up to 104 input registers",
-          "hi": "अधिकतम 104 इनपुट रजिस्टरों का समर्थन करने वाला एक वायरलेस पतला टच लेयर टर्मिनल"
-        },
-        "c": {
-          "en": "A magnetic plate present inside; capacities with more than 500 GB are available",
-          "hi": "अंदर एक चुंबकीय प्लेट (Magnetic plate) मौजूद होती है; 500 GB से अधिक क्षमता वाले मॉडल उपलब्ध हैं"
-        },
-        "d": {
-          "en": "An electrostatic toner drum container supporting precisely three mechanical pens",
-          "hi": "सटीक रूप से तीन मैकेनिकल पेन का समर्थन करने वाला एक इलेक्ट्रोस्टैटिक टोनर ड्रम कंटेनर"
-        }
-      },
-      "correct_option": "c",
-      "hint": {
-        "en": "Check the specific hardware platter descriptions and baseline capacity gigabyte benchmarks mentioned under the Hard Disk heading.",
-        "hi": "हार्ड डिस्क हेडिंग के तहत उल्लिखित विशिष्ट हार्डवेयर प्लैटर विवरण और आधारभूत क्षमता गीगाबाइट बेंचमार्क की जांच करें।"
-      },
-      "explanation": {
-        "en": "The textbook specifies under section 1.5.3: 'A magnetic plate is present inside the Hard disk. The storage capacity of Hard Disk is greater than Floppy. Hard disk with more than 500 GB data storage capacity are available now-a-days.'",
-        "hi": "पाठ्यपुस्तक धारा 1.5.3 के तहत निर्दिष्ट करती है: 'हार्ड डिस्क के अंदर एक चुंबकीय प्लेट मौजूद होती है। हार्ड डिस्क की भंडारण क्षमता फ्लॉपी से अधिक होती है। आजकल 500 GB से अधिक डेटा भंडारण क्षमता वाली हार्ड डिस्क उपलब्ध हैं।'"
-      },
-      "key_takeaway": {
-        "en": "Hard Disks spin internal magnetic plates to lock permanent large records exceeding 500 GB boundaries.",
-        "hi": "हार्ड डिस्क 500 GB की सीमाओं से अधिक स्थायी बड़े रिकॉर्ड को लॉक करने के लिए आंतरिक चुंबकीय प्लेटों को घुमाती हैं।"
-      }
-    },
-    {
-      "question_id": 36,
-      "question": {
-        "en": "What structural features render Universal Serial Bus (USB) flash Pen Drives superior and more durable compared to traditional secondary options like Floppy Disks or CDs?",
-        "hi": "यूनिवर्सल सीरियल बस (USB) फ्लैश पेन ड्राइव में ऐसी कौन सी संरचनात्मक विशेषताएं हैं जो उन्हें फ्लॉपी डिस्क या सीडी जैसे पारंपरिक माध्यमिक विकल्पों की तुलना में बेहतर और अधिक टिकाऊ बनाती हैं?"
-      },
-      "options": {
-        "a": {
-          "en": "They utilize electrostatic laser toner drums that prevent any leakage refresh cycles",
-          "hi": "वे इलेक्ट्रोस्टैटिक लेजर टोनर ड्रम का उपयोग करते हैं जो किसी भी लीकेज रीफ्रेश चक्र को रोकते हैं"
-        },
-        "b": {
-          "en": "They contain 104 internal multimedia keys that automatically bypass control bus signals",
-          "hi": "उनमें 104 आंतरिक मल्टीमीडिया कुंजियाँ होती हैं जो स्वचालित रूप से नियंत्रण बस संकेतों को बायपास करती हैं"
-        },
-        "c": {
-          "en": "They feature continuous multi-color drawing pens linked to base-10 calculation blocks",
-          "hi": "उनमें आधार-10 गणना ब्लॉकों से जुड़े निरंतर बहु-रंगीन ड्राइंग पेन होते हैं"
-        },
-        "d": {
-          "en": "They are smaller, faster, hold massive capacities, and are more reliable because they have no moving parts",
-          "hi": "वे छोटे, तेज़ हैं, भारी क्षमता रखते हैं, और अधिक विश्वसनीय हैं क्योंकि उनमें कोई चलने वाला भाग नहीं होता है"
-        }
-      },
-      "correct_option": "d",
-      "hint": {
-        "en": "Think about solid-state endurance: without revolving spindles or sweeping read heads, kinetic shocks cause zero mechanical damage.",
-        "hi": "ठोस-अवस्था (solid-state) धीरज के बारे में सोचें: बिना घूमते हुए स्पिंडल या चलते हुए रीड हेड के, गतिज झटके से कोई यांत्रिक क्षति नहीं होती है।"
-      },
-      "explanation": {
-        "en": "The resource text states that USB flash drives are pocket-sized portable devices used for storage and transfer. It explicitly notes they are 'smaller, faster, have thousands of times more capacity, and are more durable and reliable because they have no moving parts.'",
-        "hi": "संसाधन पाठ में कहा गया है कि USB फ्लैश ड्राइव पॉकेट के आकार के पोर्टेबल उपकरण हैं जिनका उपयोग भंडारण और स्थानांतरण के लिए किया जाता है। यह स्पष्ट रूप से नोट करता है कि वे 'छोटे, तेज़ हैं, हजारों गुना अधिक क्षमता रखते हैं, और अधिक टिकाऊ व विश्वसनीय हैं क्योंकि उनमें कोई चलने वाला भाग नहीं होता है।'"
-      },
-      "key_takeaway": {
-        "en": "The total lack of moving kinetic mechanisms gives flash drives maximum physical durability and rapid performance.",
-        "hi": "चलने वाले यांत्रिक भागों की पूर्ण कमी फ्लैश ड्राइव को अधिकतम भौतिक स्थायित्व और तीव्र प्रदर्शन प्रदान करती है।"
+        "en": "MICR safely parses iron oxide ink tags for fast bank check clearances.",
+        "hi": "MICR तेजी से बैंक चेक क्लीयरेंस के लिए आयरन ऑक्साइड इंक टैग को सुरक्षित रूप से पार्स करता है।"
       }
     }
   ]
