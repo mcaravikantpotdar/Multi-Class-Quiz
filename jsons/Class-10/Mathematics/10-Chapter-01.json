@@ -5,18 +5,20 @@
     "chapter_title_hindi": "वास्तविक संख्याएँ",
     "subject": "Mathematics",
     "total_questions": 30,
-    "source_language": "hi",
+    "source_language": "en",
     "target_language": "hi",
-    "created_at": "2026-06-22T10:15:00Z",
-    "version": "1.0",
-    "note": "Strictly sequential MCQ learning tool based on Class 10 Math Chapter 1 (Real Numbers). Balanced answer keys covering Introduction, Fundamental Theorem of Arithmetic, and Revisiting Irrational Numbers."
+    "created_at": "2026-06-22T10:30:00Z",
+    "version": "1.1",
+    "note": "Strictly sequential MCQ learning tool based on Class 10 Math Chapter 1 (Real Numbers). ALL mathematical formulas and symbols have been converted to native Unicode (², ³, √, ×, ≠) for universal display compatibility without needing LaTeX."
   },
   "validation_report": {
     "is_valid": true,
     "checked_by": "Expert Math Teacher AI",
-    "checked_at": "2026-06-22T10:15:00Z",
-    "corrections": [],
-    "notes": "Verified that all 30 questions map precisely to the PDF contents with exact page locators and balanced options."
+    "checked_at": "2026-06-22T10:30:00Z",
+    "corrections": [
+      "Removed all LaTeX formatting ($...$) and replaced with universal native Unicode characters."
+    ],
+    "notes": "Verified that all 30 questions map precisely to the PDF contents with exact page locators and universally readable text formatting."
   },
   "questions": [
     {
@@ -125,8 +127,8 @@
         "hi": "पृष्ठ 3 पर गुणनखंड वृक्ष में 2 और 3 के आने की संख्या गिनें।"
       },
       "explanation": {
-        "en": "The factor tree on Page 3 clearly shows the prime factors are 2, 2, 2, 3, 3, 5, 7, and 13. Writing this as powers gives $32760 = 2^3 \\times 3^2 \\times 5 \\times 7 \\times 13$.",
-        "hi": "पृष्ठ 3 पर गुणनखंड वृक्ष स्पष्ट रूप से दर्शाता है कि अभाज्य गुणनखंड 2, 2, 2, 3, 3, 5, 7 और 13 हैं। इसे घातों के रूप में लिखने पर $32760 = 2^3 \\times 3^2 \\times 5 \\times 7 \\times 13$ प्राप्त होता है।"
+        "en": "The factor tree on Page 3 clearly shows the prime factors are 2, 2, 2, 3, 3, 5, 7, and 13. Writing this as powers gives 32760 = 2³ × 3² × 5 × 7 × 13.",
+        "hi": "पृष्ठ 3 पर गुणनखंड वृक्ष स्पष्ट रूप से दर्शाता है कि अभाज्य गुणनखंड 2, 2, 2, 3, 3, 5, 7 और 13 हैं। इसे घातों के रूप में लिखने पर 32760 = 2³ × 3² × 5 × 7 × 13 प्राप्त होता है।"
       },
       "key_takeaway": {
         "en": "Factor trees help visualize the exact prime components and their exponents for large numbers.",
@@ -163,8 +165,8 @@
         "hi": "पृष्ठ 4 पर चित्र और सूचनात्मक टेक्स्ट बॉक्स को देखें।"
       },
       "explanation": {
-        "en": "Page 4 explicitly states: 'Carl Friedrich Gauss is often referred to as the 'Prince of Mathematicians'... but the first correct proof was given by Carl Friedrich Gauss in his Disquisitiones Arithmeticae.'",
-        "hi": "पृष्ठ 4 स्पष्ट रूप से बताता है: 'कार्ल फ्रैड्रिक गॉस को प्रायः 'गणितज्ञों का राजकुमार' कहा जाता है... परंतु इसकी सबसे पहले सही उपपत्ति कार्ल फ्रेड्रिक गॉस ने अपनी कृति डिसक्वीशंस अरिथिमेटिकी में दी।'"
+        "en": "Page 4 explicitly states: 'Carl Friedrich Gauss is often referred to as the Prince of Mathematicians... but the first correct proof was given by Carl Friedrich Gauss in his Disquisitiones Arithmeticae.'",
+        "hi": "पृष्ठ 4 स्पष्ट रूप से बताता है: 'कार्ल फ्रैड्रिक गॉस को प्रायः गणितज्ञों का राजकुमार कहा जाता है... परंतु इसकी सबसे पहले सही उपपत्ति कार्ल फ्रेड्रिक गॉस ने अपनी कृति डिसक्वीशंस अरिथिमेटिकी में दी।'"
       },
       "key_takeaway": {
         "en": "Carl Friedrich Gauss provided the foundational rigorous proof for the Fundamental Theorem of Arithmetic.",
@@ -212,8 +214,8 @@
     {
       "question_id": 6,
       "question": {
-        "en": "[Topic: 1.2 Fundamental Theorem of Arithmetic, Page 5] For a number of the form $4^n$ (where n is a natural number) to end with the digit zero (0), which prime number must be present in its prime factorization?",
-        "hi": "[विषय: 1.2 अंकगणित की आधारभूत प्रमेय, पृष्ठ 5] $4^n$ (जहाँ n एक प्राकृत संख्या है) के रूप की संख्या को शून्य (0) अंक पर समाप्त होने के लिए, इसके अभाज्य गुणनखंडन में कौन सी अभाज्य संख्या उपस्थित होनी चाहिए?"
+        "en": "[Topic: 1.2 Fundamental Theorem of Arithmetic, Page 5] For a number of the form 4ⁿ (where n is a natural number) to end with the digit zero (0), which prime number must be present in its prime factorization?",
+        "hi": "[विषय: 1.2 अंकगणित की आधारभूत प्रमेय, पृष्ठ 5] 4ⁿ (जहाँ n एक प्राकृत संख्या है) के रूप की संख्या को शून्य (0) अंक पर समाप्त होने के लिए, इसके अभाज्य गुणनखंडन में कौन सी अभाज्य संख्या उपस्थित होनी चाहिए?"
       },
       "options": {
         "a": {
@@ -239,8 +241,8 @@
         "hi": "पृष्ठ 5 पर उदाहरण 1 देखें। 0 पर समाप्त होने वाली कोई भी संख्या 10 से विभाज्य होनी चाहिए, जिसका अर्थ है कि उसमें 2 और एक अन्य विशिष्ट अभाज्य गुणनखंड दोनों होने चाहिए।"
       },
       "explanation": {
-        "en": "In Example 1 on Page 5, it is explained that if a number ends with the digit zero, it must be divisible by 5. Therefore, the prime factorization of $4^n$ would need to contain the prime number 5.",
-        "hi": "पृष्ठ 5 पर उदाहरण 1 में, यह समझाया गया है कि यदि कोई संख्या शून्य अंक पर समाप्त होती है, तो वह 5 से विभाज्य होनी चाहिए। इसलिए, $4^n$ के अभाज्य गुणनखंडन में अभाज्य संख्या 5 आनी चाहिए।"
+        "en": "In Example 1 on Page 5, it is explained that if a number ends with the digit zero, it must be divisible by 5. Therefore, the prime factorization of 4ⁿ would need to contain the prime number 5.",
+        "hi": "पृष्ठ 5 पर उदाहरण 1 में, यह समझाया गया है कि यदि कोई संख्या शून्य अंक पर समाप्त होती है, तो वह 5 से विभाज्य होनी चाहिए। इसलिए, 4ⁿ के अभाज्य गुणनखंडन में अभाज्य संख्या 5 आनी चाहिए।"
       },
       "key_takeaway": {
         "en": "A number must have 5 as a prime factor to end with the digit 0.",
@@ -250,17 +252,17 @@
     {
       "question_id": 7,
       "question": {
-        "en": "[Topic: 1.2 Fundamental Theorem of Arithmetic, Page 5] Why can the number $4^n$ never end with the digit 0 for any natural number n?",
-        "hi": "[विषय: 1.2 अंकगणित की आधारभूत प्रमेय, पृष्ठ 5] किसी भी प्राकृत संख्या n के लिए संख्या $4^n$ कभी भी अंक 0 पर समाप्त क्यों नहीं हो सकती?"
+        "en": "[Topic: 1.2 Fundamental Theorem of Arithmetic, Page 5] Why can the number 4ⁿ never end with the digit 0 for any natural number n?",
+        "hi": "[विषय: 1.2 अंकगणित की आधारभूत प्रमेय, पृष्ठ 5] किसी भी प्राकृत संख्या n के लिए संख्या 4ⁿ कभी भी अंक 0 पर समाप्त क्यों नहीं हो सकती?"
       },
       "options": {
         "a": {
-          "en": "Because $4^n = (2)^{2n}$, so its prime factorization only contains the prime number 2.",
-          "hi": "क्योंकि $4^n = (2)^{2n}$ है, इसलिए इसके अभाज्य गुणनखंडन में केवल अभाज्य संख्या 2 आती है।"
+          "en": "Because 4ⁿ = (2²)ⁿ = 2²ⁿ, so its prime factorization only contains the prime number 2.",
+          "hi": "क्योंकि 4ⁿ = (2²)ⁿ = 2²ⁿ है, इसलिए इसके अभाज्य गुणनखंडन में केवल अभाज्य संख्या 2 आती है।"
         },
         "b": {
-          "en": "Because $4^n$ is an odd number.",
-          "hi": "क्योंकि $4^n$ एक विषम संख्या है।"
+          "en": "Because 4ⁿ is an odd number.",
+          "hi": "क्योंकि 4ⁿ एक विषम संख्या है।"
         },
         "c": {
           "en": "Because the prime factorization contains the number 5, but not 2.",
@@ -277,12 +279,12 @@
         "hi": "4 के अभाज्य गुणनखंडों का विश्लेषण करें।"
       },
       "explanation": {
-        "en": "Example 1 (Page 5) shows that $4^n = (2^2)^n = 2^{2n}$. The uniqueness of the Fundamental Theorem guarantees that there are no other primes besides 2 in its factorization. Since there is no 5, it cannot end in 0.",
-        "hi": "उदाहरण 1 (पृष्ठ 5) दर्शाता है कि $4^n = (2^2)^n = 2^{2n}$ है। आधारभूत प्रमेय की अद्वितीयता यह गारंटी देती है कि इसके गुणनखंडन में 2 के अलावा कोई अन्य अभाज्य संख्या नहीं है। चूंकि इसमें 5 नहीं है, इसलिए यह 0 पर समाप्त नहीं हो सकता।"
+        "en": "Example 1 (Page 5) shows that 4ⁿ = (2²)ⁿ = 2²ⁿ. The uniqueness of the Fundamental Theorem guarantees that there are no other primes besides 2 in its factorization. Since there is no 5, it cannot end in 0.",
+        "hi": "उदाहरण 1 (पृष्ठ 5) दर्शाता है कि 4ⁿ = (2²)ⁿ = 2²ⁿ है। आधारभूत प्रमेय की अद्वितीयता यह गारंटी देती है कि इसके गुणनखंडन में 2 के अलावा कोई अन्य अभाज्य संख्या नहीं है। चूंकि इसमें 5 नहीं है, इसलिए यह 0 पर समाप्त नहीं हो सकता।"
       },
       "key_takeaway": {
-        "en": "The absence of the prime factor 5 makes it impossible for $4^n$ to end in zero.",
-        "hi": "अभाज्य गुणनखंड 5 की अनुपस्थिति के कारण $4^n$ का शून्य पर समाप्त होना असंभव है।"
+        "en": "The absence of the prime factor 5 makes it impossible for 4ⁿ to end in zero.",
+        "hi": "अभाज्य गुणनखंड 5 की अनुपस्थिति के कारण 4ⁿ का शून्य पर समाप्त होना असंभव है।"
       }
     },
     {
@@ -353,8 +355,8 @@
         "hi": "पृष्ठ 6 पर उदाहरण 3 के ठीक पहले का पैराग्राफ देखें। यह संख्याओं के गुणनफल को उनके HCF और LCM से जोड़ता है।"
       },
       "explanation": {
-        "en": "Page 6 confirms this vital relationship: 'For any two positive integers a and b, $HCF(a, b) \\times LCM(a, b) = a \\times b$.'",
-        "hi": "पृष्ठ 6 इस महत्वपूर्ण संबंध की पुष्टि करता है: 'किन्हीं दो धनात्मक पूर्णांकों a और b के लिए, $HCF(a, b) \\times LCM(a, b) = a \\times b$ होता है।'"
+        "en": "Page 6 confirms this vital relationship: 'For any two positive integers a and b, HCF(a, b) × LCM(a, b) = a × b.'",
+        "hi": "पृष्ठ 6 इस महत्वपूर्ण संबंध की पुष्टि करता है: 'किन्हीं दो धनात्मक पूर्णांकों a और b के लिए, HCF(a, b) × LCM(a, b) = a × b होता है।'"
       },
       "key_takeaway": {
         "en": "The product of two numbers always equals the product of their HCF and LCM.",
@@ -391,8 +393,8 @@
         "hi": "पृष्ठ 6 पर उदाहरण 3 का हल देखें।"
       },
       "explanation": {
-        "en": "In Example 3, the prime factorization of 404 is explicitly given as: $404 = 2 \\times 2 \\times 101 = 2^2 \\times 101$.",
-        "hi": "उदाहरण 3 में, 404 का अभाज्य गुणनखंडन स्पष्ट रूप से दिया गया है: $404 = 2 \\times 2 \\times 101 = 2^2 \\times 101$।"
+        "en": "In Example 3, the prime factorization of 404 is explicitly given as: 404 = 2 × 2 × 101 = 2² × 101.",
+        "hi": "उदाहरण 3 में, 404 का अभाज्य गुणनखंडन स्पष्ट रूप से दिया गया है: 404 = 2 × 2 × 101 = 2² × 101।"
       },
       "key_takeaway": {
         "en": "Breaking down numbers into prime powers is the first step to finding HCF.",
@@ -425,12 +427,12 @@
       },
       "correct_option": "a",
       "hint": {
-        "en": "Use the formula: $LCM = (a \\times b) / HCF$.",
-        "hi": "सूत्र का उपयोग करें: $LCM = (a \\times b) / HCF$."
+        "en": "Use the formula: LCM = (a × b) / HCF.",
+        "hi": "सूत्र का उपयोग करें: LCM = (a × b) / HCF."
       },
       "explanation": {
-        "en": "Example 3 on Page 6 calculates the LCM using the formula: $LCM(96, 404) = (96 \\times 404) / 4 = 9696$.",
-        "hi": "पृष्ठ 6 पर उदाहरण 3 सूत्र का उपयोग करके LCM की गणना करता है: $LCM(96, 404) = (96 \\times 404) / 4 = 9696$।"
+        "en": "Example 3 on Page 6 calculates the LCM using the formula: LCM(96, 404) = (96 × 404) / 4 = 9696.",
+        "hi": "पृष्ठ 6 पर उदाहरण 3 सूत्र का उपयोग करके LCM की गणना करता है: LCM(96, 404) = (96 × 404) / 4 = 9696।"
       },
       "key_takeaway": {
         "en": "The relationship formula provides a quick shortcut to find LCM if HCF is known.",
@@ -467,12 +469,12 @@
         "hi": "पृष्ठ 6 पर उदाहरण 4 के ठीक नीचे दी गई 'टिप्पणी' (Remark) को पढ़ें।"
       },
       "explanation": {
-        "en": "The remark on Page 6 clearly states: 'Notice that $6 \\times 72 \\times 120 \\neq HCF(6, 72, 120) \\times LCM(6, 72, 120)$, i.e., the product of three numbers is not equal to the product of their HCF and LCM.'",
-        "hi": "पृष्ठ 6 पर टिप्पणी स्पष्ट रूप से बताती है: 'ध्यान दीजिए कि $6 \\times 72 \\times 120 \\neq HCF(6, 72, 120) \\times LCM(6, 72, 120)$, अर्थात् तीन संख्याओं का गुणनफल उनके HCF और LCM के गुणनफल के बराबर नहीं होता है।'"
+        "en": "The remark on Page 6 clearly states: 'Notice that 6 × 72 × 120 ≠ HCF(6, 72, 120) × LCM(6, 72, 120), i.e., the product of three numbers is not equal to the product of their HCF and LCM.'",
+        "hi": "पृष्ठ 6 पर टिप्पणी स्पष्ट रूप से बताती है: 'ध्यान दीजिए कि 6 × 72 × 120 ≠ HCF(6, 72, 120) × LCM(6, 72, 120), अर्थात् तीन संख्याओं का गुणनफल उनके HCF और LCM के गुणनफल के बराबर नहीं होता है।'"
       },
       "key_takeaway": {
-        "en": "The property $a \\times b = HCF \\times LCM$ applies ONLY to two numbers, not three.",
-        "hi": "गुणधर्म $a \\times b = HCF \\times LCM$ केवल दो संख्याओं पर लागू होता है, तीन पर नहीं।"
+        "en": "The property a × b = HCF × LCM applies ONLY to two numbers, not three.",
+        "hi": "गुणधर्म a × b = HCF × LCM केवल दो संख्याओं पर लागू होता है, तीन पर नहीं।"
       }
     },
     {
@@ -505,8 +507,8 @@
         "hi": "तीनों संख्याओं में उभयनिष्ठ अभाज्य गुणनखंडों (2 और 3) की सबसे छोटी घातें ज्ञात करें।"
       },
       "explanation": {
-        "en": "In Example 4 (Page 6), the smallest powers of the common factors 2 and 3 are $2^1$ and $3^1$. Therefore, $HCF = 2^1 \\times 3^1 = 6$.",
-        "hi": "उदाहरण 4 (पृष्ठ 6) में, उभयनिष्ठ गुणनखंड 2 और 3 की सबसे छोटी घातें $2^1$ और $3^1$ हैं। इसलिए, $HCF = 2^1 \\times 3^1 = 2 \\times 3 = 6$।"
+        "en": "In Example 4 (Page 6), the smallest powers of the common factors 2 and 3 are 2¹ and 3¹. Therefore, HCF = 2¹ × 3¹ = 6.",
+        "hi": "उदाहरण 4 (पृष्ठ 6) में, उभयनिष्ठ गुणनखंड 2 और 3 की सबसे छोटी घातें 2¹ और 3¹ हैं। इसलिए, HCF = 2¹ × 3¹ = 2 × 3 = 6।"
       },
       "key_takeaway": {
         "en": "For multiple numbers, HCF is the product of the lowest powers of common primes.",
@@ -539,12 +541,12 @@
       },
       "correct_option": "d",
       "hint": {
-        "en": "Find the highest powers of all prime factors present in the numbers ($2^3, 3^2, 5^1$).",
-        "hi": "संख्याओं में उपस्थित सभी अभाज्य गुणनखंडों ($2^3, 3^2, 5^1$) की सबसे बड़ी घातें ज्ञात करें।"
+        "en": "Find the highest powers of all prime factors present in the numbers (2³, 3², 5¹).",
+        "hi": "संख्याओं में उपस्थित सभी अभाज्य गुणनखंडों (2³, 3², 5¹) की सबसे बड़ी घातें ज्ञात करें।"
       },
       "explanation": {
-        "en": "In Example 4 (Page 6), the highest powers of the prime factors involved are $2^3, 3^2$, and $5^1$. Thus, $LCM = 2^3 \\times 3^2 \\times 5^1 = 8 \\times 9 \\times 5 = 360$.",
-        "hi": "उदाहरण 4 (पृष्ठ 6) में, शामिल अभाज्य गुणनखंडों की सबसे बड़ी घातें $2^3, 3^2$ और $5^1$ हैं। इस प्रकार, $LCM = 2^3 \\times 3^2 \\times 5^1 = 8 \\times 9 \\times 5 = 360$।"
+        "en": "In Example 4 (Page 6), the highest powers of the prime factors involved are 2³, 3², and 5¹. Thus, LCM = 2³ × 3² × 5¹ = 8 × 9 × 5 = 360.",
+        "hi": "उदाहरण 4 (पृष्ठ 6) में, शामिल अभाज्य गुणनखंडों की सबसे बड़ी घातें 2³, 3² और 5¹ हैं। इस प्रकार, LCM = 2³ × 3² × 5¹ = 8 × 9 × 5 = 360।"
       },
       "key_takeaway": {
         "en": "LCM requires taking the highest power of every prime factor present.",
@@ -581,8 +583,8 @@
         "hi": "140 को 2 से भाग दें, फिर 2 से, फिर 5 से भाग दें।"
       },
       "explanation": {
-        "en": "Based on Exercise 1.1 Q1(i), prime factorization of 140 is: $140 = 2 \\times 70 = 2 \\times 2 \\times 35 = 2 \\times 2 \\times 5 \\times 7 = 2^2 \\times 5 \\times 7$.",
-        "hi": "प्रश्नावली 1.1 प्रश्न 1(i) के आधार पर, 140 का अभाज्य गुणनखंडन है: $140 = 2 \\times 70 = 2 \\times 2 \\times 35 = 2 \\times 2 \\times 5 \\times 7 = 2^2 \\times 5 \\times 7$।"
+        "en": "Based on Exercise 1.1 Q1(i), prime factorization of 140 is: 140 = 2 × 70 = 2 × 2 × 35 = 2 × 2 × 5 × 7 = 2² × 5 × 7.",
+        "hi": "प्रश्नावली 1.1 प्रश्न 1(i) के आधार पर, 140 का अभाज्य गुणनखंडन है: 140 = 2 × 70 = 2 × 2 × 35 = 2 × 2 × 5 × 7 = 2² × 5 × 7।"
       },
       "key_takeaway": {
         "en": "Successive division by primes yields the prime factorization.",
@@ -619,8 +621,8 @@
         "hi": "156 को 2 से भाग दें, फिर 2 से, फिर 3 से।"
       },
       "explanation": {
-        "en": "Based on Exercise 1.1 Q1(ii), $156 = 2 \\times 78 = 2 \\times 2 \\times 39 = 2 \\times 2 \\times 3 \\times 13 = 2^2 \\times 3 \\times 13$.",
-        "hi": "प्रश्नावली 1.1 प्रश्न 1(ii) के आधार पर, $156 = 2 \\times 78 = 2 \\times 2 \\times 39 = 2 \\times 2 \\times 3 \\times 13 = 2^2 \\times 3 \\times 13$।"
+        "en": "Based on Exercise 1.1 Q1(ii), 156 = 2 × 78 = 2 × 2 × 39 = 2 × 2 × 3 × 13 = 2² × 3 × 13.",
+        "hi": "प्रश्नावली 1.1 प्रश्न 1(ii) के आधार पर, 156 = 2 × 78 = 2 × 2 × 39 = 2 × 2 × 3 × 13 = 2² × 3 × 13।"
       },
       "key_takeaway": {
         "en": "The prime factorization of 156 requires the prime factor 13.",
@@ -657,8 +659,8 @@
         "hi": "पृष्ठ 7 पर अपरिमेय संख्या की औपचारिक परिभाषा देखें। शून्य से विभाजन अपरिभाषित है।"
       },
       "explanation": {
-        "en": "Page 7 states: 'Recall, a number 's' is called irrational if it cannot be written in the form p/q, where p and q are integers and $q \\neq 0$.'",
-        "hi": "पृष्ठ 7 बताता है: 'याद कीजिए कि एक, संख्या 's' अपरिमेय संख्या कहलाती है, यदि उसे p/q के रूप में नहीं लिखा जा सकता हो, जहाँ p और q पूर्णांक हैं और $q \\neq 0$ है।'"
+        "en": "Page 7 states: 'Recall, a number s is called irrational if it cannot be written in the form p/q, where p and q are integers and q ≠ 0.'",
+        "hi": "पृष्ठ 7 बताता है: 'याद कीजिए कि एक, संख्या s अपरिमेय संख्या कहलाती है, यदि उसे p/q के रूप में नहीं लिखा जा सकता हो, जहाँ p और q पूर्णांक हैं और q ≠ 0 है।'"
       },
       "key_takeaway": {
         "en": "The denominator 'q' in a rational form must never be zero.",
@@ -668,8 +670,8 @@
     {
       "question_id": 18,
       "question": {
-        "en": "[Topic: 1.3 Revisiting Irrational Numbers, Page 8] What does Theorem 1.2 explicitly state if 'p' is a prime number and 'p' divides $a^2$ (where 'a' is a positive integer)?",
-        "hi": "[विषय: 1.3 अपरिमेय संख्याओं का पुनर्भ्रमण, पृष्ठ 8] प्रमेय 1.2 स्पष्ट रूप से क्या कहता है यदि 'p' एक अभाज्य संख्या है और 'p', $a^2$ को विभाजित करती है (जहाँ 'a' एक धनात्मक पूर्णांक है)?"
+        "en": "[Topic: 1.3 Revisiting Irrational Numbers, Page 8] What does Theorem 1.2 explicitly state if 'p' is a prime number and 'p' divides a² (where 'a' is a positive integer)?",
+        "hi": "[विषय: 1.3 अपरिमेय संख्याओं का पुनर्भ्रमण, पृष्ठ 8] प्रमेय 1.2 स्पष्ट रूप से क्या कहता है यदि 'p' एक अभाज्य संख्या है और 'p', a² को विभाजित करती है (जहाँ 'a' एक धनात्मक पूर्णांक है)?"
       },
       "options": {
         "a": {
@@ -695,8 +697,8 @@
         "hi": "पृष्ठ 8 के शीर्ष पर प्रमेय 1.2 का कथन पढ़ें।"
       },
       "explanation": {
-        "en": "Theorem 1.2 on Page 8 states: 'Let p be a prime number. If p divides $a^2$, then p divides a, where a is a positive integer.'",
-        "hi": "पृष्ठ 8 पर प्रमेय 1.2 कहता है: 'मान लीजिए p एक अभाज्य संख्या है। यदि p, $a^2$ को विभाजित करती है, तो p, a को भी विभाजित करेगी, जहाँ a एक धनात्मक पूर्णांक है।'"
+        "en": "Theorem 1.2 on Page 8 states: 'Let p be a prime number. If p divides a², then p divides a, where a is a positive integer.'",
+        "hi": "पृष्ठ 8 पर प्रमेय 1.2 कहता है: 'मान लीजिए p एक अभाज्य संख्या है। यदि p, a² को विभाजित करती है, तो p, a को भी विभाजित करेगी, जहाँ a एक धनात्मक पूर्णांक है।'"
       },
       "key_takeaway": {
         "en": "If a prime number divides the square of a number, it must also divide the number itself.",
@@ -706,8 +708,8 @@
     {
       "question_id": 19,
       "question": {
-        "en": "[Topic: 1.3 Revisiting Irrational Numbers, Page 8] The proof that $\\sqrt{2}$ is irrational is based on a specific logical technique. What is this technique called?",
-        "hi": "[विषय: 1.3 अपरिमेय संख्याओं का पुनर्भ्रमण, पृष्ठ 8] यह प्रमाण कि $\\sqrt{2}$ एक अपरिमेय संख्या है, एक विशिष्ट तार्किक तकनीक पर आधारित है। इस तकनीक को क्या कहा जाता है?"
+        "en": "[Topic: 1.3 Revisiting Irrational Numbers, Page 8] The proof that √2 is irrational is based on a specific logical technique. What is this technique called?",
+        "hi": "[विषय: 1.3 अपरिमेय संख्याओं का पुनर्भ्रमण, पृष्ठ 8] यह प्रमाण कि √2 एक अपरिमेय संख्या है, एक विशिष्ट तार्किक तकनीक पर आधारित है। इस तकनीक को क्या कहा जाता है?"
       },
       "options": {
         "a": {
@@ -734,7 +736,7 @@
       },
       "explanation": {
         "en": "The textbook states on Page 8: 'This proof is based on a technique called proof by contradiction.' It works by assuming the opposite of what you want to prove and arriving at an impossible conclusion.",
-        "hi": "पाठ्यपुस्तक पृष्ठ 8 पर बताती है: 'यह उपपत्ति उस तकनीक पर आधारित है जिसे 'विरोधोक्ति द्वारा उपपत्ति' (proof by contradiction) कहते हैं।'"
+        "hi": "पाठ्यपुस्तक पृष्ठ 8 पर बताती है: 'यह उपपत्ति उस तकनीक पर आधारित है जिसे विरोधोक्ति द्वारा उपपत्ति (proof by contradiction) कहते हैं।'"
       },
       "key_takeaway": {
         "en": "Proof by contradiction involves assuming the contrary and reaching a logical impossibility.",
@@ -744,25 +746,25 @@
     {
       "question_id": 20,
       "question": {
-        "en": "[Topic: 1.3 Revisiting Irrational Numbers, Page 8] In the proof of Theorem 1.3 ($\\sqrt{2}$ is irrational), what is the initial contrary assumption made?",
-        "hi": "[विषय: 1.3 अपरिमेय संख्याओं का पुनर्भ्रमण, पृष्ठ 8] प्रमेय 1.3 ($\\sqrt{2}$ अपरिमेय है) की उपपत्ति में, आरंभिक विपरीत कल्पना क्या की जाती है?"
+        "en": "[Topic: 1.3 Revisiting Irrational Numbers, Page 8] In the proof of Theorem 1.3 (√2 is irrational), what is the initial contrary assumption made?",
+        "hi": "[विषय: 1.3 अपरिमेय संख्याओं का पुनर्भ्रमण, पृष्ठ 8] प्रमेय 1.3 (√2 अपरिमेय है) की उपपत्ति में, आरंभिक विपरीत कल्पना क्या की जाती है?"
       },
       "options": {
         "a": {
-          "en": "$\\sqrt{2}$ is an integer",
-          "hi": "$\\sqrt{2}$ एक पूर्णांक है"
+          "en": "√2 is an integer",
+          "hi": "√2 एक पूर्णांक है"
         },
         "b": {
-          "en": "$\\sqrt{2}$ is a rational number",
-          "hi": "$\\sqrt{2}$ एक परिमेय संख्या है"
+          "en": "√2 is a rational number",
+          "hi": "√2 एक परिमेय संख्या है"
         },
         "c": {
-          "en": "$\\sqrt{2}$ is an irrational number",
-          "hi": "$\\sqrt{2}$ एक अपरिमेय संख्या है"
+          "en": "√2 is an irrational number",
+          "hi": "√2 एक अपरिमेय संख्या है"
         },
         "d": {
-          "en": "$\\sqrt{2}$ is a prime number",
-          "hi": "$\\sqrt{2}$ एक अभाज्य संख्या है"
+          "en": "√2 is a prime number",
+          "hi": "√2 एक अभाज्य संख्या है"
         }
       },
       "correct_option": "b",
@@ -771,8 +773,8 @@
         "hi": "चूंकि यह 'विरोधोक्ति द्वारा उपपत्ति' है, हम जो सिद्ध करने का प्रयास कर रहे हैं उसका ठीक विपरीत मानते हैं।"
       },
       "explanation": {
-        "en": "In Theorem 1.3 (Page 8), the proof begins with: 'Let us assume, to the contrary, that $\\sqrt{2}$ is a rational number.'",
-        "hi": "प्रमेय 1.3 (पृष्ठ 8) में, उपपत्ति शुरू होती है: 'हम इसके विपरीत यह मान लेते हैं कि $\\sqrt{2}$ एक परिमेय संख्या है।'"
+        "en": "In Theorem 1.3 (Page 8), the proof begins with: 'Let us assume, to the contrary, that √2 is a rational number.'",
+        "hi": "प्रमेय 1.3 (पृष्ठ 8) में, उपपत्ति शुरू होती है: 'हम इसके विपरीत यह मान लेते हैं कि √2 एक परिमेय संख्या है।'"
       },
       "key_takeaway": {
         "en": "To prove irrationality by contradiction, start by assuming the number is rational.",
@@ -782,8 +784,8 @@
     {
       "question_id": 21,
       "question": {
-        "en": "[Topic: 1.3 Revisiting Irrational Numbers, Page 8] When assuming $\\sqrt{2} = a/b$ in the proof, what condition is explicitly stated for the integers 'a' and 'b'?",
-        "hi": "[विषय: 1.3 अपरिमेय संख्याओं का पुनर्भ्रमण, पृष्ठ 8] उपपत्ति में $\\sqrt{2} = a/b$ मान लेने पर, पूर्णांकों 'a' और 'b' के लिए स्पष्ट रूप से क्या शर्त बताई गई है?"
+        "en": "[Topic: 1.3 Revisiting Irrational Numbers, Page 8] When assuming √2 = a/b in the proof, what condition is explicitly stated for the integers 'a' and 'b'?",
+        "hi": "[विषय: 1.3 अपरिमेय संख्याओं का पुनर्भ्रमण, पृष्ठ 8] उपपत्ति में √2 = a/b मान लेने पर, पूर्णांकों 'a' और 'b' के लिए स्पष्ट रूप से क्या शर्त बताई गई है?"
       },
       "options": {
         "a": {
@@ -809,8 +811,8 @@
         "hi": "इसका अर्थ है कि 'a' और 'b' में 1 के अलावा कोई उभयनिष्ठ गुणनखंड नहीं है।"
       },
       "explanation": {
-        "en": "Page 8 states that after dividing by any common factors, 'we can get $\\sqrt{2} = a/b$, where a and b are co-prime.' This implies they share no common factors.",
-        "hi": "पृष्ठ 8 बताता है कि किसी भी उभयनिष्ठ गुणनखंड से भाग देने के बाद, 'हम $\\sqrt{2} = a/b$ प्राप्त कर सकते हैं, जहाँ a और b सहअभाज्य (co-prime) हैं।' इसका तात्पर्य है कि उनमें कोई उभयनिष्ठ गुणनखंड नहीं है।"
+        "en": "Page 8 states that after dividing by any common factors, 'we can get √2 = a/b, where a and b are co-prime.' This implies they share no common factors.",
+        "hi": "पृष्ठ 8 बताता है कि किसी भी उभयनिष्ठ गुणनखंड से भाग देने के बाद, 'हम √2 = a/b प्राप्त कर सकते हैं, जहाँ a और b सहअभाज्य (co-prime) हैं।' इसका तात्पर्य है कि उनमें कोई उभयनिष्ठ गुणनखंड नहीं है।"
       },
       "key_takeaway": {
         "en": "Co-prime integers are essential in the contradiction proof to show a simplified fraction.",
@@ -820,13 +822,13 @@
     {
       "question_id": 22,
       "question": {
-        "en": "[Topic: 1.3 Revisiting Irrational Numbers, Page 8] In the proof of Theorem 1.3, the rearranged equation $2b^2 = a^2$ mathematically indicates that:",
-        "hi": "[विषय: 1.3 अपरिमेय संख्याओं का पुनर्भ्रमण, पृष्ठ 8] प्रमेय 1.3 की उपपत्ति में, पुनर्व्यवस्थित समीकरण $2b^2 = a^2$ गणितीय रूप से क्या दर्शाता है?"
+        "en": "[Topic: 1.3 Revisiting Irrational Numbers, Page 8] In the proof of Theorem 1.3, the rearranged equation 2b² = a² mathematically indicates that:",
+        "hi": "[विषय: 1.3 अपरिमेय संख्याओं का पुनर्भ्रमण, पृष्ठ 8] प्रमेय 1.3 की उपपत्ति में, पुनर्व्यवस्थित समीकरण 2b² = a² गणितीय रूप से क्या दर्शाता है?"
       },
       "options": {
         "a": {
-          "en": "$b^2$ is divisible by 2",
-          "hi": "2, $b^2$ को विभाजित करता है"
+          "en": "b² is divisible by 2",
+          "hi": "2, b² को विभाजित करता है"
         },
         "b": {
           "en": "a is divisible by b",
@@ -837,18 +839,18 @@
           "hi": "b, a से विभाज्य है"
         },
         "d": {
-          "en": "$a^2$ is divisible by 2",
-          "hi": "2, $a^2$ को विभाजित करता है ($a^2$ is divisible by 2)"
+          "en": "a² is divisible by 2",
+          "hi": "2, a² को विभाजित करता है (a² is divisible by 2)"
         }
       },
       "correct_option": "d",
       "hint": {
-        "en": "Since $a^2$ equals 2 times an integer ($b^2$), what must be a factor of $a^2$?",
-        "hi": "चूँकि $a^2$ एक पूर्णांक ($b^2$) के 2 गुना के बराबर है, इसलिए $a^2$ का गुणनखंड क्या होना चाहिए?"
+        "en": "Since a² equals 2 times an integer (b²), what must be a factor of a²?",
+        "hi": "चूँकि a² एक पूर्णांक (b²) के 2 गुना के बराबर है, इसलिए a² का गुणनखंड क्या होना चाहिए?"
       },
       "explanation": {
-        "en": "On Page 8, the equation $2b^2 = a^2$ directly implies that '$a^2$ is divisible by 2' (अतः 2, a² को विभाजित करता है). By Theorem 1.2, this also means 'a' is divisible by 2.",
-        "hi": "पृष्ठ 8 पर, समीकरण $2b^2 = a^2$ का सीधा अर्थ है कि '2, a² को विभाजित करता है'। प्रमेय 1.2 के अनुसार, इसका अर्थ यह भी है कि 'a', 2 से विभाज्य है।"
+        "en": "On Page 8, the equation 2b² = a² directly implies that 'a² is divisible by 2' (अतः 2, a² को विभाजित करता है). By Theorem 1.2, this also means 'a' is divisible by 2.",
+        "hi": "पृष्ठ 8 पर, समीकरण 2b² = a² का सीधा अर्थ है कि '2, a² को विभाजित करता है'। प्रमेय 1.2 के अनुसार, इसका अर्थ यह भी है कि 'a', 2 से विभाज्य है।"
       },
       "key_takeaway": {
         "en": "If a number is expressed as 2 times an integer, it is divisible by 2.",
@@ -858,8 +860,8 @@
     {
       "question_id": 23,
       "question": {
-        "en": "[Topic: 1.3 Revisiting Irrational Numbers, Page 9] What specific contradiction arises at the end of the proof of $\\sqrt{2}$ being irrational?",
-        "hi": "[विषय: 1.3 अपरिमेय संख्याओं का पुनर्भ्रमण, पृष्ठ 9] $\\sqrt{2}$ के अपरिमेय होने की उपपत्ति के अंत में कौन सा विशिष्ट विरोधाभास उत्पन्न होता है?"
+        "en": "[Topic: 1.3 Revisiting Irrational Numbers, Page 9] What specific contradiction arises at the end of the proof of √2 being irrational?",
+        "hi": "[विषय: 1.3 अपरिमेय संख्याओं का पुनर्भ्रमण, पृष्ठ 9] √2 के अपरिमेय होने की उपपत्ति के अंत में कौन सा विशिष्ट विरोधाभास उत्पन्न होता है?"
       },
       "options": {
         "a": {
@@ -889,15 +891,15 @@
         "hi": "पृष्ठ 9 बताता है: 'अतः a और b में कम से कम एक उभयनिष्ठ गुणनखंड 2 है। परंतु इससे इस तथ्य का विरोधाभास प्राप्त होता है कि a और b में, 1 के अतिरिक्त, कोई उभयनिष्ठ गुणनखंड नहीं है।' यह प्रारंभिक धारणा को तोड़ देता है।"
       },
       "key_takeaway": {
-        "en": "The contradiction of the co-prime assumption proves $\\sqrt{2}$ cannot be a rational fraction.",
-        "hi": "सहअभाज्य धारणा का विरोधाभास सिद्ध करता है कि $\\sqrt{2}$ एक परिमेय भिन्न नहीं हो सकता है।"
+        "en": "The contradiction of the co-prime assumption proves √2 cannot be a rational fraction.",
+        "hi": "सहअभाज्य धारणा का विरोधाभास सिद्ध करता है कि √2 एक परिमेय भिन्न नहीं हो सकता है।"
       }
     },
     {
       "question_id": 24,
       "question": {
-        "en": "[Topic: 1.3 Revisiting Irrational Numbers, Page 9] In Example 5, proving $\\sqrt{3}$ is irrational involves showing that $a^2$ is divisible by 3, which implies 'a' is divisible by 3. What substitution is then made for 'a'?",
-        "hi": "[विषय: 1.3 अपरिमेय संख्याओं का पुनर्भ्रमण, पृष्ठ 9] उदाहरण 5 में, $\\sqrt{3}$ को अपरिमेय सिद्ध करने में यह दिखाना शामिल है कि $a^2$, 3 से विभाज्य है, जिसका अर्थ है 'a', 3 से विभाज्य है। तब 'a' के लिए क्या प्रतिस्थापन (substitution) किया जाता है?"
+        "en": "[Topic: 1.3 Revisiting Irrational Numbers, Page 9] In Example 5, proving √3 is irrational involves showing that a² is divisible by 3, which implies 'a' is divisible by 3. What substitution is then made for 'a'?",
+        "hi": "[विषय: 1.3 अपरिमेय संख्याओं का पुनर्भ्रमण, पृष्ठ 9] उदाहरण 5 में, √3 को अपरिमेय सिद्ध करने में यह दिखाना शामिल है कि a², 3 से विभाज्य है, जिसका अर्थ है 'a', 3 से विभाज्य है। तब 'a' के लिए क्या प्रतिस्थापन (substitution) किया जाता है?"
       },
       "options": {
         "a": {
@@ -923,8 +925,8 @@
         "hi": "पृष्ठ 9 पर उदाहरण 5 देखें। चूंकि 'a', 3 का गुणज है, इसलिए इसे दूसरे पूर्णांक 'c' का उपयोग करके कैसे लिखा जा सकता है?"
       },
       "explanation": {
-        "en": "In Example 5 on Page 9, after concluding that 3 divides a, the text states: 'So, we can write $a = 3c$ for some integer c.'",
-        "hi": "पृष्ठ 9 पर उदाहरण 5 में, यह निष्कर्ष निकालने के बाद कि 3, a को विभाजित करता है, पाठ में लिखा है: 'अतः हम $a = 3c$ लिख सकते हैं, जहाँ c एक पूर्णांक है।'"
+        "en": "In Example 5 on Page 9, after concluding that 3 divides a, the text states: 'So, we can write a = 3c for some integer c.'",
+        "hi": "पृष्ठ 9 पर उदाहरण 5 में, यह निष्कर्ष निकालने के बाद कि 3, a को विभाजित करता है, पाठ में लिखा है: 'अतः हम a = 3c लिख सकते हैं, जहाँ c एक पूर्णांक है।'"
       },
       "key_takeaway": {
         "en": "If a number is divisible by a prime p, it can be written as p times an integer c.",
@@ -1010,21 +1012,21 @@
     {
       "question_id": 27,
       "question": {
-        "en": "[Topic: 1.3 Revisiting Irrational Numbers, Page 10] In Example 6, how is $5 - \\sqrt{3}$ proven to be irrational?",
-        "hi": "[विषय: 1.3 अपरिमेय संख्याओं का पुनर्भ्रमण, पृष्ठ 10] उदाहरण 6 में, $5 - \\sqrt{3}$ को अपरिमेय कैसे सिद्ध किया गया है?"
+        "en": "[Topic: 1.3 Revisiting Irrational Numbers, Page 10] In Example 6, how is 5 - √3 proven to be irrational?",
+        "hi": "[विषय: 1.3 अपरिमेय संख्याओं का पुनर्भ्रमण, पृष्ठ 10] उदाहरण 6 में, 5 - √3 को अपरिमेय कैसे सिद्ध किया गया है?"
       },
       "options": {
         "a": {
-          "en": "By assuming it equals a/b and showing this implies $\\sqrt{3}$ is a rational number, which is a contradiction.",
-          "hi": "इसे a/b के बराबर मानकर और यह दर्शाकर कि इसका अर्थ $\\sqrt{3}$ एक परिमेय संख्या है, जो एक विरोधाभास है।"
+          "en": "By assuming it equals a/b and showing this implies √3 is a rational number, which is a contradiction.",
+          "hi": "इसे a/b के बराबर मानकर और यह दर्शाकर कि इसका अर्थ √3 एक परिमेय संख्या है, जो एक विरोधाभास है।"
         },
         "b": {
           "en": "By squaring both sides and proving it equals an integer.",
           "hi": "दोनों पक्षों का वर्ग करके और इसे एक पूर्णांक के बराबर सिद्ध करके।"
         },
         "c": {
-          "en": "By multiplying it by $\\sqrt{3}$.",
-          "hi": "इसे $\\sqrt{3}$ से गुणा करके।"
+          "en": "By multiplying it by √3.",
+          "hi": "इसे √3 से गुणा करके।"
         },
         "d": {
           "en": "By showing that 5 and 3 are prime numbers.",
@@ -1033,12 +1035,12 @@
       },
       "correct_option": "a",
       "hint": {
-        "en": "Analyze the steps in Example 6. How is the equation rearranged, and what does it wrongly imply about $\\sqrt{3}$?",
-        "hi": "उदाहरण 6 के चरणों का विश्लेषण करें। समीकरण को कैसे पुनर्व्यवस्थित किया गया है, और यह $\\sqrt{3}$ के बारे में गलत तरीके से क्या दर्शाता है?"
+        "en": "Analyze the steps in Example 6. How is the equation rearranged, and what does it wrongly imply about √3?",
+        "hi": "उदाहरण 6 के चरणों का विश्लेषण करें। समीकरण को कैसे पुनर्व्यवस्थित किया गया है, और यह √3 के बारे में गलत तरीके से क्या दर्शाता है?"
       },
       "explanation": {
-        "en": "In Example 6 (Page 10), we assume $5 - \\sqrt{3} = a/b$. Rearranging gives $\\sqrt{3} = 5 - a/b$. Since a and b are integers, $5 - a/b$ is rational, which forces $\\sqrt{3}$ to be rational. This contradicts the known fact that $\\sqrt{3}$ is irrational.",
-        "hi": "उदाहरण 6 (पृष्ठ 10) में, हम मान लेते हैं $5 - \\sqrt{3} = a/b$। पुनर्व्यवस्थित करने पर $\\sqrt{3} = 5 - a/b$ प्राप्त होता है। चूंकि a और b पूर्णांक हैं, $5 - a/b$ परिमेय है, जो $\\sqrt{3}$ को परिमेय होने के लिए मजबूर करता है। यह इस ज्ञात तथ्य का खंडन करता है कि $\\sqrt{3}$ अपरिमेय है।"
+        "en": "In Example 6 (Page 10), we assume 5 - √3 = a/b. Rearranging gives √3 = 5 - a/b. Since a and b are integers, 5 - a/b is rational, which forces √3 to be rational. This contradicts the known fact that √3 is irrational.",
+        "hi": "उदाहरण 6 (पृष्ठ 10) में, हम मान लेते हैं 5 - √3 = a/b। पुनर्व्यवस्थित करने पर √3 = 5 - a/b प्राप्त होता है। चूंकि a और b पूर्णांक हैं, 5 - a/b परिमेय है, जो √3 को परिमेय होने के लिए मजबूर करता है। यह इस ज्ञात तथ्य का खंडन करता है कि √3 अपरिमेय है।"
       },
       "key_takeaway": {
         "en": "Isolating the irrational root exposes the contradiction when assumed to be rational.",
@@ -1048,35 +1050,35 @@
     {
       "question_id": 28,
       "question": {
-        "en": "[Topic: 1.3 Revisiting Irrational Numbers, Page 11] In Example 7, when proving $3\\sqrt{2}$ is irrational by assuming $3\\sqrt{2} = a/b$, what is the rearranged equation used to isolate $\\sqrt{2}$?",
-        "hi": "[विषय: 1.3 अपरिमेय संख्याओं का पुनर्भ्रमण, पृष्ठ 11] उदाहरण 7 में, $3\\sqrt{2} = a/b$ मानकर $3\\sqrt{2}$ को अपरिमेय सिद्ध करते समय, $\\sqrt{2}$ को अलग करने के लिए किस पुनर्व्यवस्थित समीकरण का उपयोग किया जाता है?"
+        "en": "[Topic: 1.3 Revisiting Irrational Numbers, Page 11] In Example 7, when proving 3√2 is irrational by assuming 3√2 = a/b, what is the rearranged equation used to isolate √2?",
+        "hi": "[विषय: 1.3 अपरिमेय संख्याओं का पुनर्भ्रमण, पृष्ठ 11] उदाहरण 7 में, 3√2 = a/b मानकर 3√2 को अपरिमेय सिद्ध करते समय, √2 को अलग करने के लिए किस पुनर्व्यवस्थित समीकरण का उपयोग किया जाता है?"
       },
       "options": {
         "a": {
-          "en": "$\\sqrt{2} = 3a / b$",
-          "hi": "$\\sqrt{2} = 3a / b$"
+          "en": "√2 = 3a / b",
+          "hi": "√2 = 3a / b"
         },
         "b": {
-          "en": "$\\sqrt{2} = a / (3b)$",
-          "hi": "$\\sqrt{2} = a / (3b)$"
+          "en": "√2 = a / (3b)",
+          "hi": "√2 = a / (3b)"
         },
         "c": {
-          "en": "$\\sqrt{2} = (3b) / a$",
-          "hi": "$\\sqrt{2} = (3b) / a$"
+          "en": "√2 = (3b) / a",
+          "hi": "√2 = (3b) / a"
         },
         "d": {
-          "en": "$\\sqrt{2} = a - 3b$",
-          "hi": "$\\sqrt{2} = a - 3b$"
+          "en": "√2 = a - 3b",
+          "hi": "√2 = a - 3b"
         }
       },
       "correct_option": "b",
       "hint": {
-        "en": "Divide both sides of the equation $3\\sqrt{2} = a/b$ by 3.",
-        "hi": "समीकरण $3\\sqrt{2} = a/b$ के दोनों पक्षों को 3 से भाग दें।"
+        "en": "Divide both sides of the equation 3√2 = a/b by 3.",
+        "hi": "समीकरण 3√2 = a/b के दोनों पक्षों को 3 से भाग दें।"
       },
       "explanation": {
-        "en": "Example 7 (Page 11) starts with $3\\sqrt{2} = a/b$. Rearranging the terms, we get $\\sqrt{2} = a/(3b)$.",
-        "hi": "उदाहरण 7 (पृष्ठ 11) $3\\sqrt{2} = a/b$ से शुरू होता है। पदों को पुनर्व्यवस्थित करने पर, हमें $\\sqrt{2} = a/(3b)$ प्राप्त होता है।"
+        "en": "Example 7 (Page 11) starts with 3√2 = a/b. Rearranging the terms, we get √2 = a / (3b).",
+        "hi": "उदाहरण 7 (पृष्ठ 11) 3√2 = a/b से शुरू होता है। पदों को पुनर्व्यवस्थित करने पर, हमें √2 = a / (3b) प्राप्त होता है।"
       },
       "key_takeaway": {
         "en": "Dividing the assumed rational fraction by the multiplier isolates the root to expose the contradiction.",
@@ -1099,8 +1101,8 @@
           "hi": "दो अभाज्य संख्याओं का योग हमेशा सम होता है।"
         },
         "c": {
-          "en": "If p divides $a^2$, then p divides a, where a is a positive integer.",
-          "hi": "यदि p, $a^2$ को विभाजित करता है तो p, a को भी विभाजित करेगा, जहाँ a एक धनात्मक पूर्णांक है।"
+          "en": "If p divides a², then p divides a, where a is a positive integer.",
+          "hi": "यदि p, a² को विभाजित करता है तो p, a को भी विभाजित करेगा, जहाँ a एक धनात्मक पूर्णांक है।"
         },
         "d": {
           "en": "All rational numbers are integers.",
@@ -1113,12 +1115,12 @@
         "hi": "पृष्ठ 11 पर '1.4 सारांश' अनुभाग में बिंदु संख्या 2 की समीक्षा करें।"
       },
       "explanation": {
-        "en": "Point 2 of the summary on Page 11 verbatim states: 'If p is a prime and p divides $a^2$, then p divides a, where a is a positive integer.'",
-        "hi": "पृष्ठ 11 पर सारांश का बिंदु 2 शब्दशः बताता है: 'यदि p कोई अभाज्य संख्या है और p, $a^2$ को विभाजित करता है तो p, a को भी विभाजित करेगा, जहाँ a एक धनात्मक पूर्णांक है।'"
+        "en": "Point 2 of the summary on Page 11 verbatim states: 'If p is a prime and p divides a², then p divides a, where a is a positive integer.'",
+        "hi": "पृष्ठ 11 पर सारांश का बिंदु 2 शब्दशः बताता है: 'यदि p कोई अभाज्य संख्या है और p, a² को विभाजित करता है तो p, a को भी विभाजित करेगा, जहाँ a एक धनात्मक पूर्णांक है।'"
       },
       "key_takeaway": {
-        "en": "This divisibility theorem is the core foundation for proving numbers like $\\sqrt{2}$ are irrational.",
-        "hi": "यह विभाज्यता प्रमेय $\\sqrt{2}$ जैसी संख्याओं को अपरिमेय सिद्ध करने का मुख्य आधार है।"
+        "en": "This divisibility theorem is the core foundation for proving numbers like √2 are irrational.",
+        "hi": "यह विभाज्यता प्रमेय √2 जैसी संख्याओं को अपरिमेय सिद्ध करने का मुख्य आधार है।"
       }
     },
     {
@@ -1129,20 +1131,20 @@
       },
       "options": {
         "a": {
-          "en": "$\\frac{p \\cdot q \\cdot r}{HCF(p,q,r)}$",
-          "hi": "$\\frac{p \\cdot q \\cdot r}{HCF(p,q,r)}$"
+          "en": "(p × q × r) / HCF(p,q,r)",
+          "hi": "(p × q × r) / HCF(p,q,r)"
         },
         "b": {
-          "en": "$\\frac{HCF(p,q,r)}{p \\cdot q \\cdot r}$",
-          "hi": "$\\frac{HCF(p,q,r)}{p \\cdot q \\cdot r}$"
+          "en": "HCF(p,q,r) / (p × q × r)",
+          "hi": "HCF(p,q,r) / (p × q × r)"
         },
         "c": {
-          "en": "$\\frac{p \\cdot q \\cdot r \\cdot LCM(p,q,r)}{HCF(p,q) \\cdot HCF(q,r)}$",
-          "hi": "$\\frac{p \\cdot q \\cdot r \\cdot LCM(p,q,r)}{HCF(p,q) \\cdot HCF(q,r)}$"
+          "en": "[p × q × r × LCM(p,q,r)] / [HCF(p,q) × HCF(q,r)]",
+          "hi": "[p × q × r × LCM(p,q,r)] / [HCF(p,q) × HCF(q,r)]"
         },
         "d": {
-          "en": "$\\frac{p \\cdot q \\cdot r \\cdot HCF(p,q,r)}{HCF(p,q) \\cdot HCF(q,r) \\cdot HCF(p,r)}$",
-          "hi": "$\\frac{p \\cdot q \\cdot r \\cdot HCF(p,q,r)}{HCF(p,q) \\cdot HCF(q,r) \\cdot HCF(p,r)}$"
+          "en": "[p × q × r × HCF(p,q,r)] / [HCF(p,q) × HCF(q,r) × HCF(p,r)]",
+          "hi": "[p × q × r × HCF(p,q,r)] / [HCF(p,q) × HCF(q,r) × HCF(p,r)]"
         }
       },
       "correct_option": "d",
@@ -1151,8 +1153,8 @@
         "hi": "पृष्ठ 12 पर 'पाठकों के लिए विशेष' नोट देखें। हर (denominator) में तीन जोड़े गए HCF पद होते हैं।"
       },
       "explanation": {
-        "en": "On Page 12, the explicit formula for finding the LCM of three numbers is provided as: $LCM(p,q,r) = \\frac{p \\cdot q \\cdot r \\cdot HCF(p,q,r)}{HCF(p,q) \\cdot HCF(q,r) \\cdot HCF(p,r)}$.",
-        "hi": "पृष्ठ 12 पर, तीन संख्याओं का LCM ज्ञात करने का स्पष्ट सूत्र दिया गया है: $LCM(p,q,r) = \\frac{p \\cdot q \\cdot r \\cdot HCF(p,q,r)}{HCF(p,q) \\cdot HCF(q,r) \\cdot HCF(p,r)}$।"
+        "en": "On Page 12, the explicit formula for finding the LCM of three numbers is provided as: LCM(p,q,r) = [p × q × r × HCF(p,q,r)] / [HCF(p,q) × HCF(q,r) × HCF(p,r)].",
+        "hi": "पृष्ठ 12 पर, तीन संख्याओं का LCM ज्ञात करने का स्पष्ट सूत्र दिया गया है: LCM(p,q,r) = [p × q × r × HCF(p,q,r)] / [HCF(p,q) × HCF(q,r) × HCF(p,r)]।"
       },
       "key_takeaway": {
         "en": "Calculating the LCM of three numbers involves their product, their overall HCF, and their pairwise HCFs.",
