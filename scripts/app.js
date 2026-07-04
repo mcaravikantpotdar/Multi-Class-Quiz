@@ -100,6 +100,17 @@ class QuizApp {
         if (this.closeAdmin) this.closeAdmin.addEventListener('click', () => this.adminModal.classList.remove('active'));
         if (this.adminPassword) this.adminPassword.addEventListener('keypress', (e) => { if (e.key === 'Enter') this.handleDatabaseReset(); });
         if (this.confirmReset) this.confirmReset.addEventListener('click', () => this.handleDatabaseReset());
+
+        // FIX: Single delegated event listener for options to prevent memory leaks
+        if (this.optionsContainer) {
+            this.optionsContainer.addEventListener('click', (e) => {
+                const card = e.target.closest('.option-card');
+                if (card && !card.classList.contains('disabled')) {
+                    const optKey = card.dataset.key; // Read the injected key
+                    if (optKey) this.selectOption(optKey);
+                }
+            });
+        }
     }
 
     async autoScanGitHubLibrary() {
@@ -285,8 +296,13 @@ class QuizApp {
                     else if (this.quizEngine.isQuestionDisabled(q.question_id) && key === q.correct_option) card.classList.add('correct');
                 } else if (key === ans.selectedOption) card.classList.add('selected-only');
             }
-            if (this.quizEngine.isQuestionDisabled(q.question_id)) card.classList.add('disabled');
-            else card.onclick = () => this.selectOption(key);
+            
+            if (this.quizEngine.isQuestionDisabled(q.question_id)) {
+                card.classList.add('disabled');
+            } else {
+                // FIX: Inject the key into the DOM for the delegated listener
+                card.dataset.key = key; 
+            }
             this.optionsContainer.appendChild(card);
         });
     }
