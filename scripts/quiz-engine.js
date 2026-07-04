@@ -78,7 +78,10 @@ class QuizEngine {
         if (!this.overallTimer) {
             this.overallTimer = setInterval(() => {
                 this.totalElapsedSeconds++;
-                this.saveProgress();
+                // FIX: Throttle synchronous I/O operations. Save only every 5 seconds.
+                if (this.totalElapsedSeconds % 5 === 0) {
+                    this.saveProgress();
+                }
             }, 1000);
         }
 
@@ -108,7 +111,11 @@ class QuizEngine {
             this.questionTimers[this.currentQuestionId] = this.currentTimer;
             this.questionTimeSpent[this.currentQuestionId] = (this.mode === 'test' ? 40 : 99) - this.currentTimer;
         }
-        if (this.timer) { clearInterval(this.timer); this.timer = null; }
+        // FIX: Strict interval clearing to prevent zombie threads
+        if (this.timer) { 
+            clearInterval(this.timer); 
+            this.timer = null; 
+        }
     }
 
     recordTimeout(questionId, hintUsed = false) {
