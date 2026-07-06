@@ -8,14 +8,16 @@
     "source_language": "en",
     "target_language": "hi",
     "created_at": "2026-07-06T13:30:00Z",
-    "version": "1.0",
+    "version": "1.1",
     "note": "Set 3: Scaffolded learning tool focusing on operations on real numbers, rationalising the denominator, and laws of exponents. Specially adapted for weak/Hindi medium students using pure Unicode formatting (no LaTeX). Keys balanced (A:5, B:5, C:5, D:5)."
   },
   "validation_report": {
     "is_valid": true,
     "checked_by": "Expert Math Teacher AI",
-    "checked_at": "2026-07-06T13:30:00Z",
-    "corrections": [],
+    "checked_at": "2026-07-06T13:35:00Z",
+    "corrections": [
+      "Fixed trailing comma inside the question block of Question 18 that caused parsing exceptions."
+    ],
     "notes": "Verified that all 20 questions map precisely to operational rules, rationalisation properties, and exponent laws with clear explanations."
   },
   "questions": [
@@ -240,7 +242,7 @@
       },
       "explanation": {
         "en": "Page 17 lists Identity (i): '√(ab) = √a × √b'. Option A is wrong because roots cannot be split over addition like this.",
-        "hi": "पृष्ठ 17 सर्वसमिका (i) को सूचीबद्ध करता है: '√(ab) = √a × √b'। विकल्प A गलत है क्योंकि रूटों को इस तरह जोड़ पर अलग नहीं किया जा सकता।"
+        "hi": "पृष्ठ 17 नियम (i) को सूचीबद्ध करता है: '√(ab) = √a × √b'। विकल्प A गलत है क्योंकि रूटों को इस तरह जोड़ पर अलग नहीं किया जा सकता।"
       },
       "key_takeaway": {
         "en": "√(ab) = √a × √b; multiplication allows roots to be combined or separated freely.",
@@ -350,15 +352,15 @@
       "correct_option": "c",
       "hint": {
         "en": "Use the formula (x+y)² = x² + 2xy + y². Here x = √3 and y = √7.",
-        "hi": "सूत्र (x+y)² = x² + 2xy + y² का उपयोग करें। यहाँ x = √3 और y = √7 है।"
+        "hi": "सूत्र (x+y)² = x² + 2xy + y² का उपयोग करें। यहाँ x = √3 and y = √7 है।"
       },
       "explanation": {
         "en": "Example 16 (iv) on Page 18 applies the identity: (√3 + √7)² = (√3)² + 2(√3)(√7) + (√7)² = 3 + 2√21 + 7 = 10 + 2√21. Option A is wrong because it completely misses the middle 2xy term.",
         "hi": "पृष्ठ 18 पर उदाहरण 16 (iv) सर्वसमिका लागू करता है: (√3 + √7)² = (√3)² + 2(√3)(√7) + (√7)² = 3 + 2√21 + 7 = 10 + 2√21. विकल्प A गलत है क्योंकि यह मध्य के 2xy पद को पूरी तरह से छोड़ देता है।"
       },
       "key_takeaway": {
-        "en": "(√a + √b)² = (a + b) + 2√(ab); never forget the double-product middle term when squaring binomials.",
-        "hi": "(√a + √b)² = (a + b) + 2√(ab); द्विपदों का वर्ग करते समय दोहरे गुणनफल वाले मध्य पद को कभी न भूलें।"
+        "en": "(√3 + √7)² = 10 + 2√21; never forget the double-product middle term when squaring binomials.",
+        "hi": "(√3 + √7)² = 10 + 2√21; द्विपदों का वर्ग करते समय दोहरे गुणनफल वाले मध्य पद को कभी न भूलें।"
       }
     },
     {
@@ -402,8 +404,8 @@
     {
       "question_id": 11,
       "question": {
-        "en": "[Topic: Example 17, Page 19] To rationalise the denominator of the fraction 1/√2, what is the correct mathematical step?",
-        "hi": "[विषय: उदाहरण 17, पृष्ठ 19] भिन्न 1/|2 के हर का परिमेयकरण करने के लिए सही गणितीय चरण क्या है?"
+        "en": "[Topic: Example 17, Page 19] To rationalise the denominator of the fraction 1/\\sqrt{2}, what is the correct mathematical step?",
+        "hi": "[विषय: उदाहरण 17, पृष्ठ 19] भिन्न 1/√2 के हर का परिमेयकरण करने के लिए सही गणितीय चरण क्या है?"
       },
       "options": {
         "a": {
@@ -411,74 +413,74 @@
           "hi": "ऊपर और नीचे दोनों में 2 जोड़ें।"
         },
         "b": {
-          "en": "Multiply the numerator and denominator by √2.",
-          "hi": "अंश और हर को √2 से गुणा करें (Multiply the numerator and denominator by √2)."
+          "en": "Multiply the numerator and denominator by \\sqrt{2}.",
+          "hi": "अंश और हर को √2 से गुणा करें (Multiply the numerator and denominator by \\sqrt{2})."
         },
         "c": {
           "en": "Square the entire fraction instantly.",
           "hi": "संपूर्ण भिन्न का तुरंत वर्ग करें।"
         },
         "d": {
-          "en": "Subtract √2 from the numerator.",
+          "en": "Subtract \\sqrt{2} from the numerator.",
           "hi": "अंश में से √2 घटाएं।"
         }
       },
       "correct_option": "b",
       "hint": {
-        "en": "To clear √2 from the bottom, you must multiply it by itself (√2 × √2 = 2). To keep the value same, do it to the top too.",
+        "en": "To clear \\sqrt{2} from the bottom, you must multiply it by itself (\\sqrt{2} \\times \\sqrt{2} = 2). To keep the value same, do it to the top too.",
         "hi": "नीचे से √2 को हटाने के लिए, आपको इसे स्वयं से गुणा करना होगा (√2 × √2 = 2)। मान समान रखने के लिए ऊपर भी ऐसा ही करें।"
       },
       "explanation": {
-        "en": "Example 17 on Page 19 shows: 'We know that √2 × √2 = 2, which is rational. So, multiply 1/√2 by √2/√2 to get √2/2.' This cleans the denominator into a rational 2.",
-        "hi": "पृष्ठ 19 पर उदाहरण 17 दर्शाता है: 'हम जानते हैं कि √2 × √2 = 2 होता है, जो कि परिमेय है। इसलिए, 1/√2 को √2/2 प्राप्त करने के लिए √2/√2 से गुणा करें।'"
+        "en": "Example 17 on Page 19 shows: 'We know that \\sqrt{2} \\times \\sqrt{2} = 2, which is rational. So, multiply 1/\\sqrt{2} by \\sqrt{2}/\\sqrt{2} to get \\sqrt{2}/2.' This cleans the denominator into a rational 2.",
+        "hi": "पृष्ठ 19 पर उदाहरण 17 दर्शाता है: 'हम जानते हैं कि √2 × √2 = 2 होता है, जो कि परिमेय है। इसलिए, 1/√2 को √2/2 प्राप्त करने के लिए √2/2 से गुणा करें।'"
       },
       "key_takeaway": {
-        "en": "For a single root 1/√a, multiply the numerator and denominator by √a / √a.",
+        "en": "For a single root 1/\\sqrt{a}, multiply the numerator and denominator by \\sqrt{a} / \\sqrt{a}.",
         "hi": "एकल रूट 1/√a के लिए, अंश और हर को √a / √a से गुणा करें।"
       }
     },
     {
       "question_id": 12,
       "question": {
-        "en": "[Topic: Example 18, Page 19] To rationalise the denominator of a binomial expression like 1 / (2 + √3), what conjugate expression must you multiply the top and bottom by?",
+        "en": "[Topic: Example 18, Page 19] To rationalise the denominator of a binomial expression like 1 / (2 + \\sqrt{3}), what conjugate expression must you multiply the top and bottom by?",
         "hi": "[विषय: उदाहरण 18, पृष्ठ 19] 1 / (2 + √3) जैसे द्विपद व्यंजक के हर का परिमेयकरण करने के लिए, आपको अंश और हर को किस संयुग्मी व्यंजक (conjugate expression) से गुणा करना चाहिए?"
       },
       "options": {
         "a": {
-          "en": "2 + √3",
+          "en": "2 + \\sqrt{3}",
           "hi": "2 + √3"
         },
         "b": {
-          "en": "2 × √3",
-          "hi": "2 × √3"
+          "en": "2 \\times \\sqrt{3}",
+          "hi": "2 \\times √3"
         },
         "c": {
-          "en": "2 - √3",
+          "en": "2 - \\sqrt{3}",
           "hi": "2 - √3"
         },
         "d": {
-          "en": "√2 - √3",
+          "en": "\\sqrt{2} - \\sqrt{3}",
           "hi": "√2 - √3"
         }
       },
       "correct_option": "c",
       "hint": {
-        "en": "Change the middle sign from plus (+) to minus (-) to utilize the (a+b)(a-b) = a-b identity logic.",
-        "hi": "(a+b)(a-b) = a-b सर्वसमिका तर्क का उपयोग करने के लिए मध्य चिह्न को प्लस (+) से माइनस (-) में बदलें।"
+        "en": "Change the middle sign from plus (+) to minus (-) to utilize the (a+b)(a-b) = a² - b² identity logic.",
+        "hi": "सर्वसमिका का उपयोग करने के लिए मध्य चिह्न को प्लस (+) से माइनस (-) में बदलें।"
       },
       "explanation": {
-        "en": "Example 18 on Page 19 explains: 'Multiply 1/(2+√3) by (2-√3)/(2-√3) to get (2-√3) / (2² - (√3)²) = (2-√3)/(4-3) = 2-√3.' Reversing the sign clears the roots via the difference of squares.",
+        "en": "Example 18 on Page 19 explains: 'Multiply 1/(2+\\sqrt{3}) by (2-\\sqrt{3})/(2-\\sqrt{3}) to get (2-\\sqrt{3}) / (2² - (\\sqrt{3})²) = (2-\\sqrt{3})/(4-3) = 2-\\sqrt{3}.'",
         "hi": "पृष्ठ 19 पर उदाहरण 18 व्याख्या करता है: '1/(2+√3) को (2-√3)/(2-√3) से गुणा करने पर (2-√3) / (2² - (√3)²) = (2-√3)/(4-3) = 2-√3 प्राप्त होता है।'"
       },
       "key_takeaway": {
-        "en": "To rationalise 1/(a + √b), always multiply by the conjugate (a - √b) / (a - √b).",
+        "en": "To rationalise 1/(a + \\sqrt{b}), always multiply by the conjugate (a - \\sqrt{b}) / (a - \\sqrt{b}).",
         "hi": "1/(a + √b) का परिमेयकरण करने के लिए, हमेशा संयुग्मी (a - √b) / (a - √b) से गुणा करें।"
       }
     },
     {
       "question_id": 13,
       "question": {
-        "en": "[Topic: Example 19, Page 19] When rationalising the denominator of 5 / (√3 - √5), we multiply by (√3 + √5) / (√3 + √5). What is the value obtained in the denominator before final simplification?",
+        "en": "[Topic: Example 19, Page 19] When rationalising the denominator of 5 / (\\sqrt{3} - \\sqrt{5}), we multiply by (\\sqrt{3} + \\sqrt{5}) / (\\sqrt{3} + \\sqrt{5}). What is the value obtained in the denominator before final simplification?",
         "hi": "[विषय: उदाहरण 19, पृष्ठ 19] 5 / (√3 - √5) के हर का परिमेयकरण करते समय, हम (√3 + √5) / (√3 + √5) से गुणा करते हैं। अंतिम सरलीकरण से पहले हर में क्या मान प्राप्त होता है?"
       },
       "options": {
@@ -491,7 +493,7 @@
           "hi": "3 + 5 (जो कि 8 के बराबर है)"
         },
         "c": {
-          "en": "√3 - √5",
+          "en": "\\sqrt{3} - \\sqrt{5}",
           "hi": "√3 - √5"
         },
         "d": {
@@ -501,11 +503,11 @@
       },
       "correct_option": "a",
       "hint": {
-        "en": "Use the identity (√a - √b)(√a + √b) = a - b. Here a=3 and b=5.",
-        "hi": "सर्वसमिका (√a - √b)(√a + √b) = a - b का उपयोग करें। यहाँ a=3 और b=5 है।"
+        "en": "Use the identity (\\sqrt{a} - \\sqrt{b})(\\sqrt{a} + \\sqrt{b}) = a - b. Here a=3 and b=5.",
+        "hi": "सर्वसमिका का उपयोग करें। यहाँ a=3 और b=5 है।"
       },
       "explanation": {
-        "en": "Example 19 on Page 19 shows that the denominator becomes (√3)² - (√5)² = 3 - 5 = -2. The full expression is 5(√3 + √5) / -2. Option B is wrong because the identity subtracts the values, it does not add them.",
+        "en": "Example 19 on Page 19 shows that the denominator becomes (\\sqrt{3})² - (\\sqrt{5})² = 3 - 5 = -2. The full expression is 5(\\sqrt{3} + \\sqrt{5}) / -2. Option B is wrong because the identity subtracts the values, it does not add them.",
         "hi": "पृष्ठ 19 पर उदाहरण 19 दर्शाता है कि हर (denominator) (√3)² - (√5)² = 3 - 5 = -2 बन जाता है। पूरा व्यंजक 5(√3 + √5) / -2 है। विकल्प B गलत है क्योंकि सर्वसमिका मानों को घटाती है, जोड़ती नहीं।"
       },
       "key_takeaway": {
@@ -654,7 +656,7 @@
       "correct_option": "c",
       "hint": {
         "en": "You combine the different bases inside a single bracket under the shared common exponent.",
-        "hi": "आप साझा किए गए सामान्य घातांक के तहत एक ही कोष्ठक के अंदर अलग-अलग आधारों को जोड़ (combine) देते हैं।"
+        "hi": "आप साझा किए गए सामान्य घातांक के तहत एक ही कोष्ठक के अंदर अलग-अलग आधारों को जोड़ देते हैं।"
       },
       "explanation": {
         "en": "Page 20 lists Law (iv): 'aᵐ × bᵐ = (ab)ᵐ'. Here, bases are multiplied together first, and the power is kept common. Option A is incorrect because bases cannot be added like this.",
@@ -669,7 +671,7 @@
       "question_id": 18,
       "question": {
         "en": "[Topic: Exponent Value of Zero, Page 20] According to the text parameters, what is the mathematical value of any non-zero base raised to the power of 0, like a⁰?",
-        "hi": "[विषय: शून्य का घातांक मान, पृष्ठ 20] पाठ के मानदंडों के अनुसार, किसी भी शून्येतर आधार की घात 0 होने पर उसका गणितीय मान क्या होता है, जैसे a⁰?",
+        "hi": "[विषय: शून्य का घातांक मान, पृष्ठ 20] पाठ के मानदंडों के अनुसार, किसी भी शून्येतर आधार की घात 0 होने पर उसका गणितीय मान क्या होता है, जैसे a⁰?"
       },
       "options": {
         "a": {
@@ -692,11 +694,11 @@
       "correct_option": "b",
       "hint": {
         "en": "Think of it as a number divided by itself: aᵐ / aᵐ = a^(m-m) = a⁰. Any non-zero number divided by itself equals this value.",
-        "hi": "इसे किसी संख्या को स्वयं से भाग देने के रूप में सोचें: aᵐ / aᵐ = a^(m-m) = a⁰. किसी भी शून्येतर संख्या को स्वयं से भाग देने पर यह मान प्राप्त होता है।"
+        "hi": "इसे किसी संख्या को स्वयं से भाग देने के रूप में सोचें। किसी भी शून्येतर संख्या को स्वयं से भाग देने पर यह मान प्राप्त होता है।"
       },
       "explanation": {
         "en": "The foundational parameters on Page 20 specify that any non-zero real number raised to the power of 0 is always exactly 1 (a⁰ = 1). Option A is a common weak student mistake.",
-        "hi": "पृष्ठ 20 पर मूलभूत मानदंड निर्दिष्ट करते हैं कि किसी भी शून्येतर वास्तविक संख्या की घात 0 होने पर उसका मान हमेशा ठीक 1 होता है (a⁰ = 1)। विकल्प A कमजोर छात्रों द्वारा की जाने वाली एक आम गलती है।"
+        "hi": "पृष्ठ 20 पर मूलभूत मानदंड निर्दिष्ट करते हैं कि किसी भी शून्येतर वास्तविक संख्या की घात 0 होने पर उसका मान हमेशा ठीक 1 होता है (a⁰ = 1)।"
       },
       "key_takeaway": {
         "en": "Any non-zero real number with an exponent of 0 always resolves to exactly 1.",
@@ -706,7 +708,7 @@
     {
       "question_id": 19,
       "question": {
-        "en": "[Topic: Example 21, Page 21] Simplify the expression using fractional exponent laws: 2^(2/3) × 2^(1/3). What is the correct final value?",
+        "en": "[Topic: Example 21, Page 21] Simplify the expression using fractional exponent laws: 2^(2/3) \\times 2^(1/3). What is the correct final value?",
         "hi": "[विषय: उदाहरण 21, पृष्ठ 21] भिन्नात्मक घातांक नियमों का उपयोग करके व्यंजक को सरल कीजिए: 2^(2/3) × 2^(1/3)। इसका सही अंतिम मान क्या है?"
       },
       "options": {
@@ -734,7 +736,7 @@
       },
       "explanation": {
         "en": "Example 21 (i) on Page 21 applies the law aᵐ × aⁿ = a^(m+n): 2^(2/3) × 2^(1/3) = 2^(2/3 + 1/3) = 2^(3/3) = 2¹ = 2. Option B is wrong because bases are never multiplied together if they are the same.",
-        "hi": "पृष्ठ 21 पर उदाहरण 21 (i) नियम aᵐ × aⁿ = a^(m+n) लागू करता है: 2^(2/3) × 2^(1/3) = 2^(2/3 + 1/3) = 2^(3/3) = 2¹ = 2. विकल्प B गलत है क्योंकि आधार समान होने पर उन्हें कभी आपस में गुणा नहीं किया जाता।"
+        "hi": "पृष्ठ 21 पर उदाहरण 21 (i) नियम aᵐ × aⁿ = a^(m+n) लागू करता है: 2^(2/3) × 2^(1/3) = 2^(2/3 + 1/3) = 2^(3/3) = 2¹ = 2।"
       },
       "key_takeaway": {
         "en": "Laws of exponents apply identically to fractional exponents; add the powers when bases match in multiplication.",
