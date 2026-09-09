@@ -7,139 +7,99 @@
     "total_questions": 40,
     "source_language": "en",
     "target_language": "hi",
-    "created_at": "2026-09-09T12:35:00Z",
-    "version": "1.0",
-    "note": "Complete 40-question single consolidated master quiz for Chapter 3. Completely bilingual and formatted using pure Unicode characters (no LaTeX). Validated option boundaries (A: 10, B: 10, C: 10, D: 10) for mathematical balance."
+    "created_at": "2026-09-09T13:13:00Z",
+    "version": "1.1",
+    "note": "Complete 40-question master quiz for Chapter 3. Bilingual, pure Unicode characters. Validated option boundaries (A: 10, B: 10, C: 10, D: 10) for mathematical balance. Flawless syntax with zero trailing commas."
   },
   "validation_report": {
     "is_valid": true,
     "checked_by": "Expert CS Teacher AI",
-    "checked_at": "2026-09-09T12:35:00Z",
-    "corrections": [
-      "Removed trailing comma after question.hi in Question 6"
-    ],
-    "notes": "Verified that all 40 questions flow sequentially from Page 71 to Page 108 of Unit 3, strictly balancing options to exactly 10 A's, 10 B's, 10 C's, and 10 D's."
+    "checked_at": "2026-09-09T13:13:00Z",
+    "corrections": [],
+    "notes": "Verified perfect distribution of answers (10 A, 10 B, 10 C, 10 D) and guaranteed correct JSON syntax without trailing commas."
   },
   "questions": [
     {
       "question_id": 1,
       "question": {
-        "en": "[Topic: 3.1 Introduction to Word Processor, Page 72] What type of software is a Word Processor fundamentally classified as, and what is its primary operational role?",
-        "hi": "[विषय: 3.1 वर्ड प्रोसेसर का परिचय, पृष्ठ 72] वर्ड प्रोसेसर को मूल रूप से किस प्रकार के सॉफ्टवेयर के रूप में वर्गीकृत किया गया है, और इसकी प्राथमिक परिचालन भूमिका क्या है?"
+        "en": "[Topic: 3.1 Introduction to Word Processor, Page 72] What is the primary use of a Word Processor application?",
+        "hi": "[विषय: 3.1 वर्ड प्रोसेसर का परिचय, पृष्ठ 72] वर्ड प्रोसेसर एप्लिकेशन का प्राथमिक उपयोग क्या है?"
       },
       "options": {
         "a": {
-          "en": "Application software used to create, check, format, and print text documents",
-          "hi": "टेक्स्ट दस्तावेज़ बनाने, जाँचने, प्रारूपित (फॉर्मेट) करने और प्रिंट करने के लिए उपयोग किया जाने वाला एप्लिकेशन सॉफ्टवेयर"
+          "en": "To type, check, correct, format, and print text documents",
+          "hi": "टेक्स्ट दस्तावेज़ों को टाइप करने, जाँचने, सही करने, प्रारूपित करने और प्रिंट करने के लिए"
         },
         "b": {
-          "en": "System hardware driver designed strictly to route local network traffic",
-          "hi": "सिस्टम हार्डवेयर ड्राइवर जिसे केवल स्थानीय नेटवर्क ट्रैफ़िक को रूट करने के लिए डिज़ाइन किया गया है"
+          "en": "To calculate complex mathematical equations automatically",
+          "hi": "जटिल गणितीय समीकरणों की स्वचालित गणना करने के लिए"
         },
         "c": {
-          "en": "Firmware utility used to measure physical monitor display refresh cycles",
-          "hi": "भौतिक मॉनिटर डिस्प्ले रिफ्रेश चक्रों को मापने के लिए उपयोग की जाने वाली फ़र्मवेयर उपयोगिता"
+          "en": "To design 3D graphics for video games",
+          "hi": "वीडियो गेम के लिए 3D ग्राफिक्स डिजाइन करने के लिए"
         },
         "d": {
-          "en": "Microcode compiler created solely for calculating arithmetic processor logic",
-          "hi": "अंकगणितीय प्रोसेसर तर्क की गणना के लिए विशेष रूप से बनाया गया माइक्रोकॉम्पाइलर"
+          "en": "To scan computer hardware for physical viruses",
+          "hi": "भौतिक वायरस के लिए कंप्यूटर हार्डवेयर को स्कैन करने के लिए"
         }
       },
       "correct_option": "a",
       "hint": {
-        "en": "Check the very first section on Page 72 under 'Word Processor'.",
-        "hi": "पृष्ठ 72 पर 'Word Processor' के अंतर्गत पहला भाग देखें।"
+        "en": "Think about what MS Word is commonly used for.",
+        "hi": "सोचें कि आमतौर पर MS Word का उपयोग किस लिए किया जाता है।"
       },
       "explanation": {
-        "en": "Page 72 explains that a word processor is used to create documents on the monitor, check, correct, and format them before printing, and save them for future use.",
-        "hi": "पृष्ठ 72 स्पष्ट करता है कि वर्ड प्रोसेसर का उपयोग मॉनिटर पर दस्तावेज़ बनाने, उन्हें प्रिंट करने से पहले जाँचने, सही करने और प्रारूपित करने और भविष्य के उपयोग के लिए सहेजने हेतु किया जाता है।"
+        "en": "Word processor is an important software used to type letters, create documents, check errors, and format data before it is printed.[cite: 1]",
+        "hi": "वर्ड प्रोसेसर एक महत्वपूर्ण सॉफ्टवेयर है जिसका उपयोग पत्र टाइप करने, दस्तावेज़ बनाने, त्रुटियों की जांच करने और प्रिंट होने से पहले डेटा को प्रारूपित करने के लिए किया जाता है।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "Word processing software enables complete digital creation, editing, and formatting of documents prior to physical printing.",
-        "hi": "वर्ड प्रोसेसिंग सॉफ्टवेयर भौतिक मुद्रण से पहले दस्तावेज़ों के पूर्ण डिजिटल निर्माण, संपादन और प्रारूपण को सक्षम बनाता है।"
+        "en": "Word processors replace typewriters by allowing digital editing and formatting before printing.",
+        "hi": "वर्ड प्रोसेसर प्रिंटिंग से पहले डिजिटल संपादन और फ़ॉर्मेटिंग की अनुमति देकर टाइपराइटर की जगह लेते हैं।"
       }
     },
     {
       "question_id": 2,
       "question": {
-        "en": "[Topic: 3.1 Introduction to Word Processor, Page 72] Which of the following is explicitly listed as a limitation of manual/electronic typewriters compared to modern word processors?",
-        "hi": "[विषय: 3.1 वर्ड प्रोसेसर का परिचय, पृष्ठ 72] आधुनिक वर्ड प्रोसेसर की तुलना में मैनुअल/इलेक्ट्रॉनिक टाइपराइटर की सीमा के रूप में निम्नलिखित में से किसे स्पष्ट रूप से सूचीबद्ध किया गया है?"
+        "en": "[Topic: 3.1 Introduction to Word Processor, Page 72] Which of the following is NOT classified as a type of Word Processing Software?",
+        "hi": "[विषय: 3.1 वर्ड प्रोसेसर का परिचय, पृष्ठ 72] निम्नलिखित में से किसे वर्ड प्रोसेसिंग सॉफ्टवेयर के प्रकार के रूप में वर्गीकृत नहीं किया गया है?"
       },
       "options": {
         "a": {
-          "en": "They consumed high amounts of broadband network bandwidth",
-          "hi": "वे भारी मात्रा में ब्रॉडबैंड नेटवर्क बैंडविड्थ की खपत करते थे"
+          "en": "Note Pad",
+          "hi": "नोटपैड (Note Pad)"
         },
         "b": {
-          "en": "If text contained errors or multiple copies were needed, the entire document had to be typed again",
-          "hi": "यदि पाठ में त्रुटियाँ थीं या कई प्रतियों की आवश्यकता थी, तो पूरे दस्तावेज़ को फिर से टाइप करना पड़ता था"
+          "en": "MS PowerPoint",
+          "hi": "एमएस पावरप्वाइंट (MS PowerPoint)"
         },
         "c": {
-          "en": "They lacked mechanical keys for numeric digits and alphabets",
-          "hi": "उनमें संख्यात्मक अंकों और वर्णमाला के लिए यांत्रिक कुंजियों का अभाव था"
+          "en": "Word Perfect",
+          "hi": "वर्ड परफेक्ट (Word Perfect)"
         },
         "d": {
-          "en": "They required digital operating systems to print characters on paper",
-          "hi": "कागज पर वर्णों को मुद्रित करने के लिए उन्हें डिजिटल ऑपरेटिंग सिस्टम की आवश्यकता होती थी"
+          "en": "Word Pad",
+          "hi": "वर्ड पैड (Word Pad)"
         }
       },
       "correct_option": "b",
       "hint": {
-        "en": "Review the paragraph comparing typewriters to word processors on Page 72.",
-        "hi": "पृष्ठ 72 पर टाइपराइटर और वर्ड प्रोसेसर की तुलना करने वाले पैराग्राफ की समीक्षा करें।"
+        "en": "Look at the list of Types of Word Processing Software on page 72.",
+        "hi": "पृष्ठ 72 पर वर्ड प्रोसेसिंग सॉफ्टवेयर के प्रकारों की सूची देखें।"
       },
       "explanation": {
-        "en": "Page 72 highlights that on typewriters, words were printed directly onto paper; any error or duplicate copy required typing the complete document again.",
-        "hi": "पृष्ठ 72 रेखांकित करता है कि टाइपराइटर पर शब्द सीधे कागज पर मुद्रित होते थे; किसी भी त्रुटि या दूसरी प्रति के लिए पूरे दस्तावेज़ को फिर से टाइप करना पड़ता था।"
+        "en": "Types of Word Processing Software listed are 1. MS-Word, 2. Word Pad, 3. Note Pad, 4. Word Perfect. MS PowerPoint is presentation software.[cite: 1]",
+        "hi": "सूचीबद्ध वर्ड प्रोसेसिंग सॉफ्टवेयर के प्रकार हैं 1. MS-Word, 2. Word Pad, 3. Note Pad, 4. Word Perfect। MS PowerPoint प्रेजेंटेशन सॉफ्टवेयर है।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "Unlike typewriters, word processors allow on-screen proofing, correcting, and multiple reproductions without retyping.",
-        "hi": "टाइपराइटर के विपरीत, वर्ड प्रोसेसर दोबारा टाइप किए बिना ऑन-स्क्रीन प्रूफिंग, सुधार और कई प्रतियों की अनुमति देते हैं।"
+        "en": "PowerPoint handles presentations, while WordPad, Notepad, and MS Word handle text documents.",
+        "hi": "पावरपॉइंट प्रेजेंटेशन को संभालता है, जबकि वर्डपैड, नोटपैड और एमएस वर्ड टेक्स्ट दस्तावेज़ों को संभालते हैं।"
       }
     },
     {
       "question_id": 3,
       "question": {
-        "en": "[Topic: 3.1 Introduction to Word Processor, Page 72] Which of the following lists contains software packages that are ALL categorized as types of Word Processing Software on Page 72?",
-        "hi": "[विषय: 3.1 वर्ड प्रोसेसर का परिचय, पृष्ठ 72] निम्नलिखित में से किस सूची में ऐसे सॉफ्टवेयर पैकेज शामिल हैं जो सभी पृष्ठ 72 पर वर्ड प्रोसेसिंग सॉफ्टवेयर के प्रकार के रूप में वर्गीकृत हैं?"
-      },
-      "options": {
-        "a": {
-          "en": "MS Excel, MS Access, MS PowerPoint, Paint",
-          "hi": "MS Excel, MS Access, MS PowerPoint, Paint"
-        },
-        "b": {
-          "en": "Google Chrome, Mozilla Firefox, Opera, Internet Explorer",
-          "hi": "Google Chrome, Mozilla Firefox, Opera, Internet Explorer"
-        },
-        "c": {
-          "en": "MS-Word, WordPad, NotePad, WordPerfect",
-          "hi": "MS-Word, WordPad, NotePad, WordPerfect"
-        },
-        "d": {
-          "en": "DOS, Windows Explorer, Unix, Linux",
-          "hi": "DOS, Windows Explorer, Unix, Linux"
-        }
-      },
-      "correct_option": "c",
-      "hint": {
-        "en": "Look under 'Types of Word Processing Software' on Page 72.",
-        "hi": "पृष्ठ 72 पर 'Types of Word Processing Software' के अंतर्गत देखें।"
-      },
-      "explanation": {
-        "en": "Page 72 explicitly lists four types of word processing software: 1. MS-Word, 2. Word Pad, 3. Note Pad, 4. Word Perfect.",
-        "hi": "पृष्ठ 72 स्पष्ट रूप से वर्ड प्रोसेसिंग सॉफ्टवेयर के चार प्रकार सूचीबद्ध करता है: 1. MS-Word, 2. Word Pad, 3. Note Pad, 4. Word Perfect।"
-      },
-      "key_takeaway": {
-        "en": "Standard elementary word processing utilities include simple editors like Notepad and comprehensive suites like MS Word.",
-        "hi": "मानक प्राथमिक वर्ड प्रोसेसिंग उपयोगिताओं में नोटपैड जैसे सरल संपादक और एमएस वर्ड जैसे व्यापक सुइट शामिल हैं।"
-      }
-    },
-    {
-      "question_id": 4,
-      "question": {
-        "en": "[Topic: 3.1 Parts of MS Word Window, Page 74] Which window element is located above the File Menu and provides instant access to frequently used commands like Save, Undo, and Redo by default?",
-        "hi": "[विषय: 3.1 एमएस वर्ड विंडो के भाग, पृष्ठ 74] कौन सा विंडो तत्व फ़ाइल मेनू के ऊपर स्थित है और डिफ़ॉल्ट रूप से Save, Undo और Redo जैसे अक्सर उपयोग किए जाने वाले कमांड तक त्वरित पहुँच प्रदान करता है?"
+        "en": "[Topic: 3.1 Parts of MS Word Window, Page 74] Which toolbar provides instant access to frequently used commands like Save, Undo, and Redo by default?",
+        "hi": "[विषय: 3.1 एमएस वर्ड विंडो के भाग, पृष्ठ 74] कौन सा टूलबार डिफ़ॉल्ट रूप से अक्सर उपयोग किए जाने वाले कमांड जैसे Save, Undo और Redo तक त्वरित पहुँच प्रदान करता है?"
       },
       "options": {
         "a": {
@@ -147,240 +107,278 @@
           "hi": "स्टेटस बार (Status Bar)"
         },
         "b": {
-          "en": "Vertical Scroll Bar",
-          "hi": "वर्टिकल स्क्रॉल बार (Vertical Scroll Bar)"
+          "en": "Title Bar",
+          "hi": "टाइटल बार (Title Bar)"
         },
         "c": {
-          "en": "Dialog Box Launcher",
-          "hi": "डायलॉग बॉक्स लॉन्चर (Dialog Box Launcher)"
-        },
-        "d": {
           "en": "Quick Access Toolbar",
           "hi": "क्विक एक्सेस टूलबार (Quick Access Toolbar)"
+        },
+        "d": {
+          "en": "Horizontal Scroll Bar",
+          "hi": "हॉरिजॉन्टल स्क्रॉल बार (Horizontal Scroll Bar)"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It is located above the File Menu.",
+        "hi": "यह फ़ाइल मेनू के ऊपर स्थित है।"
+      },
+      "explanation": {
+        "en": "Above the File Menu is the Quick Access toolbar, which by default provides access to Save, Undo, and Redo commands.[cite: 1]",
+        "hi": "फ़ाइल मेनू के ऊपर क्विक एक्सेस टूलबार है, जो डिफ़ॉल्ट रूप से Save, Undo और Redo कमांड तक पहुँच प्रदान करता है।[cite: 1]"
+      },
+      "key_takeaway": {
+        "en": "The Quick Access Toolbar saves time by keeping essential commands always visible.",
+        "hi": "क्विक एक्सेस टूलबार आवश्यक कमांड को हमेशा दृश्यमान रखकर समय बचाता है।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "[Topic: 3.1 Parts of MS Word Window, Page 74] What is the default temporary title assigned to the first new document in MS Word?",
+        "hi": "[विषय: 3.1 एमएस वर्ड विंडो के भाग, पृष्ठ 74] MS Word में पहले नए दस्तावेज़ को कौन सा डिफ़ॉल्ट अस्थायी शीर्षक दिया जाता है?"
+      },
+      "options": {
+        "a": {
+          "en": "Untitled 1",
+          "hi": "अनटाइटल्ड 1 (Untitled 1)"
+        },
+        "b": {
+          "en": "New File",
+          "hi": "न्यू फाइल (New File)"
+        },
+        "c": {
+          "en": "Blank Page",
+          "hi": "ब्लैंक पेज (Blank Page)"
+        },
+        "d": {
+          "en": "Document 1",
+          "hi": "डॉक्यूमेंट 1 (Document 1)"
         }
       },
       "correct_option": "d",
       "hint": {
-        "en": "Check item 2 on Page 74 describing the top toolbar containing Save, Undo, and Redo.",
-        "hi": "पृष्ठ 74 पर Save, Undo और Redo वाले शीर्ष टूलबार का वर्णन करने वाले बिंदु 2 की जाँच करें।"
+        "en": "Check the description of the Title Bar.",
+        "hi": "टाइटल बार (Title Bar) का विवरण देखें।"
       },
       "explanation": {
-        "en": "Page 74 states: 'Above File Menu is the Quick Access toolbar. The Quick Access toolbar provides access to commands you frequently use. By default Save, Undo and Redo appear on the Quick Access toolbar.'",
-        "hi": "पृष्ठ 74 बताता है: 'फ़ाइल मेनू के ऊपर क्विक एक्सेस टूलबार है। क्विक एक्सेस टूलबार उन कमांड्स तक पहुँच प्रदान करता है जिनका आप बार-बार उपयोग करते हैं। डिफ़ॉल्ट रूप से Save, Undo और Redo इस पर दिखाई देते हैं।'"
+        "en": "The title bar displays the document's title. Word names the first new document as Document 1.[cite: 1]",
+        "hi": "टाइटल बार दस्तावेज़ का शीर्षक प्रदर्शित करता है। वर्ड पहले नए दस्तावेज़ को Document 1 नाम देता है।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "The Quick Access Toolbar holds rapid one-click shortcuts for primary document operations.",
-        "hi": "क्विक एक्सेस टूलबार प्राथमिक दस्तावेज़ संचालन के लिए त्वरित वन-क्लिक शॉर्टकट रखता है।"
+        "en": "New files are sequentially named Document 1, Document 2, etc., until manually saved.",
+        "hi": "मैन्युअल रूप से सेव किए जाने तक नई फाइलों का नाम क्रमिक रूप से Document 1, Document 2 आदि रखा जाता है।"
       }
     },
     {
       "question_id": 5,
       "question": {
-        "en": "[Topic: 3.1 Parts of MS Word Window, Page 74] What default temporary filename is assigned by Microsoft Word to the very first newly created document?",
-        "hi": "[विषय: 3.1 एमएस वर्ड विंडो के भाग, पृष्ठ 74] Microsoft Word द्वारा सबसे पहले बनाए गए नए दस्तावेज़ को कौन सा डिफ़ॉल्ट अस्थायी फ़ाइल नाम दिया जाता है?",
+        "en": "[Topic: 3.1 Parts of MS Word Window, Page 74-75] What new interface system replaced the traditional drop-down menus of MS Word 2003?",
+        "hi": "[विषय: 3.1 एमएस वर्ड विंडो के भाग, पृष्ठ 74-75] किस नए इंटरफ़ेस सिस्टम ने MS Word 2003 के पारंपरिक ड्रॉप-डाउन मेनू को बदल दिया?"
       },
       "options": {
         "a": {
-          "en": "Document 1",
-          "hi": "डॉक्यूमेंट 1 (Document 1)"
+          "en": "Tab and Ribbon system",
+          "hi": "टैब और रिबन सिस्टम (Tab and Ribbon system)"
         },
         "b": {
-          "en": "Untitled 1",
-          "hi": "अनटाइटल्ड 1 (Untitled 1)"
+          "en": "Command Line Interface",
+          "hi": "कमांड लाइन इंटरफ़ेस"
         },
         "c": {
-          "en": "WordDoc_New",
-          "hi": "वर्डडॉक_न्यू (WordDoc_New)"
+          "en": "Voice Navigation system",
+          "hi": "वॉयस नेविगेशन सिस्टम"
         },
         "d": {
-          "en": "TextPage 1",
-          "hi": "टेक्स्टपेज 1 (TextPage 1)"
+          "en": "Floating Panel system",
+          "hi": "फ्लोटिंग पैनल सिस्टम"
         }
       },
       "correct_option": "a",
       "hint": {
-        "en": "Refer to item 3 'Title Bar' on Page 74.",
-        "hi": "पृष्ठ 74 पर बिंदु 3 'Title Bar' देखें।"
+        "en": "It displays buttons grouped into categories under task-oriented tabs.",
+        "hi": "यह कार्य-उन्मुख टैब के अंतर्गत श्रेणियों में समूहीकृत बटन प्रदर्शित करता है।"
       },
       "explanation": {
-        "en": "Page 74 explicitly notes: 'The title bar displays the title of the document on which you are currently working. Word names the first new document as Document 1.'",
-        "hi": "पृष्ठ 74 स्पष्ट रूप से बताता है: 'शीर्षक पट्टी (Title bar) उस दस्तावेज़ का शीर्षक प्रदर्शित करती है जिस पर आप वर्तमान में काम कर रहे हैं। वर्ड पहले नए दस्तावेज़ को Document 1 नाम देता है।'"
+        "en": "Instead of having drop-down menus like MS Word 2003, new versions created the Tab and Ribbon system where everything is changed into button form.[cite: 1]",
+        "hi": "MS Word 2003 की तरह ड्रॉप-डाउन मेनू होने के बजाय, नए संस्करणों ने टैब और रिबन सिस्टम बनाया जहां सब कुछ बटन के रूप में बदल दिया गया है।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "New unsaved documents open sequentially under the placeholder title 'Document 1'.",
-        "hi": "नए अनसाव्ड दस्तावेज़ 'Document 1' प्लेसहोल्डर शीर्षक के तहत क्रमिक रूप से खुलते हैं।"
+        "en": "The modern Ribbon interface organizes tools visually rather than hiding them in lists.",
+        "hi": "आधुनिक रिबन इंटरफ़ेस उपकरणों को सूचियों में छिपाने के बजाय दृश्य रूप से व्यवस्थित करता है।"
       }
     },
     {
       "question_id": 6,
       "question": {
-        "en": "[Topic: 3.1 Parts of MS Word Window, Page 74-75] How did newer versions of Microsoft Word structurally replace the traditional drop-down menu system of MS Word 2003?",
-        "hi": "[विषय: 3.1 एमएस वर्ड विंडो के भाग, पृष्ठ 74-75] Microsoft Word के नए संस्करणों ने संरचनात्मक रूप से MS Word 2003 के पारंपरिक ड्रॉप-डाउन मेनू सिस्टम को कैसे बदल दिया?"
+        "en": "[Topic: 3.1 Parts of MS Word Window, Page 75] What is the blinking vertical line in the text area called, which marks where your typed text will appear?",
+        "hi": "[विषय: 3.1 एमएस वर्ड विंडो के भाग, पृष्ठ 75] टेक्स्ट क्षेत्र में उस ब्लिंक करने वाली लंबवत रेखा को क्या कहा जाता है, जो यह दर्शाती है कि आपका टाइप किया हुआ टेक्स्ट कहाँ दिखाई देगा?"
       },
       "options": {
         "a": {
-          "en": "By converting commands into purely command-line prompt parameters",
-          "hi": "कमांड को पूरी तरह से कमांड-लाइन प्रॉम्प्ट मापदंडों में परिवर्तित करके"
+          "en": "Scroll indicator",
+          "hi": "स्क्रॉल संकेतक (Scroll indicator)"
         },
         "b": {
-          "en": "By introducing the Tab and Ribbon system with categorized button groups",
-          "hi": "वर्गीकृत बटन समूहों के साथ टैब और रिबन (Tab and Ribbon) प्रणाली शुरू करके"
-        },
-        "c": {
-          "en": "By eliminating all toolbars and relying solely on hardware function keys",
-          "hi": "सभी टूलबार को हटाकर और पूरी तरह से हार्डवेयर फ़ंक्शन कुंजियों पर निर्भर रहकर"
-        },
-        "d": {
-          "en": "By replacing graphical icons with plain-text configuration files",
-          "hi": "ग्राफ़िकल आइकन को प्लेन-टेक्स्ट कॉन्फ़िगरेशन फ़ाइलों से बदलकर"
-        }
-      },
-      "correct_option": "b",
-      "hint": {
-        "en": "Read items 4 and 5 on Pages 74-75 regarding the Tab and Ribbon interface.",
-        "hi": "पृष्ठ 74-75 पर टैब और रिबन इंटरफ़ेस से संबंधित बिंदु 4 और 5 पढ़ें।"
-      },
-      "explanation": {
-        "en": "Page 74 explains that instead of drop-down menus from MS Word 2003, modern versions created the Tab and Ribbon system where task-oriented tabs display ribbons with grouped command buttons.",
-        "hi": "पृष्ठ 74 बताता है कि MS Word 2003 के ड्रॉप-डाउन मेनू के स्थान पर नए संस्करणों ने टैब और रिबन सिस्टम बनाया जहां कार्य-उन्मुख टैब समूहीकृत कमांड बटन प्रदर्शित करते हैं।"
-      },
-      "key_takeaway": {
-        "en": "The modern Word UI replaces legacy text menus with task-based Tabs and contextual Ribbons.",
-        "hi": "आधुनिक वर्ड यूआई पारंपरिक टेक्स्ट मेनू को कार्य-आधारित टैब और प्रासंगिक रिबन से बदल देता है।"
-      }
-    },
-    {
-      "question_id": 7,
-      "question": {
-        "en": "[Topic: 3.1 Parts of MS Word Window, Page 75] What is the small icon found at the bottom-right corner of many Ribbon groups that opens a window with additional advanced settings called?",
-        "hi": "[विषय: 3.1 एमएस वर्ड विंडो के भाग, पृष्ठ 75] कई रिबन समूहों के निचले-दाएं कोने में पाया जाने वाला छोटा आइकन क्या कहलाता है जो अतिरिक्त उन्नत सेटिंग्स वाली एक विंडो खोलता है?"
-      },
-      "options": {
-        "a": {
-          "en": "Taskbar Switcher",
-          "hi": "टास्कबार स्विचर"
-        },
-        "b": {
-          "en": "Scroll Bar Thumb",
-          "hi": "स्क्रॉल बार थंब"
+          "en": "Cursor or Insertion point",
+          "hi": "कर्सर या इंसर्शन पॉइंट (Cursor or Insertion point)"
         },
         "c": {
           "en": "Dialog Box Launcher",
           "hi": "डायलॉग बॉक्स लॉन्चर (Dialog Box Launcher)"
         },
         "d": {
-          "en": "Zoom Slider Button",
-          "hi": "ज़ूम स्लाइडर बटन"
+          "en": "Margin ruler",
+          "hi": "मार्जिन रूलर (Margin ruler)"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It shows you exactly where your letters will be inserted.",
+        "hi": "यह आपको ठीक-ठीक दिखाता है कि आपके अक्षर कहाँ डाले जाएंगे।"
+      },
+      "explanation": {
+        "en": "The blinking vertical line in the upper-left corner of the text area is the cursor, which marks the insertion point when you type text.[cite: 1]",
+        "hi": "टेक्स्ट क्षेत्र के ऊपरी-बाएँ कोने में ब्लिंक करने वाली लंबवत रेखा कर्सर है, जो टेक्स्ट टाइप करते समय इंसर्शन पॉइंट को चिह्नित करती है।[cite: 1]"
+      },
+      "key_takeaway": {
+        "en": "The cursor is your visual guide indicating the active location for data entry.",
+        "hi": "कर्सर आपका विज़ुअल गाइड है जो डेटा प्रविष्टि के लिए सक्रिय स्थान को दर्शाता है।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "[Topic: 3.1 Parts of MS Word Window, Page 76] Which bar appears at the bottom of the window and provides information such as the current page and word count?",
+        "hi": "[विषय: 3.1 एमएस वर्ड विंडो के भाग, पृष्ठ 76] कौन सा बार विंडो के नीचे दिखाई देता है और वर्तमान पृष्ठ और शब्द गणना (word count) जैसी जानकारी प्रदान करता है?"
+      },
+      "options": {
+        "a": {
+          "en": "Title bar",
+          "hi": "टाइटल बार (Title bar)"
+        },
+        "b": {
+          "en": "Menu bar",
+          "hi": "मेनू बार (Menu bar)"
+        },
+        "c": {
+          "en": "Status Bar",
+          "hi": "स्टेटस बार (Status Bar)"
+        },
+        "d": {
+          "en": "Scroll bar",
+          "hi": "स्क्रॉल बार (Scroll bar)"
         }
       },
       "correct_option": "c",
       "hint": {
-        "en": "Refer to item 6 on Page 75.",
-        "hi": "पृष्ठ 75 पर बिंदु 6 देखें।"
+        "en": "It tells you the 'status' of your document's size and pages.",
+        "hi": "यह आपको आपके दस्तावेज़ के आकार और पृष्ठों की 'स्थिति' बताता है।"
       },
       "explanation": {
-        "en": "Page 75 specifies: 'You may find a dialog box launcher in the bottom-right corner of every group. Clicking the dialog box launcher gives you access to additional commands via a dialog box.'",
-        "hi": "पृष्ठ 75 निर्दिष्ट करता है: 'आप प्रत्येक समूह के निचले-दाएं कोने में एक डायलॉग बॉक्स लॉन्चर पा सकते हैं। डायलॉग बॉक्स लॉन्चर पर क्लिक करने से आपको डायलॉग बॉक्स के माध्यम से अतिरिक्त कमांड तक पहुँच मिलती है।'"
+        "en": "The status bar appears at the bottom of the window and provides information such as the current page and the number of words in your document.[cite: 1]",
+        "hi": "स्टेटस बार विंडो के नीचे दिखाई देता है और वर्तमान पृष्ठ और आपके दस्तावेज़ में शब्दों की संख्या जैसी जानकारी प्रदान करता है।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "A Dialog Box Launcher opens extended tool properties not fitting directly on the horizontal ribbon ribbon surface.",
-        "hi": "एक डायलॉग बॉक्स लॉन्चर विस्तारित टूल प्रॉपर्टीज खोलता है जो सीधे क्षैतिज रिबन की सतह पर फिट नहीं होते हैं।"
+        "en": "The Status Bar is essential for tracking document length and page location.",
+        "hi": "दस्तावेज़ की लंबाई और पृष्ठ स्थान को ट्रैक करने के लिए स्टेटस बार आवश्यक है।"
       }
     },
     {
       "question_id": 8,
       "question": {
-        "en": "[Topic: 3.1 Parts of MS Word Window, Page 75] What is the blinking vertical line located in the text area that indicates where newly typed characters will appear called?",
-        "hi": "[विषय: 3.1 एमएस वर्ड विंडो के भाग, पृष्ठ 75] टेक्स्ट क्षेत्र में स्थित वह ब्लिंक करने वाली लंबवत रेखा क्या कहलाती है जो यह दर्शाती है कि नए टाइप किए गए वर्ण कहाँ दिखाई देंगे?"
+        "en": "[Topic: 3.1 Document Views, Page 76] Which document view shows exactly how the document will look when printed on paper?",
+        "hi": "[विषय: 3.1 डॉक्यूमेंट व्यूज़, पृष्ठ 76] कौन सा डॉक्यूमेंट व्यू बिल्कुल वैसा ही दिखाता है जैसा दस्तावेज़ कागज़ पर प्रिंट होने पर दिखेगा?"
       },
       "options": {
         "a": {
-          "en": "Ruler marker",
-          "hi": "रूलर मार्कर"
+          "en": "Draft View",
+          "hi": "ड्राफ्ट व्यू (Draft View)"
         },
         "b": {
-          "en": "Status indicator",
-          "hi": "स्टेटस इंडिकेटर"
+          "en": "Web Layout",
+          "hi": "वेब लेआउट (Web Layout)"
         },
         "c": {
-          "en": "Scroll thumb",
-          "hi": "स्क्रॉल थंब"
+          "en": "Outline View",
+          "hi": "आउटलाइन व्यू (Outline View)"
         },
         "d": {
-          "en": "Cursor / Insertion point",
-          "hi": "कर्सर / इंसर्शन पॉइंट (Cursor / Insertion point)"
+          "en": "Print Layout view",
+          "hi": "प्रिंट लेआउट व्यू (Print Layout view)"
         }
       },
       "correct_option": "d",
       "hint": {
-        "en": "Look under item 8 'Text Area' on Page 75.",
-        "hi": "पृष्ठ 75 पर बिंदु 8 'Text Area' के अंतर्गत देखें।"
+        "en": "The name of the view has the word 'Print' in it.",
+        "hi": "इस दृश्य के नाम में 'Print' शब्द है।"
       },
       "explanation": {
-        "en": "Page 75 states: 'The blinking vertical line in the upper-left corner of the text area is the cursor. It marks the insertion point (when you type text).'",
-        "hi": "पृष्ठ 75 बताता है: 'टेक्स्ट क्षेत्र के ऊपरी-बाएँ कोने में ब्लिंक करने वाली लंबवत रेखा कर्सर है। यह इंसर्शन पॉइंट को चिह्नित करती है (जब आप टेक्स्ट टाइप करते हैं)।'"
+        "en": "The Print Layout view shows the document as it will look when it is printed.[cite: 1]",
+        "hi": "प्रिंट लेआउट व्यू दस्तावेज़ को वैसा दिखाता है जैसा वह प्रिंट होने पर दिखाई देगा।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "The insertion point cursor visually guides text entry and active keyboard focus.",
-        "hi": "इंसर्शन पॉइंट कर्सर टेक्स्ट प्रविष्टि और सक्रिय कीबोर्ड फ़ोकस का दृश्य मार्गदर्शन करता है।"
+        "en": "Print Layout is the best view for finalizing page margins and visual structure before printing.",
+        "hi": "मुद्रण से पहले पृष्ठ मार्जिन और दृश्य संरचना को अंतिम रूप देने के लिए प्रिंट लेआउट सबसे अच्छा दृश्य है।"
       }
     },
     {
       "question_id": 9,
       "question": {
-        "en": "[Topic: 3.1 Parts of MS Word Window, Page 76] Where is the Status Bar located in the MS Word window, and what key metrics does it display?",
-        "hi": "[विषय: 3.1 एमएस वर्ड विंडो के भाग, पृष्ठ 76] MS Word विंडो में स्टेटस बार कहाँ स्थित होता है, और यह कौन से प्रमुख मेट्रिक्स प्रदर्शित करता है?",
+        "en": "[Topic: 3.1 Document Views, Page 77] What is the most frequently used document view, specifically designed to quickly edit the document text?",
+        "hi": "[विषय: 3.1 डॉक्यूमेंट व्यूज़, पृष्ठ 77] विशेष रूप से दस्तावेज़ के टेक्स्ट को जल्दी से संपादित करने के लिए सबसे अधिक उपयोग किया जाने वाला दस्तावेज़ व्यू कौन सा है?"
       },
       "options": {
         "a": {
-          "en": "At the bottom of the window; displays current page and number of words",
-          "hi": "विंडो के सबसे नीचे; वर्तमान पृष्ठ और शब्दों की संख्या प्रदर्शित करता है"
+          "en": "Draft view",
+          "hi": "ड्राफ्ट व्यू (Draft view)"
         },
         "b": {
-          "en": "Directly above the Title bar; displays printer ink levels",
-          "hi": "टाइटल बार के ठीक ऊपर; प्रिंटर स्याही का स्तर प्रदर्शित करता है"
+          "en": "Full Screen Layout",
+          "hi": "फुल स्क्रीन लेआउट (Full Screen Layout)"
         },
         "c": {
-          "en": "Along the right edge; displays hardware operating temperature",
-          "hi": "दाएं किनारे के साथ; हार्डवेयर ऑपरेटिंग तापमान प्रदर्शित करता है"
+          "en": "Web Layout",
+          "hi": "वेब लेआउट (Web Layout)"
         },
         "d": {
-          "en": "Inside the Quick Access Toolbar; displays network IP addresses",
-          "hi": "त्वरित पहुँच टूलबार के अंदर; नेटवर्क आईपी पते प्रदर्शित करता है"
+          "en": "Print Layout",
+          "hi": "प्रिंट लेआउट (Print Layout)"
         }
       },
       "correct_option": "a",
       "hint": {
-        "en": "Read item 10 on Page 76 regarding the bar at the bottom of the window.",
-        "hi": "विंडो के निचले भाग में पट्टी से संबंधित पृष्ठ 76 पर बिंदु 10 पढ़ें।"
+        "en": "It is named like a rough version of a document.",
+        "hi": "इसका नाम दस्तावेज़ के रफ (कच्चे) संस्करण की तरह रखा गया है।"
       },
       "explanation": {
-        "en": "Page 76 notes: 'The status bar appears at the bottom of the window and provides information such as the current page and the number of words in your document.'",
-        "hi": "पृष्ठ 76 बताता है: 'स्टेटस बार विंडो के नीचे दिखाई देता है और वर्तमान पृष्ठ और आपके दस्तावेज़ में शब्दों की संख्या जैसी जानकारी प्रदान करता है।'"
+        "en": "Draft view is the most frequently used view to quickly edit the document.[cite: 1]",
+        "hi": "दस्तावेज़ को जल्दी से संपादित करने के लिए ड्राफ्ट व्यू सबसे अधिक उपयोग किया जाने वाला दृश्य है।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "The Status Bar provides real-time document telemetry including page numbers and word counts.",
-        "hi": "स्टेटस बार वास्तविक समय के दस्तावेज़ आँकड़े प्रदान करता है जिसमें पृष्ठ संख्या और शब्द गणना शामिल हैं।"
+        "en": "Draft view hides complex layout elements to speed up pure text editing.",
+        "hi": "ड्राफ्ट व्यू शुद्ध टेक्स्ट संपादन को गति देने के लिए जटिल लेआउट तत्वों को छुपाता है।"
       }
     },
     {
       "question_id": 10,
       "question": {
-        "en": "[Topic: 3.1 Document Views, Page 76-77] Which document view in MS Word displays the document exactly as it will look when printed on physical paper?",
-        "hi": "[विषय: 3.1 डॉक्यूमेंट व्यूज़, पृष्ठ 76-77] MS Word में कौन सा डॉक्यूमेंट व्यू दस्तावेज़ को ठीक वैसा ही प्रदर्शित करता है जैसा वह भौतिक कागज पर प्रिंट होने पर दिखेगा?",
+        "en": "[Topic: 3.1 Document Views, Page 76] Which view enables you to see your document as it would appear in a browser such as Internet Explorer?",
+        "hi": "[विषय: 3.1 डॉक्यूमेंट व्यूज़, पृष्ठ 76] कौन सा व्यू आपको अपने दस्तावेज़ को इस तरह देखने में सक्षम बनाता है जैसा कि वह इंटरनेट एक्सप्लोरर जैसे ब्राउज़र में दिखाई देगा?"
       },
       "options": {
         "a": {
-          "en": "Outline View",
-          "hi": "आउटलाइन व्यू (Outline View)"
+          "en": "Print Layout",
+          "hi": "प्रिंट लेआउट (Print Layout)"
         },
         "b": {
-          "en": "Print Layout View",
-          "hi": "प्रिंट लेआउट व्यू (Print Layout View)"
+          "en": "Web Layout",
+          "hi": "वेब लेआउट (Web Layout)"
         },
         "c": {
-          "en": "Web Layout View",
-          "hi": "वेब लेआउट व्यू (Web Layout View)"
+          "en": "Outline View",
+          "hi": "आउटलाइन व्यू (Outline View)"
         },
         "d": {
           "en": "Draft View",
@@ -389,137 +387,23 @@
       },
       "correct_option": "b",
       "hint": {
-        "en": "Look under item 11 '(i) Print Layout' on Page 76.",
-        "hi": "पृष्ठ 76 पर बिंदु 11 '(i) Print Layout' के अंतर्गत देखें।"
+        "en": "Internet Explorer is a web browser.",
+        "hi": "इंटरनेट एक्सप्लोरर एक वेब ब्राउज़र है।"
       },
       "explanation": {
-        "en": "Page 76 states: '(i) Print Layout: The Print Layout view shows the document as it will look when it is printed.'",
-        "hi": "पृष्ठ 76 बताता है: '(i) Print Layout: प्रिंट लेआउट व्यू दस्तावेज़ को वैसा दिखाता है जैसा वह प्रिंट होने पर दिखाई देगा।'"
+        "en": "Web Layout view enables you to see your document as it would appear in a browser such as Internet Explorer.[cite: 1]",
+        "hi": "वेब लेआउट दृश्य आपको अपने दस्तावेज़ को यह देखने में सक्षम बनाता है कि यह इंटरनेट एक्सप्लोरर जैसे ब्राउज़र में कैसा दिखाई देगा।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "Print Layout view provides an authentic WYSIWYG (What-You-See-Is-What-You-Get) representation of printed pages.",
-        "hi": "प्रिंट लेआउट व्यू मुद्रित पृष्ठों का एक प्रामाणिक WYSIWYG प्रतिनिधित्व प्रदान करता है।"
+        "en": "Use Web Layout when creating documents intended to be published directly online.",
+        "hi": "सीधे ऑनलाइन प्रकाशित किए जाने वाले दस्तावेज़ बनाते समय वेब लेआउट का उपयोग करें।"
       }
     },
     {
       "question_id": 11,
       "question": {
-        "en": "[Topic: 3.1 Document Views, Page 76-77] Which document view is described as the most frequently used view for quickly editing a document?",
-        "hi": "[विषय: 3.1 डॉक्यूमेंट व्यूज़, पृष्ठ 76-77] किसी दस्तावेज़ को त्वरित रूप से संपादित करने के लिए सबसे अधिक उपयोग किए जाने वाले दृश्य के रूप में किस दृश्य का वर्णन किया गया है?",
-      },
-      "options": {
-        "a": {
-          "en": "Full Screen Reading View",
-          "hi": "फुल स्क्रीन रीडिंग व्यू"
-        },
-        "b": {
-          "en": "Web Layout View",
-          "hi": "वेब लेआउट व्यू"
-        },
-        "c": {
-          "en": "Draft View",
-          "hi": "ड्राफ्ट व्यू (Draft View)"
-        },
-        "d": {
-          "en": "Outline View",
-          "hi": "आउटलाइन व्यू"
-        }
-      },
-      "correct_option": "c",
-      "hint": {
-        "en": "Read sub-point (v) on Page 77 or point 13 in 'Just Remember' on Page 107.",
-        "hi": "पृष्ठ 77 पर उप-बिंदु (v) या पृष्ठ 107 पर 'Just Remember' में बिंदु 13 पढ़ें।"
-      },
-      "explanation": {
-        "en": "Page 77 and Page 107 explicitly confirm: 'Draft view is the most frequently used view. You use Draft view to quickly edit the document.'",
-        "hi": "पृष्ठ 77 और पृष्ठ 107 स्पष्ट रूप से पुष्टि करते हैं: 'ड्राफ्ट व्यू सबसे अधिक बार उपयोग किया जाने वाला दृश्य है। आप दस्तावेज़ को जल्दी से संपादित करने के लिए ड्राफ्ट व्यू का उपयोग करते हैं।'"
-      },
-      "key_takeaway": {
-        "en": "Draft view streamlines text editing by hiding page layout overhead such as headers, footers, and margins.",
-        "hi": "ड्राफ्ट व्यू हेडर, फुटर और मार्जिन जैसे पेज लेआउट तत्वों को छुपाकर टेक्स्ट संपादन को सुव्यवस्थित करता है।"
-      }
-    },
-    {
-      "question_id": 12,
-      "question": {
-        "en": "[Topic: 3.1 Document Views, Page 76] Which view allows you to see how your document would look when viewed inside an Internet browser such as Internet Explorer?",
-        "hi": "[विषय: 3.1 डॉक्यूमेंट व्यूज़, पृष्ठ 76] कौन सा व्यू आपको यह देखने की अनुमति देता है कि इंटरनेट एक्सप्लोरर जैसे इंटरनेट ब्राउज़र में देखे जाने पर आपका दस्तावेज़ कैसा दिखाई देगा?",
-      },
-      "options": {
-        "a": {
-          "en": "Print Layout View",
-          "hi": "प्रिंट लेआउट व्यू"
-        },
-        "b": {
-          "en": "Draft View",
-          "hi": "ड्राफ्ट व्यू"
-        },
-        "c": {
-          "en": "Outline View",
-          "hi": "आउटलाइन व्यू"
-        },
-        "d": {
-          "en": "Web Layout View",
-          "hi": "वेब लेआउट व्यू (Web Layout View)"
-        }
-      },
-      "correct_option": "d",
-      "hint": {
-        "en": "Refer to item 11 (iii) on Page 76.",
-        "hi": "पृष्ठ 76 पर बिंदु 11 (iii) देखें।"
-      },
-      "explanation": {
-        "en": "Page 76 defines: '(iii) Web Layout: Web Layout view enables you to see your document as it would appear in a browser such as Internet Explorer.'",
-        "hi": "पृष्ठ 76 परिभाषित करता है: '(iii) Web Layout: वेब लेआउट दृश्य आपको अपने दस्तावेज़ को यह देखने में सक्षम बनाता है कि यह इंटरनेट एक्सप्लोरर जैसे ब्राउज़र में कैसा दिखाई देगा।'"
-      },
-      "key_takeaway": {
-        "en": "Web Layout view renders documents as continuous pages optimized for online web viewing.",
-        "hi": "वेब लेआउट व्यू ऑनलाइन वेब देखने के लिए अनुकूलित निरंतर पृष्ठों के रूप में दस्तावेज़ों को प्रस्तुत करता है।"
-      }
-    },
-    {
-      "question_id": 13,
-      "question": {
-        "en": "[Topic: 3.1 Special Features of MS Word, Page 78] What is a 'Macro' in Microsoft Word as described in the special features list?",
-        "hi": "[विषय: 3.1 एमएस वर्ड की विशेष विशेषताएं, पृष्ठ 78] विशेष सुविधाओं की सूची में वर्णित माइक्रोसॉफ्ट वर्ड में 'मैक्रो' (Macro) क्या है?",
-      },
-      "options": {
-        "a": {
-          "en": "A list of recorded commands that automates repetitive tasks to save time",
-          "hi": "रिकॉर्ड किए गए आदेशों (कमांड्स) की एक सूची जो समय बचाने के लिए दोहराए जाने वाले कार्यों को स्वचालित करती है"
-        },
-        "b": {
-          "en": "A physical memory chip soldered directly inside the keyboard chassis",
-          "hi": "कीबोर्ड चेसिस के अंदर सीधे सोल्डर की गई एक भौतिक मेमोरी चिप"
-        },
-        "c": {
-          "en": "An external optical cable used to link multiple desktop computers",
-          "hi": "एकाधिक डेस्कटॉप कंप्यूटरों को जोड़ने के लिए उपयोग की जाने वाली एक बाहरी ऑप्टिकल केबल"
-        },
-        "d": {
-          "en": "A dedicated printer protocol for printing color watermarks",
-          "hi": "रंगीन वॉटरमार्क मुद्रित करने के लिए एक समर्पित प्रिंटर प्रोटोकॉल"
-        }
-      },
-      "correct_option": "a",
-      "hint": {
-        "en": "Look at feature 10 on Page 78.",
-        "hi": "पृष्ठ 78 पर सुविधा 10 देखें।"
-      },
-      "explanation": {
-        "en": "Page 78 specifies: '10. It provides the facility of macro which is a list of commands that save lot of time.'",
-        "hi": "पृष्ठ 78 निर्दिष्ट करता है: '10. यह मैक्रो की सुविधा प्रदान करता है जो कमांड्स की एक सूची है जो बहुत समय बचाती है।'"
-      },
-      "key_takeaway": {
-        "en": "Macros bundle multiple sequence instructions into a single trigger to streamline repetitive typing or formatting workflows.",
-        "hi": "मैक्रोज़ दोहराए जाने वाले टाइपिंग या फ़ॉर्मेटिंग वर्कफ़्लो को सुव्यवस्थित करने के लिए एक ही ट्रिगर में कई अनुक्रम निर्देशों को बंडल करते हैं।"
-      }
-    },
-    {
-      "question_id": 14,
-      "question": {
-        "en": "[Topic: 3.1 Special Features of MS Word, Page 78] Which built-in MS Word feature allows users to search for synonyms without leaving the application?",
-        "hi": "[विषय: 3.1 एमएस वर्ड की विशेष विशेषताएं, पृष्ठ 78] MS Word की कौन सी इन-बिल्ट सुविधा उपयोगकर्ताओं को एप्लिकेशन छोड़े बिना पर्यायवाची शब्द (synonyms) खोजने की अनुमति देती है?",
+        "en": "[Topic: 3.1 Special Features of MS Word, Page 78] Which facility in MS Word contains a list of commands that automates tasks and saves a lot of time?",
+        "hi": "[विषय: 3.1 एमएस वर्ड की विशेष विशेषताएं, पृष्ठ 78] MS Word में कौन सी सुविधा में कमांड्स की एक सूची होती है जो कार्यों को स्वचालित करती है और बहुत समय बचाती है?"
       },
       "options": {
         "a": {
@@ -531,71 +415,223 @@
           "hi": "थिसॉरस (Thesaurus)"
         },
         "c": {
-          "en": "Macro Recorder",
-          "hi": "मैक्रो रिकॉर्डर"
+          "en": "Macro",
+          "hi": "मैक्रो (Macro)"
         },
         "d": {
-          "en": "Print Preview",
-          "hi": "प्रिंट पूर्वावलोकन"
+          "en": "Word Count",
+          "hi": "वर्ड काउंट (Word Count)"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It acts like a recorded script of actions.",
+        "hi": "यह क्रियाओं की रिकॉर्ड की गई स्क्रिप्ट की तरह काम करता है।"
+      },
+      "explanation": {
+        "en": "It provides the facility of macro which is a list of commands that save a lot of time.[cite: 1]",
+        "hi": "यह मैक्रो की सुविधा प्रदान करता है जो कमांड्स की एक सूची है जो बहुत समय बचाती है।[cite: 1]"
+      },
+      "key_takeaway": {
+        "en": "Macros record repetitive tasks into a single playback command.",
+        "hi": "मैक्रोज़ दोहराए जाने वाले कार्यों को एक सिंगल प्लेबैक कमांड में रिकॉर्ड करते हैं।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "[Topic: 3.1 Special Features of MS Word, Page 78] Which built-in feature allows you to search for synonyms without leaving the word processor?",
+        "hi": "[विषय: 3.1 एमएस वर्ड की विशेष विशेषताएं, पृष्ठ 78] कौन सी इन-बिल्ट सुविधा आपको वर्ड प्रोसेसर को छोड़े बिना पर्यायवाची शब्दों (synonyms) को खोजने की अनुमति देती है?"
+      },
+      "options": {
+        "a": {
+          "en": "Header and Footer",
+          "hi": "हेडर और फुटर (Header and Footer)"
+        },
+        "b": {
+          "en": "Page Setup",
+          "hi": "पेज सेटअप (Page Setup)"
+        },
+        "c": {
+          "en": "Macro",
+          "hi": "मैक्रो (Macro)"
+        },
+        "d": {
+          "en": "Thesaurus",
+          "hi": "थिसॉरस (Thesaurus)"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "It acts like an integrated dictionary for finding similar words.",
+        "hi": "यह समान शब्दों को खोजने के लिए एक एकीकृत शब्दकोश की तरह काम करता है।"
+      },
+      "explanation": {
+        "en": "A built-in thesaurus allows you to search for synonyms without leaving the word processor.[cite: 1]",
+        "hi": "एक इन-बिल्ट थिसॉरस आपको वर्ड प्रोसेसर को छोड़े बिना पर्यायवाची शब्द खोजने की अनुमति देता है।[cite: 1]"
+      },
+      "key_takeaway": {
+        "en": "The Thesaurus improves writing vocabulary directly within the application.",
+        "hi": "थिसॉरस सीधे एप्लिकेशन के भीतर लेखन शब्दावली में सुधार करता है।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "[Topic: 3.1 Templates in MS Word, Page 78] What is a pre-formatted file that serves as a starting point for a new document called?",
+        "hi": "[विषय: 3.1 एमएस वर्ड में टेम्पलेट, पृष्ठ 78] एक पूर्व-प्रारूपित फ़ाइल जो एक नए दस्तावेज़ के लिए शुरुआती बिंदु के रूप में कार्य करती है, उसे क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {
+          "en": "Template",
+          "hi": "टेम्पलेट (Template)"
+        },
+        "b": {
+          "en": "Macro",
+          "hi": "मैक्रो (Macro)"
+        },
+        "c": {
+          "en": "Clip Art",
+          "hi": "क्लिप आर्ट (Clip Art)"
+        },
+        "d": {
+          "en": "Mail Merge",
+          "hi": "मेल मर्ज (Mail Merge)"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It provides a ready-made design, like a Resume layout.",
+        "hi": "यह एक तैयार डिज़ाइन प्रदान करता है, जैसे रेज़्यूमे लेआउट।"
+      },
+      "explanation": {
+        "en": "A template is a file that serves as a starting point for a new document. When you open a template, it is pre-formatted.[cite: 1]",
+        "hi": "एक टेम्पलेट एक ऐसी फ़ाइल है जो एक नए दस्तावेज़ के लिए शुरुआती बिंदु के रूप में कार्य करती है। जब आप एक टेम्पलेट खोलते हैं, तो यह पहले से ही प्रारूपित होती है।[cite: 1]"
+      },
+      "key_takeaway": {
+        "en": "Templates save formatting time by providing professional base structures.",
+        "hi": "टेम्पलेट पेशेवर आधार संरचनाएं प्रदान करके स्वरूपण समय बचाते हैं।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "[Topic: 3.2 Creating Document, Page 79] What is the keyboard shortcut to create a new blank document in MS Word?",
+        "hi": "[विषय: 3.2 दस्तावेज़ बनाना, पृष्ठ 79] MS Word में एक नया खाली दस्तावेज़ बनाने के लिए कीबोर्ड शॉर्टकट क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "Ctrl + S",
+          "hi": "Ctrl + S"
+        },
+        "b": {
+          "en": "Ctrl + N",
+          "hi": "Ctrl + N"
+        },
+        "c": {
+          "en": "Ctrl + O",
+          "hi": "Ctrl + O"
+        },
+        "d": {
+          "en": "Ctrl + P",
+          "hi": "Ctrl + P"
         }
       },
       "correct_option": "b",
       "hint": {
-        "en": "Check feature 14 at the bottom of Page 78.",
-        "hi": "पृष्ठ 78 के निचले भाग में सुविधा 14 की जाँच करें।"
+        "en": "N stands for 'New'.",
+        "hi": "N का मतलब 'New' (नया) है।"
       },
       "explanation": {
-        "en": "Feature 14 on Page 78 explicitly states: 'A built-in thesaurus allows you to search for synonyms without leaving the word processor.'",
-        "hi": "पृष्ठ 78 पर सुविधा 14 स्पष्ट रूप से बताती है: 'एक इन-बिल्ट थिसॉरस आपको वर्ड प्रोसेसर को छोड़े बिना पर्यायवाची शब्द खोजने की अनुमति देता है।'"
+        "en": "To create a new document, you can press Ctrl + N keys on the keyboard.[cite: 1]",
+        "hi": "एक नया दस्तावेज़ बनाने के लिए, आप कीबोर्ड पर Ctrl + N कुंजियाँ दबा सकते हैं।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "The Thesaurus utility enhances vocabulary by offering contextual word replacements directly inside the document editor.",
-        "hi": "थिसॉरस उपयोगिता सीधे दस्तावेज़ संपादक के अंदर प्रासंगिक शब्द प्रतिस्थापन की पेशकश करके शब्दावली को बढ़ाती है।"
+        "en": "Ctrl + N instantly generates a clean, blank workspace.",
+        "hi": "Ctrl + N तुरंत एक साफ, खाली कार्यक्षेत्र उत्पन्न करता है।"
       }
     },
     {
       "question_id": 15,
       "question": {
-        "en": "[Topic: 3.1 Templates in MS Word, Page 78] What is a 'Template' fundamentally defined as in Microsoft Word?",
-        "hi": "[विषय: 3.1 एमएस वर्ड में टेम्पलेट, पृष्ठ 78] Microsoft Word में मूल रूप से 'टेम्पलेट' (Template) को क्या परिभाषित किया गया है?",
+        "en": "[Topic: 3.2 Opening Document, Page 80] What is the keyboard shortcut used to open an existing saved document?",
+        "hi": "[विषय: 3.2 दस्तावेज़ खोलना, पृष्ठ 80] पहले से सहेजे गए दस्तावेज़ को खोलने के लिए किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?"
       },
       "options": {
         "a": {
-          "en": "A hardware scanning device attached via USB",
-          "hi": "USB के माध्यम से जुड़ा एक हार्डवेयर स्कैनिंग उपकरण"
+          "en": "Ctrl + E",
+          "hi": "Ctrl + E"
         },
         "b": {
-          "en": "An uneditable system crash log file",
-          "hi": "एक गैर-संपादन योग्य सिस्टम क्रैश लॉग फ़ाइल"
+          "en": "Ctrl + X",
+          "hi": "Ctrl + X"
         },
         "c": {
-          "en": "A pre-formatted file that serves as a starting point for a new document",
-          "hi": "एक पूर्व-प्रारूपित (pre-formatted) फ़ाइल जो एक नए दस्तावेज़ के लिए शुरुआती बिंदु के रूप में कार्य करती है"
+          "en": "Ctrl + O",
+          "hi": "Ctrl + O"
         },
         "d": {
-          "en": "A printer maintenance routine for cleaning cartridge nozzles",
-          "hi": "कारतूस के नोजल की सफाई के लिए एक प्रिंटर रखरखाव रूटीन"
+          "en": "Ctrl + Z",
+          "hi": "Ctrl + Z"
         }
       },
       "correct_option": "c",
       "hint": {
-        "en": "Read the definition under 'Template in MS Word' on Page 78.",
-        "hi": "पृष्ठ 78 पर 'Template in MS Word' के अंतर्गत परिभाषा पढ़ें।"
+        "en": "O stands for 'Open'.",
+        "hi": "O का मतलब 'Open' (खोलना) है।"
       },
       "explanation": {
-        "en": "Page 78 defines a template clearly: 'A template is a file that serves as a starting point for a new document. When you open a template, it is pre-formatted in some way.'",
-        "hi": "पृष्ठ 78 स्पष्ट रूप से एक टेम्पलेट को परिभाषित करता है: 'एक टेम्पलेट एक ऐसी फ़ाइल है जो एक नए दस्तावेज़ के लिए शुरुआती बिंदु के रूप में कार्य करती है। जब आप एक टेम्पलेट खोलते हैं, तो यह पहले से ही प्रारूपित होती है।'"
+        "en": "To open an existing document, press Ctrl + O keys on the keyboard.[cite: 1]",
+        "hi": "किसी मौजूदा दस्तावेज़ को खोलने के लिए, कीबोर्ड पर Ctrl + O कुंजियाँ दबाएँ।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "Templates provide consistent, ready-made layouts (such as resumes or letters) eliminating the need to design documents from scratch.",
-        "hi": "टेम्पलेट्स एक समान, तैयार लेआउट (जैसे बायोडाटा या पत्र) प्रदान करते हैं जिससे स्क्रैच से दस्तावेज़ डिजाइन करने की आवश्यकता समाप्त हो जाती है।"
+        "en": "Ctrl + O triggers the file explorer dialog to select saved documents.",
+        "hi": "Ctrl + O सहेजे गए दस्तावेज़ों का चयन करने के लिए फ़ाइल एक्सप्लोरर डायलॉग को ट्रिगर करता है।"
       }
     },
     {
       "question_id": 16,
       "question": {
-        "en": "[Topic: 3.2 Creating, Saving, Opening Document, Page 79] What is the standard keyboard shortcut combination used to create a fresh new document in MS Word?",
-        "hi": "[विषय: 3.2 दस्तावेज़ बनाना, सहेजना, खोलना, पृष्ठ 79] MS Word में एक नया दस्तावेज़ बनाने के लिए उपयोग किया जाने वाला मानक कीबोर्ड शॉर्टकट क्या है?",
+        "en": "[Topic: 3.2 Saving Document, Page 83] What is the main difference between the 'Save' and 'Save As' commands?",
+        "hi": "[विषय: 3.2 दस्तावेज़ सहेजना, पृष्ठ 83] 'Save' और 'Save As' कमांड के बीच मुख्य अंतर क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "Save deletes the file, Save As prints the file.",
+          "hi": "Save फ़ाइल को हटा देता है, Save As फ़ाइल को प्रिंट करता है।"
+        },
+        "b": {
+          "en": "Save closes the window, Save As opens a new one.",
+          "hi": "Save विंडो को बंद कर देता है, Save As एक नई विंडो खोलता है।"
+        },
+        "c": {
+          "en": "There is absolutely no difference between them.",
+          "hi": "इनके बीच बिल्कुल कोई अंतर नहीं है।"
+        },
+        "d": {
+          "en": "Save updates the current file, while Save As allows saving the work as a file with a different name.",
+          "hi": "Save वर्तमान फ़ाइल को अपडेट करता है, जबकि Save As काम को एक अलग नाम के साथ फ़ाइल के रूप में सहेजने की अनुमति देता है।"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "One keeps the same name, the other asks for a new name.",
+        "hi": "एक समान नाम रखता है, दूसरा नया नाम पूछता है।"
+      },
+      "explanation": {
+        "en": "Choosing 'Save' updates the last saved version. 'Save As' brings up a prompt to save your work as a file with a different name to keep multiple versions.[cite: 1]",
+        "hi": "'Save' चुनने से अंतिम सहेजा गया संस्करण अपडेट हो जाता है। 'Save As' आपके काम को अलग नाम से सहेजने के लिए संकेत देता है ताकि कई संस्करण रखे जा सकें।[cite: 1]"
+      },
+      "key_takeaway": {
+        "en": "Use Save As to create a duplicate or branch file without overwriting the original.",
+        "hi": "मूल फ़ाइल को अधिलेखित किए बिना डुप्लिकेट या ब्रांच फ़ाइल बनाने के लिए Save As का उपयोग करें।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "[Topic: 3.3 Print Document, Page 85] Which keyboard shortcut is used to print a document in MS Word?",
+        "hi": "[विषय: 3.3 दस्तावेज़ प्रिंट करना, पृष्ठ 85] MS Word में दस्तावेज़ को प्रिंट करने के लिए किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?"
       },
       "options": {
         "a": {
@@ -607,540 +643,502 @@
           "hi": "Ctrl + S"
         },
         "c": {
-          "en": "Ctrl + O",
-          "hi": "Ctrl + O"
-        },
-        "d": {
           "en": "Ctrl + N",
           "hi": "Ctrl + N"
-        }
-      },
-      "correct_option": "d",
-      "hint": {
-        "en": "Check section 3.2.1 on Page 79.",
-        "hi": "पृष्ठ 79 पर अनुभाग 3.2.1 देखें।"
-      },
-      "explanation": {
-        "en": "Section 3.2.1 on Page 79 lists two ways to create a new document: through File -> New -> Blank Document, or by pressing 'Ctrl + N keys on the keyboard.'",
-        "hi": "पृष्ठ 79 पर अनुभाग 3.2.1 एक नया दस्तावेज़ बनाने के दो तरीके बताता है: फ़ाइल -> न्यू -> ब्लैंक डॉक्यूमेंट के माध्यम से, या कीबोर्ड पर 'Ctrl + N' दबाकर।"
-      },
-      "key_takeaway": {
-        "en": "The universal shortcut key combination Ctrl + N instantiates an empty document workspace.",
-        "hi": "सार्वभौमिक शॉर्टकट कुंजी संयोजन Ctrl + N एक खाली दस्तावेज़ कार्यक्षेत्र बनाता है।"
-      }
-    },
-    {
-      "question_id": 17,
-      "question": {
-        "en": "[Topic: 3.2 Creating, Saving, Opening Document, Page 80] Which keyboard shortcut combination is used to open an existing stored document file in MS Word?",
-        "hi": "[विषय: 3.2 दस्तावेज़ बनाना, सहेजना, खोलना, पृष्ठ 80] MS Word में पहले से संग्रहीत मौजूदा दस्तावेज़ फ़ाइल को खोलने के लिए किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
-      },
-      "options": {
-        "a": {
-          "en": "Ctrl + O",
-          "hi": "Ctrl + O"
-        },
-        "b": {
-          "en": "Ctrl + E",
-          "hi": "Ctrl + E"
-        },
-        "c": {
-          "en": "Ctrl + B",
-          "hi": "Ctrl + B"
         },
         "d": {
-          "en": "Ctrl + J",
-          "hi": "Ctrl + J"
+          "en": "Ctrl + C",
+          "hi": "Ctrl + C"
         }
       },
       "correct_option": "a",
       "hint": {
-        "en": "Look under 'Open an Existing Document' on Page 80.",
-        "hi": "पृष्ठ 80 पर 'Open an Existing Document' के अंतर्गत देखें।"
+        "en": "P stands for 'Print'.",
+        "hi": "P का मतलब 'Print' (प्रिंट) है।"
       },
       "explanation": {
-        "en": "Page 80 states: 'To open an existing document... Click on open button from File Menu... Or Press Ctrl + O keys on the keyboard.'",
-        "hi": "पृष्ठ 80 बताता है: 'किसी मौजूदा दस्तावेज़ को खोलने के लिए... फ़ाइल मेनू से ओपन बटन पर क्लिक करें... या कीबोर्ड पर Ctrl + O कुंजियाँ दबाएँ।'"
+        "en": "To print your document, click on File -> Print option or Click Ctrl + P.[cite: 1]",
+        "hi": "अपने दस्तावेज़ को प्रिंट करने के लिए, File -> Print विकल्प पर क्लिक करें या Ctrl + P दबाएं।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "Ctrl + O launches the Open dialog box to retrieve and display previously saved files.",
-        "hi": "Ctrl + O पहले से सहेजी गई फ़ाइलों को पुनः प्राप्त करने और प्रदर्शित करने के लिए ओपन डायलॉग बॉक्स लॉन्च करता है।"
+        "en": "Ctrl + P opens the main printer configuration and setup window.",
+        "hi": "Ctrl + P मुख्य प्रिंटर कॉन्फ़िगरेशन और सेटअप विंडो खोलता है।"
       }
     },
     {
       "question_id": 18,
       "question": {
-        "en": "[Topic: 3.2 Creating, Saving, Opening Document, Page 82-83] What is the operational difference between the 'Save' and 'Save As' commands?",
-        "hi": "[विषय: 3.2 दस्तावेज़ बनाना, सहेजना, खोलना, पृष्ठ 82-83] 'Save' और 'Save As' कमांड के बीच परिचालन अंतर क्या है?",
+        "en": "[Topic: 3.3 Print Preview, Page 88] Why is the Print Preview function useful?",
+        "hi": "[विषय: 3.3 प्रिंट प्रीव्यू, पृष्ठ 88] प्रिंट प्रीव्यू (Print Preview) फ़ंक्शन क्यों उपयोगी है?"
       },
       "options": {
         "a": {
-          "en": "Save deletes the file from disk, whereas Save As converts it to plain paper",
-          "hi": "Save फ़ाइल को डिस्क से हटा देता है, जबकि Save As इसे सादे कागज में बदल देता है"
+          "en": "It automatically corrects spelling mistakes.",
+          "hi": "यह स्वचालित रूप से वर्तनी की गलतियों को ठीक करता है।"
         },
         "b": {
-          "en": "Save updates the existing file with changes, while Save As prompts for a new name or location to create multiple versions",
-          "hi": "Save मौजूदा फ़ाइल को परिवर्तनों के साथ अपडेट करता है, जबकि Save As कई संस्करण बनाने के लिए एक नए नाम या स्थान का संकेत देता है"
+          "en": "It allows you to see exactly what the document looks like before printing it.",
+          "hi": "यह आपको प्रिंट करने से पहले यह देखने की अनुमति देता है कि दस्तावेज़ बिल्कुल कैसा दिखता है।"
         },
         "c": {
-          "en": "Save prints physical paper copies, whereas Save As closes the active application window",
-          "hi": "Save भौतिक कागजी प्रतियां प्रिंट करता है, जबकि Save As सक्रिय एप्लिकेशन विंडो को बंद करता है"
+          "en": "It emails the document to the printer.",
+          "hi": "यह दस्तावेज़ को प्रिंटर पर ईमेल करता है।"
         },
         "d": {
-          "en": "Save operates only on unformatted text, while Save As is exclusively for graphics",
-          "hi": "Save केवल अप्रारूपित टेक्स्ट पर काम करता है, जबकि Save As विशेष रूप से ग्राफ़िक्स के लिए है"
+          "en": "It changes the font color to black and white only.",
+          "hi": "यह फ़ॉन्ट रंग को केवल काले और सफेद में बदल देता है।"
         }
       },
       "correct_option": "b",
       "hint": {
-        "en": "Examine the comparison table 'Difference between Save and Save As' on Page 83.",
-        "hi": "पृष्ठ 83 पर तुलना तालिका 'Difference between Save and Save As' की जाँच करें।"
+        "en": "It gives you a 'preview' of the final paper.",
+        "hi": "यह आपको अंतिम कागज़ का 'पूर्वावलोकन' देता है।"
       },
       "explanation": {
-        "en": "Page 83 explains: 'Save simply saves your work by updating the last saved version of the file... Choosing Save As brings up a prompt to save your work as a file with a different name... to keep multiple versions.'",
-        "hi": "पृष्ठ 83 बताता है: 'Save फ़ाइल के अंतिम सहेजे गए संस्करण को अपडेट करके आपके काम को सहेजता है... Save As आपके काम को एक अलग नाम के साथ फ़ाइल के रूप में सहेजने के लिए एक प्रॉम्प्ट लाता है... ताकि कई संस्करण रखे जा सकें।'"
+        "en": "Print preview helps users to see how the final printed material will appear, allowing them to adjust the layout before printing.[cite: 1]",
+        "hi": "प्रिंट पूर्वावलोकन उपयोगकर्ताओं को यह देखने में मदद करता है कि अंतिम मुद्रित सामग्री कैसी दिखाई देगी, जिससे उन्हें छपाई से पहले लेआउट को समायोजित करने की अनुमति मिलती है।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "Save rewrites the active file path, whereas Save As branches the current document into a new destination or filename.",
-        "hi": "Save सक्रिय फ़ाइल पथ को पुनर्लेखित करता है, जबकि Save As वर्तमान दस्तावेज़ को एक नए गंतव्य या फ़ाइल नाम में विभाजित करता है।"
+        "en": "Always use Print Preview to verify margins and alignments to save paper and ink.",
+        "hi": "कागज और स्याही बचाने के लिए मार्जिन और संरेखण को सत्यापित करने के लिए हमेशा प्रिंट प्रीव्यू का उपयोग करें।"
       }
     },
     {
       "question_id": 19,
       "question": {
-        "en": "[Topic: 3.3 Print & Print Preview, Page 85] What is the primary purpose and benefit of using the 'Print Preview' function before sending a document to a physical printer?",
-        "hi": "[विषय: 3.3 प्रिंट और प्रिंट पूर्वावलोकन, पृष्ठ 85] किसी दस्तावेज़ को भौतिक प्रिंटर पर भेजने से पहले 'प्रिंट पूर्वावलोकन' (Print Preview) फ़ंक्शन का उपयोग करने का प्राथमिक उद्देश्य और लाभ क्या है?",
+        "en": "[Topic: 3.4 Closing of Document, Page 88] Which of the following keyboard shortcuts is used to close a Word document?",
+        "hi": "[विषय: 3.4 दस्तावेज़ को बंद करना, पृष्ठ 88] वर्ड दस्तावेज़ को बंद करने के लिए निम्न में से किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?"
       },
       "options": {
         "a": {
-          "en": "To automatically shut down the computer after paper feeding finishes",
-          "hi": "कागज फीडिंग समाप्त होने के बाद कंप्यूटर को स्वचालित रूप से बंद करने के लिए"
+          "en": "Shift + C",
+          "hi": "Shift + C"
         },
         "b": {
-          "en": "To permanently convert text documents into read-only executable binary files",
-          "hi": "टेक्स्ट दस्तावेज़ों को स्थायी रूप से केवल-पठनीय निष्पादन योग्य बाइनरी फ़ाइलों में बदलने के लिए"
+          "en": "Ctrl + Esc",
+          "hi": "Ctrl + Esc"
         },
         "c": {
-          "en": "To see exactly how the document will appear on paper and adjust layouts or errors before printing",
-          "hi": "यह देखने के लिए कि दस्तावेज़ कागज़ पर कैसा दिखेगा और छपाई से पहले लेआउट या त्रुटियों को ठीक करने के लिए"
+          "en": "Alt + F4",
+          "hi": "Alt + F4"
         },
         "d": {
-          "en": "To bypass the operating system's installed printer device drivers",
-          "hi": "ऑपरेटिंग सिस्टम के स्थापित प्रिंटर डिवाइस ड्राइवरों को बायपास करने के लिए"
+          "en": "Windows + D",
+          "hi": "Windows + D"
         }
       },
       "correct_option": "c",
       "hint": {
-        "en": "Read section 3.3.1 and 3.3.2 on Pages 85 and 88.",
-        "hi": "पृष्ठ 85 और 88 पर अनुभाग 3.3.1 और 3.3.2 पढ़ें।"
+        "en": "This standard Windows shortcut closes active application windows.",
+        "hi": "यह मानक विंडोज शॉर्टकट सक्रिय एप्लिकेशन विंडो को बंद कर देता है।"
       },
       "explanation": {
-        "en": "Page 85 and 88 explain that Print Preview allows the user to see exactly what the document will look like before printing, giving the opportunity to check layouts and resolve issues before wasting paper.",
-        "hi": "पृष्ठ 85 और 88 बताते हैं कि प्रिंट पूर्वावलोकन उपयोगकर्ता को यह देखने की अनुमति देता है कि छपाई से पहले दस्तावेज़ कैसा दिखेगा, जिससे कागज बर्बाद करने से पहले लेआउट की जांच करने और समस्याओं को हल करने का अवसर मिलता है।"
+        "en": "To close a Word Document, you can click on Exit menu, or press Alt + F4, or click on the Close button of the Title Bar.[cite: 1]",
+        "hi": "वर्ड डॉक्यूमेंट को बंद करने के लिए, आप एग्जिट मेनू पर क्लिक कर सकते हैं, या Alt + F4 दबा सकते हैं, या टाइटल बार के क्लोज बटन पर क्लिक कर सकते हैं।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "Print Preview prevents wasted paper and toner by presenting a full-fidelity visual audit of the printed output.",
-        "hi": "प्रिंट पूर्वावलोकन मुद्रित आउटपुट का पूर्ण-विश्वसनीय दृश्य ऑडिट प्रस्तुत करके बर्बाद कागज और टोनर को रोकता है।"
+        "en": "Alt + F4 is the universal system command to safely exit MS Word.",
+        "hi": "Alt + F4 MS Word से सुरक्षित रूप से बाहर निकलने के लिए सार्वभौमिक सिस्टम कमांड है।"
       }
     },
     {
       "question_id": 20,
       "question": {
-        "en": "[Topic: 3.3 Print a Document, Page 85] What is the standard keyboard shortcut to bring up the Print dialog window in MS Word?",
-        "hi": "[विषय: 3.3 एक दस्तावेज़ प्रिंट करना, पृष्ठ 85] MS Word में प्रिंट डायलॉग विंडो लाने के लिए मानक कीबोर्ड शॉर्टकट क्या है?",
+        "en": "[Topic: 3.5 Editing a Document, Page 89] Making changes in a document like inserting, deleting, copying, or replacing text is formally known as what?",
+        "hi": "[विषय: 3.5 एक दस्तावेज़ का संपादन, पृष्ठ 89] किसी दस्तावेज़ में परिवर्तन करना जैसे टेक्स्ट डालना, हटाना, कॉपी करना या बदलना औपचारिक रूप से क्या कहलाता है?"
       },
       "options": {
         "a": {
-          "en": "Ctrl + F",
-          "hi": "Ctrl + F"
+          "en": "Page Setup",
+          "hi": "पेज सेटअप (Page Setup)"
         },
         "b": {
-          "en": "Ctrl + Z",
-          "hi": "Ctrl + Z"
+          "en": "Mail Merge",
+          "hi": "मेल मर्ज (Mail Merge)"
+        },
+        "c": {
+          "en": "Document View",
+          "hi": "डॉक्यूमेंट व्यू (Document View)"
+        },
+        "d": {
+          "en": "Text Editing",
+          "hi": "टेक्स्ट एडिटिंग (Text Editing)"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "It involves 'editing' the content.",
+        "hi": "इसमें सामग्री को 'संपादित' (editing) करना शामिल है।"
+      },
+      "explanation": {
+        "en": "Making changes in a document like inserting or deleting text, copying or moving text, replacing text, etc. is called Text Editing.[cite: 1]",
+        "hi": "दस्तावेज़ में परिवर्तन करना जैसे टेक्स्ट डालना या हटाना, कॉपी करना या ले जाना, टेक्स्ट को बदलना आदि टेक्स्ट एडिटिंग कहलाता है।[cite: 1]"
+      },
+      "key_takeaway": {
+        "en": "Editing modifies the core content of a document, unlike formatting which alters its appearance.",
+        "hi": "संपादन दस्तावेज़ की मुख्य सामग्री को संशोधित करता है, स्वरूपण के विपरीत जो इसके स्वरूप को बदलता है।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "[Topic: 3.5 Editing a Document, Page 89] What specific mouse action instantly selects an entire word?",
+        "hi": "[विषय: 3.5 एक दस्तावेज़ का संपादन, पृष्ठ 89] कौन सी विशिष्ट माउस क्रिया तुरंत एक पूरे शब्द का चयन करती है?"
+      },
+      "options": {
+        "a": {
+          "en": "Double click the left mouse button on the word",
+          "hi": "शब्द पर बाएँ माउस बटन को डबल क्लिक करना"
+        },
+        "b": {
+          "en": "Right click the word once",
+          "hi": "शब्द पर एक बार राइट क्लिक करना"
+        },
+        "c": {
+          "en": "Triple click anywhere in the margin",
+          "hi": "मार्जिन में कहीं भी ट्रिपल क्लिक करना"
+        },
+        "d": {
+          "en": "Scroll the mouse wheel over the text",
+          "hi": "टेक्स्ट के ऊपर माउस व्हील को स्क्रॉल करना"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It involves clicking the primary button twice quickly.",
+        "hi": "इसमें प्राथमिक बटन को जल्दी से दो बार क्लिक करना शामिल है।"
+      },
+      "explanation": {
+        "en": "To Select a Word: Place the mouse pointer on the word and double click the left mouse button to select that word.[cite: 1]",
+        "hi": "किसी शब्द का चयन करने के लिए: माउस पॉइंटर को शब्द पर रखें और उस शब्द का चयन करने के लिए बाएँ माउस बटन को डबल क्लिक करें।[cite: 1]"
+      },
+      "key_takeaway": {
+        "en": "A simple double-click isolates and highlights a single word efficiently.",
+        "hi": "एक साधारण डबल-क्लिक कुशलतापूर्वक एक ही शब्द को अलग और हाइलाइट करता है।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "[Topic: 3.5 Editing a Document, Page 90] How can you select an entire paragraph using the mouse?",
+        "hi": "[विषय: 3.5 एक दस्तावेज़ का संपादन, पृष्ठ 90] आप माउस का उपयोग करके पूरे पैराग्राफ का चयन कैसे कर सकते हैं?"
+      },
+      "options": {
+        "a": {
+          "en": "Single click on the first word",
+          "hi": "पहले शब्द पर सिंगल क्लिक करके"
+        },
+        "b": {
+          "en": "Triple click the left mouse button anywhere within the paragraph",
+          "hi": "पैराग्राफ के भीतर कहीं भी बाएँ माउस बटन को तीन बार (ट्रिपल) क्लिक करके"
+        },
+        "c": {
+          "en": "Double click the last word of the paragraph",
+          "hi": "पैराग्राफ के अंतिम शब्द पर डबल क्लिक करके"
+        },
+        "d": {
+          "en": "Right click and select 'Whole Paragraph'",
+          "hi": "राइट क्लिक करके और 'Whole Paragraph' चुनकर"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It takes one more click than selecting a single word.",
+        "hi": "इसमें एक शब्द को चुनने की तुलना में एक अधिक क्लिक लगता है।"
+      },
+      "explanation": {
+        "en": "To Select a paragraph: Keep the mouse pointer anywhere within the paragraph and triple click left mouse button.[cite: 1]",
+        "hi": "पैराग्राफ का चयन करने के लिए: माउस पॉइंटर को पैराग्राफ के भीतर कहीं भी रखें और बाएं माउस बटन को ट्रिपल क्लिक करें।[cite: 1]"
+      },
+      "key_takeaway": {
+        "en": "Triple-clicking rapidly blocks out an entire section of text without manual dragging.",
+        "hi": "ट्रिपल-क्लिक मैन्युअल ड्रैगिंग के बिना टेक्स्ट के एक पूरे अनुभाग को तेजी से ब्लॉक कर देता है।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "[Topic: 3.5 Moving Text, Page 93] Which shortcut key combination is used to Cut text, removing it from its original place?",
+        "hi": "[विषय: 3.5 टेक्स्ट को स्थानांतरित करना, पृष्ठ 93] टेक्स्ट को कट (Cut) करने के लिए किस शॉर्टकट कुंजी संयोजन का उपयोग किया जाता है, जो इसे इसके मूल स्थान से हटा देता है?"
+      },
+      "options": {
+        "a": {
+          "en": "Ctrl + C",
+          "hi": "Ctrl + C"
+        },
+        "b": {
+          "en": "Ctrl + V",
+          "hi": "Ctrl + V"
+        },
+        "c": {
+          "en": "Ctrl + X",
+          "hi": "Ctrl + X"
+        },
+        "d": {
+          "en": "Ctrl + M",
+          "hi": "Ctrl + M"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "The letter resembles a pair of scissors.",
+        "hi": "अक्षर कैंची की एक जोड़ी जैसा दिखता है।"
+      },
+      "explanation": {
+        "en": "We can press Ctrl+X (cut) simultaneously from the keyboard to remove and copy text.[cite: 1]",
+        "hi": "हम टेक्स्ट को हटाने और कॉपी करने के लिए कीबोर्ड से एक साथ Ctrl+X (cut) दबा सकते हैं।[cite: 1]"
+      },
+      "key_takeaway": {
+        "en": "Cut (Ctrl + X) removes the original text and places it on the clipboard for relocation.",
+        "hi": "कट (Ctrl + X) मूल पाठ को हटा देता है और पुनर्वास के लिए इसे क्लिपबोर्ड पर रख देता है।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "[Topic: 3.5 Copying Text, Page 93] Which shortcut key is used to Copy text, keeping the original text unchanged?",
+        "hi": "[विषय: 3.5 टेक्स्ट कॉपी करना, पृष्ठ 93] मूल टेक्स्ट को अपरिवर्तित रखते हुए, टेक्स्ट को कॉपी करने के लिए किस शॉर्टकट कुंजी का उपयोग किया जाता है?"
+      },
+      "options": {
+        "a": {
+          "en": "Ctrl + X",
+          "hi": "Ctrl + X"
+        },
+        "b": {
+          "en": "Ctrl + P",
+          "hi": "Ctrl + P"
         },
         "c": {
           "en": "Ctrl + Y",
           "hi": "Ctrl + Y"
         },
         "d": {
-          "en": "Ctrl + P",
-          "hi": "Ctrl + P"
+          "en": "Ctrl + C",
+          "hi": "Ctrl + C"
         }
       },
       "correct_option": "d",
       "hint": {
-        "en": "Look under 'Steps to print your document' step (ii) on Page 85.",
-        "hi": "पृष्ठ 85 पर 'दस्तावेज़ को प्रिंट करने के चरण' के तहत चरण (ii) देखें।"
+        "en": "C stands for 'Copy'.",
+        "hi": "C का मतलब 'Copy' (कॉपी) है।"
       },
       "explanation": {
-        "en": "Page 85 lists step (ii): 'Click on File -> Print option or Click Ctrl + P.'",
-        "hi": "पृष्ठ 85 चरण (ii) को सूचीबद्ध करता है: 'File -> Print विकल्प पर क्लिक करें या Ctrl + P दबाएँ।'"
+        "en": "We can press Ctrl+C (copy) simultaneously from the keyboard to copy the text.[cite: 1]",
+        "hi": "हम टेक्स्ट को कॉपी करने के लिए कीबोर्ड से एक साथ Ctrl+C (copy) दबा सकते हैं।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "Ctrl + P is the universal shortcut to open print configurations across desktop document editors.",
-        "hi": "Ctrl + P डेस्कटॉप दस्तावेज़ संपादकों में प्रिंट कॉन्फ़िगरेशन खोलने के लिए सार्वभौमिक शॉर्टकट है।"
-      }
-    },
-    {
-      "question_id": 21,
-      "question": {
-        "en": "[Topic: 3.4 Closing of Document, Page 88] Which keyboard shortcut key combination is explicitly listed on Page 88 to close or exit the Word application window?",
-        "hi": "[विषय: 3.4 दस्तावेज़ बंद करना, पृष्ठ 88] वर्ड एप्लिकेशन विंडो को बंद करने या बाहर निकलने के लिए पृष्ठ 88 पर कौन सा कीबोर्ड शॉर्टकट संयोजन स्पष्ट रूप से सूचीबद्ध है?",
-      },
-      "options": {
-        "a": {
-          "en": "Alt + F4",
-          "hi": "Alt + F4"
-        },
-        "b": {
-          "en": "Ctrl + Alt + Del",
-          "hi": "Ctrl + Alt + Del"
-        },
-        "c": {
-          "en": "Shift + Enter",
-          "hi": "Shift + Enter"
-        },
-        "d": {
-          "en": "Alt + Tab",
-          "hi": "Alt + Tab"
-        }
-      },
-      "correct_option": "a",
-      "hint": {
-        "en": "Refer to section 3.4 'Perform the following steps to Close Word Document' on Page 88.",
-        "hi": "पृष्ठ 88 पर अनुभाग 3.4 'Perform the following steps to Close Word Document' देखें।"
-      },
-      "explanation": {
-        "en": "Page 88 specifies: '1. Click on File, 2. Click on Exit menu Or Press Alt + F4 Or Click on Close button of Title Bar.'",
-        "hi": "पृष्ठ 88 निर्दिष्ट करता है: '1. फ़ाइल पर क्लिक करें, 2. निकास मेनू पर क्लिक करें या Alt + F4 दबाएँ या शीर्षक पट्टी के बंद बटन पर क्लिक करें।'"
-      },
-      "key_takeaway": {
-        "en": "Alt + F4 terminates the active program instance and triggers a save prompt if unsaved changes exist.",
-        "hi": "Alt + F4 सक्रिय प्रोग्राम विंडो को बंद करता है और यदि बिना सहेजे परिवर्तन मौजूद हैं तो सहेजने का संकेत देता है।"
-      }
-    },
-    {
-      "question_id": 22,
-      "question": {
-        "en": "[Topic: 3.5 Editing a Document, Page 89] What is 'Text Editing' formally defined as in Microsoft Word?",
-        "hi": "[विषय: 3.5 एक दस्तावेज़ का संपादन, पृष्ठ 89] माइक्रोसॉफ्ट वर्ड में 'टेक्स्ट एडिटिंग' (Text Editing) को औपचारिक रूप से क्या परिभाषित किया गया है?",
-      },
-      "options": {
-        "a": {
-          "en": "Formatting line margins to match Legal paper dimensions",
-          "hi": "लीगल पेपर आयामों से मिलान करने के लिए लाइन मार्जिन को प्रारूपित करना"
-        },
-        "b": {
-          "en": "Making changes in a document such as inserting, deleting, copying, moving, or replacing text",
-          "hi": "दस्तावेज़ में परिवर्तन करना जैसे टेक्स्ट डालना (insert), हटाना (delete), कॉपी करना, स्थानांतरित करना या बदलना (replace)"
-        },
-        "c": {
-          "en": "Converting colored illustrations into pure monochrome dot matrices",
-          "hi": "रंगीन चित्रों को शुद्ध मोनोक्रोम डॉट मैट्रिक्स में परिवर्तित करना"
-        },
-        "d": {
-          "en": "Recalibrating the hardware mouse dpi resolution settings",
-          "hi": "हार्डवेयर माउस डीपीआई रिज़ॉल्यूशन सेटिंग्स को पुनर्गणित करना"
-        }
-      },
-      "correct_option": "b",
-      "hint": {
-        "en": "Look under heading 3.5.1 on Page 89.",
-        "hi": "पृष्ठ 89 पर शीर्षक 3.5.1 के अंतर्गत देखें।"
-      },
-      "explanation": {
-        "en": "Page 89 explicitly states: 'Making changes in a document like inserting or deleting text, copying or moving text, replacing text, etc. is called Text Editing.'",
-        "hi": "पृष्ठ 89 स्पष्ट रूप से बताता है: 'दस्तावेज़ में परिवर्तन करना जैसे टेक्स्ट डालना या हटाना, टेक्स्ट को कॉपी करना या स्थानांतरित करना, टेक्स्ट को बदलना आदि टेक्स्ट एडिटिंग कहलाता है।'"
-      },
-      "key_takeaway": {
-        "en": "Editing involves altering textual content, whereas formatting alters textual presentation.",
-        "hi": "संपादन में पाठ्य सामग्री को बदलना शामिल है, जबकि स्वरूपण में पाठ्य प्रस्तुति को बदलना शामिल है।"
-      }
-    },
-    {
-      "question_id": 23,
-      "question": {
-        "en": "[Topic: 3.5 Editing a Document, Page 89] What specific mouse action must be performed to instantly select an individual word in MS Word?",
-        "hi": "[विषय: 3.5 एक दस्तावेज़ का संपादन, पृष्ठ 89] MS Word में किसी एक शब्द को तुरंत चुनने के लिए कौन सी विशिष्ट माउस क्रिया की जानी चाहिए?",
-      },
-      "options": {
-        "a": {
-          "en": "Single click the right mouse button",
-          "hi": "दायां माउस बटन एक बार क्लिक करें"
-        },
-        "b": {
-          "en": "Triple click the left mouse button",
-          "hi": "बायां माउस बटन तीन बार (ट्रिपल) क्लिक करें"
-        },
-        "c": {
-          "en": "Double click the left mouse button on the word",
-          "hi": "शब्द पर बाएँ माउस बटन को दो बार (डबल) क्लिक करें"
-        },
-        "d": {
-          "en": "Rotate the mouse scroll wheel downwards twice",
-          "hi": "माउस स्क्रॉल व्हील को दो बार नीचे की ओर घुमाएँ"
-        }
-      },
-      "correct_option": "c",
-      "hint": {
-        "en": "Refer to step 1 'To Select a Word' on Page 89.",
-        "hi": "पृष्ठ 89 पर चरण 1 'To Select a Word' देखें।"
-      },
-      "explanation": {
-        "en": "Page 89 outlines: '1. To Select a Word: Place the mouse pointer on the word to be selected and double click the left mouse button to select that word.'",
-        "hi": "पृष्ठ 89 बताता है: '1. एक शब्द का चयन करने के लिए: माउस पॉइंटर को चुने जाने वाले शब्द पर रखें और उस शब्द का चयन करने के लिए बाएँ माउस बटन को डबल क्लिक करें।'"
-      },
-      "key_takeaway": {
-        "en": "Double-clicking selects a complete word, while clicking and dragging allows custom character-level selections.",
-        "hi": "डबल-क्लिक करने से एक पूरा शब्द चुना जाता है, जबकि क्लिक करके खींचने से कस्टम वर्ण-स्तरीय चयन की अनुमति मिलती है।"
-      }
-    },
-    {
-      "question_id": 24,
-      "question": {
-        "en": "[Topic: 3.5 Editing a Document, Page 90] According to the text selection instructions on Page 90, what action selects an entire paragraph?",
-        "hi": "[विषय: 3.5 एक दस्तावेज़ का संपादन, पृष्ठ 90] पृष्ठ 90 पर दिए गए टेक्स्ट चयन निर्देशों के अनुसार, कौन सी क्रिया पूरे पैराग्राफ का चयन करती है?",
-      },
-      "options": {
-        "a": {
-          "en": "Single clicking inside the left margin",
-          "hi": "बाएँ मार्जिन के अंदर सिंगल क्लिक करना"
-        },
-        "b": {
-          "en": "Holding the Ctrl key and pressing Backspace",
-          "hi": "Ctrl कुंजी दबाए रखना और Backspace दबाना"
-        },
-        "c": {
-          "en": "Double clicking the status bar words indicator",
-          "hi": "स्टेटस बार शब्द संकेतक पर डबल क्लिक करना"
-        },
-        "d": {
-          "en": "Triple clicking the left mouse button anywhere within the paragraph",
-          "hi": "पैराग्राफ के भीतर कहीं भी बाएँ माउस बटन को तीन बार (ट्रिपल) क्लिक करना"
-        }
-      },
-      "correct_option": "d",
-      "hint": {
-        "en": "Look under point 3 'To Select a paragraph' on Page 90.",
-        "hi": "पृष्ठ 90 पर बिंदु 3 'To Select a paragraph' के अंतर्गत देखें।"
-      },
-      "explanation": {
-        "en": "Page 90 specifies: '3. To Select a paragraph: Keep the mouse pointer anywhere within the paragraph and triple click left mouse button to select that paragraph.'",
-        "hi": "पृष्ठ 90 निर्दिष्ट करता है: '3. एक पैराग्राफ का चयन करने के लिए: माउस पॉइंटर को पैराग्राफ के भीतर कहीं भी रखें और उस पैराग्राफ का चयन करने के लिए बाएं माउस बटन को ट्रिपल क्लिक करें।'"
-      },
-      "key_takeaway": {
-        "en": "A rapid triple-click inside a body of text automatically selects the entire parent paragraph block.",
-        "hi": "टेक्स्ट के भीतर एक त्वरित ट्रिपल-क्लिक स्वचालित रूप से पूरे पैराग्राफ ब्लॉक का चयन करता है।"
+        "en": "Copy (Ctrl + C) duplicates content into the clipboard without altering the source file.",
+        "hi": "कॉपी (Ctrl + C) स्रोत फ़ाइल में परिवर्तन किए बिना क्लिपबोर्ड में सामग्री की प्रतिलिपि बनाता है।"
       }
     },
     {
       "question_id": 25,
       "question": {
-        "en": "[Topic: 3.5 Cut, Copy, Paste, Page 90-93] What is the fundamental functional distinction between 'Moving Text' (Cut and Paste) and 'Copying Text' (Copy and Paste)?",
-        "hi": "[विषय: 3.5 कट, कॉपी, पेस्ट, पृष्ठ 90-93] 'टेक्स्ट को स्थानांतरित करने' (कट और पेस्ट) और 'टेक्स्ट को कॉपी करने' (कॉपी और पेस्ट) के बीच मौलिक कार्यात्मक अंतर क्या है?",
+        "en": "[Topic: 3.5 Pasting Text, Page 93] After cutting or copying text, which shortcut key pastes it into a new location?",
+        "hi": "[विषय: 3.5 टेक्स्ट पेस्ट करना, पृष्ठ 93] टेक्स्ट को कट या कॉपी करने के बाद, कौन सी शॉर्टकट कुंजी इसे नए स्थान पर पेस्ट करती है?"
       },
       "options": {
         "a": {
-          "en": "Cut deletes original text from its position and places it in a new location, while Copy duplicates it leaving original text unchanged",
-          "hi": "कट मूल टेक्स्ट को उसकी स्थिति से हटा देता है और उसे नए स्थान पर रखता है, जबकि कॉपी मूल टेक्स्ट को अपरिवर्तित रखते हुए उसकी डुप्लिकेट बनाती है"
+          "en": "Ctrl + V",
+          "hi": "Ctrl + V"
         },
         "b": {
-          "en": "Cut converts text into mathematical symbols, while Copy prints it to an external file",
-          "hi": "कट टेक्स्ट को गणितीय प्रतीकों में बदल देता है, जबकि कॉपी इसे एक बाहरी फ़ाइल में प्रिंट करता है"
+          "en": "Ctrl + P",
+          "hi": "Ctrl + P"
         },
         "c": {
-          "en": "Cut changes font size to bold, while Copy applies underline styles to selected characters",
-          "hi": "कट फ़ॉन्ट आकार को बोल्ड में बदलता है, जबकि कॉपी चयनित वर्णों पर अंडरलाइन शैलियाँ लागू करती है"
+          "en": "Ctrl + Insert",
+          "hi": "Ctrl + Insert"
         },
         "d": {
-          "en": "Cut sends text to the Recycle Bin, while Copy sends it across wide area networks",
-          "hi": "कट टेक्स्ट को रीसायकल बिन में भेजता है, जबकि कॉपी इसे वाइड एरिया नेटवर्क पर भेजती है"
+          "en": "Ctrl + S",
+          "hi": "Ctrl + S"
         }
       },
       "correct_option": "a",
       "hint": {
-        "en": "Compare item 4 'Moving Text' on Page 90 with item 5 'Copying Text' on Page 91.",
-        "hi": "पृष्ठ 90 पर बिंदु 4 'Moving Text' की तुलना पृष्ठ 91 पर बिंदु 5 'Copying Text' से करें।"
+        "en": "It is located right next to the C key on standard keyboards.",
+        "hi": "यह मानक कीबोर्ड पर C कुंजी के ठीक बगल में स्थित है।"
       },
       "explanation": {
-        "en": "Pages 90 and 91 state that moving text shifts selected text from its existing position to a new destination (text disappears from source), whereas copying duplicates text while 'keeping the text at original place unchanged.'",
-        "hi": "पृष्ठ 90 और 91 बताते हैं कि टेक्स्ट को स्थानांतरित करने से चयनित टेक्स्ट अपनी मौजूदा स्थिति से नए गंतव्य पर चला जाता है (स्रोत से हट जाता है), जबकि कॉपी करने से टेक्स्ट 'मूल स्थान पर अपरिवर्तित' रहते हुए डुप्लिकेट हो जाता है।"
+        "en": "We can press Ctrl + V simultaneously from keyboard to paste text.[cite: 1]",
+        "hi": "हम टेक्स्ट को पेस्ट करने के लिए कीबोर्ड से एक साथ Ctrl + V दबा सकते हैं।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "Cut removes source text to the clipboard for repositioning, whereas Copy preserves original text during duplication.",
-        "hi": "कट पुनर्व्यवस्था के लिए स्रोत पाठ को क्लिपबोर्ड पर हटा देता है, जबकि कॉपी दोहराव के दौरान मूल पाठ को सुरक्षित रखता है।"
+        "en": "Paste (Ctrl + V) inserts the clipboard's contents into the active cursor position.",
+        "hi": "पेस्ट (Ctrl + V) क्लिपबोर्ड की सामग्री को सक्रिय कर्सर स्थिति में सम्मिलित करता है।"
       }
     },
     {
       "question_id": 26,
       "question": {
-        "en": "[Topic: 3.5 Shortcut Keys, Page 93] Which list accurately pairs the standard keyboard shortcut keys for Cut, Copy, and Paste respectively?",
-        "hi": "[विषय: 3.5 शॉर्टकट कुंजियाँ, पृष्ठ 93] कौन सी सूची क्रमशः कट, कॉपी और पेस्ट के लिए मानक कीबोर्ड शॉर्टकट कुंजियों का सही मिलान करती है?",
+        "en": "[Topic: 3.5 Undo, Page 94] Which command is used to reverse the last editing action you performed (like restoring deleted text)?",
+        "hi": "[विषय: 3.5 अनडू (Undo), पृष्ठ 94] आपके द्वारा की गई पिछली संपादन क्रिया को उलटने के लिए (जैसे हटाए गए टेक्स्ट को पुनर्स्थापित करना) किस कमांड का उपयोग किया जाता है?"
       },
       "options": {
         "a": {
-          "en": "Cut: Ctrl + S; Copy: Ctrl + O; Paste: Ctrl + P",
-          "hi": "Cut: Ctrl + S; Copy: Ctrl + O; Paste: Ctrl + P"
+          "en": "Redo (Ctrl + Y)",
+          "hi": "रीडू (Ctrl + Y)"
         },
         "b": {
-          "en": "Cut: Ctrl + X; Copy: Ctrl + C; Paste: Ctrl + V",
-          "hi": "Cut: Ctrl + X; Copy: Ctrl + C; Paste: Ctrl + V"
+          "en": "Undo (Ctrl + Z)",
+          "hi": "अनडू (Ctrl + Z)"
         },
         "c": {
-          "en": "Cut: Ctrl + Z; Copy: Ctrl + Y; Paste: Ctrl + A",
-          "hi": "Cut: Ctrl + Z; Copy: Ctrl + Y; Paste: Ctrl + A"
+          "en": "Escape (Esc)",
+          "hi": "एस्केप (Esc)"
         },
         "d": {
-          "en": "Cut: Ctrl + B; Copy: Ctrl + I; Paste: Ctrl + U",
-          "hi": "Cut: Ctrl + B; Copy: Ctrl + I; Paste: Ctrl + U"
+          "en": "Delete (Del)",
+          "hi": "डिलीट (Del)"
         }
       },
       "correct_option": "b",
       "hint": {
-        "en": "Check the shortcut key notes on Page 93.",
-        "hi": "पृष्ठ 93 पर शॉर्टकट कुंजी नोट देखें।"
+        "en": "Z is often used as the 'go back' hotkey.",
+        "hi": "Z का उपयोग अक्सर 'वापस जाने' (go back) की हॉटकी के रूप में किया जाता है।"
       },
       "explanation": {
-        "en": "Page 93 explicitly confirms: 'press Ctrl+X (cut) and Ctrl+C (copy)... press Ctrl + V (paste) simultaneously from keyboard.'",
-        "hi": "पृष्ठ 93 स्पष्ट रूप से पुष्टि करता है: 'कीबोर्ड से एक साथ Ctrl+X (cut) और Ctrl+C (copy)... Ctrl + V (paste) दबाएं।'"
+        "en": "Undo command reverses the action we have performed. The shortcut key for undo is Ctrl + Z.[cite: 1]",
+        "hi": "अनडू कमांड हमारे द्वारा की गई क्रिया को उलट देती है। अनडू के लिए शॉर्टकट कुंजी Ctrl + Z है।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "The foundational clipboard shortcuts are Ctrl+X (Cut), Ctrl+C (Copy), and Ctrl+V (Paste).",
-        "hi": "मौलिक क्लिपबोर्ड शॉर्टकट Ctrl+X (कट), Ctrl+C (कॉपी), और Ctrl+V (पेस्ट) हैं।"
+        "en": "Undo instantly fixes mistakes by stepping backward through your document history.",
+        "hi": "अनडू आपके दस्तावेज़ इतिहास में पीछे जाकर तुरंत गलतियों को ठीक कर देता है।"
       }
     },
     {
       "question_id": 27,
       "question": {
-        "en": "[Topic: 3.5 Undo and Redo, Page 94] What is the operational purpose of the 'Undo' command, and what is its standard keyboard shortcut?",
-        "hi": "[विषय: 3.5 अनडू और रीडू, पृष्ठ 94] 'अनडू' (Undo) कमांड का परिचालन उद्देश्य क्या है, और इसका मानक कीबोर्ड शॉर्टकट क्या है?",
+        "en": "[Topic: 3.5 Redo, Page 94] To reverse your last Undo action, which shortcut key should you press?",
+        "hi": "[विषय: 3.5 रीडू (Redo), पृष्ठ 94] अपने अंतिम अनडू कार्य को उलटने के लिए, आपको कौन सी शॉर्टकट कुंजी दबानी चाहिए?"
       },
       "options": {
         "a": {
-          "en": "Saves the current document to disk; Ctrl + S",
-          "hi": "वर्तमान दस्तावेज़ को डिस्क में सहेजता है; Ctrl + S"
+          "en": "Ctrl + X",
+          "hi": "Ctrl + X"
         },
         "b": {
-          "en": "Deletes the entire page paragraph layout; Ctrl + D",
-          "hi": "पूरे पेज पैराग्राफ लेआउट को हटा देता है; Ctrl + D"
+          "en": "Ctrl + B",
+          "hi": "Ctrl + B"
         },
         "c": {
-          "en": "Reverses the last editing action performed to correct errors; Ctrl + Z",
-          "hi": "त्रुटियों को ठीक करने के लिए की गई पिछली संपादन क्रिया को उलट देता है; Ctrl + Z"
+          "en": "Ctrl + Y",
+          "hi": "Ctrl + Y"
         },
         "d": {
-          "en": "Reduces font size to minimum dimensions; Ctrl + [",
-          "hi": "फ़ॉन्ट आकार को न्यूनतम आयामों तक कम करता है; Ctrl + ["
+          "en": "Ctrl + R",
+          "hi": "Ctrl + R"
         }
       },
       "correct_option": "c",
       "hint": {
-        "en": "Refer to section 3.5.3 on Page 94.",
-        "hi": "पृष्ठ 94 पर अनुभाग 3.5.3 देखें।"
+        "en": "It is the functional opposite of Ctrl + Z.",
+        "hi": "यह कार्यात्मक रूप से Ctrl + Z के विपरीत है।"
       },
       "explanation": {
-        "en": "Page 94 explains: '3.5.3 Undo: This command reverse the action we have performed while editing... it will remove the last thing we did. Shortcut key for undo is Ctrl + Z.'",
-        "hi": "पृष्ठ 94 बताता है: '3.5.3 Undo: यह कमांड संपादन के दौरान हमारे द्वारा किए गए कार्य को उलट देती है... यह हमारे द्वारा किए गए अंतिम कार्य को हटा देगी। अनडू के लिए शॉर्टकट कुंजी Ctrl + Z है।'"
+        "en": "To reverse your last Undo, press CTRL+Y. This is known as the Redo command.[cite: 1]",
+        "hi": "अपने अंतिम अनडू को उलटने के लिए, CTRL+Y दबाएँ। इसे रीडू कमांड के रूप में जाना जाता है।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "Undo (Ctrl + Z) steps backward sequentially through recent document modification history.",
-        "hi": "अनडू (Ctrl + Z) हाल के दस्तावेज़ संशोधन इतिहास में क्रमिक रूप से पीछे जाता है।"
+        "en": "Redo brings back changes that you accidentally removed using the Undo tool.",
+        "hi": "रीडू उन परिवर्तनों को वापस लाता है जिन्हें आपने गलती से अनडू टूल का उपयोग करके हटा दिया था।"
       }
     },
     {
       "question_id": 28,
       "question": {
-        "en": "[Topic: 3.5 Undo and Redo, Page 94] When can the 'Redo' command (Ctrl + Y) be executed in MS Word?",
-        "hi": "[विषय: 3.5 अनडू और रीडू, पृष्ठ 94] MS Word में 'रीडू' (Redo) कमांड (Ctrl + Y) कब निष्पादित की जा सकती है?",
+        "en": "[Topic: 3.6 Font Styles, Page 94] Which font style formats text to appear as slanted letters?",
+        "hi": "[विषय: 3.6 फ़ॉन्ट शैलियाँ, पृष्ठ 94] कौन सी फ़ॉन्ट शैली टेक्स्ट को तिरछे अक्षरों (slanted letters) के रूप में दिखाती है?"
       },
       "options": {
         "a": {
-          "en": "Only before opening a blank document template",
-          "hi": "केवल खाली दस्तावेज़ टेम्पलेट खोलने से पहले"
+          "en": "Bold",
+          "hi": "बोल्ड (Bold)"
         },
         "b": {
-          "en": "Only after the Undo command has been used, to reverse the undone action",
-          "hi": "अनडू की गई क्रिया को उलटने के लिए केवल अनडू (Undo) कमांड का उपयोग किए जाने के बाद"
+          "en": "Underline",
+          "hi": "अंडरलाइन (Underline)"
         },
         "c": {
-          "en": "Whenever a printer runs completely out of paper sheets",
-          "hi": "जब भी प्रिंटर में कागज़ की शीट पूरी तरह से समाप्त हो जाती है"
+          "en": "Strikethrough",
+          "hi": "स्ट्राइकथ्रू (Strikethrough)"
         },
         "d": {
-          "en": "Exclusively when saving an existing file as a PDF document",
-          "hi": "विशेष रूप से किसी मौजूदा फ़ाइल को पीडीएफ दस्तावेज़ के रूप में सहेजते समय"
+          "en": "Italic",
+          "hi": "इटैलिक (Italic)"
         }
       },
-      "correct_option": "b",
+      "correct_option": "d",
       "hint": {
-        "en": "Read section 3.5.4 'Redo' on Page 94.",
-        "hi": "पृष्ठ 94 पर अनुभाग 3.5.4 'Redo' पढ़ें।"
+        "en": "This style tilts the characters slightly to the right.",
+        "hi": "यह शैली वर्णों को थोड़ा दाईं ओर झुकाती है।"
       },
       "explanation": {
-        "en": "Page 94 explicitly states: 'To reverse your last Undo, press CTRL+Y... You can use Redo command only after Undo command.'",
-        "hi": "पृष्ठ 94 स्पष्ट रूप से बताता है: 'अपने अंतिम अनडू को उलटने के लिए, CTRL+Y दबाएं... आप अनडू कमांड के बाद ही रीडू कमांड का उपयोग कर सकते हैं।'"
+        "en": "Italic text means using slanted letters.[cite: 1]",
+        "hi": "इटैलिक टेक्स्ट का मतलब तिरछे अक्षरों का उपयोग करना है।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "Redo restores actions that were nullified by previous Undo commands.",
-        "hi": "रीडू उन क्रियाओं को पुनर्स्थापित करता है जिन्हें पिछली अनडू कमांड द्वारा रद्द कर दिया गया था।"
+        "en": "Italics are used to emphasize words, book titles, or foreign phrases softly.",
+        "hi": "इटैलिक का उपयोग शब्दों, पुस्तकों के शीर्षकों या विदेशी वाक्यांशों को धीरे से जोर देने के लिए किया जाता है।"
       }
     },
     {
       "question_id": 29,
       "question": {
-        "en": "[Topic: 3.6 Font Styles, Page 94-95] What are the visual characteristics produced by applying the Bold, Italic, and Underline font styles respectively?",
-        "hi": "[विषय: 3.6 फ़ॉन्ट शैलियाँ, पृष्ठ 94-95] क्रमशः बोल्ड, इटैलिक और अंडरलाइन फ़ॉन्ट शैलियों को लागू करने से क्या दृश्य विशेषताएं उत्पन्न होती हैं?",
+        "en": "[Topic: 3.6 Font Styles, Page 95] What is the keyboard shortcut to make selected text Bold (thicker letters)?",
+        "hi": "[विषय: 3.6 फ़ॉन्ट शैलियाँ, पृष्ठ 95] चयनित टेक्स्ट को बोल्ड (मोटे अक्षर) बनाने के लिए कीबोर्ड शॉर्टकट क्या है?"
       },
       "options": {
         "a": {
-          "en": "Bold uses thicker letters, Italic uses slanted letters, and Underline draws a horizontal line underneath the letters",
-          "hi": "बोल्ड मोटे अक्षरों का उपयोग करता है, इटैलिक तिरछे अक्षरों का उपयोग करता है, और अंडरलाइन अक्षरों के नीचे एक क्षैतिज रेखा खींचता है"
+          "en": "Ctrl + B",
+          "hi": "Ctrl + B"
         },
         "b": {
-          "en": "Bold increases line height to double spacing, Italic aligns text to center, and Underline deletes spaces",
-          "hi": "बोल्ड लाइन की ऊंचाई को डबल स्पेसिंग में बढ़ाता है, इटैलिक टेक्स्ट को केंद्र में संरेखित करता है, और अंडरलाइन रिक्त स्थान को हटाता है"
+          "en": "Ctrl + T",
+          "hi": "Ctrl + T"
         },
         "c": {
-          "en": "Bold capitalizes lowercase characters, Italic converts characters into numerals, and Underline changes text color to red",
-          "hi": "बोल्ड छोटे अक्षरों को बड़े अक्षरों में बदलता है, इटैलिक वर्णों को अंकों में बदलता है, और अंडरलाइन टेक्स्ट का रंग लाल कर देता है"
+          "en": "Alt + B",
+          "hi": "Alt + B"
         },
         "d": {
-          "en": "Bold inserts page headers, Italic creates bullet lists, and Underline embeds footnotes",
-          "hi": "बोल्ड पेज हेडर डालता है, इटैलिक बुलेट सूचियां बनाता है, और अंडरलाइन फ़ुटनोट्स एम्बेड करता है"
+          "en": "Shift + B",
+          "hi": "Shift + B"
         }
       },
       "correct_option": "a",
       "hint": {
-        "en": "Look under section 3.6.1 'Font styles' on Page 94.",
-        "hi": "पृष्ठ 94 पर अनुभाग 3.6.1 'Font styles' के अंतर्गत देखें।"
+        "en": "B stands for 'Bold'.",
+        "hi": "B का मतलब 'Bold' (बोल्ड) है।"
       },
       "explanation": {
-        "en": "Page 94 defines: 'Bold: Bold text, means using thicker letters. Italic: Italic text, means using slanted letters. Underline: Underline the text, means to draw a horizontal line underneath the letters.'",
-        "hi": "पृष्ठ 94 परिभाषित करता है: 'Bold: बोल्ड टेक्स्ट, यानी मोटे अक्षरों का उपयोग करना। Italic: इटैलिक टेक्स्ट, यानी तिरछे अक्षरों का उपयोग करना। Underline: टेक्स्ट को अंडरलाइन करना, यानी अक्षरों के नीचे एक क्षैतिज रेखा खींचना।'"
+        "en": "The shortcut command for Bold is Ctrl + B.[cite: 1]",
+        "hi": "बोल्ड के लिए शॉर्टकट कमांड Ctrl + B है।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "Bold, Italic, and Underline are foundational typeface emphasis styles used to highlight key content.",
-        "hi": "बोल्ड, इटैलिक और अंडरलाइन प्रमुख सामग्री को हाइलाइट करने के लिए उपयोग की जाने वाली मूलभूत टाइपफ़ेस शैलियाँ हैं।"
+        "en": "Bold text (Ctrl + B) provides strong visual weight to headings or critical terms.",
+        "hi": "बोल्ड टेक्स्ट (Ctrl + B) शीर्षकों या महत्वपूर्ण शब्दों को मजबूत दृश्य वजन प्रदान करता है।"
       }
     },
     {
       "question_id": 30,
       "question": {
-        "en": "[Topic: 3.6 Font Styles, Page 94-95] Which shortcut key combination is pressed from the keyboard to apply the Italic text style to selected text?",
-        "hi": "[विषय: 3.6 फ़ॉन्ट शैलियाँ, पृष्ठ 94-95] चयनित टेक्स्ट पर इटैलिक टेक्स्ट शैली लागू करने के लिए कीबोर्ड से कौन सा शॉर्टकट कुंजी संयोजन दबाया जाता है?",
+        "en": "[Topic: 3.6 Font Styles, Page 95] What is the keyboard shortcut used to Underline the selected text?",
+        "hi": "[विषय: 3.6 फ़ॉन्ट शैलियाँ, पृष्ठ 95] चयनित टेक्स्ट को अंडरलाइन करने के लिए किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?"
       },
       "options": {
         "a": {
-          "en": "Ctrl + T",
-          "hi": "Ctrl + T"
+          "en": "Alt + U",
+          "hi": "Alt + U"
         },
         "b": {
-          "en": "Ctrl + I",
-          "hi": "Ctrl + I"
+          "en": "Ctrl + U",
+          "hi": "Ctrl + U"
         },
         "c": {
-          "en": "Ctrl + K",
-          "hi": "Ctrl + K"
+          "en": "Shift + U",
+          "hi": "Shift + U"
         },
         "d": {
           "en": "Ctrl + L",
@@ -1149,396 +1147,396 @@
       },
       "correct_option": "b",
       "hint": {
-        "en": "Check section 3.6.2 and Exercise Objective Q5 on Page 107.",
-        "hi": "पृष्ठ 107 पर अनुभाग 3.6.2 और अभ्यास वस्तुनिष्ठ प्रश्न 5 की जाँच करें।"
+        "en": "U stands for 'Underline'.",
+        "hi": "U का मतलब 'Underline' (अंडरलाइन) है।"
       },
       "explanation": {
-        "en": "Page 95 and Exercise Question 5 confirm that the shortcut command for italic is Ctrl + I.",
-        "hi": "पृष्ठ 95 और अभ्यास प्रश्न 5 पुष्टि करते हैं कि इटैलिक के लिए शॉर्टकट कमांड Ctrl + I है।"
+        "en": "The shortcut command for Underline is Ctrl + U.[cite: 1]",
+        "hi": "अंडरलाइन के लिए शॉर्टकट कमांड Ctrl + U है।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "Ctrl + I toggles italic slant formatting on highlighted characters.",
-        "hi": "Ctrl + I हाइलाइट किए गए वर्णों पर इटैलिक फ़ॉर्मेटिंग को टॉगल करता है।"
+        "en": "Ctrl + U draws a direct horizontal line beneath your text selections.",
+        "hi": "Ctrl + U आपके टेक्स्ट चयन के नीचे एक सीधी क्षैतिज रेखा खींचता है।"
       }
     },
     {
       "question_id": 31,
       "question": {
-        "en": "[Topic: 3.7 Alignment of Text, Page 97-98] What does the 'Justify' text alignment option do to paragraph text?",
-        "hi": "[विषय: 3.7 टेक्स्ट का संरेखण, पृष्ठ 97-98] 'जस्टिफाई' (Justify) टेक्स्ट संरेखण विकल्प पैराग्राफ टेक्स्ट पर क्या प्रभाव डालता है?",
+        "en": "[Topic: 3.7 Alignment of Text, Page 98] Which alignment option aligns text equally on both the left and right margins, commonly used in newspapers?",
+        "hi": "[विषय: 3.7 टेक्स्ट का संरेखण, पृष्ठ 98] कौन सा अलाइनमेंट (संरेखण) विकल्प टेक्स्ट को बाएं और दाएं दोनों हाशिये (margins) पर समान रूप से संरेखित करता है, जिसका उपयोग आमतौर पर समाचार पत्रों में किया जाता है?"
       },
       "options": {
         "a": {
-          "en": "Pushes all lines against the right page margin while leaving ragged left edges",
-          "hi": "बाएं किनारों को खुरदरा छोड़ते हुए सभी पंक्तियों को दाएं पृष्ठ मार्जिन से सटा देता है"
+          "en": "Center alignment",
+          "hi": "सेंटर अलाइनमेंट (Center alignment)"
         },
         "b": {
-          "en": "Centers each line around the middle vertical axis of the page",
-          "hi": "प्रत्येक पंक्ति को पृष्ठ के मध्य ऊर्ध्वाधर अक्ष के चारों ओर केंद्रित करता है"
+          "en": "Left alignment",
+          "hi": "लेफ्ट अलाइनमेंट (Left alignment)"
         },
         "c": {
-          "en": "Aligns text equally on both sides, lining up flush with both the left and right margins",
-          "hi": "टेक्स्ट को दोनों तरफ समान रूप से संरेखित करता है, जिससे बाएं और दाएं दोनों हाशिये (मार्जिन) समान रूप से पंक्तिबद्ध होते हैं"
+          "en": "Justify",
+          "hi": "जस्टिफाई (Justify)"
         },
         "d": {
-          "en": "Indents the first line by exactly three inches from the top margin",
-          "hi": "शीर्ष मार्जिन से पहली पंक्ति को ठीक तीन इंच इंडेंट करता है"
+          "en": "Right alignment",
+          "hi": "राइट अलाइनमेंट (Right alignment)"
         }
       },
       "correct_option": "c",
       "hint": {
-        "en": "Refer to section 3.7.5 'Justify' on Page 98.",
-        "hi": "पृष्ठ 98 पर अनुभाग 3.7.5 'Justify' देखें।"
+        "en": "It 'justifies' the text to fill the entire block evenly.",
+        "hi": "यह पूरे ब्लॉक को समान रूप से भरने के लिए टेक्स्ट को 'जस्टिफाई' करता है।"
       },
       "explanation": {
-        "en": "Page 98 states: '3.7.5 Justify: Aligns text equally on both sides and lines up equally to the right and left margins; used by many newspapers and magazines. (Press Ctrl+J)'",
-        "hi": "पृष्ठ 98 बताता है: '3.7.5 Justify: टेक्स्ट को दोनों तरफ समान रूप से संरेखित करता है और दाएं और बाएं मार्जिन पर समान रूप से रेखांकित करता है; कई समाचार पत्रों और पत्रिकाओं द्वारा उपयोग किया जाता है। (Ctrl+J दबाएं)'"
+        "en": "Justify aligns text equally on both sides and lines up equally to the right and left margins; used by many newspapers and magazines.[cite: 1]",
+        "hi": "जस्टिफाई टेक्स्ट को दोनों तरफ समान रूप से संरेखित करता है और दाएं और बाएं मार्जिन पर समान रूप से रेखांकित करता है; कई समाचार पत्रों और पत्रिकाओं द्वारा उपयोग किया जाता है।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "Justify alignment creates straight newspaper-style borders along both the left and right page margins.",
-        "hi": "जस्टिफाई अलाइनमेंट बाएं और दाएं दोनों पेज मार्जिन के साथ सीधे अखबार जैसी सीमाएं बनाता है।"
+        "en": "Justified text spaces words dynamically to create perfectly flush left and right page edges.",
+        "hi": "जस्टिफाइड टेक्स्ट बाएं और दाएं पेज के किनारों को पूरी तरह से समान बनाने के लिए शब्दों को गतिशील रूप से स्पेस देता है।"
       }
     },
     {
       "question_id": 32,
       "question": {
-        "en": "[Topic: 3.7 Alignment of Text, Page 97-98] What are the keyboard shortcuts for Left, Center, Right, and Justified paragraph alignments respectively?",
-        "hi": "[विषय: 3.7 टेक्स्ट का संरेखण, पृष्ठ 97-98] क्रमशः लेफ्ट, सेंटर, राइट और जस्टिफाइड पैराग्राफ संरेखण के लिए कीबोर्ड शॉर्टकट क्या हैं?",
+        "en": "[Topic: 3.7 Alignment of Text, Page 98] What is the keyboard shortcut for aligning text to the Center?",
+        "hi": "[विषय: 3.7 टेक्स्ट का संरेखण, पृष्ठ 98] टेक्स्ट को सेंटर (केंद्र) में अलाइन करने के लिए कीबोर्ड शॉर्टकट क्या है?"
       },
       "options": {
         "a": {
-          "en": "Left: Ctrl+Shift+L; Center: Ctrl+Shift+C; Right: Ctrl+Shift+R; Justify: Ctrl+Shift+J",
-          "hi": "Left: Ctrl+Shift+L; Center: Ctrl+Shift+C; Right: Ctrl+Shift+R; Justify: Ctrl+Shift+J"
+          "en": "Ctrl + C",
+          "hi": "Ctrl + C"
         },
         "b": {
-          "en": "Left: Alt+L; Center: Alt+C; Right: Alt+R; Justify: Alt+J",
-          "hi": "Left: Alt+L; Center: Alt+C; Right: Alt+R; Justify: Alt+J"
+          "en": "Ctrl + J",
+          "hi": "Ctrl + J"
         },
         "c": {
-          "en": "Left: Ctrl+1; Center: Ctrl+2; Right: Ctrl+3; Justify: Ctrl+4",
-          "hi": "Left: Ctrl+1; Center: Ctrl+2; Right: Ctrl+3; Justify: Ctrl+4"
+          "en": "Ctrl + A",
+          "hi": "Ctrl + A"
         },
         "d": {
-          "en": "Left: Ctrl+L; Center: Ctrl+E; Right: Ctrl+R; Justify: Ctrl+J",
-          "hi": "Left: Ctrl+L; Center: Ctrl+E; Right: Ctrl+R; Justify: Ctrl+J"
+          "en": "Ctrl + E",
+          "hi": "Ctrl + E"
         }
       },
       "correct_option": "d",
       "hint": {
-        "en": "Notice that Center uses Ctrl+E because Ctrl+C is reserved for Copy.",
-        "hi": "ध्यान दें कि सेंटर Ctrl+E का उपयोग करता है क्योंकि Ctrl+C कॉपी के लिए आरक्षित है।"
+        "en": "Ctrl + C is already used for Copy, so it uses the second letter of 'Center'.",
+        "hi": "Ctrl + C का उपयोग पहले से ही कॉपी के लिए किया जाता है, इसलिए यह 'Center' के दूसरे अक्षर का उपयोग करता है।"
       },
       "explanation": {
-        "en": "Pages 97 and 98 explicitly document the four alignment shortcuts: Align Text Left (Ctrl+L), Align Text Center (Ctrl+E), Align Text Right (Ctrl+R), and Justify (Ctrl+J).",
-        "hi": "पृष्ठ 97 और 98 स्पष्ट रूप से चार संरेखण शॉर्टकट का दस्तावेजीकरण करते हैं: अलाइन टेक्स्ट लेफ्ट (Ctrl+L), अलाइन टेक्स्ट सेंटर (Ctrl+E), अलाइन टेक्स्ट राइट (Ctrl+R), और जस्टिफाई (Ctrl+J)।"
+        "en": "Align Text Center aligns all selected text to the Center margin. The shortcut is Press Ctrl+E.[cite: 1]",
+        "hi": "अलाइन टेक्स्ट सेंटर सभी चयनित टेक्स्ट को सेंटर मार्जिन में संरेखित करता है। शॉर्टकट Ctrl+E दबाना है।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "Paragraph horizontal flow is controlled by Ctrl+L (Left), Ctrl+E (Center), Ctrl+R (Right), and Ctrl+J (Justify).",
-        "hi": "पैराग्राफ क्षैतिज प्रवाह Ctrl+L (बाएं), Ctrl+E (मध्य), Ctrl+R (दाएं), और Ctrl+J (जस्टिफाई) द्वारा नियंत्रित होता है।"
+        "en": "Ctrl + E is the universal Word shortcut to center-align titles and paragraphs.",
+        "hi": "Ctrl + E शीर्षक और पैराग्राफ को केंद्र-संरेखित करने के लिए सार्वभौमिक वर्ड शॉर्टकट है।"
       }
     },
     {
       "question_id": 33,
       "question": {
-        "en": "[Topic: 3.8 Margins, Page 99] What are the standard default margin settings for a document as explicitly specified on Page 99?",
-        "hi": "[विषय: 3.8 मार्जिन, पृष्ठ 99] पृष्ठ 99 पर स्पष्ट रूप से निर्दिष्ट दस्तावेज़ के लिए मानक डिफ़ॉल्ट मार्जिन सेटिंग्स क्या हैं?",
+        "en": "[Topic: 3.8 Margins, Page 99] What are the standard default margin settings for top/bottom and left/right in MS Word?",
+        "hi": "[विषय: 3.8 मार्जिन, पृष्ठ 99] MS Word में ऊपर/नीचे (top/bottom) और बाएँ/दाएँ (left/right) के लिए मानक डिफ़ॉल्ट मार्जिन सेटिंग्स क्या हैं?"
       },
       "options": {
         "a": {
-          "en": "1 inch Top and Bottom, and 1.25 inches Left and Right",
-          "hi": "1 इंच ऊपर (Top) और नीचे (Bottom), और 1.25 इंच बाएँ (Left) और दाएँ (Right)"
+          "en": "1\" top and bottom, and 1.25\" left and right",
+          "hi": "1\" ऊपर और नीचे, और 1.25\" बाएँ और दाएँ"
         },
         "b": {
-          "en": "0.5 inches on all four boundary sides",
-          "hi": "सभी चार सीमाओं पर 0.5 इंच"
+          "en": "2\" on all sides",
+          "hi": "सभी तरफ 2\""
         },
         "c": {
-          "en": "2.5 inches Top and Bottom, and 0.5 inches Left and Right",
-          "hi": "2.5 इंच ऊपर और नीचे, और 0.5 इंच बाएँ और दाएँ"
+          "en": "0.5\" top and bottom, 1\" left and right",
+          "hi": "0.5\" ऊपर और नीचे, 1\" बाएँ और दाएँ"
         },
         "d": {
-          "en": "3 inches Left margin and zero inches on remaining sides",
-          "hi": "3 इंच बायां मार्जिन और शेष पक्षों पर शून्य इंच"
+          "en": "1.25\" top and bottom, and 1\" left and right",
+          "hi": "1.25\" ऊपर और नीचे, और 1\" बाएँ और दाएँ"
         }
       },
       "correct_option": "a",
       "hint": {
-        "en": "Read the first paragraph of section 3.8 on Page 99.",
-        "hi": "पृष्ठ 99 पर अनुभाग 3.8 का पहला पैराग्राफ पढ़ें।"
+        "en": "The vertical margins are exactly 1 inch.",
+        "hi": "लंबवत मार्जिन ठीक 1 इंच है।"
       },
       "explanation": {
-        "en": "Page 99 specifies: 'A margin is a space separating text or other elements from the edge of the paper... The standard margin settings are 1\" top and bottom and 1.25\" left and right.'",
-        "hi": "पृष्ठ 99 निर्दिष्ट करता है: 'मार्जिन कागज के किनारे से टेक्स्ट या अन्य तत्वों को अलग करने वाला स्थान है... मानक मार्जिन सेटिंग्स 1\" ऊपर और नीचे और 1.25\" बाएं और दाएं हैं।'"
+        "en": "The standard margin settings are 1\" top and bottom and 1.25\" left and right.[cite: 1]",
+        "hi": "मानक मार्जिन सेटिंग्स 1\" ऊपर और नीचे और 1.25\" बाएं और दाएं हैं।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "Classic Word document margins allocate 1 inch vertically and 1.25 inches horizontally between text borders and physical page edges.",
-        "hi": "पारंपरिक वर्ड दस्तावेज़ मार्जिन टेक्स्ट सीमाओं और भौतिक पृष्ठ किनारों के बीच लंबवत रूप से 1 इंच और क्षैतिज रूप से 1.25 इंच आवंटित करते हैं।"
+        "en": "Standard margins provide optimal readability and adequate physical printing grip space.",
+        "hi": "मानक मार्जिन इष्टतम पठनीयता और पर्याप्त भौतिक मुद्रण पकड़ स्थान प्रदान करते हैं।"
       }
     },
     {
       "question_id": 34,
       "question": {
-        "en": "[Topic: 3.9 Customized Line Spacing, Page 101] In the Paragraph dialog box, what unit of measurement is used for line spacing when 'At least' or 'Exactly' is selected?",
-        "hi": "[विषय: 3.9 कस्टमाइज्ड लाइन स्पेसिंग, पृष्ठ 101] पैराग्राफ डायलॉग बॉक्स में, जब 'At least' या 'Exactly' का चयन किया जाता है तो लाइन स्पेसिंग के लिए माप की किस इकाई का उपयोग किया जाता है?",
+        "en": "[Topic: 3.9 Customized Line Spacing, Page 101] In the Paragraph dialog box, if you select 'at least' or 'exactly', in what unit is the line spacing measured?",
+        "hi": "[विषय: 3.9 कस्टमाइज्ड लाइन स्पेसिंग, पृष्ठ 101] पैराग्राफ डायलॉग बॉक्स में, यदि आप 'कम से कम' (at least) या 'बिल्कुल' (exactly) चुनते हैं, तो लाइन स्पेसिंग किस इकाई में मापी जाती है?"
       },
       "options": {
         "a": {
-          "en": "Centimeters",
-          "hi": "सेंटीमीटर (Centimeters)"
+          "en": "Inches",
+          "hi": "इंच (Inches)"
         },
         "b": {
           "en": "Points",
-          "hi": "अंक / पॉइंट्स (Points)"
+          "hi": "पॉइंट्स (Points)"
         },
         "c": {
-          "en": "Pixels",
-          "hi": "पिक्सेल (Pixels)"
+          "en": "Centimeters",
+          "hi": "सेंटीमीटर (Centimeters)"
         },
         "d": {
-          "en": "Inches",
-          "hi": "इंच (Inches)"
+          "en": "Pixels",
+          "hi": "पिक्सेल (Pixels)"
         }
       },
       "correct_option": "b",
       "hint": {
-        "en": "Look at the text right below the Paragraph dialog box screenshot on Page 101.",
-        "hi": "पृष्ठ 101 पर पैराग्राफ डायलॉग बॉक्स स्क्रीनशॉट के ठीक नीचे दिया गया टेक्स्ट देखें।"
+        "en": "It is a standard typographical unit, similar to font sizes.",
+        "hi": "यह एक मानक टाइपोग्राफ़िकल इकाई है, जो फ़ॉन्ट आकार के समान है।"
       },
       "explanation": {
-        "en": "Page 101 explicitly notes: 'When you select at least or exactly in the Paragraph dialog box, the line spacing is measured in points. Otherwise, it is measured in lines.'",
-        "hi": "पृष्ठ 101 स्पष्ट रूप से बताता है: 'जब आप पैराग्राफ डायलॉग बॉक्स में at least या exactly का चयन करते हैं, तो लाइन स्पेसिंग को पॉइंट्स में मापा जाता है। अन्यथा, इसे लाइनों में मापा जाता है।'"
+        "en": "When you select 'at least' or 'exactly' in the Paragraph dialog box, the line spacing is measured in points.[cite: 1]",
+        "hi": "जब आप पैराग्राफ डायलॉग बॉक्स में 'at least' या 'exactly' का चयन करते हैं, तो लाइन स्पेसिंग को पॉइंट्स में मापा जाता है।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "Absolute line spacing options ('At least' / 'Exactly') are evaluated in typographical points rather than line ratios.",
-        "hi": "सटीक लाइन रिक्ति विकल्प ('कम से कम' / 'बिल्कुल') लाइन अनुपातों के बजाय टाइपोग्राफ़िकल बिंदुओं (पॉइंट्स) में मापे जाते हैं।"
+        "en": "Precision line spacing (Exactly/At least) uses typographical 'Points' rather than standard line multiples.",
+        "hi": "सटीक लाइन स्पेसिंग (बिल्कुल/कम से कम) मानक लाइन गुणकों के बजाय टाइपोग्राफ़िकल 'पॉइंट्स' का उपयोग करती है।"
       }
     },
     {
       "question_id": 35,
       "question": {
-        "en": "[Topic: 3.10 Adding Header and Footer, Page 101-102] What is the definition and structural location of a 'Header' and a 'Footer' in a document?",
-        "hi": "[विषय: 3.10 हेडर और फुटर जोड़ना, पृष्ठ 101-102] किसी दस्तावेज़ में 'हेडर' (Header) और 'फुटर' (Footer) की परिभाषा और संरचनात्मक स्थिति क्या है?",
+        "en": "[Topic: 3.10 Adding Header and Footer, Page 101-102] What is the text placed at the bottom of a page in an electronic document called?",
+        "hi": "[विषय: 3.10 हेडर और फुटर जोड़ना, पृष्ठ 101-102] किसी इलेक्ट्रॉनिक दस्तावेज़ में पृष्ठ के निचले भाग में रखे गए टेक्स्ट को क्या कहा जाता है?"
       },
       "options": {
         "a": {
-          "en": "Header is placed inside the Quick Access Toolbar; Footer is inside the Title Bar",
-          "hi": "हेडर क्विक एक्सेस टूलबार के अंदर रखा गया है; फुटर टाइटल बार के अंदर है"
+          "en": "Header",
+          "hi": "हेडर (Header)"
         },
         "b": {
-          "en": "Header is a popup note on a word; Footer is an embedded graphics chart",
-          "hi": "हेडर किसी शब्द पर पॉपअप नोट है; फुटर एक एम्बेडेड ग्राफिक्स चार्ट है"
+          "en": "Watermark",
+          "hi": "वॉटरमार्क (Watermark)"
         },
         "c": {
-          "en": "Header is text printed at the top of a page; Footer is text printed at the bottom of a page",
-          "hi": "हेडर किसी पृष्ठ के शीर्ष (Top) पर मुद्रित टेक्स्ट है; फुटर किसी पृष्ठ के निचले भाग (Bottom) पर मुद्रित टेक्स्ट है"
+          "en": "Footer",
+          "hi": "फुटर (Footer)"
         },
         "d": {
-          "en": "Header is the first paragraph of a chapter; Footer is the final index bibliography",
-          "hi": "हेडर एक अध्याय का पहला पैराग्राफ है; फुटर अंतिम इंडेक्स ग्रंथ सूची है"
+          "en": "Bottomline",
+          "hi": "बॉटमलाइन (Bottomline)"
         }
       },
       "correct_option": "c",
       "hint": {
-        "en": "Read the introductory definitions under section 3.10 on Pages 101-102.",
-        "hi": "पृष्ठ 101-102 पर अनुभाग 3.10 के अंतर्गत प्रारंभिक परिभाषाएँ पढ़ें।"
+        "en": "It sits at the 'foot' of the page.",
+        "hi": "यह पृष्ठ के 'पैर' (foot) पर बैठता है।"
       },
       "explanation": {
-        "en": "Pages 101 and 102 state: 'Headers: A header is text at the top of a page in an electronic document or hard copy... Footers: A footer is at the bottom of a page in an electronic document or hard copy.'",
-        "hi": "पृष्ठ 101 और 102 बताते हैं: 'Headers: एक हेडर एक इलेक्ट्रॉनिक दस्तावेज़ या हार्ड कॉपी में एक पृष्ठ के शीर्ष पर टेक्स्ट है... Footers: एक फुटर एक इलेक्ट्रॉनिक दस्तावेज़ या हार्ड कॉपी में एक पृष्ठ के निचले भाग में होता है।'"
+        "en": "A footer is text at the bottom of a page in an electronic document or hard copy.[cite: 1]",
+        "hi": "फुटर एक इलेक्ट्रॉनिक दस्तावेज़ या हार्ड कॉपी में एक पृष्ठ के निचले भाग में मौजूद टेक्स्ट है।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "Headers and footers repeat uniform metadata (such as page numbers or titles) across the top and bottom margins of pages.",
-        "hi": "हेडर और फुटर पृष्ठों के शीर्ष और निचले मार्जिन में एक समान मेटाडेटा (जैसे पृष्ठ संख्या या शीर्षक) दोहराते हैं।"
+        "en": "Footers carry persistent bottom-page data like chapter titles and page numbers.",
+        "hi": "फ़ुटर में चैप्टर के शीर्षक और पेज नंबर जैसे लगातार बॉटम-पेज डेटा होते हैं।"
       }
     },
     {
       "question_id": 36,
       "question": {
-        "en": "[Topic: 3.10 Adding Header and Footer, Page 102] What is described on Page 102 as the simplest everyday shortcut method to open the header and footer editing area in MS Word?",
-        "hi": "[विषय: 3.10 हेडर और फुटर जोड़ना, पृष्ठ 102] MS Word में हेडर और फुटर संपादन क्षेत्र को खोलने के लिए पृष्ठ 102 पर सबसे सरल दैनिक शॉर्टकट विधि के रूप में क्या वर्णित है?",
+        "en": "[Topic: 3.10 Adding Header and Footer, Page 102] What is the simplest way to quickly open the header and footer area without using the ribbon menu?",
+        "hi": "[विषय: 3.10 हेडर और फुटर जोड़ना, पृष्ठ 102] रिबन मेनू का उपयोग किए बिना हेडर और फुटर क्षेत्र को जल्दी से खोलने का सबसे आसान तरीका क्या है?"
       },
       "options": {
         "a": {
-          "en": "Right-clicking the desktop taskbar and selecting 'Properties'",
-          "hi": "डेस्कटॉप टास्कबार पर राइट-क्लिक करना और 'Properties' का चयन करना"
+          "en": "Right click the text area",
+          "hi": "टेक्स्ट क्षेत्र पर राइट क्लिक करना"
         },
         "b": {
-          "en": "Double clicking directly on the top or bottom margin area of the page",
-          "hi": "पृष्ठ के शीर्ष या निचले मार्जिन क्षेत्र पर सीधे डबल क्लिक करना"
+          "en": "Press Alt + H",
+          "hi": "Alt + H दबाना"
         },
         "c": {
-          "en": "Pressing the F1 help shortcut key repeatedly on the keyboard",
-          "hi": "कीबोर्ड पर बार-बार F1 सहायता शॉर्टकट कुंजी दबाना"
+          "en": "Scroll to the end of the file",
+          "hi": "फ़ाइल के अंत तक स्क्रॉल करना"
         },
         "d": {
-          "en": "Dragging the vertical scroll bar to the absolute bottom of the screen",
-          "hi": "वर्टिकल स्क्रॉल बार को स्क्रीन के बिल्कुल नीचे खींचना"
+          "en": "Double click on the top or bottom margin of the page",
+          "hi": "पृष्ठ के शीर्ष (top) या निचले (bottom) मार्जिन पर डबल क्लिक करना"
         }
       },
-      "correct_option": "b",
+      "correct_option": "d",
       "hint": {
-        "en": "Look at the second paragraph on Page 102.",
-        "hi": "पृष्ठ 102 पर दूसरा पैराग्राफ देखें।"
+        "en": "You interact directly with the empty space at the page edges.",
+        "hi": "आप पृष्ठ के किनारों पर खाली स्थान के साथ सीधे इंटरैक्ट करते हैं।"
       },
       "explanation": {
-        "en": "Page 102 states: 'The simplest way is to double click on the top or bottom of the page and the header and footer area will appear.'",
-        "hi": "पृष्ठ 102 बताता है: 'सबसे सरल तरीका पृष्ठ के ऊपर या नीचे डबल क्लिक करना है और हेडर और फुटर क्षेत्र दिखाई देगा।'"
+        "en": "The simplest way is to double click on the top or bottom of the page and the header and footer area will appear.[cite: 1]",
+        "hi": "सबसे सरल तरीका पृष्ठ के ऊपर या नीचे डबल क्लिक करना है और हेडर और फुटर क्षेत्र दिखाई देगा।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "Double-clicking the margin boundary instantly toggles the contextual Header and Footer design mode.",
-        "hi": "मार्जिन सीमा पर डबल-क्लिक करने से प्रासंगिक हेडर और फुटर डिज़ाइन मोड तुरंत सक्रिय हो जाता है।"
+        "en": "Double-clicking the margin instantly toggles the background header/footer editing mode.",
+        "hi": "मार्जिन पर डबल-क्लिक करने से पृष्ठभूमि हेडर/फुटर संपादन मोड तुरंत चालू हो जाता है।"
       }
     },
     {
       "question_id": 37,
       "question": {
-        "en": "[Topic: 3.10 Header and Footer Tools, Page 102] After typing text inside the header or footer area, what must you click to exit and return to the main document body?",
-        "hi": "[विषय: 3.10 हेडर और फुटर टूल्स, पृष्ठ 102] हेडर या फुटर क्षेत्र के अंदर टेक्स्ट टाइप करने के बाद, बाहर निकलने और मुख्य दस्तावेज़ बॉडी पर लौटने के लिए आपको क्या क्लिक करना होगा?",
+        "en": "[Topic: 3.11 Page Number, Page 104] Which ribbon tab contains the 'Page Number' option to add numbering to your document?",
+        "hi": "[विषय: 3.11 पेज नंबर, पृष्ठ 104] आपके दस्तावेज़ में नंबर जोड़ने के लिए किस रिबन टैब में 'पेज नंबर' विकल्प होता है?"
       },
       "options": {
         "a": {
-          "en": "The red 'Exit Windows' button on the Windows Taskbar",
-          "hi": "विंडोज टास्कबार पर लाल 'Exit Windows' बटन"
+          "en": "Insert tab",
+          "hi": "इंसर्ट टैब (Insert tab)"
         },
         "b": {
-          "en": "'Close Header and Footer' on the Design tab",
-          "hi": "डिज़ाइन टैब पर 'Close Header and Footer' ('हेडर और फुटर बंद करें')"
+          "en": "Home tab",
+          "hi": "होम टैब (Home tab)"
         },
         "c": {
-          "en": "The 'Format Font' option in the Home tab clipboard group",
-          "hi": "होम टैब क्लिपबोर्ड समूह में 'Format Font' विकल्प"
+          "en": "Page Layout tab",
+          "hi": "पेज लेआउट टैब (Page Layout tab)"
         },
         "d": {
-          "en": "The 'New Document' button in the Quick Access Toolbar",
-          "hi": "क्विक एक्सेस टूलबार में 'New Document' बटन"
+          "en": "Review tab",
+          "hi": "रिव्यू टैब (Review tab)"
         }
       },
-      "correct_option": "b",
+      "correct_option": "a",
       "hint": {
-        "en": "Read the note and step (iv) on Page 102.",
-        "hi": "पृष्ठ 102 पर नोट और चरण (iv) पढ़ें।"
+        "en": "You are 'inserting' a new element into the page.",
+        "hi": "आप पृष्ठ में एक नया तत्व 'सम्मिलित' (insert) कर रहे हैं।"
       },
       "explanation": {
-        "en": "Page 102 specifies: 'To return to the body of your document, click Close Header and Footer on the Design tab (under Header & Footer Tools).' (Or double-click the document body).",
-        "hi": "पृष्ठ 102 निर्दिष्ट करता है: 'अपने दस्तावेज़ के मुख्य भाग में लौटने के लिए, डिज़ाइन टैब पर (हेडर और फुटर टूल्स के अंतर्गत) Close Header and Footer पर क्लिक करें।'"
+        "en": "On the Insert tab, in the Header & Footer group, you can click Page Number to add it to your document.[cite: 1]",
+        "hi": "इंसर्ट टैब पर, हेडर और फुटर समूह में, आप इसे अपने दस्तावेज़ में जोड़ने के लिए पेज नंबर पर क्लिक कर सकते हैं।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "Closing the Header and Footer design pane restores standard typing focus to the document text.",
-        "hi": "हेडर और फुटर डिज़ाइन फलक को बंद करने से दस्तावेज़ पाठ पर मानक टाइपिंग फ़ोकस पुनर्स्थापित हो जाता है।"
+        "en": "The Insert tab organizes all injectible elements like images, shapes, and page numbers.",
+        "hi": "इंसर्ट टैब चित्र, आकार और पृष्ठ संख्या जैसे सभी सम्मिलित करने योग्य तत्वों को व्यवस्थित करता है।"
       }
     },
     {
       "question_id": 38,
       "question": {
-        "en": "[Topic: 3.11 Page Numbering, Page 104] Under which main Ribbon Tab and Group is the 'Page Number' command located in MS Word?",
-        "hi": "[विषय: 3.11 पृष्ठ क्रमांकन, पृष्ठ 104] MS Word में 'Page Number' (पृष्ठ संख्या) कमांड किस मुख्य रिबन टैब और समूह के अंतर्गत स्थित है?",
+        "en": "[Topic: 3.12 Spelling & Grammar Check, Page 78 & 105] How does MS Word visually indicate that a typed word is spelled incorrectly?",
+        "hi": "[विषय: 3.12 स्पेलिंग और ग्रामर चेक, पृष्ठ 78 और 105] MS Word कैसे दृष्टिगत रूप से इंगित करता है कि टाइप किया गया शब्द गलत लिखा गया है?"
       },
       "options": {
         "a": {
-          "en": "Review Tab -> Proofing Group",
-          "hi": "Review टैब -> Proofing समूह"
+          "en": "It highlights the text in yellow",
+          "hi": "यह टेक्स्ट को पीले रंग में हाइलाइट करता है"
         },
         "b": {
-          "en": "Home Tab -> Clipboard Group",
-          "hi": "Home टैब -> Clipboard समूह"
+          "en": "It puts a colorful line under the incorrect words",
+          "hi": "यह गलत शब्दों के नीचे एक रंगीन लाइन लगाता है"
         },
         "c": {
-          "en": "Insert Tab -> Header & Footer Group",
-          "hi": "Insert टैब -> Header & Footer समूह"
+          "en": "It automatically deletes the word",
+          "hi": "यह स्वचालित रूप से शब्द को हटा देता है"
         },
         "d": {
-          "en": "Page Layout Tab -> Page Setup Group",
-          "hi": "Page Layout टैब -> Page Setup समूह"
+          "en": "It changes the font size to be very large",
+          "hi": "यह फ़ॉन्ट का आकार बहुत बड़ा कर देता है"
         }
       },
-      "correct_option": "c",
+      "correct_option": "b",
       "hint": {
-        "en": "Look under section 3.11.1 'Adding Page Numbers' on Page 104.",
-        "hi": "पृष्ठ 104 पर अनुभाग 3.11.1 'Adding Page Numbers' के अंतर्गत देखें।"
+        "en": "It draws a wavy indicator beneath the text.",
+        "hi": "यह टेक्स्ट के नीचे एक लहरदार संकेतक खींचता है।"
       },
       "explanation": {
-        "en": "Page 104 outlines step (i): 'On the Insert tab, in the Header & Footer group, click Page Number.'",
-        "hi": "पृष्ठ 104 चरण (i) को रेखांकित करता है: 'Insert टैब पर, Header & Footer समूह में, Page Number पर क्लिक करें।'"
+        "en": "MS Word provides a facility to check the spelling of words. It puts a colorful line under the words that are incorrect.[cite: 1]",
+        "hi": "MS Word शब्दों की वर्तनी जाँचने की सुविधा प्रदान करता है। यह उन शब्दों के नीचे एक रंगीन रेखा खींचता है जो गलत हैं।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "Automated page numbering resides alongside headers and footers in the Insert tab.",
-        "hi": "स्वचालित पृष्ठ क्रमांकन Insert टैब में हेडर और फुटर के साथ रहता है।"
+        "en": "Red or colorful wavy underlines serve as real-time spelling error indicators.",
+        "hi": "लाल या रंगीन लहरदार रेखांकन वास्तविक समय की वर्तनी त्रुटि संकेतक के रूप में कार्य करते हैं।"
       }
     },
     {
       "question_id": 39,
       "question": {
-        "en": "[Topic: 3.12 Using Grammar and Spell Check Utility, Page 105] Under which Ribbon Tab can you locate the 'Spelling & Grammar' checking utility button in MS Word?",
-        "hi": "[विषय: 3.12 व्याकरण और वर्तनी जाँच उपयोगिता, पृष्ठ 105] MS Word में आप किस रिबन टैब के अंतर्गत 'स्पेलिंग और ग्रामर' (Spelling & Grammar) जाँच उपयोगिता बटन पा सकते हैं?",
+        "en": "[Topic: 3.12 Using Grammar and Spell Check, Page 105] Which ribbon menu tab must you click to find the 'Spelling & Grammar' button?",
+        "hi": "[विषय: 3.12 ग्रामर और स्पेल चेक का उपयोग करना, पृष्ठ 105] 'Spelling & Grammar' बटन खोजने के लिए आपको किस रिबन मेनू टैब पर क्लिक करना होगा?"
       },
       "options": {
         "a": {
-          "en": "Review Tab",
-          "hi": "रिव्यू टैब (Review Tab)"
+          "en": "Home tab",
+          "hi": "होम टैब (Home tab)"
         },
         "b": {
-          "en": "View Tab",
-          "hi": "व्यू टैब (View Tab)"
+          "en": "Page Layout tab",
+          "hi": "पेज लेआउट टैब (Page Layout tab)"
         },
         "c": {
-          "en": "Page Layout Tab",
-          "hi": "पेज लेआउट टैब (Page Layout Tab)"
+          "en": "Review tab",
+          "hi": "रिव्यू टैब (Review tab)"
         },
         "d": {
-          "en": "Mailings Tab",
-          "hi": "मेलिंग्स टैब (Mailings Tab)"
+          "en": "View tab",
+          "hi": "व्यू टैब (View tab)"
         }
       },
-      "correct_option": "a",
+      "correct_option": "c",
       "hint": {
-        "en": "Refer to step 1 and the screenshot on Page 105.",
-        "hi": "पृष्ठ 105 पर चरण 1 और स्क्रीनशॉट देखें।"
+        "en": "Checking for errors is part of the 'reviewing' process.",
+        "hi": "त्रुटियों की जाँच करना 'समीक्षा' (reviewing) प्रक्रिया का हिस्सा है।"
       },
       "explanation": {
-        "en": "Page 105 explicitly lists step 1 and 2: '1. Click the Review tab on menu bar. 2. Click Spelling or Spelling & Grammar.'",
-        "hi": "पृष्ठ 105 स्पष्ट रूप से चरण 1 और 2 को सूचीबद्ध करता है: '1. मेनू बार पर Review टैब पर क्लिक करें। 2. Spelling या Spelling & Grammar पर क्लिक करें।'"
+        "en": "To check spelling, click the Review tab on the menu bar, then click Spelling or Spelling & Grammar.[cite: 1]",
+        "hi": "वर्तनी की जाँच करने के लिए, मेनू बार पर रिव्यू (Review) टैब पर क्लिक करें, फिर स्पेलिंग या स्पेलिंग और ग्रामर पर क्लिक करें।[cite: 1]"
       },
       "key_takeaway": {
-        "en": "The Review tab houses linguistic and proofing engines such as Spelling & Grammar and Word Count.",
-        "hi": "Review टैब में वर्तनी और व्याकरण और शब्द गणना जैसे भाषाई और प्रूफ़िंग इंजन होते हैं।"
+        "en": "The Review tab acts as the central hub for proofing tools like spell check and word count.",
+        "hi": "रिव्यू टैब स्पेल चेक और वर्ड काउंट जैसे प्रूफ़िंग टूल के लिए केंद्रीय हब के रूप में कार्य करता है।"
       }
     },
     {
       "question_id": 40,
       "question": {
-        "en": "[Topic: 3.12 Spell Check / Just Remember, Page 78, 105] How does MS Word visually alert the user to potential spelling mistakes while typing text in a document?",
-        "hi": "[विषय: 3.12 वर्तनी जाँच / याद रखें, पृष्ठ 78, 105] किसी दस्तावेज़ में टेक्स्ट टाइप करते समय MS Word उपयोगकर्ता को संभावित वर्तनी की गलतियों (spelling mistakes) के प्रति दृष्टिगत रूप से कैसे सचेत करता है?",
+        "en": "[Topic: Just Remember Summary, Page 107] According to the summary, which tool at the bottom of the window is used to increase or decrease the viewing area size?",
+        "hi": "[विषय: सारांश याद रखें, पृष्ठ 107] सारांश के अनुसार, विंडो के निचले भाग में किस टूल का उपयोग देखने के क्षेत्र (viewing area) के आकार को बढ़ाने या घटाने के लिए किया जाता है?"
       },
       "options": {
         "a": {
-          "en": "It emits an audible warning beep through the internal speaker",
-          "hi": "यह आंतरिक स्पीकर के माध्यम से एक श्रव्य चेतावनी बीप उत्सर्जित करता है"
+          "en": "Status Bar",
+          "hi": "स्टेटस बार (Status Bar)"
         },
         "b": {
-          "en": "It automatically deletes the entire typed paragraph immediately",
-          "hi": "यह तुरंत पूरे टाइप किए गए पैराग्राफ को स्वचालित रूप से हटा देता है"
+          "en": "Dialog Box Launcher",
+          "hi": "डायलॉग बॉक्स लॉन्चर (Dialog Box Launcher)"
         },
         "c": {
-          "en": "It puts a colorful wavy line under the incorrect words",
-          "hi": "यह गलत शब्दों के नीचे एक रंगीन लहरदार (wavy) रेखा खींच देता है"
+          "en": "Scroll Bar",
+          "hi": "स्क्रॉल बार (Scroll Bar)"
         },
         "d": {
-          "en": "It locks the keyboard until the operating system restarts",
-          "hi": "यह ऑपरेटिंग सिस्टम के पुनरारंभ होने तक कीबोर्ड को लॉक कर देता है"
+          "en": "Zoom Slider",
+          "hi": "ज़ूम स्लाइडर (Zoom Slider)"
         }
       },
-      "correct_option": "c",
+      "correct_option": "d",
       "hint": {
-        "en": "Read feature 12 on Page 78.",
-        "hi": "पृष्ठ 78 पर सुविधा 12 पढ़ें।"
+        "en": "It slides left to zoom out and right to zoom in.",
+        "hi": "यह ज़ूम आउट करने के लिए बाईं ओर और ज़ूम इन करने के लिए दाईं ओर स्लाइड करता है।"
       },
       "explanation": {
-        "en": "Page 78 specifies: '12. MS Word provides a facility to check the spelling of words. It puts a colorful line under the words that are incorrect.'",
-        "hi": "पृष्ठ 78 निर्दिष्ट करता है: '12. MS Word शब्दों की वर्तनी जाँचने की सुविधा प्रदान करता है। यह उन शब्दों के नीचे एक रंगीन रेखा खींचता है जो गलत हैं।'"
+        "en": "The summary explicitly notes: 'The Zoom Slider increases or decreases the viewing area.'[cite: 1]",
+        "hi": "सारांश स्पष्ट रूप से बताता है: 'ज़ूम स्लाइडर देखने के क्षेत्र को बढ़ाता या घटाता है।'[cite: 1]"
       },
       "key_takeaway": {
-        "en": "Underline marks (such as red wavy lines) provide real-time visual alerts for misspelled words against the dictionary.",
-        "hi": "अंडरलाइन निशान (जैसे लाल लहरदार रेखाएं) शब्दकोश के विरुद्ध गलत वर्तनी वाले शब्दों के लिए वास्तविक समय में दृश्य अलर्ट प्रदान करते हैं।"
+        "en": "The Zoom Slider dynamically scales the document's visual interface for easier reading.",
+        "hi": "ज़ूम स्लाइडर आसान पढ़ने के लिए दस्तावेज़ के दृश्य इंटरफ़ेस को गतिशील रूप से मापता है।"
       }
     }
   ]
