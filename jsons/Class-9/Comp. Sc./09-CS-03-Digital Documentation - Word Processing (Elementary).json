@@ -15,7 +15,9 @@
     "is_valid": true,
     "checked_by": "Expert CS Teacher AI",
     "checked_at": "2026-09-09T12:35:00Z",
-    "corrections": [],
+    "corrections": [
+      "Removed trailing comma after question.hi in Question 6"
+    ],
     "notes": "Verified that all 40 questions flow sequentially from Page 71 to Page 108 of Unit 3, strictly balancing options to exactly 10 A's, 10 B's, 10 C's, and 10 D's."
   },
   "questions": [
@@ -175,7 +177,7 @@
       "question_id": 5,
       "question": {
         "en": "[Topic: 3.1 Parts of MS Word Window, Page 74] What default temporary filename is assigned by Microsoft Word to the very first newly created document?",
-        "hi": "[विषय: 3.1 एमएस वर्ड विंडो के भाग, पृष्ठ 74] Microsoft Word द्वारा सबसे पहले बनाए गए नए दस्तावेज़ को कौन सा डिफ़ॉल्ट अस्थायी फ़ाइल नाम दिया जाता है?"
+        "hi": "[विषय: 3.1 एमएस वर्ड विंडो के भाग, पृष्ठ 74] Microsoft Word द्वारा सबसे पहले बनाए गए नए दस्तावेज़ को कौन सा डिफ़ॉल्ट अस्थायी फ़ाइल नाम दिया जाता है?",
       },
       "options": {
         "a": {
@@ -213,7 +215,7 @@
       "question_id": 6,
       "question": {
         "en": "[Topic: 3.1 Parts of MS Word Window, Page 74-75] How did newer versions of Microsoft Word structurally replace the traditional drop-down menu system of MS Word 2003?",
-        "hi": "[विषय: 3.1 एमएस वर्ड विंडो के भाग, पृष्ठ 74-75] Microsoft Word के नए संस्करणों ने संरचनात्मक रूप से MS Word 2003 के पारंपरिक ड्रॉप-डाउन मेनू सिस्टम को कैसे बदल दिया?",
+        "hi": "[विषय: 3.1 एमएस वर्ड विंडो के भाग, पृष्ठ 74-75] Microsoft Word के नए संस्करणों ने संरचनात्मक रूप से MS Word 2003 के पारंपरिक ड्रॉप-डाउन मेनू सिस्टम को कैसे बदल दिया?"
       },
       "options": {
         "a": {
@@ -251,7 +253,7 @@
       "question_id": 7,
       "question": {
         "en": "[Topic: 3.1 Parts of MS Word Window, Page 75] What is the small icon found at the bottom-right corner of many Ribbon groups that opens a window with additional advanced settings called?",
-        "hi": "[विषय: 3.1 एमएस वर्ड विंडो के भाग, पृष्ठ 75] कई रिबन समूहों के निचले-दाएं कोने में पाया जाने वाला छोटा आइकन क्या कहलाता है जो अतिरिक्त उन्नत सेटिंग्स वाली एक विंडो खोलता है?",
+        "hi": "[विषय: 3.1 एमएस वर्ड विंडो के भाग, पृष्ठ 75] कई रिबन समूहों के निचले-दाएं कोने में पाया जाने वाला छोटा आइकन क्या कहलाता है जो अतिरिक्त उन्नत सेटिंग्स वाली एक विंडो खोलता है?"
       },
       "options": {
         "a": {
@@ -289,7 +291,7 @@
       "question_id": 8,
       "question": {
         "en": "[Topic: 3.1 Parts of MS Word Window, Page 75] What is the blinking vertical line located in the text area that indicates where newly typed characters will appear called?",
-        "hi": "[विषय: 3.1 एमएस वर्ड विंडो के भाग, पृष्ठ 75] टेक्स्ट क्षेत्र में स्थित वह ब्लिंक करने वाली लंबवत रेखा क्या कहलाती है जो यह दर्शाती है कि नए टाइप किए गए वर्ण कहाँ दिखाई देंगे?",
+        "hi": "[विषय: 3.1 एमएस वर्ड विंडो के भाग, पृष्ठ 75] टेक्स्ट क्षेत्र में स्थित वह ब्लिंक करने वाली लंबवत रेखा क्या कहलाती है जो यह दर्शाती है कि नए टाइप किए गए वर्ण कहाँ दिखाई देंगे?"
       },
       "options": {
         "a": {
