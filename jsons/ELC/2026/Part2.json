@@ -1,0 +1,776 @@
+{
+  "metadata": {
+    "exam_title": "ELC Quiz Competitions 2026: Bilingual Question Bank (Part 2)",
+    "exam_title_hindi": "निर्वाचक साक्षरता क्लब (ELC) प्रश्नोत्तरी प्रतियोगिता 2026: द्विभाषी प्रश्न बैंक (भाग 2)",
+    "target_class": "School & College ELC Members",
+    "total_questions_in_section": 20,
+    "question_range": "Q21 to Q40",
+    "themes_covered": "EVM & VVPAT, Polling Process",
+    "source_language": "en",
+    "target_language": "hi",
+    "version": "1.0",
+    "note": "Part 2 of 4. Contains exactly 20 questions with perfectly balanced options (5 A, 5 B, 5 C, 5 D). Explanations and statutory acts derived from the official ECI Reference Key."
+  },
+  "questions": [
+    {
+      "question_id": 21,
+      "question": {
+        "en": "[Q21] What powers the ECI-EVM at the polling station?",
+        "hi": "[प्र.21] मतदान केंद्र पर ECI-EVM को ऊर्जा (बिजली) किससे मिलती है?"
+      },
+      "options": {
+        "a": {
+          "en": "Its own battery power pack",
+          "hi": "इसके अपने बैटरी पावर पैक से"
+        },
+        "b": {
+          "en": "Mains electricity",
+          "hi": "मुख्य बिजली आपूर्ति (Mains electricity) से"
+        },
+        "c": {
+          "en": "Solar panel",
+          "hi": "सोलर पैनल से"
+        },
+        "d": {
+          "en": "Generator",
+          "hi": "जनरेटर से"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It is designed to operate seamlessly in remote areas without relying on grid power.",
+        "hi": "इसे ग्रिड पावर पर निर्भर किए बिना दूरदराज के क्षेत्रों में निर्बाध रूप से काम करने के लिए डिज़ाइन किया गया है।"
+      },
+      "explanation": {
+        "en": "EVMs run on an internal alkaline battery power pack (7.5V for Control Unit and 22.5V for VVPAT), enabling reliable polling even in remote areas without electricity[cite: 58, 76].",
+        "hi": "ईवीएम एक आंतरिक क्षारीय बैटरी पावर पैक (कंट्रोल यूनिट के लिए 7.5V और वीवीपैट के लिए 22.5V) पर चलती है, जिससे बिना बिजली वाले दूरदराज के क्षेत्रों में भी विश्वसनीय मतदान संभव होता है[cite: 58, 76]।"
+      },
+      "key_takeaway": {
+        "en": "EVMs operate strictly on battery power, ensuring they are not susceptible to power cuts or external electrical interference.",
+        "hi": "ईवीएम पूरी तरह से बैटरी पावर पर काम करती हैं, जिससे बिजली कटौती या बाहरी विद्युत हस्तक्षेप का कोई खतरा नहीं रहता।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "[Q22] What is the minimum number of votes cast in a mock poll at each polling station before actual polling?",
+        "hi": "[प्र.22] वास्तविक मतदान शुरू होने से पहले प्रत्येक मतदान केंद्र पर दिखावटी मतदान (Mock Poll) में डाले जाने वाले मतों की न्यूनतम संख्या क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "10",
+          "hi": "10"
+        },
+        "b": {
+          "en": "50",
+          "hi": "50"
+        },
+        "c": {
+          "en": "25",
+          "hi": "25"
+        },
+        "d": {
+          "en": "100",
+          "hi": "100"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It requires exactly half a century of test votes.",
+        "hi": "इसमें परीक्षण के लिए ठीक 50 वोटों की आवश्यकता होती है।"
+      },
+      "explanation": {
+        "en": "At least 50 votes must be cast across all contesting candidates (including NOTA) during the mock poll 90 minutes before actual polling begins, in the presence of polling agents[cite: 59, 76].",
+        "hi": "वास्तविक मतदान शुरू होने से 90 मिनट पहले मतदान अभिकर्ताओं की उपस्थिति में मॉक पोल के दौरान (NOTA सहित) सभी उम्मीदवारों के लिए कम से कम 50 वोट डाले जाने अनिवार्य हैं[cite: 59, 76]।"
+      },
+      "key_takeaway": {
+        "en": "The 50-vote minimum tests the machine's accuracy across all candidate buttons.",
+        "hi": "50-वोट की न्यूनतम सीमा सभी उम्मीदवार बटनों पर मशीन की सटीकता का परीक्षण करती है।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "[Q23] Why is randomisation of EVMs done before elections?",
+        "hi": "[प्र.23] चुनाव से पहले ईवीएम (EVM) का रैंडमाइजेशन (यादृच्छिकीकरण) क्यों किया जाता है?"
+      },
+      "options": {
+        "a": {
+          "en": "To save time",
+          "hi": "समय बचाने के लिए"
+        },
+        "b": {
+          "en": "To reduce cost",
+          "hi": "लागत कम करने के लिए"
+        },
+        "c": {
+          "en": "So nobody can know in advance which EVM goes to which constituency or polling station",
+          "hi": "ताकि कोई भी पहले से यह न जान सके कि कौन-सी ईवीएम किस निर्वाचन क्षेत्र या मतदान केंद्र पर जाएगी"
+        },
+        "d": {
+          "en": "To test battery life",
+          "hi": "बैटरी की अवधि की जाँच करने के लिए"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It breaks any predictable pattern of machine deployment.",
+        "hi": "यह मशीन की तैनाती के किसी भी पूर्व-निर्धारित पैटर्न को तोड़ता है।"
+      },
+      "explanation": {
+        "en": "Software-driven randomisation ensures complete unpredictability in machine allocation, preventing any pre-determined placement of specific EVMs at specific booths[cite: 59, 76].",
+        "hi": "सॉफ्टवेयर-संचालित रैंडमाइजेशन मशीन आवंटन में पूर्ण अप्रत्याशितता सुनिश्चित करता है, जिससे किसी विशिष्ट बूथ पर किसी विशिष्ट ईवीएम की पूर्व-निर्धारित तैनाती की संभावना समाप्त हो जाती है[cite: 59, 76]।"
+      },
+      "key_takeaway": {
+        "en": "Randomisation is a core security protocol preventing targeted tampering of EVMs.",
+        "hi": "रैंडमाइजेशन ईवीएम से लक्षित छेड़छाड़ को रोकने वाला एक मुख्य सुरक्षा प्रोटोकॉल है।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "[Q24] How many levels of randomisation are done for allotting EVMs?",
+        "hi": "[प्र.24] ईवीएम (EVM) आवंटित करने के लिए कितने स्तरों पर रैंडमाइजेशन किया जाता है?"
+      },
+      "options": {
+        "a": {
+          "en": "One",
+          "hi": "एक"
+        },
+        "b": {
+          "en": "Three",
+          "hi": "तीन"
+        },
+        "c": {
+          "en": "None",
+          "hi": "कोई नहीं"
+        },
+        "d": {
+          "en": "Two, first to Assembly Constituency, then to polling station",
+          "hi": "दो, पहले विधानसभा निर्वाचन क्षेत्र के लिए, और फिर मतदान केंद्र के लिए"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "The process happens in two distinct stages.",
+        "hi": "यह प्रक्रिया दो अलग-अलग चरणों में होती है।"
+      },
+      "explanation": {
+        "en": "EVMs undergo two-stage randomisation in the presence of political party representatives: first from the district warehouse to Assembly Constituencies, and second from the AC to specific polling stations[cite: 59, 76].",
+        "hi": "राजनीतिक दलों के प्रतिनिधियों की उपस्थिति में ईवीएम का दो-चरणीय रैंडमाइजेशन होता है: पहले जिला गोदाम से विधानसभा क्षेत्रों को, और दूसरे विधानसभा क्षेत्र से विशिष्ट मतदान केंद्रों को आवंटन[cite: 59, 76]।"
+      },
+      "key_takeaway": {
+        "en": "Two-level randomisation ensures both macro and micro unpredictability.",
+        "hi": "द्वि-स्तरीय रैंडमाइजेशन बड़े और छोटे दोनों स्तरों पर अप्रत्याशितता सुनिश्चित करता है।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "[Q25] By Supreme Court order of 2019, VVPAT slips of how many randomly selected polling stations per Assembly segment must be counted?",
+        "hi": "[प्र.25] सर्वोच्च न्यायालय के 2019 के आदेश के अनुसार, प्रति विधानसभा क्षेत्र में यादृच्छिक रूप से चुने गए कितने मतदान केंद्रों की वीवीपैट पर्चियों की गिनती अनिवार्य है?"
+      },
+      "options": {
+        "a": {
+          "en": "5",
+          "hi": "5"
+        },
+        "b": {
+          "en": "1",
+          "hi": "1"
+        },
+        "c": {
+          "en": "3",
+          "hi": "3"
+        },
+        "d": {
+          "en": "10",
+          "hi": "10"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "The Supreme Court increased the sample size to five stations to enhance confidence.",
+        "hi": "सर्वोच्च न्यायालय ने विश्वास बढ़ाने के लिए नमूने का आकार बढ़ाकर 5 केंद्र कर दिया था।"
+      },
+      "explanation": {
+        "en": "In April 2019, the Supreme Court of India mandated physical counting of VVPAT slips from 5 randomly selected polling stations per Assembly Constituency/segment to cross-verify EVM results[cite: 60, 76].",
+        "hi": "अप्रैल 2019 में, भारत के सर्वोच्च न्यायालय ने ईवीएम परिणामों के क्रॉस-सत्यापन के लिए प्रति विधानसभा क्षेत्र में यादृच्छिक रूप से चुने गए 5 मतदान केंद्रों की वीवीपैट पर्चियों की भौतिक गणना अनिवार्य की थी[cite: 60, 76]।"
+      },
+      "key_takeaway": {
+        "en": "The mandatory 5-booth VVPAT slip count provides a statistically robust cross-check of electronic results.",
+        "hi": "5 बूथों की अनिवार्य वीवीपैट पर्ची गणना इलेक्ट्रॉनिक परिणामों की सांख्यिकीय रूप से मजबूत जाँच प्रदान करती है।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "[Q26] What is the main purpose of First-Level Checking (FLC) of EVMs?",
+        "hi": "[प्र.26] ईवीएम की प्रथम स्तर की जाँच (FLC) का मुख्य उद्देश्य क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "To train polling agents",
+          "hi": "मतदान अभिकर्ताओं को प्रशिक्षित करना"
+        },
+        "b": {
+          "en": "To check the functionality and suitability of machines for election use",
+          "hi": "चुनाव में उपयोग के लिए मशीनों की कार्यक्षमता और उपयुक्तता की जाँच करना"
+        },
+        "c": {
+          "en": "To count votes before polling",
+          "hi": "मतदान से पहले मतों की गिनती करना"
+        },
+        "d": {
+          "en": "To finalise election results",
+          "hi": "चुनाव परिणामों को अंतिम रूप देना"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is an engineering check to ensure the machines are error-free and fully functional before deployment.",
+        "hi": "यह सुनिश्चित करने के लिए एक इंजीनियरिंग जाँच है कि मशीनें तैनाती से पहले त्रुटि रहित और पूरी तरह कार्यात्मक हैं।"
+      },
+      "explanation": {
+        "en": "First-Level Checking (FLC) is conducted well before elections by authorised engineers from BEL/ECIL in the presence of political party representatives to certify every machine's hardware and switches[cite: 60, 77].",
+        "hi": "प्रथम स्तर की जाँच (FLC) चुनाव से काफी पहले राजनीतिक दलों के प्रतिनिधियों की उपस्थिति में BEL/ECIL के अधिकृत इंजीनियरों द्वारा प्रत्येक मशीन के हार्डवेयर और स्विच को प्रमाणित करने के लिए की जाती है[cite: 60, 77]।"
+      },
+      "key_takeaway": {
+        "en": "FLC is the baseline technical audit that clears an EVM for democratic use.",
+        "hi": "FLC वह आधारभूत तकनीकी ऑडिट है जो लोकतांत्रिक उपयोग के लिए ईवीएम को मंजूरी देता है।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "[Q27] Which features were introduced in M3 EVMs?",
+        "hi": "[प्र.27] M3 मॉडल की ईवीएम में कौन-सी विशेषताएँ शामिल की गई हैं?"
+      },
+      "options": {
+        "a": {
+          "en": "Internet connectivity and GPS",
+          "hi": "इंटरनेट कनेक्टिविटी और जीपीएस"
+        },
+        "b": {
+          "en": "Fingerprint scanner",
+          "hi": "फिंगरप्रिंट स्कैनर"
+        },
+        "c": {
+          "en": "Tamper detection and self-diagnostics",
+          "hi": "छेड़छाड़ का पता लगाना (Tamper detection) और स्व-निदान (Self-diagnostics)"
+        },
+        "d": {
+          "en": "Wireless printing",
+          "hi": "वायरलेस प्रिंटिंग"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It includes hardware safeguards that shut the machine down if anyone tries to open it.",
+        "hi": "इसमें ऐसे हार्डवेयर सुरक्षा उपाय शामिल हैं जो किसी के भी इसे खोलने की कोशिश करने पर मशीन को बंद कर देते हैं।"
+      },
+      "explanation": {
+        "en": "Mark-3 (M3) EVMs feature advanced hardware security: if anyone attempts to open the casing, the machine enters a tamper-detect mode and becomes inoperable, alongside built-in self-diagnostics[cite: 60, 77].",
+        "hi": "मार्क-3 (M3) ईवीएम में उन्नत हार्डवेयर सुरक्षा है: यदि कोई आवरण खोलने का प्रयास करता है, तो मशीन 'टैम्पर-डिटेक्ट' मोड में चली जाती है और निष्क्रिय हो जाती है, साथ ही इसमें अंतर्निहित स्व-निदान (Self-diagnostics) भी है[cite: 60, 77]।"
+      },
+      "key_takeaway": {
+        "en": "The M3 generation brought automated self-defense mechanisms (tamper-detect) to EVMs.",
+        "hi": "M3 पीढ़ी ने ईवीएम में स्वचालित आत्मरक्षा तंत्र (टैम्पर-डिटेक्ट) पेश किया।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "[Q28] On which finger is indelible ink normally applied before a voter votes?",
+        "hi": "[प्र.28] मतदाता द्वारा वोट डालने से पहले सामान्यतः किस उंगली पर अमिट स्याही (Indelible Ink) लगाई जाती है?"
+      },
+      "options": {
+        "a": {
+          "en": "Right thumb",
+          "hi": "दायाँ अंगूठा"
+        },
+        "b": {
+          "en": "Right forefinger",
+          "hi": "दाएँ हाथ की तर्जनी उंगली"
+        },
+        "c": {
+          "en": "Left thumb",
+          "hi": "बायाँ अंगूठा"
+        },
+        "d": {
+          "en": "Left forefinger",
+          "hi": "बाएँ हाथ की तर्जनी उंगली"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "The index finger of the left hand.",
+        "hi": "बाएँ हाथ की पहली उंगली (तर्जनी)।"
+      },
+      "explanation": {
+        "en": "Under Rule 49K of the Conduct of Elections Rules, 1961, indelible silver-nitrate ink is applied as a line from the skin above the nail to the tip of the voter's left forefinger to prevent double voting[cite: 60, 77].",
+        "hi": "निर्वाचनों का संचालन नियम, 1961 के नियम 49K के तहत, दोहरे मतदान को रोकने के लिए मतदाता की बाईं तर्जनी उंगली के नाखून के ऊपर की त्वचा से सिरे तक अमिट सिल्वर नाइट्रेट स्याही की रेखा लगाई जाती है[cite: 60, 77]।"
+      },
+      "key_takeaway": {
+        "en": "Applying ink on the left forefinger is a standard statutory safeguard against impersonation.",
+        "hi": "बाईं तर्जनी पर स्याही लगाना प्रतिरूपण के खिलाफ एक मानक वैधानिक सुरक्षा उपाय है।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "[Q29] What is the primary role of Polling Agents appointed by candidates on polling day?",
+        "hi": "[प्र.29] मतदान के दिन उम्मीदवारों द्वारा नियुक्त मतदान अभिकर्ताओं (Polling Agents) की प्राथमिक भूमिका क्या होती है?"
+      },
+      "options": {
+        "a": {
+          "en": "To observe the polling process and help ensure that prescribed procedures are followed",
+          "hi": "मतदान प्रक्रिया का अवलोकन करना और यह सुनिश्चित करने में मदद करना कि निर्धारित प्रक्रियाओं का पालन हो रहा है"
+        },
+        "b": {
+          "en": "To operate EVMs on behalf of voters",
+          "hi": "मतदाताओं की ओर से ईवीएम संचालित करना"
+        },
+        "c": {
+          "en": "To prepare and modify the electoral roll",
+          "hi": "निर्वाचक नामावली तैयार करना और संशोधित करना"
+        },
+        "d": {
+          "en": "To declare the election results",
+          "hi": "चुनाव परिणाम घोषित करना"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "They act as authorized observers inside the booth for their respective candidates.",
+        "hi": "वे अपने संबंधित उम्मीदवारों के लिए बूथ के अंदर अधिकृत पर्यवेक्षकों के रूप में कार्य करते हैं।"
+      },
+      "explanation": {
+        "en": "Polling agents act as watchdogs inside the polling station—witnessing mock polls, sealing of EVMs, voter identification, and close of poll—ensuring transparency[cite: 60, 77].",
+        "hi": "मतदान अभिकर्ता मतदान केंद्र के अंदर प्रहरी के रूप में कार्य करते हैं- मॉक पोल, ईवीएम की सीलिंग, मतदाता पहचान और मतदान समाप्ति के साक्षी बनकर पारदर्शिता सुनिश्चित करते हैं[cite: 60, 77]।"
+      },
+      "key_takeaway": {
+        "en": "Polling Agents provide participatory oversight, maintaining the integrity of booth operations.",
+        "hi": "मतदान एजेंट सहभागी निगरानी प्रदान करते हैं, जिससे बूथ संचालन की अखंडता बनी रहती है।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "[Q30] What happens to voters already in the queue at the closing time of polling?",
+        "hi": "[प्र.30] मतदान समाप्त होने के निर्धारित समय पर कतार में पहले से खड़े मतदाताओं के साथ क्या किया जाता है?"
+      },
+      "options": {
+        "a": {
+          "en": "They must return the next day",
+          "hi": "उन्हें अगले दिन वापस आना होगा"
+        },
+        "b": {
+          "en": "They are given slips and allowed to vote as per the prescribed procedure",
+          "hi": "उन्हें पर्चियाँ दी जाती हैं और निर्धारित प्रक्रिया के अनुसार मतदान करने की अनुमति दी जाती है"
+        },
+        "c": {
+          "en": "They are turned away",
+          "hi": "उन्हें वापस भेज दिया जाता है"
+        },
+        "d": {
+          "en": "Only senior citizens may vote",
+          "hi": "केवल वरिष्ठ नागरिक ही मतदान कर सकते हैं"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "No voter who arrived on time is denied their right to vote.",
+        "hi": "समय पर पहुंचने वाले किसी भी मतदाता को मतदान के अधिकार से वंचित नहीं किया जाता है।"
+      },
+      "explanation": {
+        "en": "All voters standing in line at the official closing hour are issued numbered slips from the end of the queue backwards by the Presiding Officer and are allowed to vote before the poll closes[cite: 61, 77].",
+        "hi": "आधिकारिक समापन समय पर कतार में खड़े सभी मतदाताओं को पीठासीन अधिकारी द्वारा कतार के अंतिम छोर से पीछे की ओर क्रमांकित पर्चियाँ दी जाती हैं और मतदान बंद होने से पहले उन्हें वोट डालने दिया जाता है[cite: 61, 77]।"
+      },
+      "key_takeaway": {
+        "en": "Distributing slips from the back of the queue prevents latecomers from joining while guaranteeing the franchise of those already present.",
+        "hi": "कतार के पीछे से पर्चियां बांटने से देर से आने वालों को शामिल होने से रोका जा सकता है, जबकि पहले से मौजूद लोगों के मताधिकार की गारंटी होती है।"
+      }
+    },
+    {
+      "question_id": 31,
+      "question": {
+        "en": "[Q31] What is the general maximum number of electors permitted at a polling station under ECI's revised norms?",
+        "hi": "[प्र.31] भारत निर्वाचन आयोग के संशोधित मानदंडों के तहत एक मतदान केंद्र पर अनुमत मतदाताओं की सामान्य अधिकतम संख्या क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "1,000",
+          "hi": "1,000"
+        },
+        "b": {
+          "en": "1,500",
+          "hi": "1,500"
+        },
+        "c": {
+          "en": "1,200",
+          "hi": "1,200"
+        },
+        "d": {
+          "en": "2,000",
+          "hi": "2,000"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It was revised downwards from 1,500 to ensure faster voting.",
+        "hi": "तेजी से मतदान सुनिश्चित करने के लिए इसे 1,500 से घटाकर नया आंकड़ा तय किया गया था।"
+      },
+      "explanation": {
+        "en": "To reduce queue waiting times and enhance voter convenience, ECI revised the rationalisation norm to cap the maximum number of electors per polling station at 1,200[cite: 61, 77].",
+        "hi": "कतार में प्रतीक्षा समय को कम करने और मतदाता सुविधा बढ़ाने के लिए, भारत निर्वाचन आयोग ने प्रति मतदान केंद्र मतदाताओं की अधिकतम संख्या 1,200 निर्धारित करने के मानदंड को संशोधित किया है[cite: 61, 77]।"
+      },
+      "key_takeaway": {
+        "en": "Rationalising polling stations to 1,200 voters prevents overcrowding.",
+        "hi": "मतदान केंद्रों को 1,200 मतदाताओं तक सीमित करने से भीड़भाड़ रुकती है।"
+      }
+    },
+    {
+      "question_id": 32,
+      "question": {
+        "en": "[Q32] At the end of polling, who is entitled to the prescribed copy of Form 17C Part 1 (Account of Votes Recorded)?",
+        "hi": "[प्र.32] मतदान समाप्त होने पर फॉर्म 17C भाग 1 (अभिलिखित मतों का लेखा) की निर्धारित प्रति प्राप्त करने का हकदार कौन होता है?"
+      },
+      "options": {
+        "a": {
+          "en": "The general public",
+          "hi": "आम जनता"
+        },
+        "b": {
+          "en": "Only local police",
+          "hi": "केवल स्थानीय पुलिस"
+        },
+        "c": {
+          "en": "Only the media",
+          "hi": "केवल मीडिया"
+        },
+        "d": {
+          "en": "Polling agents of the contesting candidates present at the polling station at Close of Poll",
+          "hi": "मतदान समाप्ति के समय मतदान केंद्र पर उपस्थित चुनाव लड़ने वाले उम्मीदवारों के मतदान अभिकर्ता"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "It acts as a receipt for the political representatives to verify total turnout.",
+        "hi": "यह राजनीतिक प्रतिनिधियों के लिए कुल मतदान को सत्यापित करने के लिए एक रसीद के रूप में कार्य करता है।"
+      },
+      "explanation": {
+        "en": "Under Rule 49S of the Conduct of Elections Rules, 1961, the Presiding Officer must furnish an attested copy of Form 17C Part-I (recording total votes polled) to every polling agent present at close of poll[cite: 61, 77].",
+        "hi": "निर्वाचनों का संचालन नियम, 1961 के नियम 49S के तहत, पीठासीन अधिकारी को मतदान समाप्ति पर उपस्थित प्रत्येक मतदान अभिकर्ता को फॉर्म 17C भाग-1 (डाले गए कुल मतों का लेखा) की सत्यापित प्रति देनी होती है[cite: 61, 77]।"
+      },
+      "key_takeaway": {
+        "en": "Form 17C empowers candidates' agents to verify the total votes counted later against the exact turnout recorded on polling day.",
+        "hi": "फॉर्म 17C उम्मीदवारों के एजेंटों को बाद में गिने गए कुल मतों का मतदान के दिन दर्ज सटीक आंकड़ों से मिलान करने का अधिकार देता है।"
+      }
+    },
+    {
+      "question_id": 33,
+      "question": {
+        "en": "[Q33] What changes have been introduced in EVM ballot papers to help voters identify candidates more easily?",
+        "hi": "[प्र.33] मतदाताओं को उम्मीदवारों की पहचान अधिक आसानी से करने में मदद करने के लिए ईवीएम मतपत्रों (Ballot Papers) में क्या बदलाव किए गए हैं?"
+      },
+      "options": {
+        "a": {
+          "en": "Colour photographs of candidates, bold serial numbers and larger, uniform fonts",
+          "hi": "उम्मीदवारों की रंगीन तस्वीरें, मोटे (बोल्ड) क्रम संख्यांक और बड़े, एकसमान फॉन्ट"
+        },
+        "b": {
+          "en": "Candidates' names have been replaced with symbols",
+          "hi": "उम्मीदवारों के नामों को चुनाव चिह्नों से बदल दिया गया है"
+        },
+        "c": {
+          "en": "Candidates are arranged according to their age",
+          "hi": "उम्मीदवारों को उनकी आयु के अनुसार व्यवस्थित किया गया है"
+        },
+        "d": {
+          "en": "Only the names of political parties are displayed",
+          "hi": "केवल राजनीतिक दलों के नाम प्रदर्शित किए जाते हैं"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "These visual aids prevent confusion when two candidates have similar names.",
+        "hi": "ये दृश्य सहायक सामग्री तब भ्रम को रोकती हैं जब दो उम्मीदवारों के नाम एक जैसे होते हैं।"
+      },
+      "explanation": {
+        "en": "ECI introduced colour photographs of candidates alongside bold serial numbers and larger, uniform fonts on EVM ballot papers to prevent confusion among voters when candidates share similar names[cite: 61, 77].",
+        "hi": "समान नाम वाले उम्मीदवारों के बीच मतदाताओं के भ्रम को रोकने के लिए भारत निर्वाचन आयोग ने ईवीएम मतपत्रों पर मोटे क्रम संख्यांक और बड़े, एकसमान फॉन्ट के साथ उम्मीदवारों की रंगीन तस्वीरें शुरू की हैं[cite: 61, 77]।"
+      },
+      "key_takeaway": {
+        "en": "Adding color photos to Ballot Units directly targets the issue of namesake 'dummy' candidates.",
+        "hi": "बैलेट यूनिटों में रंगीन तस्वीरें जोड़ना सीधे तौर पर समान नाम वाले 'डमी' उम्मीदवारों की समस्या का समाधान करता है।"
+      }
+    },
+    {
+      "question_id": 34,
+      "question": {
+        "en": "[Q34] What is the purpose of the mobile-phone deposit facility introduced at polling stations?",
+        "hi": "[प्र.34] मतदान केंद्रों पर शुरू की गई मोबाइल फोन जमा सुविधा का उद्देश्य क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "To allow voters to use their phones inside the voting compartment",
+          "hi": "मतदाताओं को मतदान प्रकोष्ठ के अंदर अपने फोन का उपयोग करने की अनुमति देना"
+        },
+        "b": {
+          "en": "To allow voters to safely deposit their mobile phones outside the polling station and collect them after voting, while maintaining secrecy of voting",
+          "hi": "मतदान की गोपनीयता बनाए रखते हुए मतदाताओं को मतदान केंद्र के बाहर अपने मोबाइल फोन सुरक्षित रूप से जमा करने और मतदान के बाद उन्हें वापस लेने की सुविधा देना"
+        },
+        "c": {
+          "en": "To enable polling officials to verify voters' mobile-phone records",
+          "hi": "मतदान अधिकारियों को मतदाताओं के मोबाइल-फोन रिकॉर्ड सत्यापित करने में सक्षम बनाना"
+        },
+        "d": {
+          "en": "To allow voters to photograph their votes before leaving the polling station",
+          "hi": "मतदान केंद्र छोड़ने से पहले मतदाताओं को अपने वोट की तस्वीर लेने की अनुमति देना"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Phones are banned inside to stop voters from photographing their vote; the deposit safeguards their device.",
+        "hi": "मतदाताओं को अपने वोट की तस्वीर लेने से रोकने के लिए फोन अंदर प्रतिबंधित हैं; जमा सुविधा उनके डिवाइस की सुरक्षा करती है।"
+      },
+      "explanation": {
+        "en": "Mobile phones are banned inside polling stations to protect secrecy of voting; pigeonhole deposit racks outside polling stations allow voters to keep their phones safely while casting their vote[cite: 62, 78].",
+        "hi": "मतदान की गोपनीयता की रक्षा के लिए मतदान केंद्रों के अंदर मोबाइल फोन प्रतिबंधित हैं; मतदान केंद्रों के बाहर जमा रैक मतदाताओं को वोट डालते समय अपने फोन सुरक्षित रखने की सुविधा देते हैं[cite: 62, 78]।"
+      },
+      "key_takeaway": {
+        "en": "The mobile deposit facility protects the secrecy of the ballot while solving the voter's logistical problem of phone storage.",
+        "hi": "मोबाइल जमा सुविधा गुप्त मतदान की रक्षा करती है और साथ ही मतदाता की फोन रखने की व्यावहारिक समस्या को हल करती है।"
+      }
+    },
+    {
+      "question_id": 35,
+      "question": {
+        "en": "[Q35] Which form must eligible electors submit to request the home-voting facility?",
+        "hi": "[प्र.35] पात्र मतदाताओं को घर से मतदान (Home-Voting) की सुविधा का अनुरोध करने के लिए कौन-सा फॉर्म जमा करना होता है?"
+      },
+      "options": {
+        "a": {
+          "en": "Form 6",
+          "hi": "फॉर्म 6"
+        },
+        "b": {
+          "en": "Form 8",
+          "hi": "फॉर्म 8"
+        },
+        "c": {
+          "en": "Form 12D",
+          "hi": "फॉर्म 12D"
+        },
+        "d": {
+          "en": "Form 17C",
+          "hi": "फॉर्म 17C"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "This form specifically pertains to absentee/postal ballot requests.",
+        "hi": "यह फॉर्म विशेष रूप से अनुपस्थित/डाक मतपत्र अनुरोधों से संबंधित है।"
+      },
+      "explanation": {
+        "en": "Eligible senior citizens (85+) and Persons with Benchmark Disabilities (40%+) apply using Form 12D within 5 days of election notification to opt for postal ballot voting from home[cite: 62, 78].",
+        "hi": "पात्र वरिष्ठ नागरिक (85+) और बेंचमार्क दिव्यांगजन (40%+) घर से डाक मतपत्र द्वारा मतदान का विकल्प चुनने के लिए चुनाव अधिसूचना के 5 दिनों के भीतर फॉर्म 12D का उपयोग करके आवेदन करते हैं[cite: 62, 78]।"
+      },
+      "key_takeaway": {
+        "en": "Form 12D unlocks the postal ballot absentee voting facility for vulnerable voters.",
+        "hi": "फॉर्म 12D कमजोर वर्ग के मतदाताओं के लिए डाक मतपत्र सुविधा का लाभ देता है।"
+      }
+    },
+    {
+      "question_id": 36,
+      "question": {
+        "en": "[Q36] Which categories of electors are eligible for the optional home-voting facility?",
+        "hi": "[प्र.36] वैकल्पिक घर से मतदान (Home-Voting) सुविधा के लिए मतदाताओं की कौन-सी श्रेणियाँ पात्र हैं?"
+      },
+      "options": {
+        "a": {
+          "en": "All electors aged 60 years and above",
+          "hi": "60 वर्ष और उससे अधिक आयु के सभी मतदाता"
+        },
+        "b": {
+          "en": "All first-time voters and government employees",
+          "hi": "सभी पहली बार मतदान करने वाले मतदाता और सरकारी कर्मचारी"
+        },
+        "c": {
+          "en": "All electors living more than 2 km from a polling station",
+          "hi": "मतदान केंद्र से 2 किमी से अधिक दूरी पर रहने वाले सभी मतदाता"
+        },
+        "d": {
+          "en": "Electors aged 85 years and above and eligible Persons with Benchmark Disabilities (PwDs)",
+          "hi": "85 वर्ष और उससे अधिक आयु के मतदाता तथा पात्र बेंचमार्क दिव्यांगजन (PwDs)"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "It is reserved exclusively for the very elderly (recently changed to 85+) and voters with significant certified disabilities.",
+        "hi": "यह विशेष रूप से बहुत बुजुर्गों (हाल ही में 85+ में बदला गया) और महत्वपूर्ण प्रमाणित विकलांगता वाले मतदाताओं के लिए आरक्षित है।"
+      },
+      "explanation": {
+        "en": "ECI provides the optional home-voting facility via mobile polling teams (with videography and political party agents) to electors aged 85+ and Persons with Benchmark Disabilities (PwDs)[cite: 62, 78].",
+        "hi": "भारत निर्वाचन आयोग 85 वर्ष से अधिक आयु के मतदाताओं और बेंचमार्क दिव्यांगजनों (PwDs) को (वीडियोग्राफी और राजनीतिक दलों के एजेंटों के साथ) मोबाइल मतदान टीमों के माध्यम से वैकल्पिक घर-मतदान सुविधा प्रदान करता है[cite: 62, 78]।"
+      },
+      "key_takeaway": {
+        "en": "Raising the senior citizen age threshold to 85 years for home voting rationalized the process for the most vulnerable.",
+        "hi": "घर से मतदान के लिए वरिष्ठ नागरिक आयु सीमा को 85 वर्ष करने से प्रक्रिया सबसे जरूरतमंद लोगों के लिए सुव्यवस्थित हो गई।"
+      }
+    },
+    {
+      "question_id": 37,
+      "question": {
+        "en": "[Q37] What is done after the mock poll?",
+        "hi": "[प्र.37] दिखावटी मतदान (Mock Poll) के बाद क्या किया जाता है?"
+      },
+      "options": {
+        "a": {
+          "en": "The result is cleared from the Control Unit and mock-poll VVPAT slips are removed, stamped and sealed separately",
+          "hi": "कंट्रोल यूनिट से परिणाम हटाया (Clear) जाता है और मॉक-पोल की वीवीपैट पर्चियों को निकालकर, मुहर लगाकर अलग से सील कर दिया जाता है"
+        },
+        "b": {
+          "en": "Mock votes are added to the count",
+          "hi": "मॉक वोटों को वास्तविक गिनती में जोड़ दिया जाता है"
+        },
+        "c": {
+          "en": "The EVM is replaced",
+          "hi": "ईवीएम को बदल दिया जाता है"
+        },
+        "d": {
+          "en": "Nothing is done",
+          "hi": "कुछ नहीं किया जाता है"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "The machine must be completely reset to zero before real voting can commence.",
+        "hi": "वास्तविक मतदान शुरू होने से पहले मशीन को पूरी तरह से शून्य पर रीसेट किया जाना चाहिए।"
+      },
+      "explanation": {
+        "en": "After verifying mock poll results, the Presiding Officer presses the 'CLEAR' button on the Control Unit to erase mock votes, removes all mock VVPAT slips, stamps them 'MOCK POLL SLIP', and seals them in a black envelope[cite: 63, 78].",
+        "hi": "मॉक पोल परिणामों के सत्यापन के बाद, पीठासीन अधिकारी मॉक वोट मिटाने के लिए कंट्रोल यूनिट पर 'CLEAR' बटन दबाता है, सभी मॉक वीवीपैट पर्चियाँ निकालता है, उन पर 'MOCK POLL SLIP' की मुहर लगाता है और उन्हें काले लिफाफे में सील करता है[cite: 63, 78]।"
+      },
+      "key_takeaway": {
+        "en": "Clearing the Control Unit and sealing mock VVPAT slips guarantees no fake test votes mix with actual voter ballots.",
+        "hi": "कंट्रोल यूनिट को क्लियर करना और मॉक वीवीपैट पर्चियों को सील करना सुनिश्चित करता है कि कोई भी परीक्षण वोट वास्तविक मतों के साथ न मिले।"
+      }
+    },
+    {
+      "question_id": 38,
+      "question": {
+        "en": "[Q38] What happens if a Polling Agent formally challenges an elector's identity at a polling station?",
+        "hi": "[प्र.38] यदि कोई मतदान अभिकर्ता (Polling Agent) मतदान केंद्र पर किसी मतदाता की पहचान को औपचारिक रूप से चुनौती देता है तो क्या होता है?"
+      },
+      "options": {
+        "a": {
+          "en": "The Polling Agent can immediately cancel the elector's registration",
+          "hi": "मतदान अभिकर्ता तुरंत मतदाता का पंजीकरण रद्द कर सकता है"
+        },
+        "b": {
+          "en": "The Presiding Officer conducts a summary inquiry under the prescribed procedure and decides whether the elector may vote",
+          "hi": "पीठासीन अधिकारी निर्धारित प्रक्रिया के तहत संक्षिप्त जाँच करता है और निर्णय लेता है कि मतदाता मतदान कर सकता है या नहीं"
+        },
+        "c": {
+          "en": "The elector is automatically prohibited from voting without inquiry",
+          "hi": "बिना किसी जाँच के मतदाता को स्वतः मतदान करने से रोक दिया जाता है"
+        },
+        "d": {
+          "en": "The Returning Officer must immediately order a re-poll",
+          "hi": "रिटर्निंग अधिकारी को तुरंत पुनर्मतदान का आदेश देना होगा"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The official in charge of the booth pays attention to a ₹2 challenge fee and makes a quick factual assessment.",
+        "hi": "बूथ का प्रभारी अधिकारी ₹2 की चुनौती शुल्क लेकर तत्काल तथ्यात्मक जाँच करता है।"
+      },
+      "explanation": {
+        "en": "Under Rule 36 of the Conduct of Elections Rules, 1961, upon payment of a nominal challenge fee (Rs 2), the Presiding Officer conducts an on-the-spot summary inquiry into the elector's identity and rules accordingly[cite: 63, 78].",
+        "hi": "निर्वाचनों का संचालन नियम, 1961 के नियम 36 के तहत, नाममात्र चुनौती शुल्क (₹2) के भुगतान पर, पीठासीन अधिकारी मतदाता की पहचान की मौके पर संक्षिप्त जाँच करता है और तदनुसार निर्णय लेता है[cite: 63, 78]।"
+      },
+      "key_takeaway": {
+        "en": "The 'Challenged Vote' protocol empowers agents to contest fake voters while requiring the Presiding Officer to act as an immediate judge.",
+        "hi": "'चुनौतीपूर्ण मत' प्रोटोकॉल एजेंटों को फर्जी मतदाताओं का विरोध करने का अधिकार देता है और पीठासीन अधिकारी को तत्काल न्यायाधीश की भूमिका सौंपता है।"
+      }
+    },
+    {
+      "question_id": 39,
+      "question": {
+        "en": "[Q39] Which initiative aims to minimise discrepancies between provisional and final voter turnout figures?",
+        "hi": "[प्र.39] किस पहल का उद्देश्य अनंतिम (Provisional) और अंतिम मतदान प्रतिशत के आंकड़ों के बीच की विसंगतियों को कम करना है?"
+      },
+      "options": {
+        "a": {
+          "en": "Mandatory counting of all VVPAT slips",
+          "hi": "सभी वीवीपैट पर्चियों की अनिवार्य गिनती"
+        },
+        "b": {
+          "en": "Publication of voter turnout only after counting",
+          "hi": "केवल मतगणना के बाद मतदान प्रतिशत का प्रकाशन"
+        },
+        "c": {
+          "en": "Direct reporting of voter turnout by Presiding Officers on ECINET every two hours, with a final update after polling closes",
+          "hi": "पीठासीन अधिकारियों द्वारा प्रत्येक दो घंटे में ECINET पर मतदान प्रतिशत की सीधी रिपोर्टिंग, तथा मतदान समाप्त होने के बाद अंतिम अद्यतन"
+        },
+        "d": {
+          "en": "Automatic calculation of turnout by EVMs",
+          "hi": "ईवीएम द्वारा मतदान प्रतिशत की स्वतः गणना"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Removing middlemen and uploading data straight from the booth ensures accurate real-time transparency.",
+        "hi": "बिचौलियों को हटाकर सीधे बूथ से डेटा अपलोड करने से रीयल-टाइम पारदर्शिता सुनिश्चित होती है।"
+      },
+      "explanation": {
+        "en": "Direct two-hourly reporting by Presiding Officers on the ECINET system eliminates manual relay delays and ensures accurate real-time alignment between provisional and final turnout data[cite: 63, 78].",
+        "hi": "ECINET प्रणाली पर पीठासीन अधिकारियों द्वारा प्रत्येक दो घंटे में सीधी रिपोर्टिंग मैन्युअल देरी को समाप्त करती है और अनंतिम तथा अंतिम मतदान आंकड़ों के बीच सटीक वास्तविक समय का तालमेल सुनिश्चित करती है[cite: 63, 78]।"
+      },
+      "key_takeaway": {
+        "en": "Direct digital reporting by Presiding Officers on ECINET eliminates errors caused by manual transmission chains.",
+        "hi": "ECINET पर पीठासीन अधिकारियों द्वारा सीधी डिजिटल रिपोर्टिंग मैन्युअल संचार के कारण होने वाली त्रुटियों को दूर करती है।"
+      }
+    },
+    {
+      "question_id": 40,
+      "question": {
+        "en": "[Q40] Which safeguards protect polled EVMs and VVPATs in strong rooms?",
+        "hi": "[प्र.40] स्ट्रांग रूम में मतदान की गई ईवीएम और वीवीपैट की सुरक्षा के लिए कौन-से सुरक्षा उपाय किए जाते हैं?"
+      },
+      "options": {
+        "a": {
+          "en": "Storage under the supervision of polling agents only",
+          "hi": "केवल मतदान अभिकर्ताओं की देखरेख में भंडारण"
+        },
+        "b": {
+          "en": "A single lock with security during office hours",
+          "hi": "कार्यालय समय के दौरान सुरक्षा के साथ एकल ताला"
+        },
+        "c": {
+          "en": "Storage in the Returning Officer's office without additional security",
+          "hi": "बिना अतिरिक्त सुरक्षा के रिटर्निंग अधिकारी के कार्यालय में भंडारण"
+        },
+        "d": {
+          "en": "Double locks, round-the-clock two-tier security, CCTV and provision for candidates' representatives to keep watch",
+          "hi": "दोहरे ताले, चौबीसों घंटे दो-स्तरीय सुरक्षा, सीसीटीवी और उम्मीदवारों के प्रतिनिधियों के लिए निगरानी रखने का प्रावधान"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Security is multi-layered, continuous, and transparent to the candidates.",
+        "hi": "सुरक्षा बहुस्तरीय, निरंतर और उम्मीदवारों के लिए पारदर्शी होती है।"
+      },
+      "explanation": {
+        "en": "Polled EVMs are stored in strong rooms sealed with double locks, guarded 24x7 by Central Armed Police Forces (inner cordon) and State Police (outer cordon), monitored by CCTV, with live feeds accessible to candidates' agents[cite: 63, 78].",
+        "hi": "मतदान की गई ईवीएम को दोहरे तालों से सील स्ट्रांग रूम में रखा जाता है, जिसकी 24x7 सुरक्षा केंद्रीय सशस्त्र पुलिस बल (आंतरिक घेरा) और राज्य पुलिस (बाहरी घेरा) द्वारा की जाती है, सीसीटीवी से निगरानी होती है और उम्मीदवारों के एजेंटों को लाइव फीड उपलब्ध कराई जाती है[cite: 63, 78]।"
+      },
+      "key_takeaway": {
+        "en": "The multi-tier strong room security protocol entirely removes the possibility of post-poll EVM manipulation.",
+        "hi": "बहुस्तरीय स्ट्रांग रूम सुरक्षा प्रोटोकॉल मतदान के बाद ईवीएम में हेरफेर की संभावना को पूरी तरह से समाप्त कर देता है।"
+      }
+    }
+  ]
+}
