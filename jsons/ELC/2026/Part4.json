@@ -1,0 +1,776 @@
+{
+  "metadata": {
+    "exam_title": "ELC Quiz Competitions 2026: Bilingual Question Bank (Part 4)",
+    "exam_title_hindi": "निर्वाचक साक्षरता क्लब (ELC) प्रश्नोत्तरी प्रतियोगिता 2026: द्विभाषी प्रश्न बैंक (भाग 4)",
+    "target_class": "School & College ELC Members",
+    "total_questions_in_section": 20,
+    "question_range": "Q61 to Q80",
+    "themes_covered": "ECI History, EVM Accessibility, Voter Services & Polling Day Protocols",
+    "source_language": "en",
+    "target_language": "hi",
+    "version": "1.0",
+    "note": "Part 4 of 4. Completes the 80-question ECI ELC Quiz Bank (Q61-Q80 from the 29-page School-Level Bank). Options are perfectly balanced (5 A, 5 B, 5 C, 5 D)."
+  },
+  "questions": [
+    {
+      "question_id": 61,
+      "question": {
+        "en": "[Q61] Who was the first Chief Election Commissioner (CEC) of independent India?",
+        "hi": "[प्र.61] स्वतंत्र भारत के प्रथम मुख्य निर्वाचन आयुक्त (CEC) कौन थे?"
+      },
+      "options": {
+        "a": {
+          "en": "T. N. Seshan",
+          "hi": "टी. एन. शेषन"
+        },
+        "b": {
+          "en": "Sukumar Sen",
+          "hi": "सुकुमार सेन"
+        },
+        "c": {
+          "en": "K. V. K. Sundaram",
+          "hi": "के. वी. के. सुंदरम"
+        },
+        "d": {
+          "en": "S. Y. Quraishi",
+          "hi": "एस. वाई. कुरैशी"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Served from March 1950 to December 1958, overseeing India's first two General Elections.",
+        "hi": "मार्च 1950 से दिसंबर 1958 तक सेवा दी, और भारत के पहले दो आम चुनावों की देखरेख की।"
+      },
+      "explanation": {
+        "en": "Sukumar Sen served as the first Chief Election Commissioner of India from 21 March 1950 to 19 December 1958, successfully overseeing India's first two General Elections (1951-52 and 1957)[cite: 99].",
+        "hi": "सुकुमार सेन 21 मार्च 1950 से 19 दिसंबर 1958 तक भारत के प्रथम मुख्य निर्वाचन आयुक्त रहे, जिन्होंने भारत के पहले दो आम चुनावों (1951-52 और 1957) का सफलतापूर्वक संचालन किया[cite: 99]।"
+      },
+      "key_takeaway": {
+        "en": "Sukumar Sen laid the operational foundation for conducting massive democratic elections in independent India[cite: 99].",
+        "hi": "सुकुमार सेन ने स्वतंत्र भारत में विशाल लोकतांत्रिक चुनाव कराने की परिचालन नींव रखी[cite: 99]।"
+      }
+    },
+    {
+      "question_id": 62,
+      "question": {
+        "en": "[Q62] What is the maximum number of candidates (including NOTA) that can be accommodated on a single ECI-EVM Ballot Unit?",
+        "hi": "[प्र.62] एकल ECI-EVM बैलेट यूनिट (Ballot Unit) पर (NOTA सहित) अधिकतम कितने उम्मीदवारों को समायोजित किया जा सकता है?"
+      },
+      "options": {
+        "a": {
+          "en": "10",
+          "hi": "10"
+        },
+        "b": {
+          "en": "16",
+          "hi": "16"
+        },
+        "c": {
+          "en": "32",
+          "hi": "32"
+        },
+        "d": {
+          "en": "64",
+          "hi": "64"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Each Ballot Unit contains sixteen blue candidate buttons.",
+        "hi": "प्रत्येक बैलेट यूनिट में सोलह नीले उम्मीदवार बटन होते हैं।"
+      },
+      "explanation": {
+        "en": "Each Ballot Unit has 16 candidate buttons; the last button on the final Ballot Unit is reserved for NOTA[cite: 100].",
+        "hi": "प्रत्येक बैलेट यूनिट में 16 उम्मीदवार बटन होते हैं; अंतिम बैलेट यूनिट का आखिरी बटन NOTA के लिए आरक्षित होता है[cite: 100]।"
+      },
+      "key_takeaway": {
+        "en": "A single Ballot Unit holds up to 16 options, including NOTA on the final unit[cite: 100].",
+        "hi": "एकल बैलेट यूनिट में अंतिम इकाई पर NOTA सहित अधिकतम 16 विकल्प होते हैं[cite: 100]।"
+      }
+    },
+    {
+      "question_id": 63,
+      "question": {
+        "en": "[Q63] How many maximum Ballot Units can be linked together in an M3 ECI-EVM system?",
+        "hi": "[प्र.63] एक M3 ECI-EVM प्रणाली में अधिकतम कितनी बैलेट यूनिटों को एक साथ जोड़ा जा सकता है?"
+      },
+      "options": {
+        "a": {
+          "en": "4 Ballot Units (up to 64 candidates)",
+          "hi": "4 बैलेट यूनिट (64 उम्मीदवारों तक)"
+        },
+        "b": {
+          "en": "12 Ballot Units (up to 192 candidates)",
+          "hi": "12 बैलेट यूनिट (192 उम्मीदवारों तक)"
+        },
+        "c": {
+          "en": "24 Ballot Units (up to 384 candidates including NOTA)",
+          "hi": "24 बैलेट यूनिट (NOTA सहित 384 उम्मीदवारों तक)"
+        },
+        "d": {
+          "en": "2 Ballot Units (up to 32 candidates)",
+          "hi": "2 बैलेट यूनिट (32 उम्मीदवारों तक)"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Cascading 24 units of 16 buttons each accommodates 384 total choices.",
+        "hi": "प्रत्येक 16 बटनों वाली 24 इकाइयों को जोड़ने से कुल 384 विकल्प समायोजित होते हैं।"
+      },
+      "explanation": {
+        "en": "Up to 24 Ballot Units can be cascaded together in M3 EVMs, accommodating up to 384 candidates (including NOTA), compared to 4 Ballot Units (64 candidates) in older M2 models[cite: 100].",
+        "hi": "M3 ईवीएम में 24 बैलेट यूनिटों को एक साथ जोड़ा जा सकता है, जिससे (NOTA सहित) 384 उम्मीदवारों तक को समायोजित किया जा सकता है, जबकि पुराने M2 मॉडल में 4 बैलेट यूनिट (64 उम्मीदवार) की सीमा थी[cite: 100]।"
+      },
+      "key_takeaway": {
+        "en": "M3 EVMs scale up to 24 Ballot Units (384 candidates) to handle crowded constituencies[cite: 100].",
+        "hi": "अधिक उम्मीदवारों वाले निर्वाचन क्षेत्रों के लिए M3 ईवीएम में 24 बैलेट यूनिट (384 उम्मीदवार) तक जोड़े जा सकते हैं[cite: 100]।"
+      }
+    },
+    {
+      "question_id": 64,
+      "question": {
+        "en": "[Q64] Who is the grassroots election official responsible for house-to-house verification and helping voters at the polling booth level?",
+        "hi": "[प्र.64] मतदान केंद्र स्तर पर घर-घर सत्यापन और मतदाताओं की सहायता करने के लिए उत्तरदायी जमीनी स्तर का चुनाव अधिकारी कौन होता है?"
+      },
+      "options": {
+        "a": {
+          "en": "Returning Officer (RO)",
+          "hi": "रिटर्निंग अधिकारी (RO)"
+        },
+        "b": {
+          "en": "Booth Level Officer (BLO)",
+          "hi": "बूथ लेवल अधिकारी (BLO)"
+        },
+        "c": {
+          "en": "District Election Officer (DEO)",
+          "hi": "जिला निर्वाचन अधिकारी (DEO)"
+        },
+        "d": {
+          "en": "Sector Magistrate",
+          "hi": "सेक्टर मजिस्ट्रेट"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Appointed under Section 13B(2) of the RP Act, 1950 as the direct link between ECI and local households.",
+        "hi": "लोक प्रतिनिधित्व अधिनियम, 1950 की धारा 13B(2) के तहत ईसीआई और स्थानीय परिवारों के बीच प्रत्यक्ष कड़ी के रूप में नियुक्त।"
+      },
+      "explanation": {
+        "en": "Booth Level Officers (BLOs) are local government/semi-government officials appointed under Section 13B(2) of the RP Act, 1950 who serve as the vital link between the ECI and citizens at the polling part level[cite: 100].",
+        "hi": "बूथ लेवल अधिकारी (BLO) लोक प्रतिनिधित्व अधिनियम, 1950 की धारा 13B (2) के तहत नियुक्त स्थानीय सरकारी/अर्ध-सरकारी अधिकारी होते हैं जो मतदान भाग स्तर पर ईसीआई और नागरिकों के बीच महत्वपूर्ण कड़ी का काम करते हैं[cite: 100]।"
+      },
+      "key_takeaway": {
+        "en": "BLOs serve as the primary field interface for voter roll verification and Voter Information Slip delivery[cite: 100].",
+        "hi": "बीएलओ मतदाता सूची सत्यापन और मतदाता सूचना पर्ची वितरण के लिए प्राथमिक क्षेत्रीय कड़ी के रूप में कार्य करते हैं[cite: 100]।"
+      }
+    },
+    {
+      "question_id": 65,
+      "question": {
+        "en": "[Q65] What is the primary objective of setting up Electoral Literacy Clubs (ELCs) in schools and colleges?",
+        "hi": "[प्र.65] स्कूलों और कॉलेजों में निर्वाचक साक्षरता क्लब (ELCs) स्थापित करने का प्राथमिक उद्देश्य क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "To campaign for political parties among students",
+          "hi": "छात्रों के बीच राजनीतिक दलों के लिए प्रचार करना"
+        },
+        "b": {
+          "en": "To sensitise future and new voters about electoral rights, registration and the voting process through hands-on activities",
+          "hi": "व्यावहारिक गतिविधियों के माध्यम से भावी और नए मतदाताओं को चुनावी अधिकारों, पंजीकरण और मतदान प्रक्रिया के बारे में जागरूक करना"
+        },
+        "c": {
+          "en": "To conduct student union elections only",
+          "hi": "केवल छात्र संघ चुनाव आयोजित करना"
+        },
+        "d": {
+          "en": "To issue EPIC cards directly from schools",
+          "hi": "स्कूलों से सीधे ईपिक (EPIC) कार्ड जारी करना"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Engages Classes IX-XII (future voters) and college students (new voters) through experiential learning.",
+        "hi": "अनुभवात्मक शिक्षण के माध्यम से कक्षा 9-12 (भावी मतदाता) और कॉलेज के छात्रों (नए मतदाता) को जोड़ता है।"
+      },
+      "explanation": {
+        "en": "Electoral Literacy Clubs (ELCs) engage future voters (Classes IX-XII) and new voters (colleges) through interactive games, mock polls, and quizzes to build lifelong electoral awareness[cite: 100].",
+        "hi": "निर्वाचक साक्षरता क्लब (ELCs) आजीवन चुनावी जागरूकता पैदा करने के लिए संवादात्मक खेलों, मॉक पोल और प्रश्नोत्तरी के माध्यम से भावी मतदाताओं (कक्षा 9-12) और नए मतदाताओं (कॉलेज) को जोड़ते हैं[cite: 100]।"
+      },
+      "key_takeaway": {
+        "en": "ELCs foster democratic citizenship and informed voting habits among students[cite: 100].",
+        "hi": "ईएलसी छात्रों के बीच लोकतांत्रिक नागरिकता और सूचित मतदान की आदतों को बढ़ावा देते हैं[cite: 100]।"
+      }
+    },
+    {
+      "question_id": 66,
+      "question": {
+        "en": "[Q66] What special feature is provided on the EVM Ballot Unit to assist visually impaired electors in casting their vote independently?",
+        "hi": "[प्र.66] दृष्टिबाधित मतदाताओं को स्वतंत्र रूप से अपना वोट डालने में सहायता करने के लिए ईवीएम की बैलेट यूनिट पर क्या विशेष सुविधा प्रदान की गई है?"
+      },
+      "options": {
+        "a": {
+          "en": "Voice-activated voting",
+          "hi": "वॉयस एक्टिवेटेड मतदान"
+        },
+        "b": {
+          "en": "Touch-screen magnification",
+          "hi": "टच स्क्रीन आवर्धन"
+        },
+        "c": {
+          "en": "Braille signage beside the candidate buttons and a dummy Braille ballot sheet",
+          "hi": "उम्मीदवार के बटनों के बगल में ब्रेल लिपि में अंकन और एक डमी ब्रेल मतपत्र"
+        },
+        "d": {
+          "en": "Voting via mobile phone app",
+          "hi": "मोबाइल फोन ऐप के माध्यम से मतदान"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Tactile raised dots beside buttons allow secret, independent voting without needing a companion.",
+        "hi": "बटनों के बगल में उभरे हुए स्पर्शनीय बिंदु बिना किसी साथी की आवश्यकता के गुप्त और स्वतंत्र मतदान की अनुमति देते हैं।"
+      },
+      "explanation": {
+        "en": "Every Ballot Unit has embossed Braille serial numbers next to the blue candidate buttons, and Presiding Officers also provide a Braille-enabled dummy ballot sheet so visually impaired electors can vote secretly without a companion[cite: 100].",
+        "hi": "प्रत्येक बैलेट यूनिट पर नीले उम्मीदवार बटनों के बगल में उभरी हुई ब्रेल क्रम संख्याएँ होती हैं, और पीठासीन अधिकारी एक ब्रेल-सक्षम डमी मतपत्र भी प्रदान करते हैं ताकि दृष्टिबाधित मतदाता बिना किसी साथी के गुप्त रूप से मतदान कर सकें[cite: 100]।"
+      },
+      "key_takeaway": {
+        "en": "Braille markings uphold the right to a secret ballot for visually impaired voters[cite: 100].",
+        "hi": "ब्रेल अंकन दृष्टिबाधित मतदाताओं के लिए गुप्त मतदान के अधिकार को सुनिश्चित करते हैं[cite: 100]।"
+      }
+    },
+    {
+      "question_id": 67,
+      "question": {
+        "en": "[Q67] Which form is used by an Overseas (NRI) Indian citizen to apply for registration in the electoral roll?",
+        "hi": "[प्र.67] किसी प्रवासी (NRI) भारतीय नागरिक द्वारा निर्वाचक नामावली में पंजीकरण के लिए आवेदन करने हेतु किस फॉर्म का उपयोग किया जाता है?"
+      },
+      "options": {
+        "a": {
+          "en": "Form 6",
+          "hi": "फॉर्म 6"
+        },
+        "b": {
+          "en": "Form 7",
+          "hi": "फॉर्म 7"
+        },
+        "c": {
+          "en": "Form 6A",
+          "hi": "फॉर्म 6A"
+        },
+        "d": {
+          "en": "Form 12D",
+          "hi": "फॉर्म 12D"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Submitted under Section 20A of the RP Act, 1950 using the address listed in their Indian passport.",
+        "hi": "लोक प्रतिनिधित्व अधिनियम, 1950 की धारा 20A के तहत उनके भारतीय पासपोर्ट में दर्ज पते का उपयोग करके जमा किया जाता है।"
+      },
+      "explanation": {
+        "en": "Under Section 20A of the RP Act, 1950, an Indian citizen residing abroad who has not acquired foreign citizenship can register as an Overseas Elector at their Indian passport address using Form 6A[cite: 100].",
+        "hi": "लोक प्रतिनिधित्व अधिनियम, 1950 की धारा 20A के तहत, विदेश में रहने वाला कोई भी भारतीय नागरिक जिसने विदेशी नागरिकता नहीं ली है, फॉर्म 6A का उपयोग करके अपने भारतीय पासपोर्ट के पते पर प्रवासी मतदाता के रूप में पंजीकरण करा सकता है[cite: 100]।"
+      },
+      "key_takeaway": {
+        "en": "Form 6A enables non-resident Indian citizens to enrol as Overseas Electors[cite: 100].",
+        "hi": "फॉर्म 6A प्रवासी भारतीय नागरिकों को प्रवासी मतदाता के रूप में नामांकन करने में सक्षम बनाता है[cite: 100]।"
+      }
+    },
+    {
+      "question_id": 68,
+      "question": {
+        "en": "[Q68] Which of the following elections is NOT conducted by the Election Commission of India?",
+        "hi": "[प्र.68] निम्नलिखित में से कौन-सा चुनाव भारत निर्वाचन आयोग द्वारा आयोजित नहीं किया जाता है?"
+      },
+      "options": {
+        "a": {
+          "en": "Election to the Office of the President of India",
+          "hi": "भारत के राष्ट्रपति पद का चुनाव"
+        },
+        "b": {
+          "en": "Lok Sabha and State Legislative Assembly elections",
+          "hi": "लोकसभा और राज्य विधानसभा चुनाव"
+        },
+        "c": {
+          "en": "Panchayat and Municipal (Local Body) elections",
+          "hi": "पंचायत और नगरपालिका (स्थानीय निकाय) चुनाव"
+        },
+        "d": {
+          "en": "Rajya Sabha elections",
+          "hi": "राज्यसभा चुनाव"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Local body elections are supervised by independent State Election Commissions (SECs).",
+        "hi": "स्थानीय निकाय चुनावों की देखरेख स्वतंत्र राज्य निर्वाचन आयोगों (SECs) द्वारा की जाती है।"
+      },
+      "explanation": {
+        "en": "Elections to Panchayats and Municipalities (local bodies) are conducted by the respective State Election Commissions (SECs) under Articles 243K and 243ZA, whereas ECI conducts Parliament, State Assembly, Presidential, and Vice-Presidential elections[cite: 100].",
+        "hi": "पंचायतों और नगर पालिकाओं (स्थानीय निकायों) के चुनाव अनुच्छेद 243K और 243ZA के तहत संबंधित राज्य निर्वाचन आयोगों (SECs) द्वारा कराए जाते हैं, जबकि ECI संसद, राज्य विधानसभा, राष्ट्रपति और उपराष्ट्रपति के चुनाव कराता है[cite: 100]।"
+      },
+      "key_takeaway": {
+        "en": "State Election Commissions conduct local Panchayat/Municipal polls; ECI conducts national and state legislature polls[cite: 100].",
+        "hi": "राज्य निर्वाचन आयोग स्थानीय पंचायत/नगरपालिका चुनाव कराते हैं; ईसीआई राष्ट्रीय और राज्य विधानमंडल चुनाव कराता है[cite: 100]।"
+      }
+    },
+    {
+      "question_id": 69,
+      "question": {
+        "en": "[Q69] What is the minimum age required to contest an election to the Lok Sabha or a State Legislative Assembly in India?",
+        "hi": "[प्र.69] भारत में लोकसभा या राज्य विधानसभा का चुनाव लड़ने के लिए न्यूनतम आयु कितनी होनी चाहिए?"
+      },
+      "options": {
+        "a": {
+          "en": "18 years",
+          "hi": "18 वर्ष"
+        },
+        "b": {
+          "en": "21 years",
+          "hi": "21 वर्ष"
+        },
+        "c": {
+          "en": "25 years",
+          "hi": "25 वर्ष"
+        },
+        "d": {
+          "en": "30 years",
+          "hi": "30 वर्ष"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "18 is for voting, 21 is for Panchayats, 25 is for Lok Sabha/Vidhan Sabha, and 30 is for Rajya Sabha.",
+        "hi": "18 मतदान के लिए, 21 पंचायतों के लिए, 25 लोकसभा/विधानसभा के लिए, और 30 राज्यसभा के लिए है।"
+      },
+      "explanation": {
+        "en": "Under Articles 84(b) and 173(b) of the Constitution, a candidate must be at least 25 years old to contest Lok Sabha or State Legislative Assembly elections (and 30 years for Rajya Sabha or State Legislative Council)[cite: 100].",
+        "hi": "संविधान के अनुच्छेद 84 (b) और 173 (b) के तहत, लोकसभा या राज्य विधानसभा चुनाव लड़ने के लिए उम्मीदवार की आयु कम से कम 25 वर्ष होनी चाहिए (और राज्यसभा या विधान परिषद के लिए 30 वर्ष)[cite: 100]।"
+      },
+      "key_takeaway": {
+        "en": "Minimum candidacy age is 25 years for lower houses (Lok Sabha and Vidhan Sabha)[cite: 100].",
+        "hi": "निचले सदनों (लोकसभा और विधानसभा) के लिए न्यूनतम उम्मीदवारी आयु 25 वर्ष है[cite: 100]।"
+      }
+    },
+    {
+      "question_id": 70,
+      "question": {
+        "en": "[Q70] What is a 'By-election' (Bye-poll)?",
+        "hi": "[प्र. 70] 'उपचुनाव' (By-election) क्या होता है?"
+      },
+      "options": {
+        "a": {
+          "en": "A nationwide general election held every five years",
+          "hi": "हर पाँच साल में होने वाला राष्ट्रव्यापी आम चुनाव"
+        },
+        "b": {
+          "en": "An election held to fill a specific seat that has fallen vacant before the expiry of its normal term due to death, resignation or disqualification",
+          "hi": "मृत्यु, त्यागपत्र या अयोग्यता के कारण सामान्य कार्यकाल समाप्त होने से पहले रिक्त हुई किसी विशेष सीट को भरने के लिए कराया जाने वाला चुनाव"
+        },
+        "c": {
+          "en": "An election conducted only for Rajya Sabha members",
+          "hi": "केवल राज्यसभा सदस्यों के लिए आयोजित चुनाव"
+        },
+        "d": {
+          "en": "A mock election held in schools",
+          "hi": "स्कूलों में आयोजित होने वाला एक दिखावटी चुनाव"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Held within 6 months under Sections 149-151A of the RP Act, 1951 to fill a casual vacancy.",
+        "hi": "आकस्मिक रिक्ति को भरने के लिए लोक प्रतिनिधित्व अधिनियम, 1951 की धारा 149-151A के तहत 6 महीने के भीतर आयोजित किया जाता है।"
+      },
+      "explanation": {
+        "en": "Under Sections 149-151A of the RP Act, 1951, a by-election is held within 6 months to fill a casual vacancy arising in a House before the completion of its regular five-year term[cite: 101].",
+        "hi": "लोक प्रतिनिधित्व अधिनियम, 1951 की धारा 149-151A के तहत, किसी सदन का नियमित पाँच वर्ष का कार्यकाल पूरा होने से पहले उत्पन्न होने वाली आकस्मिक रिक्ति को भरने के लिए 6 महीने के भीतर उपचुनाव कराया जाता है[cite: 101]।"
+      },
+      "key_takeaway": {
+        "en": "By-elections fill mid-term casual vacancies within 6 months[cite: 101].",
+        "hi": "उपचुनाव मध्यावधि आकस्मिक रिक्तियों को 6 महीने के भीतर भरते हैं[cite: 101]।"
+      }
+    },
+    {
+      "question_id": 71,
+      "question": {
+        "en": "[Q71] What is the full form of VVPAT?",
+        "hi": "[प्र. 71] VVPAT का पूर्ण रूप क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "Voter Verified Paper Audit Trail",
+          "hi": "वोटर वेरिफाइड पेपर ऑडिट ट्रेल (Voter Verified Paper Audit Trail)"
+        },
+        "b": {
+          "en": "Voting Verification and Polling Audit Terminal",
+          "hi": "वोटिंग वेरिफिकेशन एंड पोलिंग ऑडिट टर्मिनल"
+        },
+        "c": {
+          "en": "Valid Vote Paper Account Tracking",
+          "hi": "वैलिड वोट पेपर अकाउंट ट्रैकिंग"
+        },
+        "d": {
+          "en": "Verified Voter Polling Slip Technology",
+          "hi": "वेरिफाइड वोटर पोलिंग स्लिप टेक्नोलॉजी"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "An independent printer attached to the EVM providing a physical paper trail for verification.",
+        "hi": "ईवीएम से जुड़ा एक स्वतंत्र प्रिंटर जो सत्यापन के लिए भौतिक कागजी रिकॉर्ड प्रदान करता है।"
+      },
+      "explanation": {
+        "en": "VVPAT stands for Voter Verified Paper Audit Trail, an independent verification printer attached to EVMs that generates a physical paper record of every vote cast[cite: 101].",
+        "hi": "VVPAT का पूर्ण रूप 'वोटर वेरिफाइड पेपर ऑडिट ट्रेल' है, जो ईवीएम से जुड़ा एक स्वतंत्र सत्यापन प्रिंटर है जो डाले गए प्रत्येक वोट का भौतिक कागजी रिकॉर्ड तैयार करता है[cite: 101]।"
+      },
+      "key_takeaway": {
+        "en": "VVPAT combines electronic speed with physical paper auditability[cite: 101].",
+        "hi": "वीवीपैट इलेक्ट्रॉनिक गति को भौतिक कागजी ऑडिटेबिलिटी के साथ जोड़ता है[cite: 101]।"
+      }
+    },
+    {
+      "question_id": 72,
+      "question": {
+        "en": "[Q72] What is 'Universal Adult Suffrage' as enshrined in Article 326 of the Constitution of India?",
+        "hi": "[प्र.72] भारतीय संविधान के अनुच्छेद 326 में निहित 'सार्वभौमिक वयस्क मताधिकार' (Universal Adult Suffrage) क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "Only taxpayers and graduates have the right to vote",
+          "hi": "केवल करदाताओं और स्नातकों को वोट देने का अधिकार है"
+        },
+        "b": {
+          "en": "Every citizen of India aged 18 years or above has the right to vote without discrimination based on caste, creed, religion, gender or wealth",
+          "hi": "18 वर्ष या उससे अधिक आयु के भारत के प्रत्येक नागरिक को जाति, पंथ, धर्म, लिंग या संपत्ति के भेदभाव के बिना मतदान करने का अधिकार है"
+        },
+        "c": {
+          "en": "Only employed citizens can register as electors",
+          "hi": "केवल रोजगार प्राप्त नागरिक ही मतदाता के रूप में पंजीकरण करा सकते हैं"
+        },
+        "d": {
+          "en": "Voting right is granted only to property owners",
+          "hi": "मतदान का अधिकार केवल संपत्ति के मालिकों को दिया जाता है"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Embodies the core democratic principle: 'One Person, One Vote, One Value'.",
+        "hi": "'एक व्यक्ति, एक वोट, एक मूल्य' के मूल लोकतांत्रिक सिद्धांत का प्रतीक है।"
+      },
+      "explanation": {
+        "en": "Article 326 guarantees Universal Adult Suffrage—the foundational democratic principle of 'One Person, One Vote, One Value'—for every adult Indian citizen aged 18 and above[cite: 101].",
+        "hi": "अनुच्छेद 326 18 वर्ष और उससे अधिक आयु के प्रत्येक वयस्क भारतीय नागरिक के लिए सार्वभौमिक वयस्क मताधिकार - 'एक व्यक्ति, एक वोट, एक मूल्य' के मूलभूत लोकतांत्रिक सिद्धांत- की गारंटी देता है[cite: 101]।"
+      },
+      "key_takeaway": {
+        "en": "Universal Adult Suffrage guarantees equal political voice to all adult citizens without discrimination[cite: 101].",
+        "hi": "सार्वभौमिक वयस्क मताधिकार बिना किसी भेदभाव के सभी वयस्क नागरिकों को समान राजनीतिक आवाज की गारंटी देता है[cite: 101]।"
+      }
+    },
+    {
+      "question_id": 73,
+      "question": {
+        "en": "[Q73] Which ECI mobile application allows voters to check candidate affidavits, criminal antecedents (if any), assets and educational qualifications?",
+        "hi": "[प्र.73] भारत निर्वाचन आयोग का कौन-सा मोबाइल ऐप मतदाताओं को उम्मीदवारों के शपथ पत्र (Affidavits), आपराधिक पृष्ठभूमि (यदि कोई हो), संपत्ति और शैक्षणिक योग्यता की जाँच करने की सुविधा देता है?"
+      },
+      "options": {
+        "a": {
+          "en": "Know Your Candidate (KYC-ECI) App",
+          "hi": "नो योर कैंडिडेट (KYC-ECI) ऐप"
+        },
+        "b": {
+          "en": "Voter Turnout App",
+          "hi": "वोटर टर्नआउट ऐप"
+        },
+        "c": {
+          "en": "ENCORE App",
+          "hi": "एनकोर (ENCORE) ऐप"
+        },
+        "d": {
+          "en": "EMS App",
+          "hi": "ईएमएस (EMS) ऐप"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Gives citizens direct access to Form 26 declarations to make an informed choice.",
+        "hi": "सूचित विकल्प चुनने के लिए नागरिकों को फॉर्म 26 घोषणाओं तक सीधी पहुँच देता है।"
+      },
+      "explanation": {
+        "en": "The Know Your Candidate (KYC-ECI) mobile app promotes informed voting by giving citizens direct access to candidates' Form 26 affidavits, assets, liabilities, education, and criminal antecedents[cite: 101].",
+        "hi": "'नो योर कैंडिडेट' (KYC-ECI) मोबाइल ऐप नागरिकों को उम्मीदवारों के फॉर्म 26 शपथ पत्र, संपत्ति, देनदारियों, शिक्षा और आपराधिक पृष्ठभूमि तक सीधी पहुँच देकर सूचित मतदान को बढ़ावा देता है[cite: 101]।"
+      },
+      "key_takeaway": {
+        "en": "KYC-ECI promotes ethical, informed voting by making candidate backgrounds transparent[cite: 101].",
+        "hi": "KYC-ECI उम्मीदवारों की पृष्ठभूमि को पारदर्शी बनाकर नैतिक और सूचित मतदान को बढ़ावा देता है[cite: 101]।"
+      }
+    },
+    {
+      "question_id": 74,
+      "question": {
+        "en": "[Q74] Who is in overall charge of conducting polling at an individual polling station on election day?",
+        "hi": "[प्र.74] चुनाव के दिन किसी एक मतदान केंद्र पर मतदान कराने का समग्र प्रभारी कौन होता है?"
+      },
+      "options": {
+        "a": {
+          "en": "Booth Level Officer (BLO)",
+          "hi": "बूथ लेवल अधिकारी (BLO)"
+        },
+        "b": {
+          "en": "Presiding Officer (PrO)",
+          "hi": "पीठासीन अधिकारी (Presiding Officer)"
+        },
+        "c": {
+          "en": "Polling Agent",
+          "hi": "मतदान अभिकर्ता"
+        },
+        "d": {
+          "en": "Electoral Registration Officer (ERO)",
+          "hi": "निर्वाचक रजिस्ट्रीकरण अधिकारी (ERO)"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Appointed under Section 26 of the RP Act, 1951 to manage polling staff and maintain order at the booth.",
+        "hi": "मतदान कर्मचारियों के प्रबंधन और बूथ पर व्यवस्था बनाए रखने के लिए लोक प्रतिनिधित्व अधिनियम, 1951 की धारा 26 के तहत नियुक्त।"
+      },
+      "explanation": {
+        "en": "Appointed by the District Election Officer under Section 26 of the RP Act, 1951, the Presiding Officer exercises statutory authority to maintain order and conduct fair polling at their assigned booth[cite: 101].",
+        "hi": "लोक प्रतिनिधित्व अधिनियम, 1951 की धारा 26 के तहत जिला निर्वाचन अधिकारी द्वारा नियुक्त पीठासीन अधिकारी अपने आवंटित बूथ पर व्यवस्था बनाए रखने और निष्पक्ष मतदान कराने के वैधानिक अधिकार का प्रयोग करता है[cite: 101]।"
+      },
+      "key_takeaway": {
+        "en": "The Presiding Officer is the statutory authority in command of a polling station on election day[cite: 101].",
+        "hi": "पीठासीन अधिकारी चुनाव के दिन मतदान केंद्र का प्रमुख वैधानिक प्राधिकारी होता है[cite: 101]।"
+      }
+    },
+    {
+      "question_id": 75,
+      "question": {
+        "en": "[Q75] What is the 'Tendered Vote' procedure at a polling station?",
+        "hi": "[प्र.75] मतदान केंद्र पर 'निविदत्त मत' (Tendered Vote) की प्रक्रिया क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "A vote cast via mobile phone from home",
+          "hi": "घर से मोबाइल फोन के माध्यम से डाला गया वोट"
+        },
+        "b": {
+          "en": "A vote cast by a polling officer",
+          "hi": "मतदान अधिकारी द्वारा डाला गया वोट"
+        },
+        "c": {
+          "en": "When a genuine elector finds that someone else has already voted in their name, they are permitted to vote on a special Tendered Ballot Paper after proving their identity",
+          "hi": "जब कोई वास्तविक मतदाता पाता है कि कोई अन्य व्यक्ति पहले ही उसके नाम से वोट डाल चुका है, तो अपनी पहचान साबित करने के बाद उसे एक विशेष निविदत्त मतपत्र पर मतदान करने की अनुमति दी जाती है"
+        },
+        "d": {
+          "en": "A vote cast during a mock poll",
+          "hi": "मॉक पोल के दौरान डाला गया वोट"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Recorded on a paper ballot (Form 17B) under Rule 42 and sealed separately instead of using the EVM.",
+        "hi": "नियम 42 के तहत कागजी मतपत्र (फॉर्म 17B) पर दर्ज किया जाता है और ईवीएम का उपयोग करने के बजाय अलग से सील किया जाता है।"
+      },
+      "explanation": {
+        "en": "Under Rule 42 of the Conduct of Elections Rules, 1961, if an impersonator has already voted in a real voter's name, the genuine voter is given a Tendered Ballot Paper (Form 17B), which is sealed separately rather than entered into the EVM[cite: 101].",
+        "hi": "निर्वाचनों का संचालन नियम, 1961 के नियम 42 के तहत, यदि कोई छद्म व्यक्ति पहले ही वास्तविक मतदाता के नाम से वोट डाल चुका है, तो वास्तविक मतदाता को निविदत्त मतपत्र (फॉर्म 17B) दिया जाता है, जिसे ईवीएम में डालने के बजाय अलग से सील किया जाता है[cite: 101]।"
+      },
+      "key_takeaway": {
+        "en": "Tendered Votes preserve a genuine voter's ballot record for court scrutiny in case of impersonation[cite: 101].",
+        "hi": "निविदत्त मत प्रतिरूपण की स्थिति में न्यायालय की जाँच के लिए वास्तविक मतदाता के मत रिकॉर्ड को सुरक्षित रखते हैं[cite: 101]।"
+      }
+    },
+    {
+      "question_id": 76,
+      "question": {
+        "en": "[Q76] Which official portal of the Election Commission of India provides online voter registration, electoral roll search, and e-EPIC download services?",
+        "hi": "[प्र.76] भारत निर्वाचन आयोग का कौन-सा आधिकारिक पोर्टल ऑनलाइन मतदाता पंजीकरण, मतदाता सूची खोज और ई-ईपिक (e-EPIC) डाउनलोड की सेवाएँ प्रदान करता है?"
+      },
+      "options": {
+        "a": {
+          "en": "india.gov.in",
+          "hi": "india.gov.in"
+        },
+        "b": {
+          "en": "sansad.nic.in",
+          "hi": "sansad.nic.in"
+        },
+        "c": {
+          "en": "voters.eci.gov.in (Voters' Service Portal)",
+          "hi": "voters.eci.gov.in (मतदाता सेवा पोर्टल)"
+        },
+        "d": {
+          "en": "digilocker.gov.in",
+          "hi": "digilocker.gov.in"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "The dedicated unified Voters' Service Portal hosted under the eci.gov.in domain.",
+        "hi": "eci.gov.in डोमेन के तहत होस्ट किया गया समर्पित एकीकृत मतदाता सेवा पोर्टल।"
+      },
+      "explanation": {
+        "en": "The unified Voters' Service Portal (voters.eci.gov.in) and the Voter Helpline App allow citizens to submit Forms 6, 7, and 8, track application status, locate their polling booth, and download digital e-EPIC cards[cite: 101].",
+        "hi": "एकीकृत मतदाता सेवा पोर्टल (voters.eci.gov.in) और वोटर हेल्पलाइन ऐप नागरिकों को फॉर्म 6, 7 और 8 जमा करने, आवेदन की स्थिति ट्रैक करने, अपना मतदान केंद्र खोजने और डिजिटल e-EPIC डाउनलोड करने की सुविधा देते हैं[cite: 101]।"
+      },
+      "key_takeaway": {
+        "en": "voters.eci.gov.in is the one-stop digital gateway for all citizen electoral services[cite: 101].",
+        "hi": "voters.eci.gov.in सभी नागरिक चुनावी सेवाओं के लिए वन-स्टॉप डिजिटल प्रवेश द्वार है[cite: 101]।"
+      }
+    },
+    {
+      "question_id": 77,
+      "question": {
+        "en": "[Q77] What is the toll-free National Voter Helpline number in India for voter queries and assistance?",
+        "hi": "[प्र. 77] मतदाताओं के प्रश्नों और सहायता के लिए भारत में टोल-फ्री राष्ट्रीय मतदाता हेल्पलाइन नंबर क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "112",
+          "hi": "112"
+        },
+        "b": {
+          "en": "1098",
+          "hi": "1098"
+        },
+        "c": {
+          "en": "1800",
+          "hi": "1800"
+        },
+        "d": {
+          "en": "1950",
+          "hi": "1950"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "The four-digit number matches the year the Election Commission of India and the Indian Republic were established.",
+        "hi": "चार अंकों की यह संख्या उस वर्ष से मेल खाती है जब भारत निर्वाचन आयोग और भारतीय गणराज्य की स्थापना हुई थी।"
+      },
+      "explanation": {
+        "en": "Citizens across India can dial the toll-free number 1950 (with STD code if calling from outside the state capital) for assistance regarding electoral roll registration, EPIC status, and polling station details[cite: 101].",
+        "hi": "पूरे भारत में नागरिक मतदाता सूची पंजीकरण, ईपिक स्थिति और मतदान केंद्र विवरण के संबंध में सहायता के लिए टोल-फ्री नंबर 1950 डायल कर सकते हैं[cite: 101]।"
+      },
+      "key_takeaway": {
+        "en": "Dialing 1950 connects electors directly to ECI's voter support helpline[cite: 101].",
+        "hi": "1950 डायल करने से मतदाता सीधे ईसीआई की मतदाता सहायता हेल्पलाइन से जुड़ जाते हैं[cite: 101]।"
+      }
+    },
+    {
+      "question_id": 78,
+      "question": {
+        "en": "[Q78] Which of the following categories of voters are eligible to vote through Postal Ballot (Service Voters)?",
+        "hi": "[प्र. 78] मतदाताओं की निम्नलिखित में से कौन-सी श्रेणी डाक मतपत्र (सेवा मतदाता / Service Voters) के माध्यम से मतदान करने के लिए पात्र है?"
+      },
+      "options": {
+        "a": {
+          "en": "Members of the Armed Forces, Armed Police Forces of a State serving outside that State, and Government officials posted abroad",
+          "hi": "सशस्त्र बलों के सदस्य, राज्य से बाहर सेवा कर रहे राज्य के सशस्त्र पुलिस बल और विदेशों में तैनात सरकारी अधिकारी"
+        },
+        "b": {
+          "en": "All college students studying outside their home district",
+          "hi": "अपने गृह जिले से बाहर पढ़ने वाले सभी कॉलेज छात्र"
+        },
+        "c": {
+          "en": "All private sector employees",
+          "hi": "निजी क्षेत्र के सभी कर्मचारी"
+        },
+        "d": {
+          "en": "Tourists travelling on polling day",
+          "hi": "मतदान के दिन यात्रा करने वाले पर्यटक"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Defined under Section 60 of the RP Act, 1951 and served via the Electronically Transmitted Postal Ballot System (ETPBS).",
+        "hi": "लोक प्रतिनिधित्व अधिनियम, 1951 की धारा 60 के तहत परिभाषित और ETPBS के माध्यम से सेवित।"
+      },
+      "explanation": {
+        "en": "Under Section 60 of the RP Act, 1951, Service Voters (Armed Forces personnel, State Armed Police posted outside their State, and Indian diplomatic staff posted abroad) vote via Electronically Transmitted Postal Ballot System (ETPBS)[cite: 102].",
+        "hi": "लोक प्रतिनिधित्व अधिनियम, 1951 की धारा 60 के तहत, सेवा मतदाता (सशस्त्र बल के जवान, अपने राज्य से बाहर तैनात राज्य सशस्त्र पुलिस और विदेशों में तैनात भारतीय राजनयिक कर्मचारी) इलेक्ट्रॉनिक रूप से प्रेषित डाक मतपत्र प्रणाली (ETPBS) के माध्यम से मतदान करते हैं[cite: 102]।"
+      },
+      "key_takeaway": {
+        "en": "ETPBS ensures armed forces and diplomatic personnel stationed away from home can exercise their franchise[cite: 102].",
+        "hi": "ETPBS सुनिश्चित करता है कि घर से दूर तैनात सशस्त्र बल और राजनयिक कर्मी अपने मताधिकार का प्रयोग कर सकें[cite: 102]।"
+      }
+    },
+    {
+      "question_id": 79,
+      "question": {
+        "en": "[Q79] What does 'Assured Minimum Facilities (AMF)' at polling stations refer to?",
+        "hi": "[प्र. 79] मतदान केंद्रों पर 'सुनिश्चित न्यूनतम सुविधाएँ' (Assured Minimum Facilities - AMF) से क्या तात्पर्य है?"
+      },
+      "options": {
+        "a": {
+          "en": "Free transport from home for every voter",
+          "hi": "प्रत्येक मतदाता के लिए घर से निःशुल्क परिवहन"
+        },
+        "b": {
+          "en": "Distribution of campaign leaflets inside the booth",
+          "hi": "बूथ के अंदर प्रचार पर्चों का वितरण"
+        },
+        "c": {
+          "en": "Free meals for all electors",
+          "hi": "सभी मतदाताओं के लिए निःशुल्क भोजन"
+        },
+        "d": {
+          "en": "Basic voter-friendly amenities such as drinking water, ramps for PwDs, separate toilets, proper lighting, help desk and shade",
+          "hi": "बुनियादी मतदाता-अनुकूल सुविधाएँ जैसे पेयजल, दिव्यांगजनों के लिए रैंप, अलग शौचालय, उचित प्रकाश व्यवस्था, सहायता डेस्क और छाया"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Essential infrastructure mandated at every booth to make voting comfortable and accessible for all.",
+        "hi": "सभी के लिए मतदान को आरामदायक और सुलभ बनाने हेतु प्रत्येक बूथ पर अनिवार्य बुनियादी ढाँचा।"
+      },
+      "explanation": {
+        "en": "ECI mandates Assured Minimum Facilities (AMF)—ramps, wheelchairs, drinking water, separate toilets, shade, signage, and voter assistance booths—at every polling station to make elections inclusive and accessible[cite: 102].",
+        "hi": "चुनावों को समावेशी और सुगम बनाने के लिए भारत निर्वाचन आयोग प्रत्येक मतदान केंद्र पर सुनिश्चित न्यूनतम सुविधाएँ (AMF)- रैंप, व्हीलचेयर, पेयजल, अलग शौचालय, छाया, संकेतक और मतदाता सहायता बूथ- अनिवार्य करता है[cite: 102]।"
+      },
+      "key_takeaway": {
+        "en": "AMF standards guarantee dignity, safety, and accessibility at every polling station[cite: 102].",
+        "hi": "AMF मानक प्रत्येक मतदान केंद्र पर गरिमा, सुरक्षा और सुगमता की गारंटी देते हैं[cite: 102]।"
+      }
+    },
+    {
+      "question_id": 80,
+      "question": {
+        "en": "[Q80] Which of the following is a valid alternative photo identity document permitted by ECI on polling day if an elector registered on the electoral roll does not possess their physical EPIC card?",
+        "hi": "[प्र.80] यदि मतदाता सूची में पंजीकृत किसी मतदाता के पास मतदान के दिन भौतिक ईपिक (EPIC) कार्ड नहीं है, तो भारत निर्वाचन आयोग द्वारा अनुमत निम्नलिखित में से कौन-सा वैकल्पिक फोटो पहचान दस्तावेज मान्य है?"
+      },
+      "options": {
+        "a": {
+          "en": "School library card",
+          "hi": "स्कूल लाइब्रेरी कार्ड"
+        },
+        "b": {
+          "en": "Private club membership card",
+          "hi": "निजी क्लब सदस्यता कार्ड"
+        },
+        "c": {
+          "en": "Utility electricity bill without photograph",
+          "hi": "बिना फोटो वाला बिजली का बिल"
+        },
+        "d": {
+          "en": "Aadhaar Card, Passport, Driving Licence or PAN Card",
+          "hi": "आधार कार्ड, पासपोर्ट, ड्राइविंग लाइसेंस या पैन कार्ड"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "ECI approves 12 official government-issued photo IDs as alternatives to EPIC.",
+        "hi": "ईसीआई ईपिक के विकल्प के रूप में 12 आधिकारिक सरकारी फोटो पहचान पत्रों को मंजूरी देता है।"
+      },
+      "explanation": {
+        "en": "If a registered voter's name is on the electoral roll but they cannot produce their EPIC card, ECI permits 12 alternative photo IDs including Aadhaar, Passport, Driving Licence, PAN Card, MGNREGA Job Card, and Bank/Post Office Passbook with photo[cite: 102].",
+        "hi": "यदि किसी पंजीकृत मतदाता का नाम मतदाता सूची में है लेकिन वह अपना ईपिक कार्ड प्रस्तुत नहीं कर पाता है, तो ईसीआई आधार, पासपोर्ट, ड्राइविंग लाइसेंस, पैन कार्ड, मनरेगा जॉब कार्ड और फोटोयुक्त बैंक/डाकघर पासबुक सहित 12 वैकल्पिक फोटो पहचान पत्रों की अनुमति देता है[cite: 102]।"
+      },
+      "key_takeaway": {
+        "en": "Any of the 12 ECI-notified photo IDs allows an enrolled elector to vote even without a physical EPIC[cite: 102].",
+        "hi": "ईसीआई द्वारा अधिसूचित 12 फोटो पहचान पत्रों में से कोई भी एक होने पर पंजीकृत मतदाता बिना भौतिक ईपिक के भी मतदान कर सकता है[cite: 102]।"
+      }
+    }
+  ]
+}
