@@ -1,0 +1,776 @@
+{
+  "metadata": {
+    "exam_title": "ELC Quiz Competitions 2026: Bilingual Question Bank (Part 1)",
+    "exam_title_hindi": "निर्वाचक साक्षरता क्लब (ELC) प्रश्नोत्तरी प्रतियोगिता 2026: द्विभाषी प्रश्न बैंक (भाग 1)",
+    "target_class": "School & College ELC Members",
+    "total_questions_in_section": 20,
+    "question_range": "Q1 to Q20",
+    "themes_covered": "Electoral Roll Preparation & EVM Basics",
+    "source_language": "en",
+    "target_language": "hi",
+    "version": "1.0",
+    "note": "Part 1 of 4. Contains exactly 20 questions with perfectly balanced options (5 A, 5 B, 5 C, 5 D). Explanations and statutory acts derived from the official ECI Reference Key."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "[Q1] Who is eligible for registration as an ordinary elector?",
+        "hi": "[प्र.1] एक सामान्य निर्वाचक (मतदाता) के रूप में पंजीकरण के लिए कौन पात्र है?"
+      },
+      "options": {
+        "a": {
+          "en": "An Indian citizen aged at least 18 on the qualifying date, ordinarily resident in the constituency and not disqualified by law",
+          "hi": "एक भारतीय नागरिक जिसकी आयु अर्हता तिथि को कम से कम 18 वर्ष हो, जो निर्वाचन क्षेत्र का सामान्य निवासी हो और कानून द्वारा अयोग्य घोषित न किया गया हो"
+        },
+        "b": {
+          "en": "Any resident who holds an Aadhaar card",
+          "hi": "कोई भी निवासी जिसके पास आधार कार्ड है"
+        },
+        "c": {
+          "en": "Any person who owns property in the constituency",
+          "hi": "कोई भी व्यक्ति जिसके पास निर्वाचन क्षेत्र में संपत्ति है"
+        },
+        "d": {
+          "en": "Any Indian citizen, regardless of age or residence",
+          "hi": "कोई भी भारतीय नागरिक, चाहे उसकी आयु या निवास कुछ भी हो"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Eligibility requires Indian citizenship, a minimum age of 18, and ordinary residence in the specific polling area.",
+        "hi": "पात्रता के लिए भारतीय नागरिकता, न्यूनतम 18 वर्ष की आयु, और विशिष्ट मतदान क्षेत्र में सामान्य निवास आवश्यक है।"
+      },
+      "explanation": {
+        "en": "Under Section 19 of the Representation of the People Act, 1950, every Indian citizen who is at least 18 years old on the qualifying date, is ordinarily resident in the constituency, and is not disqualified by law is eligible to be registered as an elector.",
+        "hi": "लोक प्रतिनिधित्व अधिनियम, 1950 की धारा 19 के तहत, प्रत्येक भारतीय नागरिक जो अर्हता तिथि को कम से कम 18 वर्ष का है, निर्वाचन क्षेत्र का सामान्य निवासी है और कानून द्वारा अयोग्य नहीं है, मतदाता के रूप में पंजीकृत होने का पात्र है।"
+      },
+      "key_takeaway": {
+        "en": "Citizenship, age (18+), and ordinary residence are the three statutory pillars of voter eligibility in India.",
+        "hi": "नागरिकता, आयु (18+), और सामान्य निवास भारत में मतदाता पात्रता के तीन वैधानिक स्तंभ हैं।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "[Q2] Which forms are used for the addition, deletion and modification of entries in the electoral roll?",
+        "hi": "[प्र.2] निर्वाचक नामावली में नाम जोड़ने, विलोपित करने (हटाने) और संशोधन करने के लिए किन प्रपत्रों (फॉर्म) का उपयोग किया जाता है?"
+      },
+      "options": {
+        "a": {
+          "en": "Form 6 for addition, Form 7 for deletion, Form 8 for modification, correction or updation",
+          "hi": "नाम जोड़ने के लिए फॉर्म 6, विलोपन के लिए फॉर्म 7, और संशोधन, सुधार या अद्यतन के लिए फॉर्म 8"
+        },
+        "b": {
+          "en": "Form 1, Form 2, Form 3",
+          "hi": "फॉर्म 1, फॉर्म 2, फॉर्म 3"
+        },
+        "c": {
+          "en": "Form 8, Form 6, Form 6A",
+          "hi": "फॉर्म 8, फॉर्म 6, फॉर्म 6A"
+        },
+        "d": {
+          "en": "One single form for everything",
+          "hi": "सभी कार्यों के लिए केवल एक ही फॉर्म"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "The sequence of basic electoral forms is 6 (New), 7 (Delete), and 8 (Change/Shift).",
+        "hi": "बुनियादी चुनावी फॉर्मों का क्रम 6 (नया), 7 (हटाना), और 8 (बदलना/स्थानांतरित करना) है।"
+      },
+      "explanation": {
+        "en": "Form 6 is used for new voter inclusion, Form 7 for objection to inclusion or deletion of a name, and Form 8 for shifting residence, correction of entries, replacement of EPIC, or marking as PwD.",
+        "hi": "नए मतदाता के नाम जोड़ने के लिए फॉर्म 6, नाम हटाने या आपत्ति के लिए फॉर्म 7, तथा निवास स्थानांतरण, प्रविष्टियों में सुधार, ईपिक प्रतिस्थापन या दिव्यांगजन (PwD) चिह्नित करने के लिए फॉर्म 8 का उपयोग होता है।"
+      },
+      "key_takeaway": {
+        "en": "ECI streamlined its voter registration forms in 2022 to Form 6 (Register), Form 7 (Delete), and Form 8 (Update/Shift).",
+        "hi": "ईसीआई ने 2022 में अपने मतदाता पंजीकरण फॉर्मों को फॉर्म 6 (पंजीकरण), फॉर्म 7 (विलोपन), और फॉर्म 8 (अद्यतन/स्थानांतरण) में सुव्यवस्थित किया।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "[Q3] Can a person vote just by holding an EPIC, even if their name is not in the voter list?",
+        "hi": "[प्र.3] क्या कोई व्यक्ति केवल मतदाता पहचान पत्र (EPIC) होने मात्र से मतदान कर सकता है, भले ही उसका नाम मतदाता सूची में न हो?"
+      },
+      "options": {
+        "a": {
+          "en": "No. Only those whose names are in the voter list of that polling station can vote",
+          "hi": "नहीं। केवल वे ही व्यक्ति मतदान कर सकते हैं जिनका नाम उस मतदान केंद्र की मतदाता सूची में दर्ज है"
+        },
+        "b": {
+          "en": "Yes",
+          "hi": "हाँ"
+        },
+        "c": {
+          "en": "Only in the afternoon",
+          "hi": "केवल दोपहर के समय"
+        },
+        "d": {
+          "en": "Only with a party letter",
+          "hi": "केवल किसी राजनीतिक दल के पत्र के साथ"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "An ID card only proves who you are; the official roll dictates your legal right to cast a ballot at a specific booth.",
+        "hi": "पहचान पत्र केवल यह साबित करता है कि आप कौन हैं; आधिकारिक मतदाता सूची आपके मतदान के कानूनी अधिकार को तय करती है।"
+      },
+      "explanation": {
+        "en": "Under Section 62 of the RP Act, 1951, inclusion of one's name in the electoral roll of the constituency is a mandatory legal prerequisite to cast a vote; an EPIC card alone only establishes identity.",
+        "hi": "लोक प्रतिनिधित्व अधिनियम, 1951 की धारा 62 के तहत, मतदान करने के लिए निर्वाचन क्षेत्र की मतदाता सूची में नाम होना अनिवार्य कानूनी शर्त है; ईपिक (EPIC) कार्ड केवल पहचान स्थापित करता है।"
+      },
+      "key_takeaway": {
+        "en": "Possessing an EPIC is useless if your name is missing from the Part (polling station) Electoral Roll.",
+        "hi": "यदि आपका नाम मतदान केंद्र की मतदाता सूची में नहीं है, तो ईपिक (EPIC) का होना व्यर्थ है।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "[Q4] I just turned 18. Do I have to wait for SIR or SSR to register?",
+        "hi": "[प्र.4] मैं अभी 18 वर्ष का हुआ हूँ। क्या मुझे पंजीकरण कराने के लिए विशेष गहन पुनरीक्षण (SIR) या विशेष संक्षिप्त पुनरीक्षण (SSR) की प्रतीक्षा करनी होगी?"
+      },
+      "options": {
+        "a": {
+          "en": "No. You can apply any time by filling Form 6 under continuous updation",
+          "hi": "नहीं। आप निरंतर अद्यतन (Continuous Updation) के अंतर्गत फॉर्म 6 भरकर कभी भी आवेदन कर सकते हैं"
+        },
+        "b": {
+          "en": "Yes, only during SIR",
+          "hi": "हाँ, केवल विशेष गहन पुनरीक्षण (SIR) के दौरान"
+        },
+        "c": {
+          "en": "Yes, only during SSR",
+          "hi": "हाँ, केवल विशेष संक्षिप्त पुनरीक्षण (SSR) के दौरान"
+        },
+        "d": {
+          "en": "Only at age 21",
+          "hi": "केवल 21 वर्ष की आयु होने पर"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Voter registration in India is not limited to specific campaigns; the window is open year-round.",
+        "hi": "भारत में मतदाता पंजीकरण विशिष्ट अभियानों तक सीमित नहीं है; यह खिड़की वर्ष भर खुली रहती है।"
+      },
+      "explanation": {
+        "en": "Electoral roll revision is a year-round process under 'Continuous Updation.' Eligible citizens can submit Form 6 online or offline at any time without waiting for special revision drives.",
+        "hi": "'निरंतर अद्यतन' (Continuous Updation) के तहत मतदाता सूची का पुनरीक्षण वर्ष भर चलता है। पात्र नागरिक विशेष पुनरीक्षण अभियान की प्रतीक्षा किए बिना कभी भी ऑनलाइन या ऑफलाइन फॉर्म 6 जमा कर सकते हैं।"
+      },
+      "key_takeaway": {
+        "en": "The ECI portal and Voter Helpline App accept Form 6 submissions 365 days a year under Continuous Updation.",
+        "hi": "ईसीआई पोर्टल और वोटर हेल्पलाइन ऐप 'निरंतर अद्यतन' के तहत साल के 365 दिन फॉर्म 6 स्वीकार करते हैं।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "[Q5] Who is responsible for preparing electoral rolls for Parliamentary or Assembly constituencies?",
+        "hi": "[प्र.5] संसदीय या विधानसभा निर्वाचन क्षेत्रों के लिए निर्वाचक नामावली तैयार करने के लिए कौन उत्तरदायी होता है?"
+      },
+      "options": {
+        "a": {
+          "en": "The Electoral Registration Officer (ERO)",
+          "hi": "निर्वाचक रजिस्ट्रीकरण अधिकारी (ERO)"
+        },
+        "b": {
+          "en": "The Returning Officer (RO)",
+          "hi": "रिटर्निंग अधिकारी (RO)"
+        },
+        "c": {
+          "en": "The District Election Officer (DEO)",
+          "hi": "जिला निर्वाचन अधिकारी (DEO)"
+        },
+        "d": {
+          "en": "The Chief Electoral Officer (CEO)",
+          "hi": "मुख्य निर्वाचन अधिकारी (CEO)"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "This statutory officer (usually a Sub-Divisional Magistrate) is legally tasked with 'Registration' of electors.",
+        "hi": "इस वैधानिक अधिकारी (आमतौर पर एक उप-विभागीय मजिस्ट्रेट) को कानूनी रूप से मतदाताओं के 'पंजीकरण' का काम सौंपा गया है।"
+      },
+      "explanation": {
+        "en": "Under Section 13B of the RP Act, 1950, the Electoral Registration Officer (ERO) is the statutory authority responsible for preparing and revising the electoral roll for each constituency.",
+        "hi": "लोक प्रतिनिधित्व अधिनियम, 1950 की धारा 13B के तहत, निर्वाचक रजिस्ट्रीकरण अधिकारी (ERO) प्रत्येक निर्वाचन क्षेत्र की मतदाता सूची तैयार करने और संशोधित करने के लिए उत्तरदायी वैधानिक प्राधिकारी है।"
+      },
+      "key_takeaway": {
+        "en": "While ROs conduct elections, EROs are specifically responsible for maintaining the accuracy of the voter rolls.",
+        "hi": "जहाँ RO चुनाव संपन्न कराते हैं, वहीं ERO विशेष रूप से मतदाता सूची की सटीकता बनाए रखने के लिए जिम्मेदार होते हैं।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "[Q6] For a new voter turning 18, what are the four qualifying dates for registration?",
+        "hi": "[प्र.6] 18 वर्ष की आयु पूरी करने वाले नए मतदाता के पंजीकरण के लिए चार अर्हता तिथियाँ (Qualifying Dates) कौन-सी हैं?"
+      },
+      "options": {
+        "a": {
+          "en": "1 January only",
+          "hi": "केवल 1 जनवरी"
+        },
+        "b": {
+          "en": "1 January, 1 April, 1 July and 1 October",
+          "hi": "1 जनवरी, 1 अप्रैल, 1 जुलाई और 1 अक्टूबर"
+        },
+        "c": {
+          "en": "15 August and 26 January",
+          "hi": "15 अगस्त और 26 जनवरी"
+        },
+        "d": {
+          "en": "Any birthday",
+          "hi": "कोई भी जन्मदिन"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The dates are evenly spaced at the start of every quarter of the calendar year.",
+        "hi": "ये तिथियाँ कैलेंडर वर्ष की प्रत्येक तिमाही की शुरुआत में समान रूप से बांटी गई हैं।"
+      },
+      "explanation": {
+        "en": "Following the Election Laws (Amendment) Act, 2021, four qualifying dates—1 January, 1 April, 1 July, and 1 October—were introduced so youth turning 18 do not have to wait a full year to register.",
+        "hi": "चुनाव कानून (संशोधन) अधिनियम, 2021 के बाद चार अर्हता तिथियाँ—1 जनवरी, 1 अप्रैल, 1 जुलाई और 1 अक्टूबर—शुरू की गईं, ताकि 18 वर्ष के होने वाले युवाओं को पंजीकरण के लिए पूरे वर्ष प्रतीक्षा न करनी पड़े।"
+      },
+      "key_takeaway": {
+        "en": "Multiple qualifying dates allow 17-year-olds to submit advance applications, generating EPICs exactly when they turn 18.",
+        "hi": "एकाधिक अर्हता तिथियाँ 17 वर्ष के युवाओं को अग्रिम आवेदन करने की अनुमति देती हैं, जिससे 18 वर्ष के होते ही उनका ईपिक बन जाता है।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "[Q7] During SIR, what is the Draft Electoral Roll?",
+        "hi": "[प्र. 7] विशेष गहन पुनरीक्षण (SIR) के दौरान 'प्रारूप निर्वाचक नामावली' (Draft Electoral Roll) क्या होती है?"
+      },
+      "options": {
+        "a": {
+          "en": "The final voter list used on polling day",
+          "hi": "मतदान के दिन उपयोग की जाने वाली अंतिम मतदाता सूची"
+        },
+        "b": {
+          "en": "The first draft of the roll, prepared after house-to-house enumeration is completed. Claims and objections follow.",
+          "hi": "घर-घर गणना पूरी होने के बाद तैयार नामावली का पहला प्रारूप, जिसके बाद दावे और आपत्तियाँ आमंत्रित की जाती हैं।"
+        },
+        "c": {
+          "en": "A list of people who cannot vote",
+          "hi": "उन लोगों की सूची जो मतदान नहीं कर सकते"
+        },
+        "d": {
+          "en": "A list kept secret by the Election Commission",
+          "hi": "निर्वाचन आयोग द्वारा गोपनीय रखी जाने वाली सूची"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "A 'draft' implies it is the preliminary version published to seek public feedback and corrections before the final print.",
+        "hi": "'प्रारूप' (Draft) का अर्थ है कि यह प्रारंभिक संस्करण है जिसे अंतिम प्रिंट से पहले सार्वजनिक प्रतिक्रिया और सुधार के लिए प्रकाशित किया जाता है।"
+      },
+      "explanation": {
+        "en": "The Draft Electoral Roll is published after initial enumeration so citizens and political parties can inspect it and file claims (additions/corrections) or objections (deletions) before finalisation.",
+        "hi": "प्रारंभिक गणना के बाद प्रारूप निर्वाचक नामावली प्रकाशित की जाती है ताकि नागरिक और राजनीतिक दल इसकी जाँच कर सकें और अंतिम प्रकाशन से पहले दावे (जोड़ने/सुधार) या आपत्तियाँ (विलोपन) दर्ज कर सकें।"
+      },
+      "key_takeaway": {
+        "en": "The Draft Roll phase is the crucial democratic window for citizens to verify their details and contest errors.",
+        "hi": "प्रारूप नामावली का चरण नागरिकों के लिए अपने विवरण सत्यापित करने और त्रुटियों का विरोध करने का महत्वपूर्ण लोकतांत्रिक अवसर है।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "[Q8] Does filing Form 7 alone automatically mean that a person's name has been deleted from the electoral roll?",
+        "hi": "[प्र.8] क्या केवल फॉर्म 7 दाखिल करने का अर्थ यह है कि किसी व्यक्ति का नाम मतदाता सूची से स्वतः ही विलोपित हो गया है?"
+      },
+      "options": {
+        "a": {
+          "en": "Yes, immediately in every case",
+          "hi": "हाँ, प्रत्येक मामले में तुरंत"
+        },
+        "b": {
+          "en": "No, the application is subject to the prescribed verification and speaking order by ERO",
+          "hi": "नहीं, आवेदन निर्धारित सत्यापन और निर्वाचक रजिस्ट्रीकरण अधिकारी (ERO) के सकारण आदेश (Speaking Order) के अधीन होता है"
+        },
+        "c": {
+          "en": "Yes, without any examination",
+          "hi": "हाँ, बिना किसी जाँच के"
+        },
+        "d": {
+          "en": "Yes, if the applicant is a political worker",
+          "hi": "हाँ, यदि आवेदक कोई राजनीतिक कार्यकर्ता है"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Automated deletions are not allowed; an officer must physically verify and legally document the reason for removal.",
+        "hi": "स्वचालित विलोपन की अनुमति नहीं है; एक अधिकारी को भौतिक रूप से सत्यापित करना और हटाने के कारण को कानूनी रूप से दर्ज करना चाहिए।"
+      },
+      "explanation": {
+        "en": "To prevent wrongful deletion of genuine voters, no name can be deleted merely on filing Form 7; the ERO must conduct field verification, issue notice, and pass a formal speaking order.",
+        "hi": "वास्तविक मतदाताओं के गलत विलोपन को रोकने के लिए, केवल फॉर्म 7 दाखिल करने पर किसी का नाम नहीं हटाया जा सकता; ईआरओ को स्थलीय सत्यापन करना, नोटिस जारी करना और औपचारिक सकारण आदेश पारित करना अनिवार्य है।"
+      },
+      "key_takeaway": {
+        "en": "The ERO's 'Speaking Order' guarantees natural justice and prevents malicious mass deletions by rival entities.",
+        "hi": "ईआरओ का 'सकारण आदेश' प्राकृतिक न्याय की गारंटी देता है और प्रतिद्वंद्वी संस्थाओं द्वारा दुर्भावनापूर्ण सामूहिक विलोपन को रोकता है।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "[Q9] Who acts as a concurrent auditor during the preparation and revision of electoral rolls?",
+        "hi": "[प्र.9] निर्वाचक नामावली तैयार करने और उसके पुनरीक्षण के दौरान समवर्ती लेखापरीक्षक (Concurrent Auditor) के रूप में कौन कार्य करता है?"
+      },
+      "options": {
+        "a": {
+          "en": "Polling Agents appointed by candidates",
+          "hi": "उम्मीदवारों द्वारा नियुक्त मतदान अभिकर्ता (Polling Agents)"
+        },
+        "b": {
+          "en": "Booth Level Agents (BLAs) appointed by recognised political parties",
+          "hi": "मान्यता प्राप्त राजनीतिक दलों द्वारा नियुक्त बूथ लेवल एजेंट (BLAS)"
+        },
+        "c": {
+          "en": "Counting Agents appointed by candidates",
+          "hi": "उम्मीदवारों द्वारा नियुक्त मतगणना अभिकर्ता (Counting Agents)"
+        },
+        "d": {
+          "en": "Presiding Officers at polling stations",
+          "hi": "मतदान केंद्रों के पीठासीन अधिकारी (Presiding Officers)"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These agents assist the BLOs directly at the grassroots level during revision exercises.",
+        "hi": "ये एजेंट पुनरीक्षण अभ्यास के दौरान जमीनी स्तर पर सीधे BLO की सहायता करते हैं।"
+      },
+      "explanation": {
+        "en": "Recognised political parties appoint Booth Level Agents (BLAs) to work alongside Booth Level Officers (BLOs) to verify roll entries, ensuring transparency and acting as concurrent auditors.",
+        "hi": "मान्यता प्राप्त राजनीतिक दल मतदाता सूची की प्रविष्टियों को सत्यापित करने के लिए बूथ लेवल अधिकारियों (BLOS) के साथ काम करने हेतु बूथ लेवल एजेंट (BLAS) नियुक्त करते हैं, जो समवर्ती लेखापरीक्षक के रूप में कार्य करते हैं।"
+      },
+      "key_takeaway": {
+        "en": "BLAs ensure cross-party verification of the electoral roll, making the enumeration process transparent and error-free.",
+        "hi": "BLA मतदाता सूची के क्रॉस-पार्टी सत्यापन को सुनिश्चित करते हैं, जिससे गणना प्रक्रिया पारदर्शी और त्रुटि-मुक्त हो जाती है।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "[Q10] I am not satisfied with the ERO's decision on my name. What can I do?",
+        "hi": "[प्र.10] मैं अपने नाम के संबंध में ईआरओ (ERO) के निर्णय से संतुष्ट नहीं हूँ। मैं क्या कर सकता हूँ?"
+      },
+      "options": {
+        "a": {
+          "en": "Nothing, the decision is final",
+          "hi": "कुछ नहीं, निर्णय अंतिम होता है"
+        },
+        "b": {
+          "en": "Appeal under Section 24 of the RP Act, 1950, first to the District Magistrate and then to the Chief Electoral Officer",
+          "hi": "लोक प्रतिनिधित्व अधिनियम, 1950 की धारा 24 के तहत पहले जिला मजिस्ट्रेट और फिर मुख्य निर्वाचन अधिकारी के समक्ष अपील की जा सकती है"
+        },
+        "c": {
+          "en": "Only approach a political party",
+          "hi": "केवल किसी राजनीतिक दल से संपर्क करें"
+        },
+        "d": {
+          "en": "Wait for the next SIR",
+          "hi": "अगले विशेष गहन पुनरीक्षण (SIR) की प्रतीक्षा करें"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The law provides a two-tier appellate mechanism above the ERO level.",
+        "hi": "कानून ईआरओ स्तर के ऊपर द्वि-स्तरीय अपीलीय तंत्र प्रदान करता है।"
+      },
+      "explanation": {
+        "en": "Section 24 of the RP Act, 1950 provides a two-tier statutory appeal mechanism against an ERO's order: first appeal to the District Magistrate (DM/DEO) and second appeal to the Chief Electoral Officer (CEO).",
+        "hi": "लोक प्रतिनिधित्व अधिनियम, 1950 की धारा 24 ईआरओ के आदेश के विरुद्ध दो-स्तरीय वैधानिक अपील तंत्र प्रदान करती है: पहली अपील जिला मजिस्ट्रेट (DM) को और दूसरी अपील मुख्य निर्वाचन अधिकारी (CEO) को की जा सकती है।"
+      },
+      "key_takeaway": {
+        "en": "An ERO's quasi-judicial decision is subject to appeal under Section 24, protecting the citizen's right to franchise.",
+        "hi": "ईआरओ का अर्ध-न्यायिक निर्णय धारा 24 के तहत अपील के अधीन है, जो नागरिक के मताधिकार की रक्षा करता है।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "[Q11] What is the principal difference between Special Intensive Revision (SIR) and Special Summary Revision (SSR) of electoral rolls?",
+        "hi": "[प्र. 11] निर्वाचक नामावली के विशेष गहन पुनरीक्षण (SIR) और विशेष संक्षिप्त पुनरीक्षण (SSR) के बीच मुख्य अंतर क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "SIR is conducted only for new voters, while SSR is conducted only for existing voters",
+          "hi": "SIR केवल नए मतदाताओं के लिए किया जाता है, जबकि SSR केवल मौजूदा मतदाताओं के लिए किया जाता है"
+        },
+        "b": {
+          "en": "SSR removes all existing electoral-roll entries and prepares a completely new list",
+          "hi": "SSR सभी मौजूदा प्रविष्टियों को हटा देता है और एक पूरी तरह से नई सूची तैयार करता है"
+        },
+        "c": {
+          "en": "SIR involves extensive house-to-house enumeration and verification, while SSR ordinarily updates existing rolls through draft publication, claims and objections without a full house-to-house enumeration",
+          "hi": "SIR में व्यापक घर-घर गणना और सत्यापन शामिल होता है, जबकि SSR सामान्यतः पूर्ण घर-घर गणना के बिना प्रारूप प्रकाशन, दावों और आपत्तियों के माध्यम से मौजूदा नामावली को अद्यतन करता है"
+        },
+        "d": {
+          "en": "SIR is conducted by political parties, while SSR is conducted by election officials",
+          "hi": "SIR राजनीतिक दलों द्वारा किया जाता है, जबकि SSR चुनाव अधिकारियों द्वारा किया जाता है"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "The keyword 'Intensive' points to a full door-to-door physical survey, whereas 'Summary' relies on public feedback over published drafts.",
+        "hi": "कीवर्ड 'गहन' (Intensive) एक पूर्ण घर-घर भौतिक सर्वेक्षण की ओर इशारा करता है, जबकि 'संक्षिप्त' (Summary) प्रकाशित प्रारूपों पर सार्वजनिक प्रतिक्रिया पर निर्भर करता है।"
+      },
+      "explanation": {
+        "en": "SIR is an exhaustive de novo exercise involving door-to-door enumeration of every household, whereas SSR updates existing rolls through draft publication and inviting claims/objections without fresh house-to-house mapping.",
+        "hi": "SIR प्रत्येक घर की घर-घर गणना से जुड़ा एक व्यापक पुनरीक्षण है, जबकि SSR प्रारूप प्रकाशन और दावे/आपत्तियाँ आमंत्रित करके मौजूदा मतदाता सूची को अद्यतन करता है।"
+      },
+      "key_takeaway": {
+        "en": "SIR builds the foundational database from scratch via house visits; SSR maintains it annually through public claims.",
+        "hi": "SIR घर-घर जाकर मूल डेटाबेस बनाता है; SSR दावों और आपत्तियों के माध्यम से इसे सालाना बनाए रखता है।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "[Q12] Do political parties get copies of the electoral roll?",
+        "hi": "[प्र.12] क्या राजनीतिक दलों को निर्वाचक नामावली की प्रतियाँ मिलती हैं?"
+      },
+      "options": {
+        "a": {
+          "en": "No",
+          "hi": "नहीं"
+        },
+        "b": {
+          "en": "Yes, but they must pay for them",
+          "hi": "हाँ, लेकिन उन्हें इसके लिए भुगतान करना पड़ता है"
+        },
+        "c": {
+          "en": "Yes, free of cost: one hard copy and one soft copy of each part, after draft and final publication",
+          "hi": "हाँ, निःशुल्कः प्रारूप और अंतिम प्रकाशन के बाद प्रत्येक भाग की एक हार्ड कॉपी और एक सॉफ्ट कॉपी"
+        },
+        "d": {
+          "en": "Only the ruling party gets them",
+          "hi": "केवल सत्तारूढ़ दल को ही मिलती हैं"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Recognised parties receive these as a statutory right free of cost to facilitate their audit and campaigns.",
+        "hi": "मान्यता प्राप्त दलों को ऑडिट और अभियानों की सुविधा के लिए वैधानिक अधिकार के रूप में ये निःशुल्क प्राप्त होते हैं।"
+      },
+      "explanation": {
+        "en": "Under Rule 11 and Rule 22 of the Registration of Electors Rules, 1960, recognised political parties receive two free copies (one printed hard copy and one PDF soft copy) of both draft and final rolls.",
+        "hi": "निर्वाचक रजिस्ट्रीकरण नियम, 1960 के नियम 11 और 22 के तहत, मान्यता प्राप्त राजनीतिक दलों को प्रारूप और अंतिम दोनों सूचियों की दो निःशुल्क प्रतियाँ (एक मुद्रित हार्ड कॉपी और एक सॉफ्ट कॉपी) दी जाती हैं।"
+      },
+      "key_takeaway": {
+        "en": "Distributing free copies of the electoral roll to recognized parties ensures transparency and equal footing.",
+        "hi": "मान्यता प्राप्त दलों को मतदाता सूची की निःशुल्क प्रतियां वितरित करने से पारदर्शिता और समान अवसर सुनिश्चित होते हैं।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "[Q13] In which years was Intensive Revision of electoral rolls conducted in India before the SIR exercise of 2025-26?",
+        "hi": "[प्र.13] 2025-26 के SIR अभ्यास से पहले भारत में किन वर्षों में निर्वाचक नामावली का गहन पुनरीक्षण (Intensive Revision) किया गया था?"
+      },
+      "options": {
+        "a": {
+          "en": "Only in 1952-56 and 2002-04",
+          "hi": "केवल 1952-56 और 2002-04 में"
+        },
+        "b": {
+          "en": "Only in 1983-84, 1987-89 and 2002-04",
+          "hi": "केवल 1983-84, 1987-89 और 2002-04 में"
+        },
+        "c": {
+          "en": "In 1952-56, 1957, 1961, 1965, 1966, 1983-84, 1987-89, 1992, 1993, 1995, 2002, 2003 and 2004",
+          "hi": "1952-56, 1957, 1961, 1965, 1966, 1983-84, 1987-89, 1992, 1993, 1995, 2002, 2003 और 2004 में"
+        },
+        "d": {
+          "en": "Only in 1992, 1993, 1995 and 2004",
+          "hi": "केवल 1992, 1993, 1995 और 2004 में"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It has been conducted more than ten times historically before the shift to primarily Summary Revisions.",
+        "hi": "मुख्य रूप से संक्षिप्त पुनरीक्षण (SSR) की ओर बढ़ने से पहले ऐतिहासिक रूप से इसे दस से अधिक बार आयोजित किया गया है।"
+      },
+      "explanation": {
+        "en": "Prior to 2025-26, ECI conducted Intensive Revisions of electoral rolls in 1952-56, 1957, 1961, 1965, 1966, 1983-84, 1987-89, 1992, 1993, 1995, 2002, 2003, and 2004.",
+        "hi": "2025-26 से पहले, भारत निर्वाचन आयोग ने 1952-56, 1957, 1961, 1965, 1966, 1983-84, 1987-89, 1992, 1993, 1995, 2002, 2003 और 2004 में मतदाता सूचियों का गहन पुनरीक्षण किया था।"
+      },
+      "key_takeaway": {
+        "en": "Intensive Revisions are monumental statistical exercises undertaken periodically to refresh demographic alignment.",
+        "hi": "गहन पुनरीक्षण जनसांख्यिकीय संरेखण को अद्यतन करने के लिए समय-समय पर किए जाने वाले स्मारकीय सांख्यिकीय अभ्यास हैं।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "[Q14] Who has the authority to approve the addition or deletion of names in the electoral roll through ECINET?",
+        "hi": "[प्र. 14] ECINET के माध्यम से निर्वाचक नामावली में नाम जोड़ने या हटाने को मंजूरी देने का अधिकार किसके पास है?"
+      },
+      "options": {
+        "a": {
+          "en": "ECINET software automatically decides based on available data",
+          "hi": "ECINET सॉफ्टवेयर उपलब्ध डेटा के आधार पर स्वतः निर्णय लेता है"
+        },
+        "b": {
+          "en": "Booth Level Officers (BLOs) can directly add or delete names",
+          "hi": "बूथ लेवल अधिकारी (BLO) सीधे नाम जोड़ या हटा सकते हैं"
+        },
+        "c": {
+          "en": "Electoral Registration Officers (EROs) take decisions as per law; ECINET only facilitates the process",
+          "hi": "निर्वाचक रजिस्ट्रीकरण अधिकारी (ERO) कानून के अनुसार निर्णय लेते हैं; ECINET केवल प्रक्रिया को सुगम बनाता है"
+        },
+        "d": {
+          "en": "Political parties can approve changes through their Booth Level Agents (BLAs)",
+          "hi": "राजनीतिक दल अपने बूथ लेवल एजेंटों (BLAS) के माध्यम से परिवर्तनों को मंजूरी दे सकते हैं"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Technology is only a tool; the statutory quasi-judicial power remains exclusively with the designated registration officer.",
+        "hi": "प्रौद्योगिकी केवल एक उपकरण है; वैधानिक अर्ध-न्यायिक शक्ति विशेष रूप से नामित पंजीकरण अधिकारी के पास रहती है।"
+      },
+      "explanation": {
+        "en": "Digital platforms like ECINET only streamline workflow and data management; statutory quasi-judicial power to approve or reject applications rests solely with the Electoral Registration Officer (ERO).",
+        "hi": "ECINET जैसे डिजिटल प्लेटफॉर्म केवल कार्यप्रवाह को सुगम बनाते हैं; आवेदनों को स्वीकार या अस्वीकार करने की वैधानिक अर्थ-न्यायिक शक्ति केवल निर्वाचक रजिस्ट्रीकरण अधिकारी (ERO) के पास निहित है।"
+      },
+      "key_takeaway": {
+        "en": "Regardless of the digital portal used, only the ERO has the legal authority to alter the electoral roll.",
+        "hi": "प्रयुक्त डिजिटल पोर्टल की परवाह किए बिना, मतदाता सूची को बदलने का कानूनी अधिकार केवल ईआरओ के पास है।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "[Q15] What does EVM stand for?",
+        "hi": "[प्र. 15] EVM का पूर्ण रूप क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "Electronic Voting Mechanism",
+          "hi": "इलेक्ट्रॉनिक वोटिंग मैकेनिज्म"
+        },
+        "b": {
+          "en": "Election Verification Machine",
+          "hi": "इलेक्शन वेरिफिकेशन मशीन"
+        },
+        "c": {
+          "en": "Electronic Voting Machine",
+          "hi": "इलेक्ट्रॉनिक वोटिंग मशीन"
+        },
+        "d": {
+          "en": "Electoral Vote Monitor",
+          "hi": "इलेक्टोरल वोट मॉनिटर"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It is an electronic piece of hardware that records and tallies votes.",
+        "hi": "यह हार्डवेयर का एक इलेक्ट्रॉनिक उपकरण है जो वोटों को रिकॉर्ड और टैली करता है।"
+      },
+      "explanation": {
+        "en": "EVM stands for Electronic Voting Machine, introduced in India to replace paper ballots, eliminate invalid votes, and speed up accurate counting.",
+        "hi": "EVM का पूर्ण रूप इलेक्ट्रॉनिक वोटिंग मशीन है, जिसे भारत में कागजी मतपत्रों की जगह लेने, अवैध मतों को समाप्त करने और सटीक मतगणना में तेजी लाने के लिए पेश किया गया था।"
+      },
+      "key_takeaway": {
+        "en": "EVMs revolutionized Indian elections by completely eliminating 'invalid' or 'rejected' votes common with paper ballots.",
+        "hi": "ईवीएम ने कागजी मतपत्रों में होने वाले 'अवैध' वोटों को पूरी तरह से समाप्त करके भारतीय चुनावों में क्रांति ला दी।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "[Q16] Which units make up the ECI-EVM system?",
+        "hi": "[प्र. 16] भारत निर्वाचन आयोग की ईवीएम (ECI-EVM) प्रणाली किन इकाइयों (यूनिटों) से मिलकर बनी होती है?"
+      },
+      "options": {
+        "a": {
+          "en": "Ballot Unit and Result Unit",
+          "hi": "बैलेट यूनिट और रिजल्ट यूनिट"
+        },
+        "b": {
+          "en": "Control Unit and Printer only",
+          "hi": "केवल कंट्रोल यूनिट और प्रिंटर"
+        },
+        "c": {
+          "en": "Display Unit and Memory Unit",
+          "hi": "डिस्प्ले यूनिट और मेमोरी यूनिट"
+        },
+        "d": {
+          "en": "Ballot Unit, Control Unit and VVPAT",
+          "hi": "बैलेट यूनिट (BU), कंट्रोल यूनिट (CU) और वीवीपैट (VVPAT)"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "The modern setup requires a button interface for the voter, a master console for the officer, and a paper-trail printer.",
+        "hi": "आधुनिक सेटअप में मतदाता के लिए बटन इंटरफ़ेस, अधिकारी के लिए मास्टर कंसोल और पेपर-ट्रेल प्रिंटर की आवश्यकता होती है।"
+      },
+      "explanation": {
+        "en": "An ECI-EVM setup consists of three interconnected units: the Control Unit (with the Presiding Officer), the Ballot Unit (inside the voting compartment), and the VVPAT printer.",
+        "hi": "ECI-EVM प्रणाली में तीन परस्पर जुड़ी इकाइयाँ होती हैं: कंट्रोल यूनिट (पीठासीन अधिकारी के पास), बैलेट यूनिट (मतदान प्रकोष्ठ के अंदर), और वीवीपैट (VVPAT) प्रिंटर।"
+      },
+      "key_takeaway": {
+        "en": "The addition of the VVPAT to the BU and CU triad ensures an undeniable physical paper trail of every electronic vote.",
+        "hi": "BU और CU में VVPAT का जुड़ना प्रत्येक इलेक्ट्रॉनिक वोट का एक निर्विवाद भौतिक कागजी रिकॉर्ड सुनिश्चित करता है।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "[Q17] Is the ECI-EVM connected to the internet or any external network?",
+        "hi": "[प्र. 17] क्या ECI-EVM इंटरनेट या किसी बाहरी नेटवर्क से जुड़ी होती है?"
+      },
+      "options": {
+        "a": {
+          "en": "Yes, during polling only",
+          "hi": "हाँ, केवल मतदान के दौरान"
+        },
+        "b": {
+          "en": "Yes, during counting only",
+          "hi": "हाँ, केवल मतगणना के दौरान"
+        },
+        "c": {
+          "en": "Yes, through Bluetooth",
+          "hi": "हाँ, ब्लूटूथ के माध्यम से"
+        },
+        "d": {
+          "en": "No, it is a standalone machine",
+          "hi": "नहीं, यह एक स्वतंत्र (Standalone) मशीन है"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "It lacks a modem, Wi-Fi chip, or any radio receiver, acting like an isolated calculator.",
+        "hi": "इसमें कोई मोडेम, वाई-फाई चिप या कोई रेडियो रिसीवर नहीं होता है, यह एक पृथक कैलकुलेटर की तरह काम करता है।"
+      },
+      "explanation": {
+        "en": "ECI-EVMs are completely standalone machines with no Wi-Fi, Bluetooth, internet, or radio frequency receiver/transmitter, making them immune to remote hacking.",
+        "hi": "ECI-EVM पूरी तरह से स्वतंत्र (Standalone) मशीनें हैं जिनमें कोई वाई-फाई, ब्लूटूथ, इंटरनेट या रेडियो फ्रीक्वेंसी ट्रांसमीटर नहीं होता है, जिससे वे रिमोट हैकिंग से सुरक्षित रहती हैं।"
+      },
+      "key_takeaway": {
+        "en": "The standalone air-gapped nature of ECI-EVMs guarantees protection against cyber-attacks and network manipulation.",
+        "hi": "ECI-EVM की स्वतंत्र और नेटवर्क-विहीन (Air-gapped) प्रकृति साइबर-हमलों के खिलाफ सुरक्षा की गारंटी देती है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "[Q18] For how many seconds is the VVPAT slip visible to the voter?",
+        "hi": "[प्र. 18] मतदाता को वीवीपैट (VVPAT) की पर्ची कितने सेकंड तक दिखाई देती है?"
+      },
+      "options": {
+        "a": {
+          "en": "3 seconds",
+          "hi": "3 सेकंड"
+        },
+        "b": {
+          "en": "5 seconds",
+          "hi": "5 सेकंड"
+        },
+        "c": {
+          "en": "15 seconds",
+          "hi": "15 सेकंड"
+        },
+        "d": {
+          "en": "7 seconds",
+          "hi": "7 सेकंड"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "It stays visible behind the glass just long enough for verification before automatically cutting and falling into the box.",
+        "hi": "यह कांच के पीछे केवल उतनी देर दिखाई देती है जो कटकर बॉक्स में गिरने से पहले सत्यापन के लिए पर्याप्त हो।"
+      },
+      "explanation": {
+        "en": "Once a voter presses the candidate button on the Ballot Unit, the VVPAT prints a paper slip and displays it behind a transparent glass window for 7 seconds before cutting and dropping it into the sealed drop box.",
+        "hi": "जब मतदाता बैलेट यूनिट पर उम्मीदवार का बटन दबाता है, तो वीवीपैट एक कागजी पर्ची प्रिंट करता है और उसे 7 सेकंड तक पारदर्शी कांच की खिड़की के पीछे दिखाता है, जिसके बाद वह कटकर सीलबंद बॉक्स में गिर जाती है।"
+      },
+      "key_takeaway": {
+        "en": "The 7-second visibility window provides immediate, tangible reassurance to the voter without delaying the queue.",
+        "hi": "7-सेकंड की दृश्यता विंडो कतार में देरी किए बिना मतदाता को तत्काल, मूर्त आश्वासन प्रदान करती है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "[Q19] What details are printed on the VVPAT slip?",
+        "hi": "[प्र. 19] वीवीपैट (VVPAT) की पर्ची पर कौन-से विवरण मुद्रित होते हैं?"
+      },
+      "options": {
+        "a": {
+          "en": "Voter's name and EPIC number",
+          "hi": "मतदाता का नाम और ईपिक (EPIC) संख्या"
+        },
+        "b": {
+          "en": "Polling station number only",
+          "hi": "केवल मतदान केंद्र संख्या"
+        },
+        "c": {
+          "en": "Party leader's name",
+          "hi": "पार्टी नेता का नाम"
+        },
+        "d": {
+          "en": "Serial number, name and symbol of the candidate",
+          "hi": "उम्मीदवार की क्रम संख्या, नाम और चुनाव चिह्न"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "To maintain secrecy, no voter data is printed; it only shows who received the vote.",
+        "hi": "गोपनीयता बनाए रखने के लिए, मतदाता का कोई डेटा प्रिंट नहीं किया जाता है; यह केवल यह दिखाता है कि वोट किसे मिला।"
+      },
+      "explanation": {
+        "en": "To preserve secrecy of the ballot while allowing visual verification, the VVPAT slip prints only the candidate's serial number, name, and election symbol—never any voter details.",
+        "hi": "मतदान की गोपनीयता बनाए रखते हुए दृश्य सत्यापन की अनुमति देने के लिए, वीवीपैट पर्ची पर केवल उम्मीदवार की क्रम संख्या, नाम और चुनाव चिह्न मुद्रित होता है- मतदाता का कोई विवरण नहीं होता।"
+      },
+      "key_takeaway": {
+        "en": "VVPAT slips ensure auditability of candidate selection while absolutely protecting voter anonymity.",
+        "hi": "वीवीपैट पर्चियाँ मतदाता की गुमनामी की पूर्ण रक्षा करते हुए उम्मीदवार के चयन की ऑडिटेबिलिटी सुनिश्चित करती हैं।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "[Q20] Which two public sector undertakings manufacture ECI-EVMs?",
+        "hi": "[प्र.20] कौन-से दो सार्वजनिक क्षेत्र के उपक्रम (PSUs) ECI-EVM का निर्माण करते हैं?"
+      },
+      "options": {
+        "a": {
+          "en": "HAL and BHEL",
+          "hi": "एचएएल (HAL) और भेल (BHEL)"
+        },
+        "b": {
+          "en": "ISRO and DRDO",
+          "hi": "इसरो (ISRO) और डीआरडीओ (DRDO)"
+        },
+        "c": {
+          "en": "BSNL and ITI",
+          "hi": "बीएसएनएल (BSNL) और आईटीआई (ITI)"
+        },
+        "d": {
+          "en": "BEL and ECIL",
+          "hi": "भारत इलेक्ट्रॉनिक्स लिमिटेड (BEL) और इलेक्ट्रॉनिक्स कॉर्पोरेशन ऑफ इंडिया लिमिटेड (ECIL)"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "One is under the Ministry of Defence (Bengaluru) and the other under the Dept of Atomic Energy (Hyderabad).",
+        "hi": "एक रक्षा मंत्रालय (बेंगलुरु) के अधीन है और दूसरा परमाणु ऊर्जा विभाग (हैदराबाद) के अधीन है।"
+      },
+      "explanation": {
+        "en": "ECI-EVMs are indigenously manufactured under strict security protocols exclusively by two Government of India PSUs: Bharat Electronics Limited (BEL) and Electronics Corporation of India Limited (ECIL).",
+        "hi": "ECI-EVM का निर्माण कड़े सुरक्षा प्रोटोकॉल के तहत विशेष रूप से भारत सरकार के दो सार्वजनिक उपक्रमों: भारत इलेक्ट्रॉनिक्स लिमिटेड (BEL) और इलेक्ट्रॉनिक्स कॉर्पोरेशन ऑफ इंडिया लिमिटेड (ECIL) द्वारा स्वदेशी रूप से किया जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Exclusive manufacturing by BEL and ECIL guarantees the hardware integrity and sovereign control of India's EVMs.",
+        "hi": "बीईएल और ईसीआईएल द्वारा विशेष निर्माण भारत के ईवीएम की हार्डवेयर अखंडता और संप्रभु नियंत्रण की गारंटी देता है।"
+      }
+    }
+  ]
+}
