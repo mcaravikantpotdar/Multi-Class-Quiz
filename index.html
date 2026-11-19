@@ -16,16 +16,17 @@
         <div class="upload-card">
             <div class="upload-icon">🎓</div>
             <h1>Student Assessment Portal</h1>
-            <p class="subtitle">Enter your details to unlock the chapters.</p>
+            <p class="subtitle">Verify your Student ID to unlock the chapters.</p>
             
             <div style="text-align: left; margin-bottom: 25px;">
-                <div style="margin-bottom: 15px;">
-                    <label style="display:block; font-weight:600; color:#475569; margin-bottom:5px;">Full Name</label>
-                    <input type="text" id="studentName" class="file-input" style="padding: 12px; cursor: text;" placeholder="e.g. Rahul Kumar" autocomplete="off">
+                <label for="studentIdInput" style="display:block; font-weight:700; font-size: 12px; color:#64748b; text-transform:uppercase; margin-bottom:6px;">Student Authentication</label>
+                <div class="auth-input-group">
+                    <input type="text" id="studentIdInput" class="file-input text-uppercase" style="margin-bottom: 0; cursor: text;" placeholder="Enter Student ID (e.g., STU101)" autocomplete="off">
+                    <button type="button" id="verifyStudentBtn" class="btn-secondary auth-verify-btn">Verify</button>
                 </div>
-                <div>
-                    <label style="display:block; font-weight:600; color:#475569; margin-bottom:5px;">School / Institution</label>
-                    <input type="text" id="schoolName" class="file-input" style="padding: 12px; cursor: text;" placeholder="e.g. Govt Model School" autocomplete="off">
+                <div id="authStatusBadge" class="auth-status-badge unverified">
+                    <span class="status-indicator"></span>
+                    <span id="authStatusText">Enter your Student ID to verify access</span>
                 </div>
             </div>
 
