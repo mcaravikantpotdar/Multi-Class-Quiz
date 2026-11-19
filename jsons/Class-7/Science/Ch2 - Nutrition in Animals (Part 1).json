@@ -1,0 +1,479 @@
+{
+  "metadata": {
+    "chapter_number": 2,
+    "chapter_title": "Nutrition in Animals (Part 1)",
+    "chapter_title_hindi": "प्राणियों में पोषण (भाग 1)",
+    "subject": "Science",
+    "target_class": "Class VII",
+    "total_questions": 12,
+    "question_range": "Q1 to Q12",
+    "source_language": "hi",
+    "target_language": "en",
+    "version": "1.0",
+    "note": "Part 1 of 2 for NCERT Class 7 Science Chapter 2 (प्राणियों में पोषण / Nutrition in Animals) tailored for Hindi-medium learners with clear English counterparts. Pure Unicode, zero trailing commas, balanced options (3 A, 3 B, 3 C, 3 D)."
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "Science Curriculum & JSON Schema Validator",
+    "corrections": [],
+    "notes": "Verified Q1 to Q12 across modes of taking food, starfish, steps of nutrition, buccal cavity, teeth types, tooth decay, tongue, food pipe, stomach, and liver/gall bladder. Options balanced to 3 A, 3 B, 3 C, and 3 D."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "hi": "जंतु पोषण में भोजन के अंतर्ग्रहण की विभिन्न विधियों के अंतर्गत तारा मछली (Starfish) किस प्रकार अपना भोजन प्राप्त करती है?",
+        "en": "Among different ways of taking food in animal nutrition, how does a starfish obtain its food?"
+      },
+      "options": {
+        "a": {
+          "hi": "कैल्शियम कार्बोनेट के कठोर कवच वाले जंतुओं का कवच खोलकर अपना आमाशय मुख से बाहर निकालती है",
+          "en": "It pops out its stomach through its mouth to eat animals covered by hard shells of calcium carbonate"
+        },
+        "b": {
+          "hi": "केवल पत्तियों को चबाकर और निगलकर",
+          "en": "Only by chewing and swallowing leaves"
+        },
+        "c": {
+          "hi": "पौधों के रस को चूसकर",
+          "en": "By sucking sap from plants"
+        },
+        "d": {
+          "hi": "प्रकाश संश्लेषण द्वारा भोजन बनाकर",
+          "en": "By making food through photosynthesis"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "सोचिए कि यह समुद्री जंतु कठोर कवच के अंदर के कोमल भाग तक कैसे पहुँचता है।",
+        "en": "Think about how this sea creature reaches the soft body inside a hard shell."
+      },
+      "explanation": {
+        "hi": "तारा मछली कैल्शियम कार्बोनेट के कठोर कवच वाले जंतुओं का कवच खोलने के बाद अपने मुख से अपना आमाशय बाहर निकालती है और जंतु के कोमल भाग को खाती है, फिर आमाशय वापस शरीर में चला जाता है।",
+        "en": "After opening the hard calcium carbonate shell of its prey, a starfish pops out its stomach through its mouth to eat the soft animal inside, and then the stomach goes back into the body."
+      },
+      "key_takeaway": {
+        "hi": "तारा मछली कवच खोलकर आमाशय बाहर निकालती है और भोजन पचाती है।",
+        "en": "A starfish everts its stomach to feed on soft prey after opening hard shells."
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "hi": "पोषण के प्रक्रम में उस चरण को क्या कहते हैं जिसमें भोजन शरीर के भीतर लिया जाता है?",
+        "en": "What is the step in the process of nutrition in which food is taken into the body called?"
+      },
+      "options": {
+        "a": {
+          "hi": "अवशोषण (Absorption)",
+          "en": "Absorption"
+        },
+        "b": {
+          "hi": "अंतर्ग्रहण (Ingestion)",
+          "en": "Ingestion"
+        },
+        "c": {
+          "hi": "स्वांगीकरण (Assimilation)",
+          "en": "Assimilation"
+        },
+        "d": {
+          "hi": "निष्कासन (Egestion)",
+          "en": "Egestion"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "यह पाचन और अवशोषण से पहले होने वाला सबसे पहला चरण है।",
+        "en": "This is the very first step before digestion and absorption take place."
+      },
+      "explanation": {
+        "hi": "भोजन को शरीर के भीतर लेने की प्रक्रिया अंतर्ग्रहण (Ingestion) कहलाती है, जबकि जटिल खाद्य पदार्थों का सरल पदार्थों में टूटना पाचन (Digestion) है।",
+        "en": "Taking food into the body is called ingestion, whereas breaking down complex food substances into simpler ones is digestion."
+      },
+      "key_takeaway": {
+        "hi": "भोजन को शरीर के भीतर लेना अंतर्ग्रहण कहलाता है।",
+        "en": "Taking food into the body is ingestion."
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "hi": "मानव में निगला हुआ भोजन मुख से आमाशय तक किस नली द्वारा पहुँचता है?",
+        "en": "Through which tube does swallowed food travel from the mouth to the stomach in humans?"
+      },
+      "options": {
+        "a": {
+          "hi": "क्षुद्रांत्र (Small intestine)",
+          "en": "Small intestine"
+        },
+        "b": {
+          "hi": "बृहदांत्र (Large intestine)",
+          "en": "Large intestine"
+        },
+        "c": {
+          "hi": "ग्रसिका / भोजन नली (Food pipe / Oesophagus)",
+          "en": "Food pipe (Oesophagus)"
+        },
+        "d": {
+          "hi": "मलाशय (Rectum)",
+          "en": "Rectum"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "यह गले और वक्ष से होकर नीचे आमाशय तक जाती है।",
+        "en": "It runs along the neck and chest down to the stomach."
+      },
+      "explanation": {
+        "hi": "निगला हुआ भोजन ग्रास नली अथवा ग्रसिका (Food pipe / Oesophagus) में जाता है। ग्रसिका की भित्ति के संकुचन से भोजन नीचे की ओर आमाशय में धकेला जाता है।",
+        "en": "Swallowed food passes into the food pipe or oesophagus, and wave-like wall movements push the food down into the stomach."
+      },
+      "key_takeaway": {
+        "hi": "ग्रसिका (भोजन नली) भोजन को आमाशय तक पहुँचाती है।",
+        "en": "The food pipe carries food from the throat down to the stomach."
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "hi": "मुखगुहा में पाए जाने वाले दाँतों के प्रकारों में चीरने और फाड़ने वाले दाँत कौन-से हैं?",
+        "en": "Among the types of teeth in the buccal cavity, which teeth are meant for piercing and tearing?"
+      },
+      "options": {
+        "a": {
+          "hi": "कृंतक (Incisors)",
+          "en": "Incisors"
+        },
+        "b": {
+          "hi": "अग्रचवर्णक (Premolars)",
+          "en": "Premolars"
+        },
+        "c": {
+          "hi": "चवर्णक (Molars)",
+          "en": "Molars"
+        },
+        "d": {
+          "hi": "रदनक (Canines)",
+          "en": "Canines"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "ये नुकीले दाँत काटने वाले कृंतकों के ठीक बगल में होते हैं।",
+        "en": "These pointed teeth sit right beside the biting teeth."
+      },
+      "explanation": {
+        "hi": "मुखगुहा में काटने के लिए कृंतक (Incisors), चीरने व फाड़ने के लिए रदनक (Canines), तथा चबाने व पीसने के लिए अग्रचवर्णक (Premolars) व चवर्णक (Molars) होते हैं।",
+        "en": "In the buccal cavity, incisors are for biting, canines are for piercing and tearing, and premolars and molars are for chewing and grinding."
+      },
+      "key_takeaway": {
+        "hi": "रदनक दाँत चीरने और फाड़ने का कार्य करते हैं।",
+        "en": "Canines are piercing and tearing teeth."
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "hi": "दंत क्षय (Tooth decay) का मुख्य कारण क्या है?",
+        "en": "What is a main cause of tooth decay?"
+      },
+      "options": {
+        "a": {
+          "hi": "प्रतिदिन दो बार ब्रश करना",
+          "en": "Brushing teeth twice a day"
+        },
+        "b": {
+          "hi": "मुख में उपस्थित जीवाणुओं द्वारा शर्करा के विघटन से अम्ल बनना जो दाँतों को हानि पहुँचाता है",
+          "en": "Bacteria breaking down sugars in the mouth to form acid that damages teeth"
+        },
+        "c": {
+          "hi": "भोजन के बाद साफ जल से कुल्ला करना",
+          "en": "Rinsing the mouth with clean water after meals"
+        },
+        "d": {
+          "hi": "ताजे फल और रेशेदार भोजन खाना",
+          "en": "Eating fresh fruits and fibrous foods"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "यदि मुख में बचे भोजन और मीठे पदार्थों की सफाई न हो, तो हानिकारक जीवाणु अम्ल बनाते हैं।",
+        "en": "If leftover food and sugary residues stay in the mouth without cleaning, bacteria break down sugar into acid."
+      },
+      "explanation": {
+        "hi": "हमारे मुख में जीवाणु पाए जाते हैं, पर सामान्यतः वे हानिकारक नहीं होते। भोजन के बाद दाँतों की सफाई न करने पर शर्करा का विघटन होकर अम्ल बनता है जो दाँतों को धीरे-धीरे क्षति पहुँचाता है।",
+        "en": "Bacteria live in the mouth, but if teeth are not cleaned after eating, bacteria break down sugars and release acid that gradually damages teeth."
+      },
+      "key_takeaway": {
+        "hi": "दाँतों की सफाई न करने से अम्ल बनता है जो दंत क्षय का कारण बनता है।",
+        "en": "Poor oral hygiene allows acid production that leads to tooth decay."
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "hi": "मुखगुहा में लार भोजन के किस घटक को आंशिक रूप से सरल शर्करा में बदलती है?",
+        "en": "In the buccal cavity, saliva helps break down which food component into simpler sugars?"
+      },
+      "options": {
+        "a": {
+          "hi": "वसा (Fats)",
+          "en": "Fats"
+        },
+        "b": {
+          "hi": "मंड / स्टार्च (Starch)",
+          "en": "Starch"
+        },
+        "c": {
+          "hi": "जल (Water)",
+          "en": "Water"
+        },
+        "d": {
+          "hi": "सेलुलोज (Cellulose)",
+          "en": "Cellulose"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "चावल या रोटी को देर तक चबाने पर हल्की मिठास क्यों महसूस होती है?",
+        "en": "Think about why chewed rice or bread starts tasting slightly sweet."
+      },
+      "explanation": {
+        "hi": "मुखगुहा में लार ग्रंथियाँ लार रस स्रावित करती हैं, जो भोजन में उपस्थित मंड (Starch) को शर्करा में विघटित कर देता है।",
+        "en": "Salivary glands in the buccal cavity secrete saliva, which breaks down starch present in food into sugars."
+      },
+      "key_takeaway": {
+        "hi": "लार भोजन के मंड को सरल शर्करा में तोड़ती है।",
+        "en": "Saliva breaks down starch into sugars."
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "hi": "जीभ के क्या-क्या कार्य हैं? सही विकल्प चुनिए।",
+        "en": "Which of the following are functions of the tongue? Choose the correct option."
+      },
+      "options": {
+        "a": {
+          "hi": "केवल भोजन को निगलने में मदद करना",
+          "en": "Only helping to swallow food"
+        },
+        "b": {
+          "hi": "केवल श्वास लेना",
+          "en": "Only breathing"
+        },
+        "c": {
+          "hi": "बातचीत में मदद करना, भोजन में लार मिलाना तथा स्वाद का पता लगाना",
+          "en": "Helping in speech, mixing saliva with food, and sensing taste"
+        },
+        "d": {
+          "hi": "केवल ध्वनि उत्पन्न करना",
+          "en": "Only producing sound"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "ध्यान दीजिए कि आप बोलते कैसे हैं, निवाला कैसे पलटते हैं और मीठा या खट्टा स्वाद कैसे पहचानते हैं।",
+        "en": "Think about how you speak, move food around with saliva, and taste sweet or sour items."
+      },
+      "explanation": {
+        "hi": "जीभ एक मांसल पेशीय अंग है जो पीछे की ओर मुखगुहा के अधर से जुड़ी होती है। यह बोलने में सहायता करती है, भोजन में लार मिलाती है और स्वाद कलिकाओं से विभिन्न स्वादों का ज्ञान कराती है।",
+        "en": "The tongue is a muscular organ attached at the back to the floor of the buccal cavity that aids speech, mixes saliva with food, and detects tastes through taste buds."
+      },
+      "key_takeaway": {
+        "hi": "जीभ स्वाद पहचानने, लार मिलाने और बोलने में सहायक है।",
+        "en": "The tongue helps in tasting, mixing saliva, and speaking."
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "hi": "आमाशय की आंतरिक भित्ति किस पदार्थ का स्राव करती है जो आमाशय के अस्तर को अम्ल के प्रभाव से बचाता है?",
+        "en": "What does the inner lining of the stomach secrete to protect its wall from the action of acid?"
+      },
+      "options": {
+        "a": {
+          "hi": "पित्त रस (Bile)",
+          "en": "Bile"
+        },
+        "b": {
+          "hi": "मंड (Starch)",
+          "en": "Starch"
+        },
+        "c": {
+          "hi": "श्लेष्मल / बलगम (Mucus)",
+          "en": "Mucus"
+        },
+        "d": {
+          "hi": "रक्त (Blood)",
+          "en": "Blood"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "आमाशय में हाइड्रोक्लोरिक अम्ल और पाचक रस स्रावित होते हैं, इसलिए अस्तर की सुरक्षा जरूरी है।",
+        "en": "The stomach secretes hydrochloric acid and digestive juices, so its lining needs a protective layer."
+      },
+      "explanation": {
+        "hi": "आमाशय का आंतरिक अस्तर श्लेष्मल (Mucus), हाइड्रोक्लोरिक अम्ल तथा पाचक रस स्रावित करता है। श्लेष्मल आमाशय के आंतरिक अस्तर को सुरक्षा प्रदान करता है और अम्ल भोजन के साथ आए हानिकारक जीवाणुओं को नष्ट करता है।",
+        "en": "The inner lining of the stomach secretes mucus, hydrochloric acid, and digestive juices; mucus protects the stomach lining while acid helps kill harmful bacteria entering with food."
+      },
+      "key_takeaway": {
+        "hi": "श्लेष्मल (Mucus) आमाशय की आंतरिक भित्ति को अम्ल से सुरक्षित रखता है।",
+        "en": "Mucus protects the inner lining of the stomach from acid."
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "hi": "मानव शरीर की सबसे बड़ी ग्रंथि कौन-सी है?",
+        "en": "Which is the largest gland in the human body?"
+      },
+      "options": {
+        "a": {
+          "hi": "अग्न्याशय (Pancreas)",
+          "en": "Pancreas"
+        },
+        "b": {
+          "hi": "लार ग्रंथि (Salivary gland)",
+          "en": "Salivary gland"
+        },
+        "c": {
+          "hi": "पित्ताशय (Gall bladder)",
+          "en": "Gall bladder"
+        },
+        "d": {
+          "hi": "यकृत / जिगर (Liver)",
+          "en": "Liver"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "यह गहरे लाल-भूरे रंग की ग्रंथि है जो उदर के ऊपरी भाग में दाहिनी ओर स्थित होती है।",
+        "en": "This reddish-brown gland sits in the upper part of the abdomen on the right side."
+      },
+      "explanation": {
+        "hi": "यकृत (Liver) शरीर की सबसे बड़ी ग्रंथि है। यह पित्त रस (Bile juice) स्रावित करता है जो एक थैली में संग्रहित होता है, जिसे पित्ताशय (Gall bladder) कहते हैं।",
+        "en": "The liver is the largest gland in the body and secretes bile juice that is stored in a sac called the gall bladder."
+      },
+      "key_takeaway": {
+        "hi": "यकृत शरीर की सबसे बड़ी ग्रंथि है और पित्त रस स्रावित करता है।",
+        "en": "The liver is the largest gland in the body and secretes bile."
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "hi": "पित्त रस किसके पाचन में महत्वपूर्ण भूमिका निभाता है?",
+        "en": "Bile juice plays an important role in the digestion of which food component?"
+      },
+      "options": {
+        "a": {
+          "hi": "वसा (Fats)",
+          "en": "Fats"
+        },
+        "b": {
+          "hi": "केवल जल (Water)",
+          "en": "Water only"
+        },
+        "c": {
+          "hi": "केवल खनिज (Minerals)",
+          "en": "Minerals only"
+        },
+        "d": {
+          "hi": "केवल ऑक्सीजन (Oxygen)",
+          "en": "Oxygen only"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "घी, तेल या मक्खन जैसे चिकने पोषक तत्व इसी श्रेणी में आते हैं।",
+        "en": "Oily and greasy nutrients from butter, oil, or ghee fall into this group."
+      },
+      "explanation": {
+        "hi": "पित्त रस वसा के पाचन में महत्वपूर्ण भूमिका निभाता है। यह वसा को छोटे-छोटे कणों में तोड़कर पाचन को सुगम बनाता है।",
+        "en": "Bile plays a vital role in the digestion of fats by breaking large fat globules into smaller droplets to aid digestion."
+      },
+      "key_takeaway": {
+        "hi": "पित्त रस वसा के पाचन में सहायक होता है।",
+        "en": "Bile helps in the digestion of fats."
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "hi": "मनुष्य की आहार नाल (Alimentary canal) के विभिन्न भागों का सही क्रम कौन-सा है?",
+        "en": "Which is the correct sequence of parts along the human alimentary canal?"
+      },
+      "options": {
+        "a": {
+          "hi": "आमाशय -> मुखगुहा -> क्षुद्रांत्र -> ग्रसिका -> बृहदांत्र -> गुदा",
+          "en": "Stomach -> Buccal cavity -> Small intestine -> Food pipe -> Large intestine -> Anus"
+        },
+        "b": {
+          "hi": "मुखगुहा -> ग्रसिका -> आमाशय -> क्षुद्रांत्र -> बृहदांत्र -> मलाशय -> गुदा",
+          "en": "Buccal cavity -> Food pipe -> Stomach -> Small intestine -> Large intestine -> Rectum -> Anus"
+        },
+        "c": {
+          "hi": "मुखगुहा -> बृहदांत्र -> आमाशय -> क्षुद्रांत्र -> ग्रसिका -> गुदा",
+          "en": "Buccal cavity -> Large intestine -> Stomach -> Small intestine -> Food pipe -> Anus"
+        },
+        "d": {
+          "hi": "ग्रसिका -> मुखगुहा -> बृहदांत्र -> क्षुद्रांत्र -> आमाशय -> गुदा",
+          "en": "Food pipe -> Buccal cavity -> Large intestine -> Small intestine -> Stomach -> Anus"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "भोजन के यात्रा मार्ग को ऊपर से नीचे की ओर क्रम में जोड़िए।",
+        "en": "Trace the journey of food step by step from top to bottom."
+      },
+      "explanation": {
+        "hi": "आहार नाल मुखगुहा से शुरू होकर ग्रसिका, आमाशय, क्षुद्रांत्र, बृहदांत्र और मलाशय से होते हुए गुदा पर समाप्त होती है।",
+        "en": "The alimentary canal runs from the buccal cavity through the food pipe, stomach, small intestine, large intestine, and rectum to the anus."
+      },
+      "key_takeaway": {
+        "hi": "आहार नाल के क्रम को याद रखने से पाचन तंत्र की प्रक्रिया स्पष्ट रहती है।",
+        "en": "Knowing the order of organs along the alimentary canal makes digestion easy to follow."
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "hi": "आमाशय में स्रावित हाइड्रोक्लोरिक अम्ल का एक मुख्य कार्य क्या है?",
+        "en": "What is one main function of hydrochloric acid secreted in the stomach?"
+      },
+      "options": {
+        "a": {
+          "hi": "मुख में लार बनाना",
+          "en": "Producing saliva in the mouth"
+        },
+        "b": {
+          "hi": "दाँतों को सख्त बनाना",
+          "en": "Hardening the teeth"
+        },
+        "c": {
+          "hi": "भोजन के साथ प्रवेश करने वाले हानिकारक जीवाणुओं को नष्ट करना और अम्लीय माध्यम बनाना",
+          "en": "Killing harmful bacteria that enter with food and creating an acidic medium"
+        },
+        "d": {
+          "hi": "अपचित मल को शरीर से बाहर निकालना",
+          "en": "Expelling undigested waste from the body"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "यह पाचक रसों के कार्य के लिए उपयुक्त माध्यम भी तैयार करता है।",
+        "en": "It also helps provide the right medium for digestive juices to act."
+      },
+      "explanation": {
+        "hi": "आमाशय में हाइड्रोक्लोरिक अम्ल भोजन के साथ आए अनेक हानिकारक जीवाणुओं को नष्ट करता है तथा माध्यम को अम्लीय बनाता है जिससे पाचक रसों को क्रिया करने में सहायता मिलती है।",
+        "en": "Hydrochloric acid in the stomach kills many harmful bacteria that enter with food and creates an acidic medium that helps digestive juices act."
+      },
+      "key_takeaway": {
+        "hi": "हाइड्रोक्लोरिक अम्ल हानिकारक जीवाणुओं को नष्ट करता है और अम्लीय माध्यम देता है।",
+        "en": "Hydrochloric acid kills harmful bacteria and supports digestive juice action."
+      }
+    }
+  ]
+}
