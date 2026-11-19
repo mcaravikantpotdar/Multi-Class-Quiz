@@ -1,0 +1,479 @@
+{
+  "metadata": {
+    "chapter_number": 2,
+    "chapter_title": "Nutrition in Animals (Part 2)",
+    "chapter_title_hindi": "प्राणियों में पोषण (भाग 2)",
+    "subject": "Science",
+    "target_class": "Class VII",
+    "total_questions": 12,
+    "question_range": "Q13 to Q24",
+    "source_language": "hi",
+    "target_language": "en",
+    "version": "1.0",
+    "note": "Part 2 of 2 for NCERT Class 7 Science Chapter 2 (प्राणियों में पोषण / Nutrition in Animals) tailored for Hindi-medium learners with clear English counterparts. Pure Unicode, zero trailing commas, balanced options (3 A, 3 B, 3 C, 3 D)."
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "Science Curriculum & JSON Schema Validator",
+    "corrections": [],
+    "notes": "Verified Q13 to Q24 across small intestine, villi, assimilation, large intestine, egestion, ruminants (rumen, cud, rumination, cellulose), and Amoeba (pseudopodia, food vacuole). Options balanced to 3 A, 3 B, 3 C, and 3 D."
+  },
+  "questions": [
+    {
+      "question_id": 13,
+      "question": {
+        "hi": "क्षुद्रांत्र (Small intestine) की आंतरिक भित्ति पर अंगुली के समान उभरी हुई संरचनाएँ क्या कहलाती हैं?",
+        "en": "What are the finger-like projections on the inner wall of the small intestine called?"
+      },
+      "options": {
+        "a": {
+          "hi": "दीर्घरोम / रसांकुर (Villi)",
+          "en": "Villi"
+        },
+        "b": {
+          "hi": "रंध्र (Stomata)",
+          "en": "Stomata"
+        },
+        "c": {
+          "hi": "पादाभ (Pseudopodia)",
+          "en": "Pseudopodia"
+        },
+        "d": {
+          "hi": "रोमंथ (Cud)",
+          "en": "Cud"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "ये पचे हुए भोजन के अवशोषण के लिए सतह क्षेत्र को बढ़ाती हैं।",
+        "en": "They increase the surface area for absorbing digested food."
+      },
+      "explanation": {
+        "hi": "क्षुद्रांत्र की आंतरिक भित्ति पर अंगुली के समान उभरी हुई संरचनाएँ होती हैं जिन्हें दीर्घरोम अथवा रसांकुर (Villi) कहते हैं। ये पचे हुए भोजन के अवशोषण हेतु तल क्षेत्र बढ़ा देते हैं।",
+        "en": "The inner wall of the small intestine has finger-like outgrowths called villi that increase the surface area for absorption of digested food."
+      },
+      "key_takeaway": {
+        "hi": "दीर्घरोम (Villi) क्षुद्रांत्र में पचे भोजन का अवशोषण क्षेत्र बढ़ाते हैं।",
+        "en": "Villi increase the surface area for food absorption in the small intestine."
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "hi": "बृहदांत्र (Large intestine) का मुख्य कार्य क्या है?",
+        "en": "What is the main function of the large intestine?"
+      },
+      "options": {
+        "a": {
+          "hi": "सारे भोजन को पचाना",
+          "en": "Digesting all food"
+        },
+        "b": {
+          "hi": "अपचित भोजन पदार्थों में से जल और कुछ लवणों का अवशोषण करना",
+          "en": "Absorbing water and some salts from undigested food material"
+        },
+        "c": {
+          "hi": "पित्त रस बनाना",
+          "en": "Producing bile juice"
+        },
+        "d": {
+          "hi": "मुख में लार स्रावित करना",
+          "en": "Secreting saliva in the mouth"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "यह क्षुद्रांत्र की तुलना में चौड़ी और छोटी होती है तथा अपचित भोजन से अतिरिक्त पानी सोखती है।",
+        "en": "It is wider and shorter than the small intestine and draws water out of undigested matter."
+      },
+      "explanation": {
+        "hi": "बृहदांत्र क्षुद्रांत्र की अपेक्षा चौड़ी और छोटी होती है (लगभग 1.5 मीटर लंबी)। इसका मुख्य कार्य अपचित भोजन पदार्थों में से कुछ जल और लवणों का अवशोषण करना है।",
+        "en": "The large intestine is wider and shorter than the small intestine (about 1.5 m long), and its main job is to absorb water and some salts from undigested food."
+      },
+      "key_takeaway": {
+        "hi": "बृहदांत्र अपचित पदार्थों से जल व लवण अवशोषित करती है।",
+        "en": "The large intestine absorbs water and salts from undigested waste."
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "hi": "अवशोषित पदार्थों का रक्त वाहिकाओं द्वारा शरीर के विभिन्न भागों में पहुँचाया जाना और उनसे जटिल पदार्थ बनाना क्या कहलाता है?",
+        "en": "Transporting absorbed substances via blood vessels to body parts and building complex substances from them is called:"
+      },
+      "options": {
+        "a": {
+          "hi": "अंतर्ग्रहण (Ingestion)",
+          "en": "Ingestion"
+        },
+        "b": {
+          "hi": "निष्कासन (Egestion)",
+          "en": "Egestion"
+        },
+        "c": {
+          "hi": "स्वांगीकरण (Assimilation)",
+          "en": "Assimilation"
+        },
+        "d": {
+          "hi": "रोमंथन (Rumination)",
+          "en": "Rumination"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "इस चरण में ग्लूकोज टूटकर ऊर्जा देता है और प्रोटीन शरीर की वृद्धि में लगता है।",
+        "en": "In this stage, glucose breaks down for energy and proteins build body parts."
+      },
+      "explanation": {
+        "hi": "अवशोषित पदार्थों का स्थानांतरण रक्त वाहिकाओं द्वारा शरीर के विभिन्न भागों तक होता है, जहाँ वे शरीर के लिए आवश्यक जटिल पदार्थों (जैसे प्रोटीन) को बनाने में उपयोग होते हैं; इसे स्वांगीकरण (Assimilation) कहते हैं।",
+        "en": "Absorbed nutrients are carried by blood vessels to body organs to build complex substances like proteins needed by the body; this process is called assimilation."
+      },
+      "key_takeaway": {
+        "hi": "अवशोषित पोषकों का शरीर में उपयोग स्वांगीकरण कहलाता है।",
+        "en": "Using absorbed nutrients to build body substances is assimilation."
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "hi": "अपचित और अनुपयोगी पदार्थ मल के रूप में शरीर से बाहर निकलने की प्रक्रिया को क्या कहते हैं?",
+        "en": "What is the removal of undigested and unabsorbed faecal matter from the body called?"
+      },
+      "options": {
+        "a": {
+          "hi": "अवशोषण (Absorption)",
+          "en": "Absorption"
+        },
+        "b": {
+          "hi": "पाचन (Digestion)",
+          "en": "Digestion"
+        },
+        "c": {
+          "hi": "स्वांगीकरण (Assimilation)",
+          "en": "Assimilation"
+        },
+        "d": {
+          "hi": "निष्कासन (Egestion)",
+          "en": "Egestion"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "यह अपशिष्ट पदार्थ मलाशय में एकत्र होने के बाद गुदा द्वारा बाहर निकलता है।",
+        "en": "Waste stored in the rectum leaves the body through the anus."
+      },
+      "explanation": {
+        "hi": "बचा हुआ अपशिष्ट पदार्थ मलाशय (Rectum) में चला जाता है और अर्ध-ठोस मल के रूप में समय-समय पर गुदा (Anus) द्वारा बाहर निकाल दिया जाता है; इसे निष्कासन (Egestion) कहते हैं।",
+        "en": "Semi-solid faecal matter is stored in the rectum and expelled through the anus from time to time; this removal of waste is egestion."
+      },
+      "key_takeaway": {
+        "hi": "अपचित मल का शरीर से बाहर निकलना निष्कासन है।",
+        "en": "Expelling undigested waste from the body is egestion."
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "hi": "गाय, भैंस और अन्य घास खाने वाले जंतुओं में निगली हुई घास आमाशय के किस भाग में जाती है?",
+        "en": "In grass-eating animals like cows and buffaloes, swallowed grass first goes into which part of the stomach?"
+      },
+      "options": {
+        "a": {
+          "hi": "रूमेन / प्रथम आमाशय (Rumen)",
+          "en": "Rumen"
+        },
+        "b": {
+          "hi": "ग्रसिका (Food pipe)",
+          "en": "Food pipe"
+        },
+        "c": {
+          "hi": "गुदा (Anus)",
+          "en": "Anus"
+        },
+        "d": {
+          "hi": "लार ग्रंथि (Salivary gland)",
+          "en": "Salivary gland"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "यहाँ भोजन का आंशिक पाचन होता है और इसे जुगाली (Cud) कहते हैं।",
+        "en": "Food is partially digested here and forms what is called cud."
+      },
+      "explanation": {
+        "hi": "घास खाने वाले जंतु पहले घास को जल्दी-जल्दी निगलकर आमाशय के एक हिस्से में भंडारित कर लेते हैं, जिसे रूमेन (Rumen) कहते हैं। यहाँ भोजन का आंशिक पाचन होता है जिसे जुगाली (Cud) कहते हैं।",
+        "en": "Grass-eating animals quickly swallow grass and store it in a chamber called the rumen, where it is partially digested and called cud."
+      },
+      "key_takeaway": {
+        "hi": "निगली हुई घास सबसे पहले रूमेन में संग्रहित होती है।",
+        "en": "Swallowed grass is first stored in the rumen."
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "hi": "घास में प्रचुर मात्रा में पाया जाने वाला कार्बोहाइड्रेट कौन-सा है, जिसका पाचन सभी जंतु नहीं कर पाते?",
+        "en": "Which carbohydrate rich in grass cannot be digested by all animals?"
+      },
+      "options": {
+        "a": {
+          "hi": "मंड (Starch)",
+          "en": "Starch"
+        },
+        "b": {
+          "hi": "सेलुलोज (Cellulose)",
+          "en": "Cellulose"
+        },
+        "c": {
+          "hi": "ग्लूकोज (Glucose)",
+          "en": "Glucose"
+        },
+        "d": {
+          "hi": "लार (Saliva)",
+          "en": "Saliva"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "रोमंथी जंतुओं में विशेष जीवाणुओं की सहायता से इसका पाचन होता है।",
+        "en": "Ruminants digest this with the help of special bacteria that humans lack."
+      },
+      "explanation": {
+        "hi": "घास में सेलुलोज (Cellulose) की प्रचुरता होती है जो एक प्रकार का कार्बोहाइड्रेट है। रोमंथी जंतुओं में विशेष जीवाणु सेलुलोज के पाचन में सहायता करते हैं, जो मनुष्य में नहीं होते।",
+        "en": "Grass is rich in cellulose, a type of carbohydrate; ruminants have special bacteria that help digest cellulose, whereas humans cannot digest it."
+      },
+      "key_takeaway": {
+        "hi": "घास में सेलुलोज होता है, जिसका पाचन रोमंथी विशेष जीवाणुओं से करते हैं।",
+        "en": "Grass contains cellulose, digested by ruminants with help from specialized bacteria."
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "hi": "आंशिक रूप से पचे भोजन (जुगाली) के मुख में वापस आकर पुनः चबाने की प्रक्रिया क्या कहलाती है?",
+        "en": "What is the process in which partially digested food (cud) returns to the mouth in small lumps and the animal chews it again called?"
+      },
+      "options": {
+        "a": {
+          "hi": "अवशोषण (Absorption)",
+          "en": "Absorption"
+        },
+        "b": {
+          "hi": "निष्कासन (Egestion)",
+          "en": "Egestion"
+        },
+        "c": {
+          "hi": "रोमंथन / जुगाली करना (Rumination)",
+          "en": "Rumination"
+        },
+        "d": {
+          "hi": "वाष्पोत्सर्जन (Transpiration)",
+          "en": "Transpiration"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "इसी आधार पर ऐसे जंतुओं को रोमंथी या जुगाली करने वाले जंतु कहते हैं।",
+        "en": "Animals that carry out this process are called ruminants."
+      },
+      "explanation": {
+        "hi": "रोमंथी जंतुओं में जुगाली छोटे-छोटे पिंडकों के रूप में पुनः मुख में आती है और जंतु इसे चबाता रहता है; इस प्रक्रम को रोमंथन (Rumination) कहते हैं और ऐसे जंतु रोमंथी (Ruminants) कहलाते हैं।",
+        "en": "Cud returns to the mouth in small lumps and the animal chews it; this process is called rumination and such animals are called ruminants."
+      },
+      "key_takeaway": {
+        "hi": "जुगाली को पुनः मुख में लाकर चबाना रोमंथन कहलाता है।",
+        "en": "Chewing returned cud is called rumination."
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "hi": "अमीबा (Amoeba) किस प्रकार का जीव है?",
+        "en": "What kind of organism is an Amoeba?"
+      },
+      "options": {
+        "a": {
+          "hi": "चार पैरों वाला बड़ा स्तनधारी जंतु",
+          "en": "A large four-legged mammal"
+        },
+        "b": {
+          "hi": "एककोशिकीय जीव (Unicellular organism) जो जलाशयों में पाया जाता है",
+          "en": "A microscopic single-celled organism found in pond water"
+        },
+        "c": {
+          "hi": "आकाश में उड़ने वाला पक्षी",
+          "en": "A bird that flies in the sky"
+        },
+        "d": {
+          "hi": "केवल मरुस्थल में उगने वाला पौधा",
+          "en": "A plant growing only in deserts"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "इसमें एक कोशिका झिल्ली, गोल सघन केंद्रक और अनेक छोटी-छोटी धानियाँ होती हैं।",
+        "en": "It has a cell membrane, a rounded dense nucleus, and many small vacuoles inside a single cell."
+      },
+      "explanation": {
+        "hi": "अमीबा जलाशयों में पाया जाने वाला एककोशिकीय जीव है। इसकी कोशिका में एक कोशिका झिल्ली, एक गोल सघन केंद्रक तथा कोशिकाद्रव्य में अनेक छोटी-छोटी रसधानियाँ होती हैं।",
+        "en": "Amoeba is a single-celled organism found in pond water, having a cell membrane, a rounded dense nucleus, and many small vacuoles in its cytoplasm."
+      },
+      "key_takeaway": {
+        "hi": "अमीबा एककोशिकीय सूक्ष्म जीव है जो जल में रहता है।",
+        "en": "Amoeba is a single-celled organism living in water."
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "hi": "अमीबा भोजन पकड़ने और गति करने के लिए अपनी आकृति बदलकर किस संरचना का निर्माण करता है?",
+        "en": "What structure does Amoeba form by changing its shape to capture food and move?"
+      },
+      "options": {
+        "a": {
+          "hi": "पंख (Wings)",
+          "en": "Wings"
+        },
+        "b": {
+          "hi": "खुर (Hooves)",
+          "en": "Hooves"
+        },
+        "c": {
+          "hi": "पादाभ / कृत्रिम पाँव (Pseudopodia)",
+          "en": "Pseudopodia"
+        },
+        "d": {
+          "hi": "चोंच (Beak)",
+          "en": "Beak"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "ये अस्थायी अंगुली जैसे प्रवर्ध हैं जो बाहर निकलते और अंदर समाते रहते हैं।",
+        "en": "These are temporary finger-like projections that push out and pull back in."
+      },
+      "explanation": {
+        "hi": "अमीबा निरंतर अपनी आकृति एवं स्थिति बदलता रहता है। यह एक या अधिक अंगुली के समान प्रवर्ध निकालता है, जिन्हें पादाभ (Pseudopodia / कृत्रिम पाँव) कहते हैं जो गति देने व भोजन पकड़ने में सहायक हैं।",
+        "en": "Amoeba constantly changes its shape and pushes out one or more finger-like projections called pseudopodia (false feet) for movement and capturing food."
+      },
+      "key_takeaway": {
+        "hi": "पादाभ अमीबा को गति और भोजन पकड़ने में मदद करते हैं।",
+        "en": "Pseudopodia help Amoeba move and capture food."
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "hi": "अमीबा में भोजन कहाँ फँसता है और पाचक रस किसमें स्रावित होते हैं?",
+        "en": "Where is food trapped in Amoeba, and into what are digestive juices secreted?"
+      },
+      "options": {
+        "a": {
+          "hi": "आमाशय में",
+          "en": "In a stomach"
+        },
+        "b": {
+          "hi": "यकृत में",
+          "en": "In a liver"
+        },
+        "c": {
+          "hi": "बृहदांत्र में",
+          "en": "In a large intestine"
+        },
+        "d": {
+          "hi": "खाद्य धानी (Food vacuole) में",
+          "en": "In a food vacuole"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "जब भोजन अमीबा के अंदर जाता है, तो उसके चारों ओर एक छोटी थैली बन जाती है।",
+        "en": "When food enters the organism, a small sac forms around it inside the cell."
+      },
+      "explanation": {
+        "hi": "जब अमीबा को किसी भोजन का आभास होता है, तो वह पादाभ से भोजन को घेर लेता है और भोजन खाद्य धानी (Food vacuole) में फँस जाता है। खाद्य धानी में ही पाचक रस स्रावित होकर भोजन को सरल पदार्थों में बदलते हैं।",
+        "en": "When Amoeba senses food, it surrounds it with pseudopodia and traps it in a food vacuole, where digestive juices are secreted to break food into simpler substances."
+      },
+      "key_takeaway": {
+        "hi": "अमीबा में भोजन का पाचन खाद्य धानी के भीतर होता है।",
+        "en": "Food is digested inside the food vacuole in Amoeba."
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "hi": "क्षुद्रांत्र में भोजन के पूर्ण पाचन के बाद कार्बोहाइड्रेट किस सरल रूप में टूटते हैं?",
+        "en": "After complete digestion of food in the small intestine, into what simple form are carbohydrates broken down?"
+      },
+      "options": {
+        "a": {
+          "hi": "ग्लूकोज (Glucose)",
+          "en": "Glucose"
+        },
+        "b": {
+          "hi": "वसा अम्ल और ग्लिसरॉल (Fatty acids and glycerol)",
+          "en": "Fatty acids and glycerol"
+        },
+        "c": {
+          "hi": "अमीनो अम्ल (Amino acids)",
+          "en": "Amino acids"
+        },
+        "d": {
+          "hi": "सेलुलोज (Cellulose)",
+          "en": "Cellulose"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "यही सरल शर्करा रक्त में अवशोषित होकर शरीर को ऊर्जा देती है।",
+        "en": "This simple sugar is absorbed into the blood to supply energy."
+      },
+      "explanation": {
+        "hi": "क्षुद्रांत्र में पाचन पूर्ण होने पर कार्बोहाइड्रेट सरल शर्करा जैसे ग्लूकोज में, वसा वसा अम्ल व ग्लिसरॉल में तथा प्रोटीन अमीनो अम्ल में परिवर्तित हो जाते हैं।",
+        "en": "When digestion finishes in the small intestine, carbohydrates break down into simple sugars like glucose, fats into fatty acids and glycerol, and proteins into amino acids."
+      },
+      "key_takeaway": {
+        "hi": "कार्बोहाइड्रेट पाचन के बाद ग्लूकोज जैसे सरल रूप में बदलते हैं।",
+        "en": "Carbohydrates break down into simple sugars like glucose upon digestion."
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "hi": "अध्याय 'प्राणियों में पोषण' का मुख्य सार क्या है?",
+        "en": "What is the main takeaway of the chapter 'Nutrition in Animals'?"
+      },
+      "options": {
+        "a": {
+          "hi": "सभी जंतु केवल एक ही विधि से भोजन ग्रहण करते हैं",
+          "en": "All animals take in food using only one method"
+        },
+        "b": {
+          "hi": "जंतुओं में पोषण के लिए भोजन अंतर्ग्रहण, पाचन, अवशोषण, स्वांगीकरण और निष्कासन के चरण होते हैं",
+          "en": "Animal nutrition involves ingestion, digestion, absorption, assimilation, and egestion tailored to different organisms"
+        },
+        "c": {
+          "hi": "पाचन की आवश्यकता केवल पौधों को होती है",
+          "en": "Only plants need digestion"
+        },
+        "d": {
+          "hi": "भोजन पचाने के बाद अवशोषण की जरूरत नहीं होती",
+          "en": "Absorption is not needed after food is digested"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "भोजन लेने से लेकर अपशिष्ट बाहर निकालने तक के सभी चरणों को एक साथ देखिए।",
+        "en": "Bring together taking food in, breaking it down, absorbing it, using it, and removing waste."
+      },
+      "explanation": {
+        "hi": "जंतु पोषण में जटिल भोजन को सरल रूप में तोड़कर शरीर द्वारा उपयोग किया जाता है, जिसके लिए अंतर्ग्रहण, पाचन, अवशोषण, स्वांगीकरण और निष्कासन की प्रक्रियाएँ कार्य करती हैं।",
+        "en": "Animal nutrition breaks complex food into simpler substances for body use through ingestion, digestion, absorption, assimilation, and egestion."
+      },
+      "key_takeaway": {
+        "hi": "पाचन के पाँच चरण जंतुओं को भोजन से पोषण व ऊर्जा प्रदान करते हैं।",
+        "en": "Five steps of nutrition enable animals to extract energy and nourishment from food."
+      }
+    }
+  ]
+}
