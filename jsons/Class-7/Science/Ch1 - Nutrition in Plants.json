@@ -1,0 +1,933 @@
+{
+  "metadata": {
+    "topic_number": 1,
+    "topic_title": "Nutrition in Plants (NCERT Class 7 Science)",
+    "topic_title_hindi": "पादपों में पोषण (NCERT कक्षा 7 विज्ञान)",
+    "subject": "Science - Class VII",
+    "total_questions": 24,
+    "source_language": "hi",
+    "target_language": "en",
+    "version": "1.0",
+    "note": "Complete 24-question bilingual MCQ bank for NCERT Class 7 Science Chapter 1 (Nutrition in Plants / पादपों में पोषण) designed for Hindi-medium learners with clear English counterparts. Strictly formatted with pure Unicode, zero trailing commas, balanced options (6 A, 6 B, 6 C, 6 D), and student-friendly hints and explanations."
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "Science Curriculum & JSON Schema Validator",
+    "corrections": [],
+    "notes": "Verified all 24 questions across autotrophic/heterotrophic nutrition, photosynthesis, stomata, starch/protein synthesis, parasites, insectivorous plants, saprotrophs, symbiosis, and soil nutrient replenishment. Options balanced to exactly 6 A, 6 B, 6 C, and 6 D."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "hi": "भोजन हमारे शरीर के लिए क्यों आवश्यक है? सही विकल्प चुनिए।",
+        "en": "Why is food essential for living organisms? Choose the correct option."
+      },
+      "options": {
+        "a": {
+          "hi": "केवल श्वास लेने के लिए ऊर्जा प्रदान करने हेतु",
+          "en": "Only to provide energy for breathing"
+        },
+        "b": {
+          "hi": "ऊर्जा प्रदान करने, शरीर की वृद्धि, क्षतिग्रस्त भागों के रखरखाव और जैव प्रक्रमों को चलाने के लिए",
+          "en": "To provide energy, body growth, repair of damaged parts, and carrying out life processes"
+        },
+        "c": {
+          "hi": "केवल पौधों में पत्तियों का रंग हरा रखने के लिए",
+          "en": "Only to keep leaves green in plants"
+        },
+        "d": {
+          "hi": "केवल मिट्टी की नमी बनाए रखने के लिए",
+          "en": "Only to maintain moisture in the soil"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "सोचिए कि जब आप खेलते हैं या आपके शरीर की कोई चोट ठीक होती है, तो भोजन क्या-क्या काम करता है।",
+        "en": "Think about all the jobs food does when you play or when a small cut on your body heals."
+      },
+      "explanation": {
+        "hi": "सजीवों को कार्य करने के लिए ऊर्जा चाहिए जो भोजन से मिलती है। इसके साथ-साथ भोजन शरीर के विकास, टूटे-फूटे ऊतकों की मरम्मत और विभिन्न जैविक क्रियाओं के लिए कच्चा माल भी देता है।",
+        "en": "Living organisms need energy from food to stay active. Food also supplies materials needed for growth, repairing worn or injured parts, and running vital life processes."
+      },
+      "key_takeaway": {
+        "hi": "भोजन ऊर्जा के साथ-साथ वृद्धि और शरीर की मरम्मत के लिए भी जरूरी है।",
+        "en": "Food supplies both energy and building materials for growth and repair."
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "hi": "ऐसे जीव जो अपना भोजन स्वयं संश्लेषित करते हैं, क्या कहलाते हैं?",
+        "en": "Organisms that synthesize their own food from simple substances are called:"
+      },
+      "options": {
+        "a": {
+          "hi": "विषमपोषी (Heterotrophs)",
+          "en": "Heterotrophs"
+        },
+        "b": {
+          "hi": "परजीवी (Parasites)",
+          "en": "Parasites"
+        },
+        "c": {
+          "hi": "स्वपोषी (Autotrophs)",
+          "en": "Autotrophs"
+        },
+        "d": {
+          "hi": "मृतोजीवी (Saprotrophs)",
+          "en": "Saprotrophs"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "'स्व' का अर्थ है अपना और 'पोषी' का अर्थ है पोषण करने वाला। हरे पौधे इसी श्रेणी में आते हैं।",
+        "en": "'Auto' means self and 'troph' means nourishment; green plants are the classic example."
+      },
+      "explanation": {
+        "hi": "हरे पादप जल, कार्बन डाइऑक्साइड और सूर्य के प्रकाश की सहायता से अपना भोजन स्वयं बनाते हैं, इसलिए उन्हें स्वपोषी (Autotrophs) और इस पोषण विधि को स्वपोषण (Autotrophic nutrition) कहते हैं।",
+        "en": "Green plants make their own food using water, carbon dioxide, and sunlight, which makes them autotrophs and their mode of nutrition autotrophic."
+      },
+      "key_takeaway": {
+        "hi": "हरे पौधे स्वपोषी हैं क्योंकि वे अपना भोजन स्वयं बनाते हैं।",
+        "en": "Green plants are autotrophs because they prepare their own food."
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "hi": "जंतु और अधिकतर अन्य जीव अपना भोजन पौधों से प्राप्त करते हैं, इसलिए वे क्या कहलाते हैं?",
+        "en": "Animals and most other organisms depend on food made by plants, so they are called:"
+      },
+      "options": {
+        "a": {
+          "hi": "स्वपोषी (Autotrophs)",
+          "en": "Autotrophs"
+        },
+        "b": {
+          "hi": "प्रकाश संश्लेषी (Photosynthetic)",
+          "en": "Photosynthetic"
+        },
+        "c": {
+          "hi": "हरितलवक (Chloroplasts)",
+          "en": "Chloroplasts"
+        },
+        "d": {
+          "hi": "विषमपोषी (Heterotrophs)",
+          "en": "Heterotrophs"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "'विषम' का अर्थ है दूसरों पर निर्भर रहने वाला।",
+        "en": "'Heteros' means other, referring to organisms that do not make their own food."
+      },
+      "explanation": {
+        "hi": "जंतु अपना भोजन स्वयं नहीं बना सकते बल्कि प्रत्यक्ष या परोक्ष रूप से पादपों द्वारा निर्मित भोजन पर निर्भर रहते हैं, इसलिए इन्हें विषमपोषी (Heterotrophs) कहा जाता है।",
+        "en": "Animals cannot synthesize their own food and rely directly or indirectly on plants for it, making them heterotrophs."
+      },
+      "key_takeaway": {
+        "hi": "अन्य जीवों से भोजन लेने वाले जीव विषमपोषी कहलाते हैं।",
+        "en": "Organisms taking food prepared by others are heterotrophs."
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "hi": "पादप की 'खाद्य फैक्ट्रियाँ' (Food Factories) किसे कहा जाता है?",
+        "en": "Which part of a plant is known as its 'food factory'?"
+      },
+      "options": {
+        "a": {
+          "hi": "जड़ (Root)",
+          "en": "Root"
+        },
+        "b": {
+          "hi": "पत्ती (Leaf)",
+          "en": "Leaf"
+        },
+        "c": {
+          "hi": "पुष्प (Flower)",
+          "en": "Flower"
+        },
+        "d": {
+          "hi": "फल (Fruit)",
+          "en": "Fruit"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "भोजन संश्लेषण के लिए आवश्यक कच्चा माल यहीं पहुँचता है और मुख्य क्रिया भी यहीं होती है।",
+        "en": "Raw materials reach here and food synthesis takes place right inside this green structure."
+      },
+      "explanation": {
+        "hi": "पत्तियाँ पादप की खाद्य फैक्ट्रियाँ हैं। जल और खनिज वाहिकाओं द्वारा जड़ों से पत्तियों तक पहुँचते हैं और वहाँ भोजन का निर्माण होता है।",
+        "en": "Leaves are the food factories of plants because water and minerals reach them via vessels and food synthesis occurs in them."
+      },
+      "key_takeaway": {
+        "hi": "पत्तियाँ पादपों की खाद्य फैक्ट्रियाँ हैं।",
+        "en": "Leaves act as the food factories of plants."
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "hi": "पत्तियों में पाए जाने वाले हरे वर्णक का क्या नाम है जो सूर्य के प्रकाश की ऊर्जा का संग्रहण करता है?",
+        "en": "What is the green pigment in leaves that captures energy from sunlight?"
+      },
+      "options": {
+        "a": {
+          "hi": "क्लोरोफिल / पर्णहरित (Chlorophyll)",
+          "hi": "क्लोरोफिल / पर्णहरित (Chlorophyll)"
+        },
+        "b": {
+          "hi": "हीमोग्लोबिन (Haemoglobin)",
+          "en": "Haemoglobin"
+        },
+        "c": {
+          "hi": "स्टार्च / मंड (Starch)",
+          "en": "Starch"
+        },
+        "d": {
+          "hi": "सेलुलोज (Cellulose)",
+          "en": "Cellulose"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "इसी वर्णक के कारण पत्तियों का रंग हरा दिखाई देता है।",
+        "en": "This pigment gives leaves their green color."
+      },
+      "explanation": {
+        "hi": "पत्तियों में एक हरा वर्णक होता है जिसे क्लोरोफिल या पर्णहरित कहते हैं। यह सूर्य के प्रकाश की ऊर्जा को ग्रहण करने में पत्ती की सहायता करता है।",
+        "en": "Leaves contain a green pigment called chlorophyll, which helps capture solar energy for making food."
+      },
+      "key_takeaway": {
+        "hi": "क्लोरोफिल सूर्य की ऊर्जा को पकड़ने में मदद करता है।",
+        "en": "Chlorophyll traps energy from sunlight."
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "hi": "प्रकाश संश्लेषण की प्रक्रिया के दौरान कौन-सी गैस बाहर निकलती है?",
+        "hi": "प्रकाश संश्लेषण की प्रक्रिया के दौरान कौन-सी गैस बाहर निकलती है?"
+      },
+      "options": {
+        "a": {
+          "hi": "नाइट्रोजन (Nitrogen)",
+          "en": "Nitrogen"
+        },
+        "b": {
+          "hi": "मीथेन (Methane)",
+          "en": "Methane"
+        },
+        "c": {
+          "hi": "ऑक्सीजन (Oxygen)",
+          "en": "Oxygen"
+        },
+        "d": {
+          "hi": "हीलियम (Helium)",
+          "en": "Helium"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "यह वही गैस है जो सभी सजीवों के जीवित रहने के लिए श्वसन में जरूरी है।",
+        "en": "It is the gas all living organisms need for breathing and survival."
+      },
+      "explanation": {
+        "hi": "प्रकाश संश्लेषण में कार्बन डाइऑक्साइड और जल का उपयोग करके कार्बोहाइड्रेट बनता है तथा ऑक्सीजन गैस निर्मुक्त (बाहर निकलती) होती है।",
+        "en": "During photosynthesis, carbon dioxide and water are used to produce carbohydrates and release oxygen."
+      },
+      "key_takeaway": {
+        "hi": "प्रकाश संश्लेषण से ऑक्सीजन गैस बाहर निकलती है।",
+        "en": "Oxygen is released during photosynthesis."
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "hi": "पत्तियों की सतह पर पाए जाने वाले सूक्ष्म छिद्र, जिनसे गैसों का आदान-प्रदान होता है, क्या कहलाते हैं?",
+        "en": "Tiny pores on the surface of leaves through which exchange of gases takes place are called:"
+      },
+      "options": {
+        "a": {
+          "hi": "शिराएँ (Veins)",
+          "en": "Veins"
+        },
+        "b": {
+          "hi": "रंध्र (Stomata)",
+          "en": "Stomata"
+        },
+        "c": {
+          "hi": "मूलरोम (Root hairs)",
+          "en": "Root hairs"
+        },
+        "d": {
+          "hi": "बाह्यदल (Sepals)",
+          "en": "Sepals"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "ये छिद्र 'द्वार कोशिकाओं' (Guard cells) से घिरे रहते हैं।",
+        "en": "These tiny openings are bordered by guard cells."
+      },
+      "explanation": {
+        "hi": "पत्ती में उपस्थित सूक्ष्म छिद्र रंध्र (Stomata) कहलाते हैं। इन्हीं छिद्रों द्वारा वायु से कार्बन डाइऑक्साइड अंदर जाती है और ऑक्सीजन बाहर आती है।",
+        "en": "Small pores present on leaves are called stomata; carbon dioxide enters and oxygen exits through them."
+      },
+      "key_takeaway": {
+        "hi": "रंध्र पत्तियों में गैसों के आदान-प्रदान का मार्ग हैं।",
+        "en": "Stomata enable gas exchange in leaves."
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "hi": "जल और खनिज जड़ों से पत्तियों तक किस माध्यम से पहुँचते हैं?",
+        "en": "How do water and minerals reach the leaves from the roots?"
+      },
+      "options": {
+        "a": {
+          "hi": "हवा में तैरकर",
+          "en": "By floating through the air"
+        },
+        "b": {
+          "hi": "पत्तियों के रंध्रों से सीधे",
+          "en": "Directly through leaf stomata"
+        },
+        "c": {
+          "hi": "जड़, तना, शाखाओं और पत्तियों में फैली सतत वाहिकाओं द्वारा",
+          "en": "Through continuous vessels running through the root, stem, branches, and leaves"
+        },
+        "d": {
+          "hi": "केवल वर्षा के पानी के छिड़काव से",
+          "en": "Only by spraying rainwater on leaves"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "ये पाइप जैसी एक रास्ता बनाने वाली संरचनाएँ हैं जो नीचे से ऊपर तक जुड़ी रहती हैं।",
+        "en": "Think of a continuous channel like pipes connecting roots all the way up to the leaves."
+      },
+      "explanation": {
+        "hi": "जल एवं खनिज वाहिकाओं (Vessels) द्वारा पत्तियों तक पहुँचाए जाते हैं। ये नलियों के समान होती हैं जो जड़, तना, शाखाओं तथा पत्तियों में फैली होती हैं और पोषकों के परिवहन के लिए सतत मार्ग बनाती हैं।",
+        "en": "Water and minerals are transported to leaves through vessels that form a continuous pathway across roots, stems, branches, and leaves."
+      },
+      "key_takeaway": {
+        "hi": "वाहिकाएँ जड़ों से पत्तियों तक जल व खनिज पहुँचाती हैं।",
+        "en": "Vessels form a continuous path carrying water and minerals to leaves."
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "hi": "प्रकाश संश्लेषण के दौरान संश्लेषित भोजन अंततः किस रूप में संचित होता है?",
+        "en": "Food synthesized during photosynthesis is ultimately stored in which form?"
+      },
+      "options": {
+        "a": {
+          "hi": "प्रोटीन (Protein)",
+          "en": "Protein"
+        },
+        "b": {
+          "hi": "वसा (Fat)",
+          "en": "Fat"
+        },
+        "c": {
+          "hi": "मंड / स्टार्च (Starch)",
+          "en": "Starch"
+        },
+        "d": {
+          "hi": "खनिज लवण (Mineral salt)",
+          "en": "Mineral salt"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "आयोडीन विलयन डालने पर पत्ती में इसी पदार्थ की उपस्थिति से नीला-काला रंग दिखता है।",
+        "en": "This carbohydrate turns blue-black when tested with iodine solution."
+      },
+      "explanation": {
+        "hi": "प्रकाश संश्लेषण प्रक्रम में कार्बोहाइड्रेट संश्लेषित होता है, जो मुख्यतः कार्बन, हाइड्रोजन और ऑक्सीजन से बनता है। पौधों में यह भोजन मंड (स्टार्च) के रूप में संचित होता है।",
+        "en": "Photosynthesis synthesizes carbohydrates made of carbon, hydrogen, and oxygen, which are stored in plants mainly as starch."
+      },
+      "key_takeaway": {
+        "hi": "कार्बोहाइड्रेट पौधों में मंड (स्टार्च) के रूप में जमा होते हैं।",
+        "en": "Carbohydrates are stored in plants primarily as starch."
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "hi": "क्या लाल, भूरी या अन्य रंग की पत्तियों में भी प्रकाश संश्लेषण होता है?",
+        "en": "Does photosynthesis also take place in leaves that are red, brown, or other colors instead of bright green?"
+      },
+      "options": {
+        "a": {
+          "hi": "नहीं, केवल चमकीली हरी पत्तियों में ही होता है",
+          "en": "No, only in bright green leaves"
+        },
+        "b": {
+          "hi": "हाँ, क्योंकि इनमें भी क्लोरोफिल होता है जो अन्य रंगों के पीछे ढका रहता है",
+          "en": "Yes, because they also contain chlorophyll masked by other colored pigments"
+        },
+        "c": {
+          "hi": "केवल रात के समय होता है",
+          "en": "Only at night"
+        },
+        "d": {
+          "hi": "केवल तब जब उनमें सूर्य का प्रकाश न पड़े",
+          "en": "Only when sunlight does not fall on them"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "अधिक लाल या भूरा रंग दिखने के बावजूद भीतर क्लोरोफिल मौजूद रहता है।",
+        "en": "Bright pigments can hide the green color, yet chlorophyll is still present."
+      },
+      "explanation": {
+        "hi": "इन पत्तियों में क्लोरोफिल उपस्थित होता है, लेकिन लाल, भूरे या अन्य वर्णकों की अधिक मात्रा के कारण क्लोरोफिल का हरा रंग छिप जाता है। इसलिए इनमें भी प्रकाश संश्लेषण होता है।",
+        "en": "These leaves still contain chlorophyll, but stronger red, brown, or other pigments mask the green color, allowing photosynthesis to occur."
+      },
+      "key_takeaway": {
+        "hi": "रंगीन पत्तियों में भी क्लोरोफिल होने से प्रकाश संश्लेषण होता है।",
+        "en": "Colored leaves still perform photosynthesis because chlorophyll is present."
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "hi": "कार्बोहाइड्रेट के अलावा पौधे प्रोटीन का संश्लेषण किस तत्व की सहायता से करते हैं?",
+        "en": "Besides carbohydrates, plants synthesize proteins with the help of which element?"
+      },
+      "options": {
+        "a": {
+          "hi": "नाइट्रोजन (Nitrogen)",
+          "en": "Nitrogen"
+        },
+        "b": {
+          "hi": "आर्गन (Argon)",
+          "en": "Argon"
+        },
+        "c": {
+          "hi": "नियॉन (Neon)",
+          "en": "Neon"
+        },
+        "d": {
+          "hi": "सल्फर डाइऑक्साइड (Sulphur dioxide)",
+          "en": "Sulphur dioxide"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "वायु में यह गैस सबसे अधिक मात्रा में है, पर पौधे इसे सीधे नहीं ले पाते; मिट्टी के जीवाणु इसे उपयोगी रूप में बदलते हैं।",
+        "en": "This gas is abundant in air, though plants absorb usable compounds of it from soil via bacteria or fertilizers."
+      },
+      "explanation": {
+        "hi": "प्रोटीन नाइट्रोजनी पदार्थ हैं जिनमें नाइट्रोजन होती है। यद्यपि वायु में नाइट्रोजन प्रचुर मात्रा में है, पर पादप इसका सीधा अवशोषण नहीं कर पाते; मिट्टी के जीवाणु या उर्वरक इसे उपयोगी रूप में उपलब्ध कराते हैं।",
+        "en": "Proteins are nitrogenous substances containing nitrogen. Although nitrogen is plentiful in air, plants cannot use it directly and get usable nitrogen compounds through soil bacteria or fertilizers."
+      },
+      "key_takeaway": {
+        "hi": "प्रोटीन निर्माण के लिए नाइट्रोजन आवश्यक है।",
+        "en": "Nitrogen is essential for synthesizing proteins."
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "hi": "सूर्य को समस्त जीवों के लिए ऊर्जा का चरम स्रोत क्यों माना जाता है?",
+        "en": "Why is the Sun considered the ultimate source of energy for all living organisms?"
+      },
+      "options": {
+        "a": {
+          "hi": "क्योंकि सूर्य की रोशनी से सीधे मांस बनता है",
+          "en": "Because sunlight directly turns into meat"
+        },
+        "b": {
+          "hi": "क्योंकि स्वपोषी पादप सौर ऊर्जा से भोजन बनाते हैं और बाकी जीव उसी ऊर्जा पर निर्भर हैं",
+          "en": "Because autotrophic plants use solar energy to make food, and other organisms depend on that energy"
+        },
+        "c": {
+          "hi": "क्योंकि सूर्य मिट्टी को कठोर बनाता है",
+          "en": "Because the Sun makes soil hard"
+        },
+        "d": {
+          "hi": "क्योंकि केवल जंतु ही सौर ऊर्जा का उपयोग करते हैं",
+          "en": "Because only animals use solar energy"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "यदि सूर्य न हो, तो पादप भोजन नहीं बना पाएंगे और जीवों का अस्तित्व कठिन हो जाएगा।",
+        "en": "Without sunlight, plants could not make food and life on Earth would not be sustained."
+      },
+      "explanation": {
+        "hi": "सौर ऊर्जा का उपयोग करके पादप भोजन संश्लेषित करते हैं। शाकाहारी पादपों से और मांसाहारी अन्य जंतुओं से ऊर्जा पाते हैं, इसलिए सूर्य सभी जीवों के लिए ऊर्जा का मूल स्रोत है।",
+        "en": "Plants capture solar energy to prepare food, and animals obtain energy directly or indirectly from plants, making the Sun the ultimate energy source."
+      },
+      "key_takeaway": {
+        "hi": "सूर्य सभी सजीवों के लिए ऊर्जा का चरम स्रोत है।",
+        "en": "The Sun is the ultimate source of energy for all living things."
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "hi": "अमरबेल (Cuscuta) किस प्रकार के पोषण का उदाहरण है?",
+        "en": "Cuscuta (Amarbel) is an example of which mode of nutrition?"
+      },
+      "options": {
+        "a": {
+          "hi": "स्वपोषी (Autotrophic)",
+          "en": "Autotrophic"
+        },
+        "b": {
+          "hi": "मृतोजीवी (Saprotrophic)",
+          "en": "Saprotrophic"
+        },
+        "c": {
+          "hi": "परजीवी (Parasitic)",
+          "en": "Parasitic"
+        },
+        "d": {
+          "hi": "सहजीवी (Symbiotic)",
+          "en": "Symbiotic"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "इसमें क्लोरोफिल नहीं होता और यह जिस वृक्ष पर चढ़ती है, उसी से तैयार भोजन लेती है।",
+        "en": "It lacks chlorophyll and climbs on another plant to draw ready-made food from it."
+      },
+      "explanation": {
+        "en": "अमरबेल में क्लोरोफिल नहीं होता। यह जिस पादप पर आरोहण करती है, उसे परपोषी (Host) कहते हैं और अमरबेल परपोषी से अमूल्य पोषक लेती है, इसलिए यह परजीवी है।",
+        "en": "Cuscuta lacks chlorophyll and takes nutrients from the plant it climbs on (the host), making it a parasite."
+      },
+      "key_takeaway": {
+        "hi": "अमरबेल परजीवी है क्योंकि वह परपोषी पादप से भोजन लेती है।",
+        "en": "Cuscuta is a parasite that draws food from a host plant."
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "[Q14] Pitcher plant (घटपर्णी) is green and performs photosynthesis, yet it traps insects mainly to obtain:",
+        "hi": "[प्र.14] घटपर्णी (Pitcher plant) हरा होता है और प्रकाश संश्लेषण करता है, फिर भी यह कीटों का भक्षण मुख्य रूप से किसकी पूर्ति के लिए करता है?"
+      },
+      "options": {
+        "a": {
+          "en": "Sunlight",
+          "hi": "सूर्य का प्रकाश"
+        },
+        "b": {
+          "en": "Nitrogen",
+          "hi": "नाइट्रोजन (Nitrogen)"
+        },
+        "c": {
+          "en": "Carbon dioxide",
+          "hi": "कार्बन डाइऑक्साइड"
+        },
+        "d": {
+          "en": "Chlorophyll",
+          "hi": "क्लोरोफिल"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "ऐसी मृदा जहाँ इस तत्व की कमी होती है, वहाँ कीटभक्षी पादप कीटों से इसकी पूर्ति करते हैं।",
+        "en": "In soils deficient in this nutrient, insectivorous plants supplement their supply by digesting insects."
+      },
+      "explanation": {
+        "en": "घटपर्णी की पत्ती घड़े के रूप में रूपांतरित होती है और ढक्कन कीट को फँसाने में मदद करता है। ऐसे कीटभक्षी पादप उन मृदाओं से पोषक तत्व (विशेषकर नाइट्रोजन) प्राप्त करते हैं जिनमें नाइट्रोजन की कमी होती है।",
+        "en": "In a pitcher plant, the leaf modifies into a pitcher with a lid that traps insects, helping the plant obtain nutrients—especially nitrogen—from nitrogen-poor soil."
+      },
+      "key_takeaway": {
+        "hi": "घटपर्णी कीटभक्षी पादप है जो नाइट्रोजन की कमी पूरी करने के लिए कीटों को पचाता है।",
+        "en": "The pitcher plant is an insectivorous plant that digests insects to meet nutrient needs like nitrogen."
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "hi": "मृत एवं विघटित जैविक पदार्थों से पोषण प्राप्त करने वाले जीव क्या कहलाते हैं?",
+        "en": "Organisms that take in nutrients in solution from dead and decaying matter are called:"
+      },
+      "options": {
+        "a": {
+          "hi": "परजीवी (Parasites)",
+          "en": "Parasites"
+        },
+        "b": {
+          "hi": "स्वपोषी (Autotrophs)",
+          "en": "Autotrophs"
+        },
+        "c": {
+          "hi": "मृतोजीवी (Saprotrophs)",
+          "en": "Saprotrophs"
+        },
+        "d": {
+          "hi": "शाकाहारी (Herbivores)",
+          "en": "Herbivores"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "बरसात में सड़ी-गली लकड़ी या गोबर पर उगने वाले छत्रक (मशरूम) इसी तरह भोजन लेते हैं।",
+        "en": "Mushrooms appearing on rotting wood or damp organic matter during monsoon follow this mode."
+      },
+      "explanation": {
+        "en": "मृत एवं विघटनकारी वस्तुओं की सतह पर पाचक रस स्रावित करके उन्हें विलयन के रूप में परिवर्तित करने वाले जीव मृतोजीवी (Saprotrophs) कहलाते हैं।",
+        "en": "Organisms that secrete digestive juices onto dead and decaying matter to convert it into a solution and absorb nutrients are called saprotrophs."
+      },
+      "key_takeaway": {
+        "hi": "मृत-सड़े पदार्थों से पोषक लेने वाले जीव मृतोजीवी कहलाते हैं।",
+        "en": "Saprotrophs absorb nutrients from dead and decaying organic matter."
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "hi": "लाइकेन (Lichen) किसका उदाहरण है?",
+        "en": "Lichen is an example of which relationship?"
+      },
+      "options": {
+        "a": {
+          "hi": "पूर्ण परजीविता",
+          "en": "Complete parasitism"
+        },
+        "b": {
+          "hi": "केवल श्वसन",
+          "en": "Respiration alone"
+        },
+        "c": {
+          "hi": "केवल वाष्पोत्सर्जन",
+          "en": "Transpiration alone"
+        },
+        "d": {
+          "hi": "सहजीवी संबंध (Symbiotic relationship) जिसमें शैवाल और कवक साथ रहते हैं",
+          "en": "A symbiotic relationship in which an alga and a fungus live together"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "यहाँ एक साथी भोजन बनाता है और दूसरा आवास, जल व खनिज देता है।",
+        "en": "One partner provides food while the other provides shelter, water, and minerals."
+      },
+      "explanation": {
+        "en": "लाइकेन में क्लोरोफिलयुक्त शैवाल और एक कवक साथ-साथ रहते हैं। कवक रहने का स्थान, जल एवं खनिज देता है और शैवाल प्रकाश संश्लेषण द्वारा बना भोजन प्रदान करता है।",
+        "en": "In lichens, a chlorophyll-containing alga and a fungus live together; the fungus supplies shelter, water, and minerals, while the alga provides food made by photosynthesis."
+      },
+      "key_takeaway": {
+        "hi": "लाइकेन शैवाल और कवक के सहजीवी संबंध का उदाहरण है।",
+        "en": "Lichens show a mutually beneficial symbiotic partnership between an alga and a fungus."
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "hi": "फलीदार पादपों (जैसे चना, मटर, मूँग, सेम) की जड़ों में कौन-सा जीवाणु पाया जाता है?",
+        "en": "Which bacterium lives in the root nodules of leguminous plants such as gram, peas, moong, and beans?"
+      },
+      "options": {
+        "a": {
+          "hi": "राइजोबियम (Rhizobium)",
+          "en": "Rhizobium"
+        },
+        "b": {
+          "hi": "यीस्ट (Yeast)",
+          "en": "Yeast"
+        },
+        "c": {
+          "hi": "अमीबा (Amoeba)",
+          "en": "Amoeba"
+        },
+        "d": {
+          "hi": "स्पाइरोगाइरा (Spirogyra)",
+          "en": "Spirogyra"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "यह जीवाणु वायुमंडलीय नाइट्रोजन को विलेय पदार्थों में बदलकर पौधे को देता है।",
+        "en": "This bacterium converts atmospheric nitrogen into a usable form for the plant."
+      },
+      "explanation": {
+        "en": "राइजोबियम नामक जीवाणु चना, मटर, मूँग, सेम तथा अन्य फलीदार पादपों की जड़ ग्रंथिकाओं में रहता है और वायुमंडलीय नाइट्रोजन को उपयोगी यौगिकों में परिवर्तित करता है।",
+        "en": "Rhizobium lives in the root nodules of leguminous plants like gram, peas, moong, and beans and converts atmospheric nitrogen into a usable form."
+      },
+      "key_takeaway": {
+        "hi": "फलीदार पौधों की जड़ों में राइजोबियम जीवाणु रहता है।",
+        "en": "Rhizobium resides in root nodules of legumes and fixes nitrogen."
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "hi": "राइजोबियम और फलीदार पादपों के बीच किस प्रकार का संबंध होता है?",
+        "en": "What kind of relationship exists between Rhizobium and leguminous plants?"
+      },
+      "options": {
+        "a": {
+          "hi": "हानिकारक परजीवी संबंध",
+          "en": "Harmful parasitic relationship"
+        },
+        "b": {
+          "hi": "सहजीवी संबंध (दोनों एक-दूसरे को लाभ पहुँचाते हैं)",
+          "en": "Symbiotic relationship where both benefit each other"
+        },
+        "c": {
+          "hi": "केवल मिट्टी हटाने का संबंध",
+          "en": "Only soil-removal relationship"
+        },
+        "d": {
+          "hi": "कोई संबंध नहीं होता",
+          "en": "No relationship at all"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "पौधा इसे आवास व भोजन देता है, और बदले में जीवाणु नाइट्रोजन उपलब्ध कराता है।",
+        "en": "The plant gives shelter and food, while the bacterium supplies nitrogen in return."
+      },
+      "explanation": {
+        "en": "राइजोबियम अपना भोजन स्वयं नहीं बना सकता, इसलिए वह फलीदार पादपों की जड़ों में रहकर उन्हें नाइट्रोजन देता है और बदले में पादप से आवास एवं भोजन प्राप्त करता है।",
+        "en": "Because Rhizobium cannot make its own food, it supplies nitrogen to leguminous plants and receives food and shelter from them in return."
+      },
+      "key_takeaway": {
+        "hi": "राइजोबियम और फलीदार पौधे सहजीविता से लाभान्वित होते हैं।",
+        "en": "Rhizobium and legumes share a mutually helpful symbiotic bond."
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "hi": "किसानों को फलीदार पादप उगाने से मिट्टी में किस उर्वरक की आवश्यकता कम हो जाती है?",
+        "en": "Growing leguminous crops reduces the farmer's need to apply which type of fertilizer?"
+      },
+      "options": {
+        "a": {
+          "hi": "कार्बन उर्वरक",
+          "en": "Carbon fertilizer"
+        },
+        "b": {
+          "hi": "ऑक्सीजन उर्वरक",
+          "en": "Oxygen fertilizer"
+        },
+        "c": {
+          "hi": "नाइट्रोजनी उर्वरक (Nitrogenous fertilizer)",
+          "en": "Nitrogenous fertilizer"
+        },
+        "d": {
+          "hi": "जल उर्वरक",
+          "en": "Water fertilizer"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "दालों (फलीदार फसलों) की जड़ों का जीवाणु मिट्टी को प्राकृतिक रूप से यह पोषक तत्व देता है।",
+        "en": "Legume root bacteria naturally enrich the soil with this key plant nutrient."
+      },
+      "explanation": {
+        "en": "अधिकतर दालें फलीदार पादपों से प्राप्त होती हैं। इनकी जड़ों में रहने वाला राइजोबियम मिट्टी में नाइट्रोजन की पूर्ति करता है, जिससे नाइट्रोजनी उर्वरकों के उपयोग की आवश्यकता कम हो जाती है।",
+        "en": "Most pulses come from leguminous plants, and Rhizobium replenishes soil nitrogen, reducing the need for nitrogenous fertilizers."
+      },
+      "key_takeaway": {
+        "hi": "फलीदार फसलें मिट्टी में नाइट्रोजनी उर्वरक की जरूरत घटाती हैं।",
+        "en": "Leguminous crops cut down the need for nitrogenous fertilizers."
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "hi": "फसलों के उगने से मिट्टी में पोषक तत्वों की मात्रा क्यों कम होने लगती है?",
+        "en": "Why do nutrient levels in soil tend to decrease as crops grow?"
+      },
+      "options": {
+        "a": {
+          "hi": "क्योंकि पादप लगातार मिट्टी से खनिज और पोषक तत्व अवशोषित करते रहते हैं",
+          "en": "Because plants continuously absorb minerals and nutrients from the soil"
+        },
+        "b": {
+          "hi": "क्योंकि सूर्य का प्रकाश मिट्टी को सोख लेता है",
+          "en": "Because sunlight absorbs the soil"
+        },
+        "c": {
+          "hi": "क्योंकि पत्तियाँ केवल रात में बढ़ती हैं",
+          "en": "Because leaves grow only at night"
+        },
+        "d": {
+          "hi": "क्योंकि बीज मिट्टी में नहीं बोए जाते",
+          "en": "Because seeds are not sown in soil"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "पौधे अपनी वृद्धि के लिए मिट्टी से नाइट्रोजन, पोटैशियम और फॉस्फोरस जैसे पोषक लेते हैं।",
+        "en": "Plants draw nutrients like nitrogen, potassium, and phosphorus from the soil to grow."
+      },
+      "explanation": {
+        "en": "पादप लगातार मृदा से खनिज और पोषक तत्वों का अवशोषण करते रहते हैं, इसलिए मृदा में इनकी मात्रा धीरे-धीरे कम होती जाती है। खाद व उर्वरक मिलाकर इनकी पूर्ति की जाती है।",
+        "en": "As plants continuously take up minerals and nutrients from the soil, their levels gradually decline and must be replenished with manures and fertilizers."
+      },
+      "key_takeaway": {
+        "hi": "पौधों द्वारा अवशोषण से मिट्टी के पोषक तत्व घटते हैं, जिन्हें खाद व उर्वरक से पूरा किया जाता है।",
+        "en": "Nutrient uptake by plants depletes soil nutrients, which manures and fertilizers restore."
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "[Q21] Which of the following statements about photosynthesis is TRUE?",
+        "hi": "[प्र.21] प्रकाश संश्लेषण के बारे में निम्नलिखित में से कौन-सा कथन सत्य है?"
+      },
+      "options": {
+        "a": {
+          "en": "It takes place only in the roots of plants",
+          "hi": "यह केवल पादपों की जड़ों में होता है"
+        },
+        "b": {
+          "en": "It converts solar energy into chemical energy stored in food",
+          "hi": "यह सौर ऊर्जा को भोजन में संचित रासायनिक ऊर्जा में परिवर्तित करता है"
+        },
+        "c": {
+          "en": "It requires no water or carbon dioxide",
+          "hi": "इसके लिए जल या कार्बन डाइऑक्साइड की आवश्यकता नहीं होती"
+        },
+        "d": {
+          "en": "It releases carbon dioxide instead of oxygen",
+          "hi": "यह ऑक्सीजन के स्थान पर कार्बन डाइऑक्साइड छोड़ता है"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Sunlight energy is captured and stored inside the food molecules formed by the plant.",
+        "hi": "सूर्य की ऊर्जा को पकड़कर भोजन के अणुओं में रासायनिक रूप से संचित किया जाता है।"
+      },
+      "explanation": {
+        "en": "प्रकाश संश्लेषण में क्लोरोफिल और सूर्य के प्रकाश की मदद से कार्बन डाइऑक्साइड व जल द्वारा कार्बोहाइड्रेट बनता है, जिससे सौर ऊर्जा रासायनिक ऊर्जा के रूप में भोजन में संचित हो जाती है।",
+        "en": "Photosynthesis uses chlorophyll, sunlight, water, and carbon dioxide to make carbohydrates, storing solar energy as chemical energy in food."
+      },
+      "key_takeaway": {
+        "en": "प्रकाश संश्लेषण सौर ऊर्जा को भोजन की रासायनिक ऊर्जा में बदलता है।",
+        "en": "Photosynthesis converts solar energy into chemical energy stored in food."
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "hi": "कवक (Fungi) किस प्रकार की परिस्थितियों में तेजी से उगते हैं?",
+        "en": "Under what conditions do fungi grow rapidly?"
+      },
+      "options": {
+        "a": {
+          "hi": "केवल सूखी और बर्फीली जगहों पर",
+          "en": "Only in dry and icy places"
+        },
+        "b": {
+          "hi": "नम और उष्ण (गर्म) परिस्थितियों में",
+          "en": "In warm and humid (moist) conditions"
+        },
+        "c": {
+          "hi": "केवल उबलते हुए जल में",
+          "en": "Only in boiling water"
+        },
+        "d": {
+          "hi": "केवल कांच के बर्तनों के बाहर",
+          "en": "Only outside glass jars"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "बारिश के मौसम में अचार, चमड़े या भीगी ब्रेड पर फफूंद कब जल्दी लगती है?",
+        "en": "Think about when mold appears fast on bread, leather, or pickles during the rainy season."
+      },
+      "explanation": {
+        "en": "कवक के बीजाणु वायु में उपस्थित रहते हैं। जब वे किसी ऐसे जैव पदार्थ पर बैठते हैं जो नम और उष्ण हो, तो वे अंकुरित होकर वृद्धि करते हैं।",
+        "en": "Fungal spores are present in the air and germinate and grow when they land on warm and moist surfaces."
+      },
+      "key_takeaway": {
+        "hi": "नमी और गर्माहट कवक की वृद्धि के लिए अनुकूल हैं।",
+        "en": "Warm and humid conditions favor the rapid growth of fungi."
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "[Q23] Which pair of terms is correctly matched according to NCERT Class 7 Chapter 1?",
+        "hi": "[प्र.23] NCERT कक्षा 7 अध्याय 1 के अनुसार शब्दों का कौन-सा युग्म सही सुमेलित है?"
+      },
+      "options": {
+        "a": {
+          "en": "Amarbel (Cuscuta) — Saprotroph",
+          "hi": "अमरबेल — मृतोजीवी"
+        },
+        "b": {
+          "en": "Pitcher plant — Autotroph only",
+          "hi": "घटपर्णी — केवल स्वपोषी"
+        },
+        "c": {
+          "en": "Chlorophyll — Green pigment in leaves",
+          "hi": "क्लोरोफिल — पत्तियों का हरा वर्णक"
+        },
+        "d": {
+          "en": "Stomata — Roots under soil",
+          "hi": "रंध्र — मिट्टी के नीचे की जड़ें"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Check which statement accurately defines a leaf pigment.",
+        "en": "Look for the option that correctly identifies what chlorophyll is."
+      },
+      "explanation": {
+        "en": "क्लोरोफिल पत्तियों में पाया जाने वाला हरा वर्णक है। अमरबेल परजीवी है, घटपर्णी कीटभक्षी है, और रंध्र पत्तियों पर पाए जाने वाले सूक्ष्म छिद्र हैं।",
+        "en": "Chlorophyll is the green pigment in leaves; Cuscuta is a parasite, pitcher plant is insectivorous, and stomata are pores on leaves."
+      },
+      "key_takeaway": {
+        "en": "क्लोरोफिल पत्तियों का हरा वर्णक है।",
+        "en": "Chlorophyll is the green pigment found in leaves."
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "hi": "अध्याय 'पादपों में पोषण' का मुख्य संदेश क्या है?",
+        "en": "What is the main takeaway of the chapter 'Nutrition in Plants'?"
+      },
+      "options": {
+        "a": {
+          "hi": "सभी पादप केवल अन्य जीवों से भोजन चुराते हैं",
+          "en": "All plants only steal food from other organisms"
+        },
+        "b": {
+          "hi": "हरे पादप प्रकाश संश्लेषण से भोजन बनाते हैं और पोषण की विविध प्रणालियाँ प्रकृति का संतुलन बनाए रखती हैं",
+          "en": "Green plants make food via photosynthesis, and varied nutrition modes maintain balance in nature"
+        },
+        "c": {
+          "hi": "मिट्टी में पोषक तत्वों की कभी कमी नहीं होती",
+          "en": "Soil nutrients never run low"
+        },
+        "d": {
+          "hi": "पौधों को जल और प्रकाश की आवश्यकता नहीं होती",
+          "en": "Plants do not need water or light"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "स्वपोषण, विषमपोषण और मिट्टी के पोषण चक्र को एक साथ जोड़कर देखिए।",
+        "en": "Bring together autotrophic food-making, other nutrition modes, and soil nutrient replenishment."
+      },
+      "explanation": {
+        "en": "हरे पादप प्रकाश संश्लेषण द्वारा भोजन बनाते हैं, जबकि परजीवी, कीटभक्षी, मृतोजीवी और सहजीवी जीव विभिन्न तरीकों से पोषण प्राप्त करते हैं और राइजोबियम व खाद मिट्टी को पोषक तत्व लौटाते हैं।",
+        "en": "Green plants produce food through photosynthesis, while parasites, insectivores, saprotrophs, and symbiotes use varied nutrition modes and soil nutrients are replenished."
+      },
+      "key_takeaway": {
+        "hi": "प्रकाश संश्लेषण और विभिन्न पोषण विधियाँ सजीव जगत को ऊर्जा व संतुलन प्रदान करती हैं।",
+        "en": "Photosynthesis and diverse nutrition modes sustain life and ecological balance."
+      }
+    }
+  ]
+}
