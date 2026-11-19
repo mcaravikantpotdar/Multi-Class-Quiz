@@ -1,7 +1,6 @@
 class QuizApp {
     constructor() {
         this.quizEngine = new QuizEngine();
-        // UPDATED: User's new Script URL
         this.SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxNWnLdQxUnjOCfWHoyZALx-orP0D1v9Q04ic9hl3Ido3W3gOgRoYiq2MuN-bv687I/exec";
         this.ADMIN_PASSWORD = "Admin@2026";
         this.GITHUB_CONFIG = { owner: "mcaravikantpotdar", repo: "Multi-Class-Quiz", path: "jsons" };
@@ -10,6 +9,14 @@ class QuizApp {
         this.selectedClass = null;
         this.selectedSubject = null;
         this.selectedQuizPath = null;
+
+        // Authenticated Student State (Loaded from Sheet2)
+        this.studentAuth = {
+            isVerified: false,
+            studentId: '',
+            studentName: '',
+            schoolName: ''
+        };
         
         this.currentAttempts = {};
         this.hintUsed = {};
@@ -28,14 +35,15 @@ class QuizApp {
 
     cacheDOM() {
         const ids = [
-            'studentName', 'schoolName', 'quizList', 'startQuiz', 'viewScoreboardBtn', 
-            'viewScoreboardFromResults', 'backFromScoreboard', 'topHomeBtn', 'topQuitBtn', 
-            'nextBtn', 'prevBtn', 'hintBtn', 'quitBtn', 'confirmQuit', 'cancelQuit', 
-            'retakeBtn', 'homeBtn', 'adminGear', 'adminModal', 'adminPassword', 
-            'confirmReset', 'closeAdmin', 'adminError', 'quitModal', 'errorMessage',
-            'optionsContainer', 'questionGrid', 'questionEn', 'questionHi',
-            'resultsBreakdown', 'finalScore', 'totalPossible', 'percentage', 'totalTime',
-            'leaderboardHeaders', 'scoreboardBody', 'classSelect', 'subjectSelect', 
+            'studentIdInput', 'verifyStudentBtn', 'authStatusBadge', 'authStatusText',
+            'quizList', 'startQuiz', 'viewScoreboardBtn', 'viewScoreboardFromResults',
+            'backFromScoreboard', 'topHomeBtn', 'topQuitBtn', 'nextBtn', 'prevBtn',
+            'hintBtn', 'quitBtn', 'confirmQuit', 'cancelQuit', 'retakeBtn', 'homeBtn',
+            'adminGear', 'adminModal', 'adminPassword', 'confirmReset', 'closeAdmin',
+            'adminError', 'quitModal', 'errorMessage', 'optionsContainer',
+            'questionGrid', 'questionEn', 'questionHi', 'resultsBreakdown',
+            'finalScore', 'totalPossible', 'percentage', 'totalTime',
+            'leaderboardHeaders', 'scoreboardBody', 'classSelect', 'subjectSelect',
             'subjectGroup', 'lessonGroup'
         ];
         ids.forEach(id => { 
@@ -48,8 +56,22 @@ class QuizApp {
     }
 
     bindEvents() {
-        if (this.studentName) this.studentName.addEventListener('input', () => this.validateStartForm());
-        if (this.schoolName) this.schoolName.addEventListener('input', () => this.validateStartForm());
+        if (this.verifyStudentBtn) {
+            this.verifyStudentBtn.addEventListener('click', () => this.handleStudentVerification());
+        }
+        if (this.studentIdInput) {
+            this.studentIdInput.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') this.handleStudentVerification();
+            });
+            this.studentIdInput.addEventListener('input', () => {
+                const currentVal = this.studentIdInput.value.trim().toUpperCase();
+                if (this.studentAuth.isVerified && currentVal !== this.studentAuth.studentId.toUpperCase()) {
+                    this.studentAuth = { isVerified: false, studentId: '', studentName: '', schoolName: '' };
+                    this.setAuthBadgeState('unverified', 'Student ID changed. Click Verify to re-authenticate.');
+                    this.validateStartForm();
+                }
+            });
+        }
         
         if (this.classSelect) this.classSelect.addEventListener('change', (e) => this.handleClassSelection(e.target.value));
         if (this.subjectSelect) this.subjectSelect.addEventListener('change', (e) => this.handleSubjectSelection(e.target.value));
@@ -101,16 +123,60 @@ class QuizApp {
         if (this.adminPassword) this.adminPassword.addEventListener('keypress', (e) => { if (e.key === 'Enter') this.handleDatabaseReset(); });
         if (this.confirmReset) this.confirmReset.addEventListener('click', () => this.handleDatabaseReset());
 
-        // FIX: Single delegated event listener for options to prevent memory leaks
         if (this.optionsContainer) {
             this.optionsContainer.addEventListener('click', (e) => {
                 const card = e.target.closest('.option-card');
                 if (card && !card.classList.contains('disabled')) {
-                    const optKey = card.dataset.key; // Read the injected key
+                    const optKey = card.dataset.key;
                     if (optKey) this.selectOption(optKey);
                 }
             });
         }
+    }
+
+    async handleStudentVerification() {
+        const rawId = this.studentIdInput?.value.trim().toUpperCase();
+        if (!rawId) {
+            this.studentAuth = { isVerified: false, studentId: '', studentName: '', schoolName: '' };
+            this.setAuthBadgeState('error', 'Please enter a valid Student ID.');
+            this.validateStartForm();
+            return;
+        }
+
+        QuizUtils.showLoading(true);
+        this.setAuthBadgeState('unverified', 'Verifying ID against student database...');
+
+        try {
+            const url = `${this.SCRIPT_URL}?action=verifyStudent&studentId=${encodeURIComponent(rawId)}`;
+            const res = await fetch(url);
+            const data = await res.json();
+
+            if (data.success && data.found) {
+                this.studentAuth = {
+                    isVerified: true,
+                    studentId: data.studentId,
+                    studentName: data.studentName,
+                    schoolName: data.schoolName
+                };
+                this.setAuthBadgeState('verified', `Verified: ${data.studentName} (${data.schoolName})`);
+            } else {
+                this.studentAuth = { isVerified: false, studentId: '', studentName: '', schoolName: '' };
+                this.setAuthBadgeState('error', data.message || 'Student ID not recognized in database.');
+            }
+        } catch (err) {
+            console.error("Auth Error:", err);
+            this.studentAuth = { isVerified: false, studentId: '', studentName: '', schoolName: '' };
+            this.setAuthBadgeState('error', 'Server unreachable. Verification failed.');
+        } finally {
+            QuizUtils.showLoading(false);
+            this.validateStartForm();
+        }
+    }
+
+    setAuthBadgeState(state, message) {
+        if (!this.authStatusBadge || !this.authStatusText) return;
+        this.authStatusBadge.className = `auth-status-badge ${state}`;
+        this.authStatusText.textContent = message;
     }
 
     async autoScanGitHubLibrary() {
@@ -193,17 +259,21 @@ class QuizApp {
     }
 
     validateStartForm() {
-        const ok = this.studentName?.value.trim() && this.schoolName?.value.trim() && this.selectedClass && this.selectedSubject && this.selectedQuizPath;
+        const ok = Boolean(this.studentAuth.isVerified && this.selectedClass && this.selectedSubject && this.selectedQuizPath);
         if (this.startQuiz) this.startQuiz.disabled = !ok;
     }
 
     async handleStart() {
+        if (!this.studentAuth.isVerified) {
+            this.setAuthBadgeState('error', 'Please verify your Student ID before starting.');
+            return;
+        }
         QuizUtils.showLoading(true);
         try {
             this.quizEngine.nuclearReset();
             const r = await fetch(`${this.selectedQuizPath}?t=${Date.now()}`);
             const data = await r.json();
-            this.quizEngine.loadQuizData(data, this.studentName.value, this.schoolName.value);
+            this.quizEngine.loadQuizData(data, this.studentAuth.studentName, this.studentAuth.schoolName);
             this.startActualQuiz();
         } catch (e) { if (this.errorDiv) this.errorDiv.textContent = `Load Error: ${e.message}`; }
         finally { QuizUtils.showLoading(false); }
@@ -229,7 +299,7 @@ class QuizApp {
 
     updateHeaderIdentity() {
         const old = document.getElementById('identityBar'); if(old) old.remove();
-        const html = `<div id="identityBar"><div class="id-student-info"><div class="id-name">👤 ${this.studentName.value}</div><div class="id-school">${this.selectedClass} • ${this.selectedSubject}</div></div><div class="stat-badge ${this.quizEngine.mode === 'test' ? 'strict' : ''}">${this.quizEngine.mode.toUpperCase()} MODE</div></div>`;
+        const html = `<div id="identityBar"><div class="id-student-info"><div class="id-name">👤 ${this.studentAuth.studentName}</div><div class="id-school">${this.selectedClass} • ${this.selectedSubject}</div></div><div class="stat-badge ${this.quizEngine.mode === 'test' ? 'strict' : ''}">${this.quizEngine.mode.toUpperCase()} MODE</div></div>`;
         const temp = document.createElement('div'); temp.innerHTML = html.trim();
         const header = document.querySelector('.quiz-header');
         if (header) header.insertBefore(temp.firstChild, header.firstChild);
@@ -241,7 +311,6 @@ class QuizApp {
         const q = this.quizEngine.getCurrentQuestion();
         if (!q || !q.question) return;
 
-        // --- NEW: Safe Image Rendering Logic ---
         const imageHtml = q.question_image ? `<div class="quiz-image-container"><img src="${q.question_image}" class="quiz-img" alt="Question Diagram"></div>` : '';
         
         const qText = q.question;
@@ -254,7 +323,6 @@ class QuizApp {
         this.renderOptions(q);
         document.querySelectorAll('#feedbackContainer, #hintArea').forEach(el => el.remove());
         
-        // SAFE FALLBACKS FOR OPTIONAL FIELDS
         const enExpl = q.explanation?.en || (typeof q.explanation === 'string' ? q.explanation : 'Check takeaway.');
         const hiExpl = q.explanation?.hi || '';
         const explImg = q.explanation?.expl_image ? `<img src="${q.explanation.expl_image}" class="expl-img">` : '';
@@ -286,7 +354,6 @@ class QuizApp {
         order.forEach((key, idx) => {
             const card = document.createElement('div'); card.className = 'option-card';
             const data = q.options[key];
-            // Safe rendering for image-based options
             const optImg = data.opt_image ? `<div class="option-img-container"><img src="${data.opt_image}" class="option-img"></div>` : '';
             
             card.innerHTML = `${optImg}<div class="option-label">${['A','B','C','D'][idx] || '?'}</div><div class="option-content"><div class="opt-lang en">${data.en || data}</div><div class="opt-lang hi">${data.hi || ''}</div></div>`;
@@ -300,7 +367,6 @@ class QuizApp {
             if (this.quizEngine.isQuestionDisabled(q.question_id)) {
                 card.classList.add('disabled');
             } else {
-                // FIX: Inject the key into the DOM for the delegated listener
                 card.dataset.key = key; 
             }
             this.optionsContainer.appendChild(card);
@@ -309,7 +375,6 @@ class QuizApp {
 
     getShuffledOptions(q) {
         if (this.shuffledOrders[q.question_id]) return this.shuffledOrders[q.question_id];
-        // UPDATED: Dynamic options detection instead of hardcoded 'abcd'
         let o = Object.keys(q.options);
         if (!JSON.stringify(q.options).toLowerCase().match(/both|all of|none of/)) {
             for (let i = o.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [o[i], o[j]] = [o[j], o[i]]; }
@@ -477,11 +542,10 @@ class QuizApp {
 
     async submitScore(res) {
         const lockedTime = `'${res.timeTaken}`;
-        // PAYLOAD UPDATED FOR 9 COLUMNS IN BACKEND
         const p = { 
             action: 'submit', 
-            studentName: this.studentName.value, 
-            schoolName: this.schoolName.value, 
+            studentName: this.studentAuth.studentName, 
+            schoolName: this.studentAuth.schoolName, 
             class: this.selectedClass,
             subject: this.selectedSubject,
             lesson: this.quizEngine.quizData.metadata.chapter_title, 
