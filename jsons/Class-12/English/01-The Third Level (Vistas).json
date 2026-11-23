@@ -1,0 +1,935 @@
+{
+  "metadata": {
+    "chapter_number": 1,
+    "chapter_title": "The Third Level (Vistas)",
+    "chapter_title_hindi": "तीसरा तल (विस्टास)",
+    "subject": "English",
+    "target_class": "Class XII",
+    "total_questions": 24,
+    "question_range": "Q1 to Q24",
+    "source_language": "en",
+    "target_language": "hi",
+    "version": "1.0",
+    "note": "Complete 24-question bilingual MCQ bank for NCERT/HPBOSE Class 12 English (Vistas Chapter 1: The Third Level by Jack Finney) tailored for Hindi-medium learners with clear English and Hindi explanations. Pure Unicode, zero trailing commas, zero citation tags, balanced options (6 A, 6 B, 6 C, 6 D)."
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "English Curriculum & JSON Schema Validator",
+    "corrections": [],
+    "notes": "Verified all 24 questions covering plot, Charley's escapism, Sam Weiner's psychiatric diagnosis ('waking-dream wish fulfillment') and eventual disappearance, Grand Central Station's three levels, 1894 Galesburg imagery, old-style currency, stamp collecting (first-day covers), Sam's letter from July 18, 1894, literary devices, and central themes. Options balanced to 6 A, 6 B, 6 C, and 6 D."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who is the author of 'The Third Level', and who is the thirty-one-year-old protagonist narrating the story?",
+        "hi": "'द थर्ड लेवल' (The Third Level) के लेखक कौन हैं और कहानी सुनाने वाला इकत्तीस वर्षीय मुख्य पात्र कौन है?"
+      },
+      "options": {
+        "a": {
+          "en": "Jack Finney; Charley",
+          "hi": "जैक फिनी; चार्ली (Charley)"
+        },
+        "b": {
+          "en": "Kalki; Sam Weiner",
+          "hi": "कल्कि; सैम वीनर (Sam Weiner)"
+        },
+        "c": {
+          "en": "Pearl S. Buck; Louisa",
+          "hi": "पर्ल एस. बक; लुइसा (Louisa)"
+        },
+        "d": {
+          "en": "Susan Hill; Mr. Lamb",
+          "hi": "सुसान हिल; मिस्टर लैम्ब (Mr. Lamb)"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "The protagonist describes himself as \"an ordinary guy named Charley, thirty-one years old, and I was wearing a tan gabardine suit and a straw hat with a fancy band\".",
+        "hi": "मुख्य पात्र स्वयं को \"चार्ली नामक एक साधारण व्यक्ति, इकत्तीस वर्ष का, टैन गैबर्डिन सूट और फैंसी पट्टी वाली पुआल की टोपी पहने हुए\" बताता है।"
+      },
+      "explanation": {
+        "en": "'The Third Level' is written by American science-fiction and thriller writer Jack Finney, and is narrated in the first person by Charley, a thirty-one-year-old resident of New York.",
+        "hi": "'द थर्ड लेवल' अमेरिकी विज्ञान-कथा और रोमांच लेखक जैक फिनी द्वारा लिखी गई है, और इसे न्यूयॉर्क के इकत्तीस वर्षीय निवासी चार्ली द्वारा प्रथम पुरुष (First person) में सुनाया गया है।"
+      },
+      "key_takeaway": {
+        "en": "Jack Finney authored 'The Third Level', narrated by thirty-one-year-old Charley.",
+        "hi": "जैक फिनी द्वारा रचित 'द थर्ड लेवल' के कथावाचक इकत्तीस वर्षीय चार्ली हैं।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "What do the presidents of the New York Central and the New York, New Haven and Hartford railroads swear on?",
+        "hi": "न्यूयॉर्क सेंट्रल और न्यूयॉर्क, न्यू हेवन एवं हार्टफोर्ड रेलमार्गों के अध्यक्ष किस बात की शपथ खाते हैं?"
+      },
+      "options": {
+        "a": {
+          "en": "That Grand Central Station has four underground levels",
+          "hi": "कि ग्रैंड सेंट्रल स्टेशन में चार भूमिगत तल हैं"
+        },
+        "b": {
+          "en": "That there are only two levels at Grand Central Station",
+          "hi": "कि ग्रैंड सेंट्रल स्टेशन पर केवल दो ही तल (Levels) हैं"
+        },
+        "c": {
+          "en": "That trains to 1894 depart every midnight from Platform 3",
+          "hi": "कि 1894 के लिए ट्रेनें हर आधी रात को प्लेटफॉर्म 3 से रवाना होती हैं"
+        },
+        "d": {
+          "en": "That the station was built during the American Civil War",
+          "hi": "कि स्टेशन का निर्माण अमेरिकी गृहयुद्ध के दौरान हुआ था"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They would even swear on a stack of timetables that only two levels exist—yet Charley insists he has been on the third level.",
+        "hi": "वे समय-सारणियों के ढेर पर हाथ रखकर भी शपथ खा सकते हैं कि केवल दो तल हैं—फिर भी चार्ली का दावा है कि वह तीसरे तल पर जा चुका है।"
+      },
+      "explanation": {
+        "en": "In the opening paragraph, Charley notes that railroad presidents will swear on a stack of timetables that there are only two levels at Grand Central Station, whereas he claims he has been on the third level.",
+        "hi": "प्रारंभिक अनुच्छेद में चार्ली बताते हैं कि रेलमार्गों के अध्यक्ष समय-सारणियों के ढेर पर हाथ रखकर शपथ खाएँगे कि ग्रैंड सेंट्रल स्टेशन पर केवल दो ही तल हैं, जबकि चार्ली दावा करते हैं कि वे तीसरे तल पर हो आए हैं।"
+      },
+      "key_takeaway": {
+        "en": "Officially, Grand Central Station has only two levels, making Charley's experience of a third level extraordinary.",
+        "hi": "आधिकारिक तौर पर ग्रैंड सेंट्रल स्टेशन में केवल दो तल हैं, जिससे चार्ली का तीसरे तल का अनुभव असाधारण बन जाता है।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "How did Charley's psychiatrist friend, Sam Weiner, interpret Charley's claim of having visited the third level?",
+        "hi": "चार्ली के मनोचिकित्सक मित्र सैम वीनर ने तीसरे तल पर जाने के चार्ली के दावे की क्या व्याख्या की?"
+      },
+      "options": {
+        "a": {
+          "en": "As proof of a secret underground tunnel built by the government",
+          "hi": "सरकार द्वारा बनाई गई एक गुप्त भूमिगत सुरंग के प्रमाण के रूप में"
+        },
+        "b": {
+          "en": "As a deliberate lie invented to deceive Louisa",
+          "hi": "लुइसा को धोखा देने के लिए गढ़े गए जानबूझकर बोले गए झूठ के रूप में"
+        },
+        "c": {
+          "en": "As a 'waking-dream wish fulfillment' caused by Charley's unhappiness and desire to escape modern insecurity, fear, war, and worry",
+          "hi": "चार्ली के असंतोष और आधुनिक असुरक्षा, भय, युद्ध व चिंता से भागने की इच्छा से उत्पन्न 'जाग्रत-स्वप्न इच्छा पूर्ति' (Waking-dream wish fulfillment) के रूप में"
+        },
+        "d": {
+          "en": "As a visual hallucination caused by faulty spectacles",
+          "hi": "खराब चश्मे के कारण उत्पन्न दृष्टि भ्रम के रूप में"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Sam believed the modern world is full of insecurity, fear, war, and worry, and Charley simply wanted to escape it.",
+        "hi": "सैम का मानना था कि आधुनिक दुनिया असुरक्षा, भय, युद्ध और चिंता से भरी है, और चार्ली बस इससे बचना चाहता था।"
+      },
+      "explanation": {
+        "en": "Sam Weiner diagnosed Charley's experience as a 'waking-dream wish fulfillment', explaining that Charley was unhappy because the modern world is full of insecurity, fear, war, and worry, and he subconsciously wanted to escape.",
+        "hi": "सैम वीनर ने चार्ली के अनुभव को 'जाग्रत-स्वप्न इच्छा पूर्ति' (Waking-dream wish fulfillment) बताया और कहा कि चार्ली दुखी हैं क्योंकि आधुनिक संसार असुरक्षा, भय, युद्ध और चिंता से भरा है, और वे अवचेतन रूप से इससे पलायन करना चाहते थे।"
+      },
+      "key_takeaway": {
+        "en": "Sam initially dismissed the third level as a 'waking-dream wish fulfillment' born of modern anxiety.",
+        "hi": "सैम ने शुरू में तीसरे तल को आधुनिक चिंता से उत्पन्न 'जाग्रत-स्वप्न इच्छा पूर्ति' कहकर खारिज कर दिया।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "According to Sam and Charley's friends, how was Charley's hobby of stamp collecting also a 'temporary refuge from reality'?",
+        "hi": "सैम और चार्ली के मित्रों के अनुसार, चार्ली का डाक टिकट संग्रह (Stamp collecting) का शौक भी किस प्रकार 'वास्तविकता से एक अस्थायी पलायन' था?"
+      },
+      "options": {
+        "a": {
+          "en": "Because Charley sold rare stamps to fund secret train tickets",
+          "hi": "क्योंकि चार्ली गुप्त रेल टिकट खरीदने के लिए दुर्लभ टिकट बेचता था"
+        },
+        "b": {
+          "en": "Because stamp collecting was illegal during wartime",
+          "hi": "क्योंकि युद्धकाल के दौरान डाक टिकट संग्रह अवैध था"
+        },
+        "c": {
+          "en": "Because Charley spent all his office hours at the post office",
+          "hi": "क्योंकि चार्ली अपने कार्यालय के सारे घंटे डाकघर में बिताता था"
+        },
+        "d": {
+          "en": "Because absorbing oneself in organizing stamps from the past provided a mental escape from harsh modern realities",
+          "hi": "क्योंकि अतीत के डाक टिकटों को सहेजने में डूब जाना कठोर आधुनिक वास्तविकताओं से मानसिक पलायन प्रदान करता था"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Charley countered that his grandfather didn't need any refuge in peaceful days, yet started the collection—and even President Roosevelt collected stamps.",
+        "hi": "चार्ली ने तर्क दिया कि उनके दादा को शांतिपूर्ण दिनों में किसी पलायन की ज़रूरत नहीं थी, फिर भी उन्होंने संग्रह शुरू किया—और राष्ट्रपति रूजवेल्ट भी टिकट इकट्ठा करते थे।"
+      },
+      "explanation": {
+        "en": "Charley's friends and psychiatrist claimed his stamp collecting was a 'temporary refuge from reality', though Charley argued that his grandfather started the collection in peaceful times when nobody needed an escape, and President Roosevelt collected stamps too.",
+        "hi": "चार्ली के मित्रों और मनोचिकित्सक ने दावा किया कि उनका डाक टिकट संग्रह 'वास्तविकता से अस्थायी पलायन' है, हालांकि चार्ली ने तर्क दिया कि उनके दादा ने शांतिपूर्ण समय में संग्रह शुरू किया था और राष्ट्रपति रूजवेल्ट भी डाक टिकट एकत्र करते थे।"
+      },
+      "key_takeaway": {
+        "en": "Sam viewed Charley's stamp collecting as escapism, though Charley defended it with examples of his grandfather and President Roosevelt.",
+        "hi": "सैम ने चार्ली के टिकट संग्रह को पलायनवाद माना, जबकि चार्ली ने अपने दादा व राष्ट्रपति रूजवेल्ट का उदाहरण देकर इसका बचाव किया।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Why did Charley end up at Grand Central Station late one summer night?",
+        "hi": "गर्मियों की एक रात देर से चार्ली ग्रैंड सेंट्रल स्टेशन क्यों पहुँचे थे?"
+      },
+      "options": {
+        "a": {
+          "en": "He had worked late at the office and was in a hurry to get uptown to his apartment to be with his wife Louisa, so he decided to take the subway instead of the bus",
+          "hi": "उन्होंने कार्यालय में देर तक काम किया था और अपनी पत्नी लुइसा के पास अपार्टमेंट जल्दी पहुँचने के लिए बस के बजाय सबवे (भूमिगत रेल) लेने का फैसला किया"
+        },
+        "b": {
+          "en": "He went to meet Sam Weiner at the station's information booth",
+          "hi": "वे स्टेशन के पूछताछ केंद्र पर सैम वीनर से मिलने गए थे"
+        },
+        "c": {
+          "en": "He wanted to buy antique coins from a vendor at Vanderbilt Avenue",
+          "hi": "वे वेंडरबिल्ट एवेन्यू के एक विक्रेता से प्राचीन सिक्के खरीदना चाहते थे"
+        },
+        "d": {
+          "en": "He had missed his flight to Illinois and needed a hotel room",
+          "hi": "इलिनॉय के लिए उनकी उड़ान छूट गई थी और उन्हें होटल के कमरे की तलाश थी"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "The subway was faster than the bus, so he turned into Grand Central from Vanderbilt Avenue.",
+        "hi": "सबवे बस की तुलना में तेज़ था, इसलिए वे वेंडरबिल्ट एवेन्यू से ग्रैंड सेंट्रल में मुड़े।"
+      },
+      "explanation": {
+        "en": "One night last summer, Charley worked late at the office and hurried into Grand Central from Vanderbilt Avenue to catch the subway—because it was faster than the bus—to get home to his wife Louisa.",
+        "hi": "पिछली गर्मियों की एक रात चार्ली ने दफ्तर में देर तक काम किया और अपनी पत्नी लुइसा के पास घर जल्दी पहुँचने के लिए—क्योंकि सबवे बस से तेज़ था—वेंडरबिल्ट एवेन्यू से ग्रैंड सेंट्रल में प्रवेश किया।"
+      },
+      "key_takeaway": {
+        "en": "Working late and hurrying home to Louisa via the faster subway led Charley into Grand Central Station.",
+        "hi": "देर तक काम करने के बाद लुइसा के पास जल्दी पहुँचने हेतु तेज़ सबवे पकड़ने के प्रयास में चार्ली ग्रैंड सेंट्रल स्टेशन पहुँचे।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "To what does Charley compare Grand Central Station because he was always getting lost in its new doorways, stairs, and corridors?",
+        "hi": "चार्ली ग्रैंड सेंट्रल स्टेशन की तुलना किससे करते हैं, क्योंकि वे हमेशा इसके नए दरवाजों, सीढ़ियों और गलियारों में खो जाते थे?"
+      },
+      "options": {
+        "a": {
+          "en": "A sinking ship in a stormy ocean",
+          "hi": "तूफानी समुद्र में डूबते हुए जहाज से"
+        },
+        "b": {
+          "en": "A giant tree pushing out new corridors and staircases like roots",
+          "hi": "एक विशाल पेड़ से जो जड़ों की तरह नए गलियारे और सीढ़ियाँ बाहर फैलाता रहता है"
+        },
+        "c": {
+          "en": "A spider's web made of silver threads",
+          "hi": "चाँदी के धागों से बने मकड़ी के जाले से"
+        },
+        "d": {
+          "en": "A medieval castle surrounded by a deep moat",
+          "hi": "गहरी खाई से घिरे मध्यकालीन किले से"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He imagined long tunnels stretching under the city, maybe all the way to Times Square or Central Park.",
+        "hi": "उन्होंने कल्पना की कि शहर के नीचे लंबी सुरंगें फैल रही हैं, शायद टाइम्स स्क्वायर या सेंट्रल पार्क तक।"
+      },
+      "explanation": {
+        "en": "Charley remarked that Grand Central had been growing like a tree, pushing out new corridors and staircases like roots—having once led him out into the lobby of the Roosevelt Hotel and another time into an office building on Forty-sixth Street.",
+        "hi": "चार्ली ने कहा कि ग्रैंड सेंट्रल एक पेड़ की तरह बढ़ता जा रहा है, जो जड़ों की तरह नए गलियारे और सीढ़ियाँ निकालता है—जो एक बार उन्हें रूजवेल्ट होटल की लॉबी में और दूसरी बार छियालीसवीं स्ट्रीट की एक इमारत में ले गया था।"
+      },
+      "key_takeaway": {
+        "en": "Charley compares Grand Central to an ever-growing tree pushing out corridors and stairs like roots.",
+        "hi": "चार्ली ग्रैंड सेंट्रल की तुलना एक बढ़ते हुए पेड़ से करते हैं जो जड़ों की तरह नए गलियारे और सीढ़ियाँ फैलाता है।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "What clues first made Charley realize that he had stepped into the past (1894) on the third level?",
+        "hi": "किन संकेतों से चार्ली को सबसे पहले एहसास हुआ कि वह तीसरे तल पर अतीत (1894) में पहुँच गया है?"
+      },
+      "options": {
+        "a": {
+          "en": "Digital clocks displaying 1894 and neon billboards",
+          "hi": "1894 दिखाने वाली डिजिटल घड़ियाँ और नियॉन होर्डिंग्स"
+        },
+        "b": {
+          "en": "Prussian soldiers guarding the ticket counter",
+          "hi": "टिकट काउंटर की रखवाली करते प्रशियन सैनिक"
+        },
+        "c": {
+          "en": "Smaller rooms, fewer ticket windows, wooden information booth, open-flame gaslights, brass spittoons, people in 1890s dress, a Currier & Ives locomotive, and 'The World' newspaper dated June 11, 1894",
+          "hi": "छोटे कमरे, कम टिकट खिड़कियाँ, लकड़ी का पूछताछ बूथ, खुली लौ वाली गैसलाइट्स, पीतल के पीकदान, 1890 के दशक की वेशभूषा में लोग, कूरियर एंड आइव्स लोकोमोटिव, और 11 जून, 1894 का 'द वर्ल्ड' अखबार"
+        },
+        "d": {
+          "en": "A loudspeaker announcing President Lincoln's speech",
+          "hi": "राष्ट्रपति लिंकन के भाषण की घोषणा करता हुआ लाउडस्पीकर"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "The lead story on the front page of 'The World' newspaper at the newsboy's feet was about President Cleveland.",
+        "hi": "अखबार बेचने वाले लड़के के पैरों के पास रखे 'द वर्ल्ड' अखबार के मुख्य पृष्ठ की खबर राष्ट्रपति क्लीवलैंड के बारे में थी।"
+      },
+      "explanation": {
+        "en": "On the third level, Charley observed smaller rooms, an old wooden information booth, flickering open-flame gaslights, brass spittoons, people dressed in 1890s fashion with derby hats and mutton-sleeve dresses, a small Currier & Ives locomotive, and a copy of 'The World' dated June 11, 1894.",
+        "hi": "तीसरे तल पर चार्ली ने छोटे कमरे, पुराना लकड़ी का पूछताछ बूथ, टिमटिमाती खुली लौ वाली गैसलाइट्स, पीतल के पीकदान, 1890 के दशक के कपड़ों में लोग, एक छोटा कूरियर एंड आइव्स लोकोमोटिव और 11 जून, 1894 का 'द वर्ल्ड' अखबार देखा।"
+      },
+      "key_takeaway": {
+        "en": "Gaslights, brass spittoons, 1890s attire, a Currier & Ives locomotive, and 'The World' dated June 11, 1894 proved Charley was in 1894.",
+        "hi": "गैसलाइट्स, पीतल के पीकदान, 1890 के दशक की पोशाकें, कूरियर एंड आइव्स इंजन और 11 जून, 1894 के अखबार ने सिद्ध किया कि चार्ली 1894 में थे।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Which destination did Charley immediately try to buy two tickets for at the third-level ticket window?",
+        "hi": "तीसरे तल की टिकट खिड़की से चार्ली ने तुरंत किस स्थान के लिए दो टिकट खरीदने की कोशिश की?"
+      },
+      "options": {
+        "a": {
+          "en": "Boston, Massachusetts",
+          "hi": "बोस्टन, मैसाचुसेट्स"
+        },
+        "b": {
+          "en": "San Francisco, California",
+          "hi": "सैन फ्रांसिस्को, कैलिफ़ोर्निया"
+        },
+        "c": {
+          "en": "Chicago, Illinois",
+          "hi": "शिकागो, इलिनॉय"
+        },
+        "d": {
+          "en": "Galesburg, Illinois",
+          "hi": "गेल्सबर्ग, इलिनॉय (Galesburg, Illinois)"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "It was a wonderful town with big old frame houses, huge lawns, and tremendous trees whose branches met overhead and roofed the streets.",
+        "hi": "यह बड़े पुराने लकड़ी के घरों, विशाल लॉन और उन विशाल पेड़ों वाला एक अद्भुत कस्बा था जिनकी शाखाएँ ऊपर मिलकर सड़कों पर छत बनाती थीं।"
+      },
+      "explanation": {
+        "en": "Charley immediately walked to the ticket window to buy two coach tickets to Galesburg, Illinois—for himself and his wife Louisa—so they could live in the peaceful, unhurried world of 1894.",
+        "hi": "चार्ली तुरंत टिकट खिड़की पर गए ताकि अपने और अपनी पत्नी लुइसा के लिए गेल्सबर्ग, इलिनॉय के दो कोच टिकट खरीद सकें और 1894 की शांत, निश्चिंत दुनिया में रह सकें।"
+      },
+      "key_takeaway": {
+        "en": "Charley tried to buy two tickets to Galesburg, Illinois, an idyllic town untouched by World Wars.",
+        "hi": "चार्ली ने विश्व युद्धों से अछूते शांत कस्बे गेल्सबर्ग, इलिनॉय के लिए दो टिकट खरीदने का प्रयास किया।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Why did Charley describe 1894 Galesburg, Illinois, as such an idyllic paradise?",
+        "hi": "चार्ली ने 1894 के गेल्सबर्ग, इलिनॉय का वर्णन एक आदर्श स्वर्ग के रूप में क्यों किया?"
+      },
+      "options": {
+        "a": {
+          "en": "Because in 1894 the First World War was still twenty years off and World War II over forty years in the future, and people sat peacefully on lawns smoking cigars and talking quietly on warm summer evenings",
+          "hi": "क्योंकि 1894 में प्रथम विश्व युद्ध अभी बीस वर्ष दूर था और द्वितीय विश्व युद्ध चालीस वर्ष से अधिक दूर था, तथा लोग गर्मियों की शामों को लॉन में शांति से बैठकर बातें करते थे"
+        },
+        "b": {
+          "en": "Because Galesburg had the tallest skyscrapers and fastest subways in America",
+          "hi": "क्योंकि गेल्सबर्ग में अमेरिका की सबसे ऊँची गगनचुंबी इमारतें और सबसे तेज़ सबवे थे"
+        },
+        "c": {
+          "en": "Because gold was distributed free to all newcomers",
+          "hi": "क्योंकि सभी नए आने वालों को मुफ्त सोना बाँटा जाता था"
+        },
+        "d": {
+          "en": "Because Charley owned a large factory there",
+          "hi": "क्योंकि वहाँ चार्ली का एक बड़ा कारखाना था"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Women waved palm-leaf fans and fireflies drifted all around in a peaceful world before global wars.",
+        "hi": "विश्व युद्धों से पहले की उस शांत दुनिया में महिलाएँ ताड़ के पत्तों के पंखे झलती थीं और चारों ओर जुगनू उड़ते थे।"
+      },
+      "explanation": {
+        "en": "In 1894, Galesburg offered serene tree-lined streets, unhurried summer evenings with fireflies and palm-leaf fans, and complete freedom from the anxiety of the two World Wars that were still decades away.",
+        "hi": "1894 में गेल्सबर्ग की पेड़ों से ढकी शांत सड़कें, जुगनुओं और ताड़ के पंखों वाली निश्चिंत गर्मियों की शामें, तथा दशकों दूर दो विश्व युद्धों के भय से पूर्ण मुक्ति इसे आदर्श बनाती थी।"
+      },
+      "key_takeaway": {
+        "en": "1894 Galesburg symbolizes pre-war peace, simplicity, and human warmth.",
+        "hi": "1894 का गेल्सबर्ग युद्ध-पूर्व शांति, सादगी और मानवीय आत्मीयता का प्रतीक है।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Why did the ticket clerk at the third level threaten to have Charley arrested?",
+        "hi": "तीसरे तल पर टिकट क्लर्क ने चार्ली को गिरफ्तार करवाने की धमकी क्यों दी?"
+      },
+      "options": {
+        "a": {
+          "en": "Because Charley tried to jump over the ticket counter",
+          "hi": "क्योंकि चार्ली ने टिकट काउंटर के ऊपर से कूदने की कोशिश की"
+        },
+        "b": {
+          "en": "Because Charley offered modern 20th-century currency bills, which looked like fake 'skin' money to the 1894 clerk",
+          "hi": "क्योंकि चार्ली ने 20वीं सदी के आधुनिक नोट दिए, जो 1894 के क्लर्क को नकली 'स्किन' (कागज के टुकड़े) लगे"
+        },
+        "c": {
+          "en": "Because Charley had no luggage with him",
+          "hi": "क्योंकि चार्ली के पास कोई सामान नहीं था"
+        },
+        "d": {
+          "en": "Because Charley shouted at the newsboy",
+          "hi": "क्योंकि चार्ली अखबार वाले लड़के पर चिल्लाया था"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "1894 currency bills were half again as big as modern bills and looked completely different.",
+        "hi": "1894 के नोट आधुनिक नोटों से डेढ़ गुना बड़े होते थे और बिल्कुल अलग दिखते थे।"
+      },
+      "explanation": {
+        "en": "When Charley counted out modern currency notes, the clerk stared at the bills and warned, \"That ain't money, mister... if you're trying to skin me you won't get very far,\" glancing at the cash drawer beside him—prompting Charley to turn and flee before being jailed.",
+        "hi": "जब चार्ली ने आधुनिक नोट गिनकर दिए, तो क्लर्क ने नोटों को घूरते हुए चेतावनी दी, \"यह पैसा नहीं है, श्रीमान... अगर तुम मुझे ठगने की कोशिश कर रहे हो तो ज़्यादा दूर नहीं जा पाओगे,\" और पास रखे नकदी दराज की ओर देखा—जिससे चार्ली जेल जाने के डर से तुरंत वहाँ से भाग निकले।"
+      },
+      "key_takeaway": {
+        "en": "Modern currency was rejected as counterfeit in 1894, forcing Charley to flee before getting arrested.",
+        "hi": "1894 में आधुनिक मुद्रा को नकली समझकर अस्वीकार कर दिया गया, जिससे गिरफ्तारी के डर से चार्ली को भागना पड़ा।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "What did Charley do the very next day during his lunch hour?",
+        "hi": "अगले ही दिन अपने दोपहर के भोजन के समय (Lunch hour) चार्ली ने क्या किया?"
+      },
+      "options": {
+        "a": {
+          "en": "He resigned from his office job permanently",
+          "hi": "उन्होंने अपनी कार्यालय की नौकरी से स्थायी रूप से इस्तीफा दे दिया"
+        },
+        "b": {
+          "en": "He took a train directly to Galesburg from Penn Station",
+          "hi": "वे पेन स्टेशन से सीधे गेल्सबर्ग की ट्रेन में बैठ गए"
+        },
+        "c": {
+          "en": "He drew three hundred dollars out of the bank—nearly all they had—and bought old-style currency at a premium, receiving less than two hundred in old-style bills",
+          "hi": "उन्होंने बैंक से तीन सौ डॉलर—लगभग अपनी सारी जमापूँजी—निकाले और प्रीमियम देकर पुरानी शैली के नोट खरीदे, जिसके बदले उन्हें दो सौ से भी कम पुराने डॉलर मिले"
+        },
+        "d": {
+          "en": "He visited a museum to donate his stamp album",
+          "hi": "वे अपना डाक टिकट एल्बम दान करने के लिए एक संग्रहालय गए"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Charley didn't care about losing money in the exchange because eggs were thirteen cents a dozen in 1894.",
+        "hi": "चार्ली को विनिमय में कम पैसे मिलने की चिंता नहीं थी क्योंकि 1894 में अंडे तेरह सेंट प्रति दर्जन मिलते थे।"
+      },
+      "explanation": {
+        "en": "The next day during lunch, Charley withdrew $300 from his bank and exchanged it at a coin dealer's for old-style 1894 currency (getting under $200 in return), determined to buy two tickets to Galesburg—yet he never again found the corridor leading to the third level.",
+        "hi": "अगले दिन लंच के समय चार्ली ने बैंक से 300 डॉलर निकाले और एक सिक्का व्यापारी से प्रीमियम पर 1894 की पुरानी मुद्रा खरीदी (बदले में उन्हें 200 से कम पुराने डॉलर मिले), ताकि गेल्सबर्ग के दो टिकट खरीद सकें—परंतु उन्हें तीसरे तल का गलियारा फिर कभी नहीं मिला।"
+      },
+      "key_takeaway": {
+        "en": "Charley exchanged $300 for less than $200 in 1894 bills, but could never find the third level again.",
+        "hi": "चार्ली ने 300 आधुनिक डॉलर के बदले 200 से कम पुराने डॉलर खरीदे, पर उन्हें तीसरा तल दोबारा कभी नहीं मिला।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "How did Louisa react when Charley told her about the third level and buying old currency?",
+        "hi": "जब चार्ली ने लुइसा को तीसरे तल और पुरानी मुद्रा खरीदने के बारे में बताया, तो लुइसा की क्या प्रतिक्रिया थी?"
+      },
+      "options": {
+        "a": {
+          "en": "She packed her suitcases immediately to move to Galesburg",
+          "hi": "उसने गेल्सबर्ग जाने के लिए तुरंत अपने सूटकेस पैक कर लिए"
+        },
+        "b": {
+          "en": "She laughed and called the coin dealer a fraud",
+          "hi": "वह हँस पड़ी और उसने सिक्का व्यापारी को धोखेबाज कहा"
+        },
+        "c": {
+          "en": "She threatened to leave Charley if he visited Grand Central again",
+          "hi": "उसने धमकी दी कि यदि चार्ली फिर ग्रैंड सेंट्रल गया तो वह उसे छोड़ देगी"
+        },
+        "d": {
+          "en": "She became pretty worried and didn't want him to look for the third level any more—until Sam disappeared, when both of them began looking for it every weekend",
+          "hi": "वह काफी चिंतित हो गई और चाहती थी कि चार्ली अब तीसरे तल की तलाश न करे—पर जब सैम गायब हो गया, तो दोनों हर सप्ताहांत उसकी तलाश करने लगे"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Louisa's initial worry turned into active belief once they found unmistakable proof from Sam.",
+        "hi": "सैम का अकाट्य प्रमाण मिलने के बाद लुइसा की शुरुआती चिंता सक्रिय विश्वास में बदल गई।"
+      },
+      "explanation": {
+        "en": "At first, Louisa was quite worried and urged Charley to stop searching for the third level, so he returned to his stamps; however, after Sam disappeared and his 1894 letter surfaced, both Charley and Louisa searched every weekend.",
+        "hi": "शुरुआत में लुइसा काफी चिंतित हुई और उसने चार्ली से तीसरे तल की खोज बंद करने को कहा, जिससे वे फिर टिकट संग्रह में लग गए; लेकिन सैम के गायब होने और 1894 के उसके पत्र के मिलने के बाद चार्ली और लुइसा दोनों हर सप्ताहांत उसकी तलाश करने लगे।"
+      },
+      "key_takeaway": {
+        "en": "Louisa initially worried about Charley's obsession, but later joined him in searching for the third level every weekend.",
+        "hi": "लुइसा पहले चार्ली की धुन से चिंतित हुई, पर बाद में हर सप्ताहांत उसके साथ तीसरे तल की खोज में जुट गई।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "What is a 'first-day cover' as explained by Charley in the story?",
+        "hi": "कहानी में चार्ली द्वारा समझाया गया 'फर्स्ट-डे कवर' (First-day cover) क्या होता है?"
+      },
+      "options": {
+        "a": {
+          "en": "An envelope with a newly issued stamp mailed by a stamp collector to himself on the very first day of sale so the postmark proves the date, containing a blank piece of paper inside",
+          "hi": "एक लिफाफा जिस पर नया डाक टिकट जारी होने के पहले ही दिन टिकट संग्राहक द्वारा स्वयं को डाक से भेजा जाता है ताकि डाक की मुहर तारीख प्रमाणित करे, और जिसके भीतर एक कोरा कागज़ रखा जाता है"
+        },
+        "b": {
+          "en": "The protective leather jacket placed over a rare stamp album",
+          "hi": "एक दुर्लभ डाक टिकट एल्बम के ऊपर चढ़ाया जाने वाला सुरक्षात्मक चमड़े का आवरण"
+        },
+        "c": {
+          "en": "A special railway pass issued on the opening day of a new station",
+          "hi": "किसी नए स्टेशन के उद्घाटन के दिन जारी किया जाने वाला विशेष रेल पास"
+        },
+        "d": {
+          "en": "The front page of the first newspaper printed in Galesburg",
+          "hi": "गेल्सबर्ग में छपे पहले अखबार का मुखपृष्ठ"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "First-day covers are never opened because the paper inside is blank—their value lies in the stamp and first-day postmark.",
+        "hi": "फर्स्ट-डे कवर कभी खोले नहीं जाते क्योंकि अंदर कोरा कागज़ होता है—उनका मूल्य टिकट और पहले दिन की मुहर में होता है।"
+      },
+      "explanation": {
+        "en": "When a new stamp is issued, stamp collectors buy some and use them to mail envelopes to themselves on the very first day of sale; the postmark proves the date, and the envelope—called a first-day cover—is never opened because it contains only a blank sheet of paper.",
+        "hi": "जब कोई नया डाक टिकट जारी होता है, तो संग्राहक बिक्री के पहले ही दिन उसे लिफाफे पर चिपकाकर अपने ही पते पर डाक से भेजते हैं; डाकघर की मुहर तारीख सिद्ध करती है और इस 'फर्स्ट-डे कवर' को कभी खोला नहीं जाता क्योंकि भीतर केवल एक कोरा कागज़ होता है।"
+      },
+      "key_takeaway": {
+        "en": "A first-day cover is a self-addressed envelope postmarked on a stamp's release date, traditionally holding a blank sheet.",
+        "hi": "फर्स्ट-डे कवर डाक टिकट जारी होने की तारीख की मुहर लगा स्वयं को भेजा गया लिफाफा है, जिसमें परंपरागत रूप से कोरा कागज़ होता है।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What astonishing discovery did Charley make one night while fussing with his stamp collection?",
+        "hi": "एक रात अपने डाक टिकट संग्रह को देखते समय चार्ली को कौन-सी आश्चर्यजनक चीज़ मिली?"
+      },
+      "options": {
+        "a": {
+          "en": "A gold coin hidden inside his grandfather's magnifying glass",
+          "hi": "उनके दादा के आवर्धक लेंस के अंदर छिपा एक सोने का सिक्का"
+        },
+        "b": {
+          "en": "A first-day cover mailed to his grandfather's Galesburg address on July 18, 1894, bearing a six-cent stamp with President Garfield's picture—and containing a signed letter from Sam",
+          "hi": "18 जुलाई, 1894 को उनके दादा के गेल्सबर्ग पते पर भेजा गया एक फर्स्ट-डे कवर, जिस पर राष्ट्रपति गारफील्ड की तस्वीर वाला छह सेंट का टिकट लगा था—और भीतर सैम का हस्ताक्षरित पत्र था"
+        },
+        "c": {
+          "en": "Two unused train tickets from New York to Chicago",
+          "hi": "न्यूयॉर्क से शिकागो के दो अप्रयुक्त रेल टिकट"
+        },
+        "d": {
+          "en": "A handwritten map of Grand Central Station drawn by the railroad president",
+          "hi": "रेलमार्ग अध्यक्ष द्वारा बनाया गया ग्रैंड सेंट्रल स्टेशन का हस्तलिखित नक्शा"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The envelope shouldn't have been there because it was postmarked July 18, 1894, yet Charley didn't remember it at all.",
+        "hi": "वह लिफाफा वहाँ नहीं होना चाहिए था क्योंकि उस पर 18 जुलाई, 1894 की मुहर थी, फिर भी चार्ली को उसके बारे में कुछ याद नहीं था।"
+      },
+      "explanation": {
+        "en": "Among his oldest first-day covers, Charley found one mailed to his grandfather at Galesburg, Illinois, postmarked July 18, 1894, with a dull-brown six-cent stamp featuring President Garfield—and inside, instead of blank paper, was a letter addressed to Charley and signed 'Sam'.",
+        "hi": "अपने सबसे पुराने फर्स्ट-डे कवरों के बीच चार्ली को 18 जुलाई, 1894 की मुहर वाला एक लिफाफा मिला जो गेल्सबर्ग, इलिनॉय में उनके दादा के पते पर भेजा गया था, जिस पर राष्ट्रपति गारफील्ड की तस्वीर वाला छह सेंट का भूरा टिकट लगा था—और भीतर कोरे कागज़ के बजाय चार्ली के नाम 'सैम' का हस्ताक्षरित पत्र था।"
+      },
+      "key_takeaway": {
+        "en": "Charley discovered a July 18, 1894 first-day cover containing a letter from his psychiatrist friend Sam.",
+        "hi": "चार्ली को 18 जुलाई, 1894 का एक फर्स्ट-डे कवर मिला जिसके भीतर उनके मनोचिकित्सक मित्र सैम का पत्र था।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What did Sam write in his letter dated July 18, 1894, from Galesburg?",
+        "hi": "गेल्सबर्ग से 18 जुलाई, 1894 को लिखे अपने पत्र में सैम ने क्या लिखा था?"
+      },
+      "options": {
+        "a": {
+          "en": "That he was returning to New York immediately because 1894 lacked modern hospitals",
+          "hi": "कि वह तुरंत न्यूयॉर्क लौट रहा है क्योंकि 1894 में आधुनिक अस्पतालों की कमी है"
+        },
+        "b": {
+          "en": "That Charley had imagined the entire third level",
+          "hi": "कि चार्ली ने पूरे तीसरे तल की केवल कल्पना की थी"
+        },
+        "c": {
+          "en": "That Charley was right—he had found the third level, had been in Galesburg two weeks, loved the peaceful music and lemonade evenings, and urged Charley and Louisa to keep looking until they found it",
+          "hi": "कि चार्ली सही था—उसने तीसरा तल ढूँढ लिया है, वह दो सप्ताह से गेल्सबर्ग में है, शांत संगीत और नींबू पानी वाली शामों का आनंद ले रहा है, और चार्ली व लुइसा से तब तक खोज जारी रखने का आग्रह किया जब तक वे इसे पा न लें"
+        },
+        "d": {
+          "en": "That the ticket clerk had confiscated all his money",
+          "hi": "कि टिकट क्लर्क ने उसके सारे पैसे जब्त कर लिए हैं"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Sam wrote that someone was playing a piano down the street and people on the front porch were singing 'Seeing Nelly Home'.",
+        "hi": "सैम ने लिखा कि सड़क पर कोई पियानो बजा रहा है और सामने के बरामदे में लोग 'सीइंग नेली होम' गा रहे हैं।"
+      },
+      "explanation": {
+        "en": "In his letter, Sam confirmed that Charley was right, that he had found the third level and had been in Galesburg for two weeks enjoying music, singing, and lemonade, and urged Charley and Louisa to keep searching because \"it's worth it\".",
+        "hi": "अपने पत्र में सैम ने पुष्टि की कि चार्ली सही थे, उसने तीसरा तल ढूँढ लिया है और दो सप्ताह से गेल्सबर्ग में संगीत, गायन और नींबू पानी का आनंद ले रहा है, तथा चार्ली और लुइसा से खोज जारी रखने को कहा क्योंकि \"यह इसके लायक है\"।"
+      },
+      "key_takeaway": {
+        "en": "Sam's letter validated Charley's belief in the third level and urged Charley and Louisa to keep searching for it.",
+        "hi": "सैम के पत्र ने तीसरे तल पर चार्ली के विश्वास की पुष्टि की और चार्ली व लुइसा से इसकी खोज जारी रखने का आग्रह किया।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What business did Sam set himself up in after reaching 1894 Galesburg, and why couldn't he practise his old profession there?",
+        "hi": "1894 के गेल्सबर्ग पहुँचने के बाद सैम ने कौन-सा व्यवसाय शुरू किया, और वह वहाँ अपना पुराना पेशा क्यों नहीं कर सकता था?"
+      },
+      "options": {
+        "a": {
+          "en": "He opened a bank; because Galesburg had no currency",
+          "hi": "उसने एक बैंक खोला; क्योंकि गेल्सबर्ग में कोई मुद्रा नहीं थी"
+        },
+        "b": {
+          "en": "He became a train conductor; because he loved locomotives",
+          "hi": "वह ट्रेन कंडक्टर बन गया; क्योंकि उसे रेल इंजन पसंद थे"
+        },
+        "c": {
+          "en": "He opened a stamp shop; because President Garfield invited him",
+          "hi": "उसने डाक टिकट की दुकान खोली; क्योंकि राष्ट्रपति गारफील्ड ने उसे आमंत्रित किया था"
+        },
+        "d": {
+          "en": "He set himself up in the hay, feed, and grain business—because in peaceful 1894 nobody needed a psychiatrist",
+          "hi": "उसने भूसा, चारा और अनाज (Hay, feed, and grain) का व्यवसाय शुरू किया—क्योंकि शांत 1894 में किसी को मनोचिकित्सक की ज़रूरत नहीं थी"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Charley found out at the stamp and coin store that Sam had bought eight hundred dollars' worth of old-style currency.",
+        "hi": "चार्ली को डाक टिकट और सिक्कों की दुकान से पता चला कि सैम ने आठ सौ डॉलर की पुरानी मुद्रा खरीदी थी।"
+      },
+      "explanation": {
+        "en": "At the stamp and coin store, Charley learned Sam had bought $800 worth of old-style currency—enough to start a hay, feed, and grain business, which Sam always wished he could do since peaceful 1894 had no need for psychiatrists.",
+        "hi": "डाक टिकट और सिक्कों की दुकान से चार्ली को पता चला कि सैम ने 800 डॉलर मूल्य की पुरानी मुद्रा खरीदी थी—जो भूसा, चारा और अनाज का व्यवसाय शुरू करने के लिए पर्याप्त थी, क्योंकि शांतिपूर्ण 1894 में मनोचिकित्सकों की कोई आवश्यकता नहीं थी।"
+      },
+      "key_takeaway": {
+        "en": "Sam bought $800 in 1894 currency to run a hay, feed, and grain business because peaceful 1894 needed no psychiatrists.",
+        "hi": "सैम ने 800 डॉलर की पुरानी मुद्रा खरीदकर भूसा, चारा व अनाज का व्यवसाय शुरू किया क्योंकि शांत 1894 में मनोचिकित्सक की ज़रूरत नहीं थी।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What is the central irony in the ending of 'The Third Level'?",
+        "hi": "'द थर्ड लेवल' के अंत में केंद्रीय विडंबना (Irony) क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "Sam Weiner—the psychiatrist who diagnosed Charley's third level as a 'waking-dream wish fulfillment'—himself escaped to 1894 Galesburg via the third level",
+          "hi": "सैम वीनर—जिस मनोचिकित्सक ने चार्ली के तीसरे तल को 'जाग्रत-स्वप्न इच्छा पूर्ति' बताया था—स्वयं तीसरे तल के माध्यम से 1894 के गेल्सबर्ग पलायन कर गया"
+        },
+        "b": {
+          "en": "Charley became a famous psychiatrist in New York",
+          "hi": "चार्ली न्यूयॉर्क में एक प्रसिद्ध मनोचिकित्सक बन गया"
+        },
+        "c": {
+          "en": "Louisa discovered that Grand Central Station had been demolished",
+          "hi": "लुइसा को पता चला कि ग्रैंड सेंट्रल स्टेशन को ध्वस्त कर दिया गया है"
+        },
+        "d": {
+          "en": "The coin dealer arrested Charley for using 1894 bills",
+          "hi": "सिक्का व्यापारी ने 1894 के नोटों का उपयोग करने पर चार्ली को गिरफ्तार करवा दिया"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "The very doctor who tried to cure Charley of escapism succumbed to the exact same longing for a peaceful past.",
+        "hi": "जिस डॉक्टर ने चार्ली को पलायनवाद से मुक्त करने की कोशिश की, वह स्वयं उसी शांत अतीत की लालसा में वहाँ चला गया।"
+      },
+      "explanation": {
+        "en": "The central irony of the story is that Sam Weiner, the rational psychiatrist who dismissed Charley's third level as a psychological escape, secretly bought $800 of old currency and escaped to 1894 Galesburg himself.",
+        "hi": "कहानी की केंद्रीय विडंबना यह है कि तार्किक मनोचिकित्सक सैम वीनर, जिसने चार्ली के तीसरे तल को मानसिक पलायन कहकर खारिज किया था, स्वयं चुपचाप 800 डॉलर की पुरानी मुद्रा खरीदकर 1894 के गेल्सबर्ग चला गया।"
+      },
+      "key_takeaway": {
+        "en": "Ironically, the psychiatrist Sam—who called the third level wish fulfillment—escaped to 1894 himself.",
+        "hi": "विडंबना यह है कि तीसरे तल को कोरी कल्पना बताने वाला मनोचिकित्सक सैम स्वयं 1894 में जा बसा।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What does the 'third level' symbolize in Jack Finney's story?",
+        "hi": "जैक फिनी की कहानी में 'तीसरा तल' (Third level) किसका प्रतीक है?"
+      },
+      "options": {
+        "a": {
+          "en": "A modern subway extension built in 1950",
+          "hi": "1950 में निर्मित एक आधुनिक सबवे विस्तार"
+        },
+        "b": {
+          "en": "A medium of escape from the harsh realities, anxieties, insecurity, and wars of the modern world into an idealized, peaceful past",
+          "hi": "आधुनिक दुनिया की कठोर वास्तविकताओं, चिंताओं, असुरक्षा और युद्धों से बचकर एक आदर्श, शांत अतीत में जाने का माध्यम"
+        },
+        "c": {
+          "en": "A secret vault storing gold reserves of New York",
+          "hi": "न्यूयॉर्क के स्वर्ण भंडार को रखने वाली एक गुप्त तिजोरी"
+        },
+        "d": {
+          "en": "A scientific laboratory for testing time machines",
+          "hi": "टाइम मशीनों के परीक्षण की एक वैज्ञानिक प्रयोगशाला"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It represents the universal human yearning for peace, simplicity, and relief from modern stress.",
+        "hi": "यह आधुनिक तनाव से मुक्ति, शांति और सादगी के प्रति सार्वभौमिक मानवीय लालसा का प्रतिनिधित्व करता है।"
+      },
+      "explanation": {
+        "en": "Symbolically, the third level represents a psychological and imaginative refuge—an escape route from the insecurities, fears, wars, and hectic pace of modern life into a serene, nostalgic past.",
+        "hi": "प्रतीकात्मक रूप से तीसरा तल एक मनोवैज्ञानिक और कल्पनाशील शरणस्थली है—आधुनिक जीवन की असुरक्षा, भय, युद्धों और भागदौड़ से निकलकर एक शांत, सुखद अतीत में जाने का मार्ग।"
+      },
+      "key_takeaway": {
+        "en": "The third level symbolizes humanity's desire to escape modern stress and war into a tranquil past.",
+        "hi": "तीसरा तल आधुनिक तनाव और युद्ध से बचकर शांत अतीत में लौटने की मानवीय इच्छा का प्रतीक है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "How does Jack Finney blend fantasy and reality in 'The Third Level'?",
+        "hi": "जैक फिनी 'द थर्ड लेवल' में कल्पना (Fantasy) और यथार्थ (Reality) का मिश्रण कैसे करते हैं?"
+      },
+      "options": {
+        "a": {
+          "en": "By setting the entire story on a distant alien planet",
+          "hi": "पूरी कहानी को एक दूरस्थ एलियन ग्रह पर स्थापित करके"
+        },
+        "b": {
+          "en": "By using only fairy-tale dragons and magic wands",
+          "hi": "केवल परीकथाओं के ड्रेगन और जादुई छड़ियों का उपयोग करके"
+        },
+        "c": {
+          "en": "By anchoring a fantastical time-travel experience in vivid, realistic details—real places like Grand Central and Galesburg, historical newspapers, currency exchange rates, and a tangible first-day cover",
+          "hi": "काल्पनिक समय-यात्रा के अनुभव को सजीव, यथार्थवादी विवरणों—जैसे ग्रैंड सेंट्रल व गेल्सबर्ग के वास्तविक स्थान, ऐतिहासिक अखबार, मुद्रा विनिमय और ठोस फर्स्ट-डे कवर—से जोड़कर"
+        },
+        "d": {
+          "en": "By explicitly declaring on page one that the whole tale is a dream",
+          "hi": "पहले ही पृष्ठ पर स्पष्ट रूप से यह घोषित करके कि पूरी कहानी एक सपना है"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Finney weaves authentic historical facts (1894 currency, President Cleveland, Garfield stamps) into Charley's mysterious journey.",
+        "hi": "फिनी चार्ली की रहस्यमय यात्रा में प्रामाणिक ऐतिहासिक तथ्यों (1894 की मुद्रा, राष्ट्रपति क्लीवलैंड, गारफील्ड टिकट) को बुनते हैं।"
+      },
+      "explanation": {
+        "en": "Finney masterfully blurs the boundary between fantasy and reality by grounding Charley's time-slip in concrete, verifiable details—Grand Central's real architecture, 1894 newspapers, old currency exchange, and Sam's postmarked letter.",
+        "hi": "फिनी ग्रैंड सेंट्रल की वास्तविक वास्तुकला, 1894 के अखबारों, पुरानी मुद्रा के विनिमय और सैम के डाक-मुहर लगे पत्र जैसे ठोस विवरणों के माध्यम से कल्पना और यथार्थ की सीमा को कुशलतापूर्वक धुंधला कर देते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Concrete historical and everyday details make the fantastical time-travel motif feel remarkably believable.",
+        "hi": "ठोस ऐतिहासिक और दैनिक जीवन के विवरण काल्पनिक समय-यात्रा को भी अत्यंत विश्वसनीय बना देते हैं।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What does the phrase 'waking-dream wish fulfillment' mean in the story?",
+        "hi": "कहानी में वाक्यांश 'waking-dream wish fulfillment' का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {
+          "en": "A nightmare experienced during deep sleep",
+          "hi": "गहरी नींद के दौरान देखा गया एक बुरा सपना"
+        },
+        "b": {
+          "en": "A conscious business plan for building railways",
+          "hi": "रेलवे निर्माण के लिए एक सचेत व्यावसायिक योजना"
+        },
+        "c": {
+          "en": "A medical prescription for insomnia",
+          "hi": "अनिद्रा के लिए एक चिकित्सीय नुस्खा"
+        },
+        "d": {
+          "en": "A daydream or imaginary experience created by the mind while awake to satisfy an unfulfilled longing for peace and escape",
+          "hi": "जागते हुए मन द्वारा रचा गया एक दिवास्वप्न या काल्पनिक अनुभव, जो शांति और पलायन की अतृप्त इच्छा को संतुष्ट करता है"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Sam used this psychological term to explain how Charley's mind projected his desire to escape modern anxiety onto Grand Central.",
+        "hi": "सैम ने इस मनोवैज्ञानिक शब्द का उपयोग यह समझाने के लिए किया कि चार्ली के मन ने आधुनिक चिंता से बचने की इच्छा को ग्रैंड सेंट्रल पर आरोपित कर दिया।"
+      },
+      "explanation": {
+        "en": "'Waking-dream wish fulfillment' refers to a vivid daydream or mental projection experienced while awake, through which a person satisfies an intense subconscious desire—here, Charley's longing to escape modern stress.",
+        "hi": "'Waking-dream wish fulfillment' का अर्थ है जागृत अवस्था में अनुभव किया गया सजीव दिवास्वप्न, जिसके माध्यम से व्यक्ति अपनी गहरी अवचेतन इच्छा—यहाँ आधुनिक तनाव से बचने की चार्ली की लालसा—की पूर्ति करता है।"
+      },
+      "key_takeaway": {
+        "en": "'Waking-dream wish fulfillment' is a psychological projection satisfying an unfulfilled desire while awake.",
+        "hi": "'Waking-dream wish fulfillment' जागृत अवस्था में किसी अतृप्त इच्छा को पूरा करने वाला मनोवैज्ञानिक दिवास्वप्न है।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "What did the clerk mean by the slang word 'skin' when he warned Charley, \"if you're trying to skin me you won't get very far\"?",
+        "hi": "जब क्लर्क ने चार्ली को चेतावनी दी, \"if you're trying to skin me you won't get very far\", तो बोलचाल के शब्द 'skin' से उसका क्या आशय था?"
+      },
+      "options": {
+        "a": {
+          "en": "To cheat, swindle, or deceive someone out of their money",
+          "hi": "किसी को ठगना, धोखा देना या पैसे हड़पना"
+        },
+        "b": {
+          "en": "To peel fruit at the station platform",
+          "hi": "स्टेशन प्लेटफॉर्म पर फल छीलना"
+        },
+        "c": {
+          "en": "To paint the wooden ticket window",
+          "hi": "लकड़ी की टिकट खिड़की पर रंग करना"
+        },
+        "d": {
+          "en": "To race against the locomotive on foot",
+          "hi": "पैदल चलकर रेल इंजन से दौड़ लगाना"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Thinking Charley's modern 20th-century bills were counterfeit, the 1894 clerk accused him of trying to cheat him.",
+        "hi": "चार्ली के आधुनिक 20वीं सदी के नोटों को नकली समझकर 1894 के क्लर्क ने उस पर ठगी करने का आरोप लगाया।"
+      },
+      "explanation": {
+        "en": "In 19th-century American slang, 'to skin' someone means to cheat, swindle, or defraud them—which is what the clerk suspected when Charley offered unfamiliar modern banknotes.",
+        "hi": "19वीं सदी की अमेरिकी बोलचाल में 'to skin' का अर्थ किसी को ठगना या धोखा देना है—यही संदेह क्लर्क को तब हुआ जब चार्ली ने अपरिचित आधुनिक नोट दिए।"
+      },
+      "key_takeaway": {
+        "en": "In context, 'skin' means to cheat or swindle someone.",
+        "hi": "संदर्भ में 'skin' का अर्थ किसी को ठगना या धोखा देना है।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Why did Charley observe that \"the lamps were dim and sort of flickering\" on the third level?",
+        "hi": "चार्ली ने तीसरे तल पर यह क्यों देखा कि \"लैंप मद्धम थे और कुछ टिमटिमा रहे थे\"?"
+      },
+      "options": {
+        "a": {
+          "en": "Because there was a power outage across New York City",
+          "hi": "क्योंकि पूरे न्यूयॉर्क शहर में बिजली गुल हो गई थी"
+        },
+        "b": {
+          "en": "Because they were open-flame gaslights typical of the 1890s rather than modern electric bulbs",
+          "hi": "क्योंकि वे आधुनिक बिजली के बल्बों के बजाय 1890 के दशक की खुली लौ वाली गैसलाइट्स थीं"
+        },
+        "c": {
+          "en": "Because heavy rain was leaking through the ceiling",
+          "hi": "क्योंकि छत से तेज़ बारिश का पानी टपक रहा था"
+        },
+        "d": {
+          "en": "Because the station was closing down for demolition",
+          "hi": "क्योंकि स्टेशन को तोड़ने के लिए बंद किया जा रहा था"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Electric lighting was not yet standard in the station in 1894; open gas flames flickered naturally.",
+        "hi": "1894 में स्टेशन पर विद्युत प्रकाश व्यवस्था सामान्य नहीं थी; खुली गैस की लपटें स्वाभाविक रूप से टिमटिमाती थीं।"
+      },
+      "explanation": {
+        "en": "Charley immediately noticed why the lights were dim and flickering: they were open-flame gaslights from the 1890s, reinforcing the historical authenticity of the third level.",
+        "hi": "चार्ली ने तुरंत समझ लिया कि रोशनी मद्धम और टिमटिमाती क्यों थी: वे 1890 के दशक की खुली लौ वाली गैसलाइट्स थीं, जो तीसरे तल की ऐतिहासिक प्रामाणिकता को पुष्ट करती हैं।"
+      },
+      "key_takeaway": {
+        "en": "Flickering open-flame gaslights confirmed that the third level belonged to the 1890s.",
+        "hi": "टिमटिमाती खुली लौ वाली गैसलाइट्स ने पुष्टि की कि तीसरा तल 1890 के दशक का था।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Which literary device is used in Charley's description: \"Grand Central has been an exit, a way of escape—maybe that's how the tunnel I got into...\"?",
+        "hi": "चार्ली के कथन: \"ग्रैंड सेंट्रल एक निकास, पलायन का एक मार्ग रहा है—शायद इसी तरह मैं उस सुरंग में पहुँच गया...\" में किस साहित्यिक युक्ति का प्रयोग हुआ है?"
+      },
+      "options": {
+        "a": {
+          "en": "Hyperbole — exaggerating the height of the station roof",
+          "hi": "अतिशयोक्ति — स्टेशन की छत की ऊँचाई को बढ़ा-चढ़ाकर बताना"
+        },
+        "b": {
+          "en": "Onomatopoeia — imitating train whistle sounds",
+          "hi": "ध्वन्यर्थव्यंजना — ट्रेन की सीटी की आवाज़ की नकल करना"
+        },
+        "c": {
+          "en": "Symbolism & Metaphor — equating a physical railway station with a psychological escape route from modern reality",
+          "hi": "प्रतीकवाद और रूपक (Symbolism & Metaphor) — एक भौतिक रेलवे स्टेशन को आधुनिक वास्तविकता से मनोवैज्ञानिक पलायन के मार्ग के रूप में चित्रित करना"
+        },
+        "d": {
+          "en": "Oxymoron — pairing opposite adjectives together",
+          "hi": "विरोधाभास — विपरीत विशेषणों को एक साथ जोड़ना"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Grand Central functions both as a literal transit hub for commuters and as a symbolic gateway out of modern anxiety.",
+        "hi": "ग्रैंड सेंट्रल यात्रियों के लिए एक वास्तविक पारगमन केंद्र और आधुनिक चिंता से बाहर निकलने के प्रतीकात्मक द्वार दोनों के रूप में कार्य करता है।"
+      },
+      "explanation": {
+        "en": "By calling Grand Central \"an exit, a way of escape\", Charley uses metaphor and symbolism to transform a bustling physical train station into an emblem of psychological refuge from modern stress.",
+        "hi": "ग्रैंड सेंट्रल को \"एक निकास, पलायन का मार्ग\" कहकर चार्ली रूपक और प्रतीकवाद के माध्यम से एक व्यस्त भौतिक रेलवे स्टेशन को आधुनिक तनाव से मानसिक शरण लेने के प्रतीक में बदल देते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Grand Central serves as a metaphor and symbol for psychological escape from modern pressures.",
+        "hi": "ग्रैंड सेंट्रल आधुनिक दबावों से मनोवैज्ञानिक पलायन के रूपक और प्रतीक के रूप में कार्य करता है।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "What is the overarching theme of Jack Finney's 'The Third Level'?",
+        "hi": "जैक फिनी की कहानी 'द थर्ड लेवल' का समग्र केंद्रीय विषय (Theme) क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "The importance of banking regulations in 19th-century America",
+          "hi": "19वीं सदी के अमेरिका में बैंकिंग नियमों का महत्व"
+        },
+        "b": {
+          "en": "A technical history of steam locomotives in New York",
+          "hi": "न्यूयॉर्क में भाप के इंजनों का तकनीकी इतिहास"
+        },
+        "c": {
+          "en": "Why stamp collecting is more profitable than psychiatry",
+          "hi": "डाक टिकट संग्रह मनोचिकित्सा की तुलना में अधिक लाभदायक क्यों है"
+        },
+        "d": {
+          "en": "Modern humanity's deep yearning to escape the insecurity, fear, war, and stress of contemporary life into a simpler, peaceful past—blurring the line between reality and imagination",
+          "hi": "समकालीन जीवन की असुरक्षा, भय, युद्ध और तनाव से बचकर एक सरल, शांत अतीत में लौटने की आधुनिक मानव की गहरी लालसा—जो यथार्थ और कल्पना की सीमा को धुंधला करती है"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Connect Charley's longing for 1894 Galesburg, Sam's psychiatric diagnosis, and Sam's own eventual escape.",
+        "hi": "1894 के गेल्सबर्ग के प्रति चार्ली की लालसा, सैम के मनोचिकित्सकीय निदान और अंततः स्वयं सैम के पलायन को एक साथ जोड़िए।"
+      },
+      "explanation": {
+        "en": "'The Third Level' explores escapism as a natural human response to the anxieties, wars, and insecurities of the modern world, leaving the reader to wonder whether the third level is a real portal in time or a shared psychological refuge.",
+        "hi": "'द थर्ड लेवल' आधुनिक दुनिया की चिंताओं, युद्धों और असुरक्षा के प्रति स्वाभाविक मानवीय प्रतिक्रिया के रूप में पलायनवाद की पड़ताल करती है, और पाठक को यह सोचने पर छोड़ देती है कि क्या तीसरा तल समय का वास्तविक द्वार है या एक साझा मानसिक शरणस्थली।"
+      },
+      "key_takeaway": {
+        "en": "'The Third Level' explores modern anxiety, escapism, and the blurred boundary between reality and wishful imagination.",
+        "hi": "'द थर्ड लेवल' आधुनिक चिंता, पलायनवाद तथा यथार्थ और कल्पना के बीच की धुंधली सीमा को दर्शाती है।"
+      }
+    }
+  ]
+}
