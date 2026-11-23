@@ -1,0 +1,935 @@
+{
+  "metadata": {
+    "chapter_number": 10,
+    "chapter_title": "Bhaktin (Aroh Part 2 - Gadya Khand)",
+    "chapter_title_hindi": "भक्तिन (आरोह भाग 2 - गद्य खंड)",
+    "subject": "Hindi",
+    "target_class": "Class XII",
+    "total_questions": 24,
+    "question_range": "Q1 to Q24",
+    "source_language": "hi",
+    "target_language": "en",
+    "version": "1.0",
+    "note": "Complete 24-question bilingual MCQ bank for NCERT/HPBOSE Class 12 Hindi (Aroh Part 2, Gadya Khand Chapter 10: Bhaktin by Mahadevi Verma) tailored for Hindi-medium learners with clear English counterparts. Pure Unicode, zero trailing commas, zero citation tags, balanced options (6 A, 6 B, 6 C, 6 D)."
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "Hindi Curriculum & JSON Schema Validator",
+    "corrections": [],
+    "notes": "Verified all 24 questions covering Mahadevi Verma's sansmaranatmak rekhachitra 'Bhaktin' (from Smriti Ki Rekhayen), Bhaktin's real name (Lakshmin) and appearance, four life stages (Jhusi childhood, Handiya marriage and widowhood, family betrayal/panchayat injustice, and devoted service to Mahadevi Verma), culinary/household habits, jail fear yet loyalty, literary style, and vocabulary. Options balanced to 6 A, 6 B, 6 C, and 6 D."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "hi": "'भक्तिन' पाठ की लेखिका कौन हैं और यह रचना किस गद्य विधा के अंतर्गत आती है?",
+        "en": "Who is the author of the lesson 'Bhaktin', and under which prose genre does this work fall?"
+      },
+      "options": {
+        "a": {
+          "hi": "सुभद्रा कुमारी चौहान; कहानी",
+          "en": "Subhadra Kumari Chauhan; Short story"
+        },
+        "b": {
+          "hi": "महादेवी वर्मा; संस्मरणात्मक रेखाचित्र",
+          "en": "Mahadevi Verma; Memoir-sketch (Sansmaranatmak Rekhachitra)"
+        },
+        "c": {
+          "hi": "मन्नू भंडारी; एकांकी",
+          "en": "Mannu Bhandari; One-act play"
+        },
+        "d": {
+          "hi": "कृष्णा सोबती; यात्रा-वृत्तांत",
+          "en": "Krishna Sobti; Travelogue"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "यह रचना महादेवी वर्मा के प्रसिद्ध संग्रह 'स्मृति की रेखाएँ' से संकलित है।",
+        "en": "This piece is compiled from Mahadevi Verma's celebrated collection 'Smriti Ki Rekhayen'."
+      },
+      "explanation": {
+        "hi": "'भक्तिन' छायावाद की प्रमुख स्तंभ महादेवी वर्मा द्वारा रचित एक प्रसिद्ध 'संस्मरणत्मक रेखाचित्र' है, जो उनके संकलन 'स्मृति की रेखाएँ' से लिया गया है।",
+        "en": "'Bhaktin' is a famous memoir-sketch (sansmaranatmak rekhachitra) written by Chhayavad pillar Mahadevi Verma, taken from her collection 'Smriti Ki Rekhayen'."
+      },
+      "key_takeaway": {
+        "hi": "'भक्तिन' महादेवी वर्मा का संस्मरणात्मक रेखाचित्र है जो 'स्मृति की रेखाएँ' में संकलित है।",
+        "en": "'Bhaktin' is Mahadevi Verma's memoir-sketch from 'Smriti Ki Rekhayen'."
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "hi": "भक्तिन का वास्तविक नाम क्या था और वह लोगों को अपना यह नाम क्यों नहीं बताती थी?",
+        "en": "What was Bhaktin's real name, and why did she avoid telling people her real name?"
+      },
+      "options": {
+        "a": {
+          "hi": "पार्वती; क्योंकि उसे यह नाम कठिन लगता था",
+          "en": "Parvati; because she found the name hard to pronounce"
+        },
+        "b": {
+          "hi": "गंगा; क्योंकि उसके पिता ने नाम छिपाने को कहा था",
+          "en": "Ganga; because her father told her to hide it"
+        },
+        "c": {
+          "hi": "लछमिन (लक्ष्मी); क्योंकि उसका वास्तविक नाम धन-संपत्ति का सूचक था, जबकि उसका जीवन अत्यंत निर्धनता और संघर्षों में बीता था",
+          "en": "Lachhmin (Lakshmi); because her name signified wealth and prosperity, whereas her life was spent in acute poverty and hardship"
+        },
+        "d": {
+          "hi": "राधा; क्योंकि वह अपना नाम भूल चुकी थी",
+          "en": "Radha; because she had forgotten her name"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "नाम और जीवन की वास्तविकता के इस विरोधाभास के कारण उसने लेखिका से भी प्रार्थना की थी कि वे कभी इस नाम का उपयोग न करें।",
+        "en": "Because of this ironic contrast between her name and reality, she requested the author never to call her by it."
+      },
+      "explanation": {
+        "hi": "भक्तिन का वास्तविक नाम 'लछमिन' (लक्ष्मी) था, जो समृद्धि का प्रतीक है। किंतु उसके जीवन में गरीबी, वैधव्य और विपत्तियाँ ही रहीं, इसलिए नाम और भाग्य के विरोधाभास से बचने के लिए वह किसी को अपना असली नाम नहीं बताती थी।",
+        "en": "Bhaktin's real name was 'Lachhmin' (Lakshmi), symbolizing wealth. Because her life was marked by poverty and hardship, she avoided revealing this ironic name."
+      },
+      "key_takeaway": {
+        "hi": "भक्तिन का असली नाम 'लछमिन' था, जिसे वह अपनी विपन्न स्थिति के विरोधाभास के कारण छिपाती थी।",
+        "en": "Bhaktin's real name was 'Lachhmin', which she concealed due to its contrast with her impoverished life."
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "hi": "महादेवी वर्मा ने लछमिन को 'भक्तिन' नाम क्यों दिया?",
+        "en": "Why did Mahadevi Verma give Lachhmin the name 'Bhaktin'?"
+      },
+      "options": {
+        "a": {
+          "hi": "उसके गले में कंठी माला और मुंडित सिर देखकर उसकी वैराग्यपूर्ण वेशभूषा के कारण",
+          "en": "Because of her ascetic appearance with a kanthi necklace around her neck and a shaven head"
+        },
+        "b": {
+          "hi": "क्योंकि वह दिन-रात मंदिर में बैठकर भजन गाती थी",
+          "en": "Because she sat in a temple singing hymns day and night"
+        },
+        "c": {
+          "hi": "क्योंकि वह संस्कृत के बड़े-बड़े ग्रंथों का पाठ करती थी",
+          "en": "Because she recited lengthy Sanskrit scriptures"
+        },
+        "d": {
+          "hi": "क्योंकि गाँव के सरपंच ने उसे यही उपाधि दी थी",
+          "en": "Because the village sarpanch had conferred that title on her"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "भक्तिन का कद छोटा, शरीर दुबला, आँखें छोटी, होंठ पतले और गले में कंठी माला थी।",
+        "en": "Bhaktin was short and slender, with small eyes, thin lips, and a sacred kanthi necklace around her neck."
+      },
+      "explanation": {
+        "hi": "भक्तिन के गले में कंठी माला और मुंडित सिर देखकर महादेवी वर्मा को लगा कि वह किसी भक्त के समान दिखाई देती है, इसलिए उन्होंने उसका नाम 'भक्तिन' रख दिया, जिसे सुनकर वह गदगद हो उठी।",
+        "en": "Seeing the kanthi necklace around her neck and her shaven head, Mahadevi Verma named her 'Bhaktin' (devotee), a name Lachhmin gladly embraced."
+      },
+      "key_takeaway": {
+        "hi": "कंठी माला और वैराग्यपूर्ण रूप-रंग देखकर महादेवी वर्मा ने उसका नाम 'भक्तिन' रखा।",
+        "en": "Seeing her kanthi necklace and ascetic appearance, Mahadevi Verma named her 'Bhaktin'."
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "hi": "भक्तिन के जीवन को लेखिका ने मुख्य रूप से कितने परिच्छेदों (भागों) में बाँटा है?",
+        "en": "Into how many main chapters/phases (parichchhed) has the author divided Bhaktin's life?"
+      },
+      "options": {
+        "a": {
+          "hi": "दो परिच्छेदों में",
+          "en": "Two phases"
+        },
+        "b": {
+          "hi": "तीन परिच्छेदों में",
+          "en": "Three phases"
+        },
+        "c": {
+          "hi": "पाँच परिच्छेदों में",
+          "en": "Five phases"
+        },
+        "d": {
+          "hi": "चार परिच्छेदों में",
+          "en": "Four phases"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "बचपन (झूँसी), विवाह व वैधव्य (हंडिया), पारिवारिक संघर्ष व पंचायत, तथा महादेवी वर्मा की सेवा—ये चार चरण हैं।",
+        "en": "Childhood in Jhusi, marriage and widowhood in Handiya, family conflict/panchayat, and service to Mahadevi Verma form these four stages."
+      },
+      "explanation": {
+        "hi": "लेखिका ने भक्तिन के जीवन को चार परिच्छेदों में विभाजित किया है: (1) झूँसी में बचपन और विमाता का व्यवहार, (2) हंडिया ग्राम में विवाह व ससुराल का जीवन, (3) वैधव्य के बाद पारिवारिक षड्यंत्र व पंचायत का अन्याय, और (4) महादेवी वर्मा के घर सेविका के रूप में जीवन।",
+        "en": "The author divides Bhaktin's life into four phases: childhood in Jhusi, married life and widowhood in Handiya, post-widowhood family betrayal, and devoted service at Mahadevi Verma's residence."
+      },
+      "key_takeaway": {
+        "hi": "भक्तिन की जीवन-कथा चार परिच्छेदों में वर्णित है।",
+        "en": "Bhaktin's life story is structured into four distinct phases."
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "hi": "भक्तिन का जन्म कहाँ हुआ था और उसके पिता का व्यवसाय क्या था?",
+        "en": "Where was Bhaktin born, and what was her father's occupation?"
+      },
+      "options": {
+        "a": {
+          "hi": "झूँसी गाँव में; वह एक प्रसिद्ध अहीर (पशुपालक) परिवार की इकलौती बेटी थी",
+          "en": "In Jhusi village; she was the only daughter of a well-known Ahir (cattle-rearing) family"
+        },
+        "b": {
+          "hi": "काशी में; उसके पिता एक प्रसिद्ध वैद्य थे",
+          "en": "In Kashi; her father was a famous physician"
+        },
+        "c": {
+          "hi": "प्रयाग में; उसके पिता न्यायालय में मुंशी थे",
+          "en": "In Prayag; her father was a court clerk"
+        },
+        "d": {
+          "hi": "अयोध्या में; उसके पिता कपड़ों के व्यापारी थे",
+          "en": "In Ayodhya; her father was a cloth merchant"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "ऐतिहासिक झूँसी गाँव में प्रसिद्ध अहीर सुरमा की इकलौती बेटी होने के कारण उसका बचपन लाड़-प्यार में बीता, पर माँ के निधन के बाद विमाता का व्यवहार कठोर हो गया।",
+        "en": "Born in historic Jhusi as the only daughter of a respected Ahir, she was pampered early on until her mother died and her stepmother mistreated her."
+      },
+      "explanation": {
+        "hi": "भक्तिन ऐतिहासिक झूँसी गाँव में प्रसिद्ध अहीर सुरमा की इकलौती बेटी थी। बचपन में ही माँ की मृत्यु के बाद पिता ने दूसरा विवाह कर लिया और विमाता ने ईर्ष्यावश पाँच वर्ष की आयु में ही उसका विवाह कर दिया।",
+        "en": "Bhaktin was born in historic Jhusi as the only daughter of a prominent Ahir. After her mother's early death, her jealous stepmother married her off at the age of five."
+      },
+      "key_takeaway": {
+        "hi": "भक्तिन झूँसी के एक अहीर परिवार की इकलौती पुत्री थी।",
+        "en": "Bhaktin was the only daughter of an Ahir family in Jhusi."
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "hi": "भक्तिन का विवाह किस आयु में और किस गाँव में हुआ था?",
+        "en": "At what age and in which village was Bhaktin married?"
+      },
+      "options": {
+        "a": {
+          "hi": "पंद्रह वर्ष की आयु में; रामपुर गाँव में",
+          "en": "At age fifteen; in Rampur village"
+        },
+        "b": {
+          "hi": "पाँच वर्ष की आयु में विवाह और नौ वर्ष की आयु में गौना; हंडिया ग्राम के एक संपन्न गोपालक के सबसे छोटे पुत्र के साथ",
+          "en": "Married at age five with gauna at age nine; to the youngest son of a prosperous cowherd in Handiya village"
+        },
+        "c": {
+          "hi": "अठारह वर्ष की आयु में; प्रयाग शहर में",
+          "en": "At age eighteen; in Prayag city"
+        },
+        "d": {
+          "hi": "बारह वर्ष की आयु में; चित्रकूट में",
+          "en": "At age twelve; in Chitrakoot"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "विमाता ने पिता का प्रेम छिनने के डर से अल्पायु में ही उसका विवाह व गौना करा दिया।",
+        "en": "Fearing her father's affection for his daughter, the stepmother hurried both her marriage and gauna at a very young age."
+      },
+      "explanation": {
+        "hi": "विमाता ने पाँच वर्ष की उम्र में ही लछमिन का विवाह हंडिया ग्राम के एक संपन्न गोपालक के सबसे छोटे पुत्र से कर दिया और नौ वर्ष की आयु में गौना भी कर दिया।",
+        "en": "Her stepmother married Lachhmin at age five to the youngest son of a prosperous cowherd family in Handiya village, and completed her gauna at age nine."
+      },
+      "key_takeaway": {
+        "hi": "पाँच वर्ष की आयु में विवाह और नौ वर्ष में गौना होकर भक्तिन हंडिया ग्राम गई।",
+        "en": "Married at five and sent at nine, Bhaktin moved to Handiya village."
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "hi": "पिता की गंभीर बीमारी और मृत्यु का समाचार विमाता ने भक्तिन को देरी से क्यों भिजवाया?",
+        "en": "Why did the stepmother delay sending news of her father's serious illness and death to Bhaktin?"
+      },
+      "options": {
+        "a": {
+          "hi": "क्योंकि संदेशवाहक रास्ता भटक गया था",
+          "en": "Because the messenger lost his way"
+        },
+        "b": {
+          "hi": "क्योंकि गाँव में बाढ़ आने से सभी रास्ते बंद थे",
+          "en": "Because floods had blocked all roads to the village"
+        },
+        "c": {
+          "hi": "क्योंकि विमाता को डर था कि कहीं पिता मृत्यु से पहले अपनी संपत्ति अपनी इकलौती बेटी लछमिन के नाम न कर दें",
+          "en": "Because the stepmother feared her father might leave his property to his only daughter Lachhmin before dying"
+        },
+        "d": {
+          "hi": "क्योंकि भक्तिन के ससुराल वालों ने पत्र लेने से मना कर दिया था",
+          "en": "Because Bhaktin's in-laws refused to accept any letter"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "जब भक्तिन मायके पहुँची, तो पिता की मृत्यु हुए कई दिन बीत चुके थे और विमाता के कटु व्यवहार से आहत होकर वह बिना पानी पिए ससुराल लौट आई।",
+        "en": "When Bhaktin reached her parental home, days had passed since her father's death; hurt by her stepmother's cruelty, she returned without even drinking water."
+      },
+      "explanation": {
+        "hi": "विमाता को आशंका थी कि पिता अंत समय में अपनी संपत्ति इकलौती बेटी को दे सकते हैं, इसलिए उसने पिता की मृत्यु के बाद समाचार भेजा। मायके पहुँचने पर अपमानित होकर भक्तिन बिना पानी पिए वापस लौट आई।",
+        "en": "Fearing the father would bequeath his property to his daughter, the stepmother sent news only after his death. Humiliated upon arrival, Bhaktin returned without even drinking water."
+      },
+      "key_takeaway": {
+        "hi": "संपत्ति के लालच में विमाता ने पिता की मृत्यु का समाचार छिपाए रखा।",
+        "en": "Out of greed for property, the stepmother withheld news of the father's illness and death."
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "hi": "ससुराल में भक्तिन के साथ सास और जिठानियों का व्यवहार भेदभावपूर्ण क्यों था?",
+        "en": "Why did Bhaktin's mother-in-law and sisters-in-law treat her with discrimination in her marital home?"
+      },
+      "options": {
+        "a": {
+          "hi": "क्योंकि भक्तिन घर का कोई भी काम करने से मना करती थी",
+          "en": "Because Bhaktin refused to do any household chores"
+        },
+        "b": {
+          "hi": "क्योंकि भक्तिन शहर से पढ़-लिखकर आई थी",
+          "en": "Because Bhaktin had come from the city after receiving formal education"
+        },
+        "c": {
+          "hi": "क्योंकि भक्तिन के पति बहुत आलसी और झगड़ालू थे",
+          "en": "Because Bhaktin's husband was lazy and quarrelsome"
+        },
+        "d": {
+          "hi": "क्योंकि सास और जिठानियों ने पुत्रों को जन्म दिया था, जबकि भक्तिन ने लगातार तीन बेटियों को जन्म दिया था",
+          "en": "Because her mother-in-law and sisters-in-law had borne sons, whereas Bhaktin gave birth to three daughters in a row"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "यह प्रसंग तत्कालीन ग्रामीण समाज की पुत्र-मोह और लैंगिक भेदभाव की मानसिकता को उजागर करता है।",
+        "en": "This episode exposes the deep-seated son preference and gender bias in rural society."
+      },
+      "explanation": {
+        "hi": "सास तीन कमाऊ वीरों की माता थीं और दोनों जिठानियाँ भी काकभुशुंडी जैसे काले कलूटे लड़कों की माँ बन चुकी थीं, जबकि भक्तिन ने तीन बेटियों को जन्म दिया था। इसी कारण घर का सारा कठोर श्रम भक्तिन व उसकी बेटियों से कराया जाता और खाने में भी भेदभाव होता था।",
+        "en": "While her mother-in-law and sisters-in-law had borne sons, Bhaktin had three daughters; consequently, she and her daughters were burdened with all heavy labour and given inferior food."
+      },
+      "key_takeaway": {
+        "hi": "तीन बेटियों को जन्म देने के कारण भक्तिन को ससुराल में घोर लैंगिक भेदभाव और शोषण सहना पड़ा।",
+        "en": "Having borne three daughters, Bhaktin faced severe gender discrimination and exploitation in her in-laws' house."
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "hi": "भक्तिन के पति का देहांत किस आयु में हुआ और वैधव्य के बाद उसने क्या निर्णय लिया?",
+        "en": "At what age did Bhaktin's husband pass away, and what decision did she take upon becoming a widow?"
+      },
+      "options": {
+        "a": {
+          "hi": "छत्तीस वर्ष की आयु में; उसने दूसरा विवाह करने से साफ इनकार कर दिया, अपने बाल मुंडवा लिए और तीनों बेटियों के साथ रहकर खेत-खलिहान व घर संभाला",
+          "en": "At age thirty-six; she firmly refused remarriage, shaved her head, and stayed with her three daughters to manage the fields and household"
+        },
+        "b": {
+          "hi": "पचास वर्ष की आयु में; वह सब कुछ छोड़कर हिमालय चली गई",
+          "en": "At age fifty; she abandoned everything and left for the Himalayas"
+        },
+        "c": {
+          "hi": "पच्चीस वर्ष की आयु में; उसने जेठ के साले से विवाह कर लिया",
+          "en": "At age twenty-five; she married her brother-in-law's relative"
+        },
+        "d": {
+          "hi": "साठ वर्ष की आयु में; उसने सारी जमीन पंचायत को दान कर दी",
+          "en": "At age sixty; she donated all her land to the panchayat"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "ससुराल वालों को उम्मीद थी कि वह दूसरा विवाह करके संपत्ति छोड़ जाएगी, पर भक्तिन ने स्वाभिमान से संपत्ति और बेटियों की रक्षा की।",
+        "en": "Her in-laws hoped she would remarry and forfeit her land, but Bhaktin fiercely guarded both her daughters and her property."
+      },
+      "explanation": {
+        "hi": "जब भक्तिन मात्र 29 वर्ष की थी (और पति 36 वर्ष के थे), तभी उसके पति का निधन हो गया। जेठ-जिठौतों की संपत्ति हड़पने की चाल को विफल करते हुए भक्तिन ने पुनर्विवाह से इनकार कर दिया, सिर मुंडवाकर कंठी माला धारण की और परिश्रम से खेती-बाड़ी संभाली।",
+        "en": "When Bhaktin was only 29 (and her husband 36), he died. Foiling her in-laws' scheme to seize the land, she rejected remarriage, shaved her head, and worked tirelessly on her farm."
+      },
+      "key_takeaway": {
+        "hi": "पति की मृत्यु के बाद भक्तिन ने पुनर्विवाह न कर स्वाभिमानपूर्वक अपनी बेटियों और संपत्ति की रक्षा की।",
+        "en": "After her husband's death, Bhaktin refused remarriage and courageously protected her daughters and land."
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "hi": "भक्तिन की बड़ी बेटी के विधवा होने पर जेठ के लड़के (जिठौत) ने संपत्ति हड़पने के लिए क्या षड्यंत्र रचा?",
+        "en": "When Bhaktin's eldest daughter became a widow, what conspiracy did her brother-in-law's son (jithaut) hatch to grab their property?"
+      },
+      "options": {
+        "a": {
+          "hi": "उसने खेतों में आग लगवाकर फसल नष्ट कर दी",
+          "en": "He set fire to the fields and destroyed the crops"
+        },
+        "b": {
+          "hi": "उसने अपने तीतरबाज़ साले को जबरदस्ती भक्तिन की विधवा बेटी की कोठरी में बंद कर दिया ताकि पंचायत दबाव डालकर उन दोनों का विवाह करा दे",
+          "en": "He forcibly locked his idle, partridge-fighting brother-in-law inside the widowed daughter's room so the panchayat would force their marriage"
+        },
+        "c": {
+          "hi": "उसने भक्तिन को झूठे चोरी के मामले में शहर भेज दिया",
+          "en": "He framed Bhaktin in a false theft case and sent her to the city"
+        },
+        "d": {
+          "hi": "उसने जमींदार से मिलकर लगान माफ़ करवा दिया",
+          "en": "He colluded with the landlord to waive the land tax"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "अकर्मण्य दामाद आने से घर की समृद्धि घटने लगी और समय पर लगान न चुका पाने पर जमींदार ने भक्तिन को दिन भर कड़ी धूप में खड़ा रखा।",
+        "en": "The lazy son-in-law ruined the household economy, leading to unpaid land tax and Bhaktin's humiliation by the landlord."
+      },
+      "explanation": {
+        "hi": "संपत्ति हड़पने के उद्देश्य से जिठौत ने अपने तीतर लड़ाने वाले निठल्ले साले को धोखे से भक्तिन की विधवा बेटी की कोठरी में बंद कर दिया। पंचायत ने भी कलियुग की दुहाई देकर दोनों का विवाह तय कर दिया, जिससे घर की आर्थिक स्थिति बिगड़ गई।",
+        "en": "To seize the land, the jithaut locked his idle, partridge-fighting brother-in-law inside the widowed daughter's room, and the biased panchayat forced their marriage—destroying the family's prosperity."
+      },
+      "key_takeaway": {
+        "hi": "जिठौत के षड्यंत्र और पंचायत के अन्यायपूर्ण फैसले के कारण भक्तिन के घर में अकर्मण्य दामाद आ गया।",
+        "en": "Through the jithaut's conspiracy and an unjust panchayat verdict, an idle son-in-law was forced into Bhaktin's home."
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "hi": "भक्तिन गाँव छोड़कर शहर में महादेवी वर्मा के पास नौकरी करने क्यों आ गई?",
+        "en": "Why did Bhaktin leave her village and come to the city to work for Mahadevi Verma?"
+      },
+      "options": {
+        "a": {
+          "hi": "क्योंकि उसे गाँव की खेती-बाड़ी से नफ़रत हो गई थी",
+          "en": "Because she hated farming in the village"
+        },
+        "b": {
+          "hi": "क्योंकि वह शहर में बड़ा व्यापार शुरू करना चाहती थी",
+          "en": "Because she wanted to start a big business in the city"
+        },
+        "c": {
+          "hi": "क्योंकि समय पर लगान न चुका पाने के कारण जमींदार ने उसे दिन भर कड़ी धूप में खड़ा रखकर अपमानित किया था, और वह कमाकर लगान चुकाना चाहती थी",
+          "en": "Because when she could not pay land tax on time, the landlord humiliated her by making her stand in the scorching sun all day, and she came to earn money to pay off the dues"
+        },
+        "d": {
+          "hi": "क्योंकि उसकी बेटियों ने उसे घर से बाहर निकाल दिया था",
+          "en": "Because her daughters had thrown her out of the house"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "स्वाभिमानी भक्तिन के लिए जमींदार द्वारा दिया गया यह सार्वजनिक अपमान असहनीय था।",
+        "en": "For self-respecting Bhaktin, this public humiliation by the landlord was unbearable."
+      },
+      "explanation": {
+        "hi": "लगान न पहुँचने पर जमींदार ने भक्तिन को बुलाकर दिन भर कड़ी धूप में खड़ा रखा। यह अपमान स्वाभिमानी भक्तिन के हृदय पर कलंक बन गया और वह कमाई की खोज में शहर आकर महादेवी वर्मा की सेविका बन गई।",
+        "en": "When land revenue fell overdue, the landlord humiliated Bhaktin by keeping her standing in the blazing sun all day. Deeply stung, she came to the city to earn money and entered Mahadevi Verma's service."
+      },
+      "key_takeaway": {
+        "hi": "जमींदार के अपमान से आहत होकर स्वाभिमान की रक्षा और लगान चुकाने हेतु भक्तिन शहर आई।",
+        "en": "Stung by the landlord's humiliation, Bhaktin came to the city to earn money and preserve her self-respect."
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "hi": "भक्तिन को महादेवी वर्मा ने किस पात्र के समान 'सेवा-धर्म' में स्पर्धा करने वाली बताया है?",
+        "en": "To which mythological figure does Mahadevi Verma compare Bhaktin as rivaling in 'the dharma of service' (seva-dharma)?"
+      },
+      "options": {
+        "a": {
+          "hi": "विदुर",
+          "en": "Vidura"
+        },
+        "b": {
+          "hi": "सुदामा",
+          "en": "Sudama"
+        },
+        "c": {
+          "hi": "कर्ण",
+          "en": "Karna"
+        },
+        "d": {
+          "hi": "हनुमान जी",
+          "en": "Lord Hanuman"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "लेखिका कहती हैं—'सेवा-धर्म में हनुमान जी से स्पर्धा करने वाली भक्तिन किसी अंजना की पुत्री न होकर एक अनामधन्या गोपालिका की कन्या है।'।",
+        "en": "The author writes that rivaling Hanuman in devotion to service, Bhaktin was the daughter of an unheralded cowherdess rather than Anjana."
+      },
+      "explanation": {
+        "hi": "महादेवी वर्मा ने भक्तिन की निस्वार्थ सेवा-भावना और समर्पण की तुलना हनुमान जी से करते हुए लिखा है कि वह सेवा-धर्म में हनुमान जी से स्पर्धा करती है।",
+        "en": "Mahadevi Verma compares Bhaktin's selfless devotion and tireless service to Lord Hanuman, noting that she rivals Hanuman in her dedication to service."
+      },
+      "key_takeaway": {
+        "hi": "लेखिका ने भक्तिन के सेवा-धर्म की तुलना हनुमान जी से की है।",
+        "en": "Mahadevi Verma likens Bhaktin's devotion to service to that of Lord Hanuman."
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "hi": "भक्तिन के भोजन बनाने और खिलाने के ढंग से उसके स्वभाव की कौन-सी विशेषता प्रकट होती है?",
+        "en": "What trait of Bhaktin's personality is revealed through her style of cooking and serving food?"
+      },
+      "options": {
+        "a": {
+          "hi": "वह अपने ग्रामीण संस्कारों, स्वच्छता के नियमों और देहाती व्यंजनों (मोटे-मोटे सेके हुए रोट, गाढ़ी दाल, अमचूर की चटनी) पर अडिग रहती थी तथा लेखिका को भी अपनी रुचि के अनुसार ढाल लेती थी",
+          "en": "She clung steadfastly to her rural customs, purity rules, and rustic dishes (thick well-baked rotis, thick dal, mango-powder chutney) and gradually moulded the author to her ways"
+        },
+        "b": {
+          "hi": "वह केवल आधुनिक विदेशी व्यंजन बनाना पसंद करती थी",
+          "en": "She preferred cooking only modern foreign dishes"
+        },
+        "c": {
+          "hi": "वह रसोईघर की सफाई पर बिल्कुल ध्यान नहीं देती थी",
+          "en": "She paid no attention whatsoever to kitchen cleanliness"
+        },
+        "d": {
+          "hi": "वह रोज़ बाज़ार से मिठाइयाँ मँगवाकर खिलाती थी",
+          "en": "She ordered sweets from the market every day"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "महादेवी वर्मा लिखती हैं—'भक्तिन अच्छी है, यह कहना कठिन होगा, क्योंकि उसमें दुर्गुणों का अभाव नहीं; वह सत्यवादी हरिश्चंद्र नहीं बन सकती... पर वह दूसरों को अपने मन के अनुकूल बना लेने की इच्छा रखती है।'।",
+        "en": "Mahadevi Verma observes that Bhaktin insists on reshaping others to her own ways rather than changing herself."
+      },
+      "explanation": {
+        "hi": "भक्तिन सुबह नहाकर और चौके में कोयले की रेखा खींचकर शुद्धता से भोजन बनाती थी। उसने महादेवी वर्मा को भी रसगुल्ले व आधुनिक व्यंजनों के बजाय अपनी देहाती दाल-रोटी और खिचड़ी खाने का अभ्यस्त बना दिया।",
+        "en": "Bathing early and drawing a purifying charcoal boundary around her kitchen, Bhaktin cooked rustic rotis and thick dal, gradually converting even Mahadevi Verma to her simple rural diet."
+      },
+      "key_takeaway": {
+        "hi": "भक्तिन स्वयं बदलने के बजाय अपनी आत्मीयता और दृढ़ता से दूसरों को अपने अनुकूल बना लेती थी।",
+        "en": "Rather than changing herself, Bhaktin affectionately moulded others to her own rustic ways."
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "hi": "महादेवी वर्मा ने भक्तिन के चरित्र की किस अनोखी बात का उल्लेख करते हुए कहा कि 'वह सत्यवादी हरिश्चंद्र नहीं बन सकती'?",
+        "en": "Which quirk of Bhaktin's character prompted Mahadevi Verma to remark that 'she cannot become truth-speaking Harishchandra'?"
+      },
+      "options": {
+        "a": {
+          "hi": "वह महादेवी वर्मा की सारी किताबें चुराकर बेच देती थी",
+          "en": "She stole and sold all of Mahadevi Verma's books"
+        },
+        "b": {
+          "hi": "इधर-उधर पड़े पैसों को भंडार-घर की मटकी में छिपाकर रखना और पूछने पर उसे अपना ही पैसा बताना तथा शास्त्रों की मनमानी व्याख्या करना",
+          "en": "Tucking stray coins away into a storeroom pot and claiming them as her own when asked, along with inventing convenient scriptural explanations"
+        },
+        "c": {
+          "hi": "वह रोज़ रात को घर छोड़कर मेले में चली जाती थी",
+          "en": "She left the house every night to visit the fair"
+        },
+        "d": {
+          "hi": "वह महादेवी वर्मा के नाम से नकली हस्ताक्षर करती थी",
+          "en": "She forged Mahadevi Verma's signature"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "भक्तिन इसे चोरी नहीं मानती थी बल्कि घर की संपत्ति को संभाल कर रखना समझती थी।",
+        "en": "Bhaktin did not consider this theft, viewing it instead as safeguarding household money."
+      },
+      "explanation": {
+        "hi": "भक्तिन घर में इधर-उधर पड़े पैसों को किसी मटकी में छिपा रखती थी और लेखिका के पूछने पर तर्क देती थी कि वह उसका अपना संभाला हुआ धन है। इस बात को वह चोरी मानने को कतई तैयार नहीं होती थी।",
+        "en": "Bhaktin gathered loose coins lying around and stored them in a pot, insisting when questioned that it was her own saved money—refusing to regard it as stealing."
+      },
+      "key_takeaway": {
+        "hi": "भक्तिन अपने व्यवहार को सही ठहराने के लिए तर्क-वितर्क और शास्त्रों की मनगढ़ंत व्याख्या करने में माहिर थी।",
+        "en": "Bhaktin was adept at clever arguments and inventive explanations to justify her actions."
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "hi": "भक्तिन ने अपना सिर मुंडवाने के पीछे शास्त्रों का कौन-सा तर्क दिया था?",
+        "en": "What scriptural argument did Bhaktin offer to justify shaving her head?"
+      },
+      "options": {
+        "a": {
+          "hi": "\"तीरथ गए मुँड़ाए सिद्ध\" — अर्थात तीर्थ जाने पर मुंडन कराना सिद्धों का मार्ग है",
+          "en": "\"Teerath gaye mundaaye siddha\" — meaning shaving one's head is the sacred path of accomplished pilgrims"
+        },
+        "b": {
+          "hi": "\"बाल बढ़ाना पाप है\"",
+          "en": "\"Growing hair is a sin\""
+        },
+        "c": {
+          "hi": "\"गर्मी से बचने के लिए मुंडन आवश्यक है\"",
+          "en": "\"Shaving is necessary to beat the summer heat\""
+        },
+        "d": {
+          "hi": "\"राजा ने ऐसा आदेश जारी किया है\"",
+          "en": "\"The king has issued such a decree\""
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "हर बृहस्पतिवार को एक दरिद्र नापित के गंगाजल से धुले उस्तरे से मुंडन कराना उसका नियम था।",
+        "en": "Every Thursday she had her head shaved by a poor barber using a razor washed in Ganga water."
+      },
+      "explanation": {
+        "hi": "जब महादेवी वर्मा ने भक्तिन को सिर मुंडवाने से रोकना चाहा, तो उसने शास्त्र का हवाला देते हुए कहा—\"तीरथ गए मुँड़ाए सिद्ध\"—जिसके आगे लेखिका निरुत्तर हो गईं।",
+        "en": "When Mahadevi Verma tried to dissuade Bhaktin from shaving her head, Bhaktin cited the maxim \"Teerath gaye mundaaye siddha\", leaving the author speechless."
+      },
+      "key_takeaway": {
+        "hi": "भक्तिन ने \"तीरथ गए मुँड़ाए सिद्ध\" कहकर अपने मुंडन को शास्त्रसम्मत ठहराया।",
+        "en": "Bhaktin justified shaving her head by quoting \"Teerath gaye mundaaye siddha\"."
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "hi": "भक्तिन की बेटी और दामाद जब उसे गाँव वापस ले जाने आए, तो भक्तिन ने क्या उत्तर दिया?",
+        "en": "When Bhaktin's daughter and son-in-law came to take her back to the village, how did Bhaktin respond?"
+      },
+      "options": {
+        "a": {
+          "hi": "वह तुरंत अपना सामान बाँधकर उनके साथ गाँव चली गई",
+          "en": "She immediately packed her belongings and returned to the village with them"
+        },
+        "b": {
+          "hi": "उसने महादेवी वर्मा से अपने वेतन की दुगुनी माँग की",
+          "en": "She demanded double wages from Mahadevi Verma"
+        },
+        "c": {
+          "hi": "उसने अपनी बेटी को भी वहीं नौकरी पर रखवा लिया",
+          "en": "She got her daughter employed there as well"
+        },
+        "d": {
+          "hi": "उसने अपनी स्वामिनी (महादेवी वर्मा) को अकेला छोड़कर गाँव जाने से स्पष्ट इनकार कर दिया",
+          "en": "She flatly refused to leave her mistress (Mahadevi Verma) alone and go back to the village"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "भक्तिन का महादेवी वर्मा के प्रति स्नेह और निष्ठा सगे संबंधों से भी बढ़कर हो चुकी थी।",
+        "en": "Bhaktin's affection and loyalty toward Mahadevi Verma had grown stronger than blood ties."
+      },
+      "explanation": {
+        "hi": "बेटी और दामाद के लाख आग्रह करने पर भी भक्तिन ने महादेवी वर्मा को छोड़कर गाँव जाने से मना कर दिया और जीवन भर उनकी सेवा में रहने का निश्चय व्यक्त किया।",
+        "en": "Despite repeated pleas from her daughter and son-in-law, Bhaktin refused to leave Mahadevi Verma alone and chose to remain in her service."
+      },
+      "key_takeaway": {
+        "hi": "भक्तिन की निष्ठा इतनी गहरी थी कि उसने परिवार के बुलाने पर भी महादेवी वर्मा का साथ नहीं छोड़ा।",
+        "en": "Bhaktin's devotion was so deep that she refused to leave Mahadevi Verma even when her family came to fetch her."
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "hi": "महादेवी वर्मा के छात्रावास की बालिकाओं और साहित्यिक मित्रों के साथ भक्तिन का व्यवहार कैसा था?",
+        "en": "How did Bhaktin behave toward the hostel girls and literary friends of Mahadevi Verma?"
+      },
+      "options": {
+        "a": {
+          "hi": "वह सबसे कठोरता से पेश आती थी और किसी को घर में नहीं घुसने देती थी",
+          "en": "She treated everyone harshly and never allowed anyone inside"
+        },
+        "b": {
+          "hi": "वह छात्रावास की बालिकाओं के लिए चाय-नाश्ता बनाती थी और महादेवी वर्मा के परिचित साहित्यकारों को उनके आकार-प्रकार, वेशभूषा या नाम के अपभ्रंश से पहचानती थी",
+          "en": "She prepared tea and snacks for the hostel girls and recognized Mahadevi Verma's literary visitors by their appearance, attire, or adapted pronunciations of their names"
+        },
+        "c": {
+          "hi": "वह साहित्यकारों से अंग्रेजी में कविता पर चर्चा करती थी",
+          "en": "She discussed poetry in English with visiting writers"
+        },
+        "d": {
+          "hi": "वह आगंतुकों को देखकर कमरे में छिप जाती थी",
+          "en": "She hid in her room whenever visitors arrived"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "वह लेखिका के प्रति अपने सम्मान के आधार पर ही दूसरों को सम्मान देती थी।",
+        "en": "She judged and respected visitors according to how much respect they showed toward Mahadevi Verma."
+      },
+      "explanation": {
+        "hi": "भक्तिन छात्रावास की बालिकाओं के लिए स्नेहपूर्वक चाय-नाश्ता बनाती थी तथा लेखिका के परिचित साहित्यकारों (जैसे निराला, सुमित्रानंदन पंत आदि) के प्रति आदर रखती थी, यद्यपि उनके नामों का उच्चारण अपने ग्रामीण ढंग से करती थी।",
+        "en": "Bhaktin lovingly served tea and snacks to hostel girls and respected visiting writers in proportion to their regard for Mahadevi Verma, pronouncing their names in her rustic idiom."
+      },
+      "key_takeaway": {
+        "hi": "भक्तिन छात्रावास की बालिकाओं व साहित्यकारों के प्रति स्नेह रखती थी, जो लेखिका के प्रति उसकी निष्ठा से प्रेरित था।",
+        "en": "Bhaktin's warmth toward students and writers stemmed from her deep devotion to Mahadevi Verma."
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "hi": "स्वतंत्रता संग्राम के दौरान जब महादेवी वर्मा के जेल जाने की संभावना बनी, तो भक्तिन ने क्या प्रतिक्रिया दी?",
+        "en": "During the freedom struggle, when the possibility arose that Mahadevi Verma might be sent to jail, how did Bhaktin react?"
+      },
+      "options": {
+        "a": {
+          "hi": "वह डरकर तुरंत अपने गाँव भाग गई",
+          "en": "She fled back to her village in fear"
+        },
+        "b": {
+          "hi": "उसने महादेवी वर्मा को आंदोलन छोड़ने की सलाह दी",
+          "en": "She advised Mahadevi Verma to abandon the movement"
+        },
+        "c": {
+          "hi": "भक्तिन को जेल से यमराज के घर जैसा डर लगता था, फिर भी उसने अपनी धोतियाँ साबुन से धोकर जेल जाने की तैयारी कर ली ताकि वह महादेवी वर्मा के साथ जेल जा सके",
+          "en": "Though Bhaktin feared jail like Yama's abode, she washed her dhotis with soap and packed to accompany Mahadevi Verma to prison"
+        },
+        "d": {
+          "hi": "उसने पुलिस अधिकारियों से झगड़ा किया",
+          "en": "She picked a quarrel with police officials"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "उसने लाट साहब तक से लड़ने की बात कही—'कहीं ऐसन हो सकत है कि मालिक जेल जाँय अउर चिरई घर मा बैठी रहै!'।",
+        "en": "She insisted it was unthinkable for the mistress to go to jail while her servant stayed comfortably at home."
+      },
+      "explanation": {
+        "hi": "भक्तिन के लिए कारागार किसी यमराज के घर से कम भयावह नहीं था, फिर भी अपनी स्वामिनी के प्रति असीम प्रेम के कारण उसने अपनी धोतियाँ धोकर साथ जेल जाने की पूरी तैयारी कर ली और उच्च अधिकारियों से भी लड़ने का साहस दिखाया।",
+        "en": "Although jail terrified Bhaktin like the house of Yama, her devotion to her mistress led her to wash her clothes and insist on going to jail alongside Mahadevi Verma."
+      },
+      "key_takeaway": {
+        "hi": "जेल के गहरे भय पर विजय पाकर साथ जेल जाने की तैयारी भक्तिन की पराकाष्ठापूर्ण निष्ठा दर्शाती है।",
+        "en": "Overcoming her dread of jail to accompany her mistress reveals the peak of Bhaktin's loyalty."
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "hi": "युद्ध (द्वितीय विश्व युद्ध) के समय जब लोग भयभीत होकर शहर छोड़ रहे थे, तब भक्तिन ने महादेवी वर्मा को कहाँ चलने का प्रस्ताव दिया?",
+        "en": "During World War II, when people were fleeing the city in panic, where did Bhaktin propose taking Mahadevi Verma?"
+      },
+      "options": {
+        "a": {
+          "hi": "अपने गाँव झूँसी/हंडिया ले जाने का, जहाँ उसने लेखिका के रहने, लिखने-पढ़ने और किताबें रखने तक का पूरा प्रबंध सोच रखा था",
+          "en": "To her own village, where she had already planned arrangements for the author's stay, reading, writing, and storing books"
+        },
+        "b": {
+          "hi": "लंदन जाने का",
+          "en": "To London"
+        },
+        "c": {
+          "hi": "कलकत्ता के किसी होटल में रुकने का",
+          "en": "To stay in a hotel in Kolkata"
+        },
+        "d": {
+          "hi": "जंगल की किसी गुफा में छिपने का",
+          "en": "To hide in a forest cave"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "भक्तिन ने यह भी विश्वास दिलाया कि वह अपनी जीवन भर की कमाई के बचे हुए पाँच बीसी और पाँच रुपये भी लेखिका की सेवा में लगा देगी।",
+        "en": "Bhaktin even promised to spend her life's savings to keep Mahadevi Verma comfortable in the village."
+      },
+      "explanation": {
+        "hi": "युद्ध की विभीषिका के समय भक्तिन ने महादेवी वर्मा को अपने गाँव चलने का निमंत्रण दिया और वहाँ उनके लिए नया घर लिपवाने, बाँस की मचान पर किताबें सजाने तथा अपनी सारी जमापूँजी अर्पित करने की आत्मीय योजना बताई।",
+        "en": "During wartime panic, Bhaktin urged Mahadevi Verma to come to her village, detailing how she would plaster a room, arrange shelves for her books, and spend all her savings for her."
+      },
+      "key_takeaway": {
+        "hi": "संकट के समय भक्तिन ने अपने गाँव में लेखिका के लिए हर सुविधा जुटाने और अपनी सारी जमापूँजी अर्पित करने का प्रस्ताव दिया।",
+        "en": "In wartime crisis, Bhaktin offered her village home and entire life savings to care for Mahadevi Verma."
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "hi": "'पाँच बीसी और पाँच रुपये' का क्या अर्थ है, जो भक्तिन के पास संचित थे?",
+        "en": "What is the meaning of 'paanch beesi aur paanch rupaye', the savings Bhaktin had accumulated?"
+      },
+      "options": {
+        "a": {
+          "hi": "पच्चीस रुपये (25 rupees)",
+          "en": "Twenty-five rupees (25 rupees)"
+        },
+        "b": {
+          "hi": "पचास रुपये (50 rupees)",
+          "en": "Fifty rupees (50 rupees)"
+        },
+        "c": {
+          "hi": "पाँच सौ पाँच रुपये (505 rupees)",
+          "en": "Five hundred and five rupees (505 rupees)"
+        },
+        "d": {
+          "hi": "एक सौ पाँच रुपये (5 × 20 + 5 = 105 rupees)",
+          "en": "One hundred and five rupees (5 × 20 + 5 = 105 rupees)"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "एक 'बीसी' में बीस (20) होते हैं; अतः पाँच बीसी = 5 × 20 = 100, और पाँच जोड़ने पर 105 रुपये होते हैं।",
+        "en": "One 'beesi' (score) equals 20; so five beesi = 5 × 20 = 100, plus 5 equals 105 rupees."
+      },
+      "explanation": {
+        "hi": "ग्रामीण गणना में एक 'बीसी' का अर्थ बीस होता है। इस प्रकार 'पाँच बीसी और पाँच रुपये' का अर्थ (5 × 20) + 5 = 105 रुपये है।",
+        "en": "In traditional rural counting, one 'beesi' equals twenty. Thus, 'paanch beesi aur paanch rupaye' means (5 × 20) + 5 = 105 rupees."
+      },
+      "key_takeaway": {
+        "hi": "'पाँच बीसी और पाँच रुपये' का अर्थ 105 रुपये है।",
+        "en": "'Paanch beesi aur paanch rupaye' equals 105 rupees."
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "hi": "महादेवी वर्मा और भक्तिन के संबंध की सबसे बड़ी विशेषता क्या है?",
+        "en": "What is the defining characteristic of the relationship between Mahadevi Verma and Bhaktin?"
+      },
+      "options": {
+        "a": {
+          "hi": "यह केवल वेतन और काम का औपचारिक संबंध है",
+          "en": "It is purely a formal employer-employee transaction"
+        },
+        "b": {
+          "hi": "यह स्वामी-सेवक के पारंपरिक संबंध से ऊपर उठकर गहरा आत्मीय, पारिवारिक और अभिभावक जैसा संबंध बन गया है",
+          "en": "It transcends a conventional master-servant hierarchy into a deeply intimate, familial, and protective bond"
+        },
+        "c": {
+          "hi": "दोनों एक-दूसरे से कभी बात नहीं करतीं",
+          "en": "Neither ever speaks to the other"
+        },
+        "d": {
+          "hi": "भक्तिन महादेवी वर्मा से डरकर छिपती रहती है",
+          "en": "Bhaktin hides in fear of Mahadevi Verma"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "लेखिका स्वयं कहती हैं—'भक्तिन और मेरे बीच में सेवक-स्वामी का संबंध है, यह कहना कठिन है; क्योंकि ऐसा कोई स्वामी नहीं हो सकता, जो इच्छा होने पर भी सेवक को अपनी सेवा से हटा न सके, और ऐसा कोई सेवक भी नहीं सुना गया, जो स्वामी के चले जाने का आदेश पाकर अवज्ञा से हँस दे।'।",
+        "en": "The author remarks that neither can she dismiss Bhaktin nor would Bhaktin obey an order to leave."
+      },
+      "explanation": {
+        "hi": "भक्तिन और महादेवी वर्मा का संबंध सामान्य मालिक-नौकर जैसा नहीं है; भक्तिन एक संरक्षिका और अभिभावक की तरह छाया बनकर हर पल महादेवी वर्मा का ध्यान रखती है।",
+        "en": "Their bond goes far beyond master and servant—Bhaktin watches over Mahadevi Verma like a devoted guardian and shadow."
+      },
+      "key_takeaway": {
+        "hi": "भक्तिन और लेखिका का संबंध औपचारिक न होकर आत्मीय और अभिभावक जैसा बन गया था।",
+        "en": "The bond between Bhaktin and the author evolved into an intimate, guardian-like companionship."
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "hi": "भक्तिन के चरित्र की प्रमुख विशेषताएँ कौन-सी हैं?",
+        "en": "Which are the defining character traits of Bhaktin?"
+      },
+      "options": {
+        "a": {
+          "hi": "आधुनिक फैशन की शौकीन और शहर की चकाचौंध में खोई हुई",
+          "en": "Obsessed with modern fashion and lost in city glamour"
+        },
+        "b": {
+          "hi": "आलसी, कायर, स्वार्थी और दिखावा करने वाली",
+          "en": "Lazy, cowardly, selfish, and pretentious"
+        },
+        "c": {
+          "hi": "अहंकारी, कठोर हृदय और साहित्य से घृणा करने वाली",
+          "en": "Arrogant, hard-hearted, and hostile to literature"
+        },
+        "d": {
+          "hi": "स्वाभिमानी, कर्मठ, संघर्षशील, निस्वार्थ सेवाभावी, वाक्पटु और अपने संस्कारों पर अडिग",
+          "en": "Self-respecting, hardworking, resilient, selflessly devoted, witty/eloquent, and steadfast in her cultural roots"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "भक्तिन ने जीवन भर विषम परिस्थितियों और अन्याय का डटकर सामना किया तथा कभी स्वाभिमान नहीं खोया।",
+        "en": "Throughout life, Bhaktin faced adversity and injustice head-on without ever compromising her self-respect."
+      },
+      "explanation": {
+        "hi": "भक्तिन अत्यधिक स्वाभिमानी, परिश्रमी, जुझारू, निस्वार्थ सेवाभावी और वाक्पटु महिला है, जो जीवन की कठिन से कठिन परिस्थितियों में भी हार नहीं मानती।",
+        "en": "Bhaktin is fiercely self-respecting, industrious, resilient, selflessly devoted, and quick-witted, refusing to surrender to life's harshest trials."
+      },
+      "key_takeaway": {
+        "hi": "स्वाभिमान, कर्मठता, जुझारूपन और निस्वार्थ सेवा-भावना भक्तिन के चरित्र के प्रमुख गुण हैं।",
+        "en": "Self-respect, diligence, resilience, and selfless service define Bhaktin's character."
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "hi": "महादेवी वर्मा ने इस पाठ के अंत में भक्तिन की जीवन-कथा को 'अधूरी' क्यों कहा है?",
+        "en": "Why does Mahadevi Verma describe Bhaktin's life story as 'incomplete' (adhoori) at the end of the lesson?"
+      },
+      "options": {
+        "a": {
+          "hi": "क्योंकि भक्तिन बीच में ही नौकरी छोड़कर अपने गाँव लौट गई थी",
+          "en": "Because Bhaktin quit her job midway and returned to her village"
+        },
+        "b": {
+          "hi": "क्योंकि प्रकाशक ने शेष पन्ने छापने से मना कर दिया था",
+          "en": "Because the publisher refused to print the remaining pages"
+        },
+        "c": {
+          "hi": "क्योंकि भक्तिन अभी भी लेखिका के साथ जीवित रहकर सेवा कर रही है और लेखिका उसे खोकर इस जीवन-कथा को पूरा (समाप्त) नहीं करना चाहतीं",
+          "en": "Because Bhaktin is still alive and serving beside the author, and the author does not wish to complete (end) the story by losing her"
+        },
+        "d": {
+          "hi": "क्योंकि लेखिका को भक्तिन के बचपन की घटनाएँ याद नहीं थीं",
+          "en": "Because the author could not remember events from Bhaktin's childhood"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "लेखिका कहती हैं—'भक्तिन की कहानी अधूरी है, पर उसे खोकर मैं इसे पूरी नहीं करना चाहती।'।",
+        "en": "The author says: 'Bhaktin's story is incomplete, yet I do not wish to complete it by losing her.'"
+      },
+      "explanation": {
+        "hi": "संस्मरण लिखते समय भक्तिन लेखिका के साथ जीवित और सक्रिय थी। चूँकि किसी व्यक्ति की जीवन-कथा उसकी मृत्यु के बाद ही पूरी होती है, इसलिए महादेवी वर्मा उसे खोने के भय से इस कथा को अधूरी ही रखना चाहती हैं।",
+        "en": "At the time of writing, Bhaktin was still alive and serving by the author's side. Since a biography ends only with death, Mahadevi Verma wishes the story to remain incomplete rather than lose her."
+      },
+      "key_takeaway": {
+        "hi": "भक्तिन को खो देने की पीड़ा से बचने के लिए महादेवी वर्मा उसकी जीवन-कथा को अधूरी ही रखना चाहती हैं।",
+        "en": "To avoid losing Bhaktin, Mahadevi Verma wishes her life story to remain unfinished."
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "hi": "'भक्तिन' पाठ का मुख्य उद्देश्य एवं सामाजिक संदेश क्या है?",
+        "en": "What is the central objective and social message of the lesson 'Bhaktin'?"
+      },
+      "options": {
+        "a": {
+          "hi": "केवल शहरी जीवन की सुख-सुविधाओं का गुणगान करना",
+          "en": "Merely praising the comforts of urban life"
+        },
+        "b": {
+          "hi": "ग्रामीण महिलाओं को शहर आने से रोकना",
+          "en": "Discouraging rural women from moving to cities"
+        },
+        "c": {
+          "hi": "साधारण ग्रामीण श्रमजीवी स्त्री के स्वाभिमान, संघर्षशीलता और निस्वार्थ प्रेम को सम्मान देना तथा समाज में व्याप्त लैंगिक भेदभाव और पंचायतों के अन्याय को उजागर करना",
+          "en": "Honouring the self-respect, resilience, and selfless devotion of an ordinary rural working woman while exposing gender discrimination and biased village panchayats"
+        },
+        "d": {
+          "hi": "प्राचीन राजवंशों के इतिहास का वर्णन करना",
+          "en": "Describing the history of ancient royal dynasties"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "भक्तिन के संघर्षपूर्ण जीवन और लेखिका के प्रति उसके निस्वार्थ समर्पण दोनों को एक साथ देखिए।",
+        "en": "Look at both Bhaktin's struggle against social injustice and her selfless devotion to the author."
+      },
+      "explanation": {
+        "hi": "महादेवी वर्मा ने इस रेखाचित्र के माध्यम से एक साधारण ग्रामीण स्त्री की अदम्य जिजीविषा, स्वाभिमान और निस्वार्थ सेवा-भावना को प्रतिष्ठित किया है, साथ ही विधवाओं व बेटियों के प्रति पारिवारिक और सामाजिक अन्याय पर भी तीखा प्रहार किया है।",
+        "en": "Through this memoir-sketch, Mahadevi Verma dignifies the indomitable spirit, self-respect, and devotion of an ordinary rural woman while exposing gender bias and injustice against widows and daughters."
+      },
+      "key_takeaway": {
+        "hi": "'भक्तिन' श्रमजीवी स्त्री के स्वाभिमान व निस्वार्थ प्रेम को सम्मान देते हुए सामाजिक रूढ़ियों पर प्रहार करती है।",
+        "en": "'Bhaktin' honours a working woman's self-respect and devotion while critiquing regressive social norms."
+      }
+    }
+  ]
+}
