@@ -1,0 +1,935 @@
+{
+  "metadata": {
+    "chapter_number": 1,
+    "chapter_title": "Aatmaparichay / Din Jaldi-Jaldi Dhalta Hai (Aroh Part 2 - Kavya Khand)",
+    "chapter_title_hindi": "आत्मपरिचय / दिन जल्दी-जल्दी ढलता है (आरोह भाग 2 - काव्य खंड)",
+    "subject": "Hindi",
+    "target_class": "Class XII",
+    "total_questions": 24,
+    "question_range": "Q1 to Q24",
+    "source_language": "hi",
+    "target_language": "en",
+    "version": "1.0",
+    "note": "Complete 24-question bilingual MCQ bank for NCERT/HPBOSE Class 12 Hindi (Aroh Part 2, Kavya Khand Chapter 1: Aatmaparichay and Din Jaldi-Jaldi Dhalta Hai by Harivansh Rai Bachchan) tailored for Hindi-medium learners with clear English counterparts. Pure Unicode, zero trailing commas, zero citation tags, balanced options (6 A, 6 B, 6 C, 6 D)."
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "Hindi Curriculum & JSON Schema Validator",
+    "corrections": [],
+    "notes": "Verified all 24 questions covering Harivansh Rai Bachchan's life and literary philosophy (Halahvad), Aatmaparichay (dialectical relationship between self and world, Sneh-sura, Unmad mein avasad, sheetal vani mein aag), Din Jaldi-Jaldi Dhalta Hai (theme of time, maternal love of birds, loneliness of the poet), poetic devices (virodhabhas, punarukti prakash, rupak, anuprasa), and vocabulary. Options balanced to 6 A, 6 B, 6 C, and 6 D."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "hi": "'आत्मपरिचय' तथा 'दिन जल्दी-जल्दी ढलता है' कविताओं के रचनाकार कौन हैं और वे हिंदी साहित्य में किस काव्यधारा के प्रवर्तक माने जाते हैं?",
+        "en": "Who is the poet of 'Aatmaparichay' and 'Din Jaldi-Jaldi Dhalta Hai', and which poetic movement in Hindi literature is he credited with pioneering?"
+      },
+      "options": {
+        "a": {
+          "hi": "सूर्यकांत त्रिपाठी 'निराला'; प्रगतिवाद",
+          "en": "Suryakant Tripathi 'Nirala'; Progressivism (Pragativad)"
+        },
+        "b": {
+          "hi": "हरिवंशराय बच्चन; हालावाद",
+          "en": "Harivansh Rai Bachchan; Halahvad"
+        },
+        "c": {
+          "en": "Kunwar Narayan; New Poetry (Nai Kavita)",
+          "hi": "कुँवर नारायण; नई कविता"
+        },
+        "d": {
+          "hi": "रघुवीर सहाय; प्रयोगवाद",
+          "en": "Raghuvir Sahay; Experimentalism (Prayogvad)"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "उमर ख़य्याम की रुबाइयों से प्रेरित होकर उन्होंने 'मधुशाला' (1935) की रचना की थी।",
+        "en": "Inspired by Omar Khayyam's Rubaiyat, he composed 'Madhushala' in 1935."
+      },
+      "explanation": {
+        "hi": "हरिवंशराय बच्चन (1907–2003) हिंदी साहित्य में 'हालावाद' के प्रवर्तक माने जाते हैं। 'आत्मपरिचय' और 'दिन जल्दी-जल्दी ढलता है' उनके काव्य-संग्रह 'निशा निमंत्रण' से ली गई हैं।",
+        "en": "Harivansh Rai Bachchan (1907–2003) is regarded as the pioneer of 'Halahvad' in Hindi literature. Both poems are taken from his collection 'Nisha Nimantran'."
+      },
+      "key_takeaway": {
+        "hi": "हरिवंशराय बच्चन हालावाद के प्रवर्तक हैं और ये दोनों कविताएँ 'निशा निमंत्रण' से संकलित हैं।",
+        "en": "Harivansh Rai Bachchan pioneered Halahvad, and both poems are sourced from 'Nisha Nimantran'."
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "hi": "'आत्मपरिचय' कविता में कवि स्वयं को दुनिया का एक नया दीवाना क्यों कहता है?",
+        "en": "Why does the poet call himself a 'new lover/wanderer' (naya deewana) of the world in 'Aatmaparichay'?"
+      },
+      "options": {
+        "a": {
+          "hi": "क्योंकि वह दुनिया के सभी भौतिक सुखों का स्वामी बनना चाहता है",
+          "en": "Because he wants to own all material luxuries of the world"
+        },
+        "b": {
+          "hi": "क्योंकि वह दुनिया से पूरी तरह कटकर जंगल में रहना चाहता है",
+          "en": "Because he wants to cut off from the world completely and live in a forest"
+        },
+        "c": {
+          "hi": "क्योंकि वह सांसारिक स्वार्थों व रीति-रिवाज़ों से अलग होकर केवल प्रेम और मस्ती का संदेश लिए घूमता है",
+          "en": "Because, detached from worldly selfishness and conventions, he wanders carrying only a message of love and ecstasy"
+        },
+        "d": {
+          "hi": "क्योंकि उसने दुनिया के सभी देशों की यात्रा कर ली है",
+          "en": "Because he has travelled across every country in the world"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "कवि कहता है—'मैं दीवानों का वेश लिए फिरता हूँ, मैं मादकता निश्शेष लिए फिरता हूँ।'।",
+        "en": "The poet says he wanders in the guise of passionate lovers, carrying boundless intoxication of love."
+      },
+      "explanation": {
+        "hi": "कवि संसार के स्वार्थी व्यवहार, धन-संपदा और दिखावे से दूर रहकर अपने हृदय में सच्चे प्रेम की मस्ती लिए फिरता है, इसलिए वह स्वयं को दुनिया का एक नया दीवाना कहता है।",
+        "en": "Remaining detached from worldly greed and ostentation while carrying pure intoxication of love in his heart, the poet calls himself a new passionate wanderer of the world."
+      },
+      "key_takeaway": {
+        "hi": "भौतिक स्वार्थों से ऊपर उठकर प्रेम और मस्ती बाँटने के कारण कवि स्वयं को दुनिया का नया दीवाना मानता है।",
+        "en": "Rising above material greed to spread love and joy makes the poet a new passionate wanderer of the world."
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "hi": "\"मैं जग-जीवन का भार लिए फिरता हूँ, फिर भी जीवन में प्यार लिए फिरता हूँ\" — इन पंक्तियों में 'जग-जीवन का भार' से कवि का क्या आशय है?",
+        "en": "In the lines \"Main jag-jeevan ka bhaar liye phirta hoon, phir bhi jeevan mein pyaar liye phirta hoon\", what does the poet mean by 'the burden of worldly life' (jag-jeevan ka bhaar)?"
+      },
+      "options": {
+        "a": {
+          "hi": "सांसारिक दायित्वों, कर्तव्यों और समाज के कटु-मधुर अनुभवों का बोझ",
+          "en": "The weight of worldly responsibilities, duties, and bitter-sweet social experiences"
+        },
+        "b": {
+          "hi": "सिर पर रखा हुआ अनाज और लकड़ियों का गट्ठर",
+          "en": "A physical bundle of grain and firewood carried on the head"
+        },
+        "c": {
+          "hi": "यात्रा के दौरान उठाए गए भारी बक्सों का बोझ",
+          "en": "The weight of heavy trunks carried during a journey"
+        },
+        "d": {
+          "hi": "राज्य द्वारा लगाया गया अत्यधिक भूमि कर",
+          "en": "Excessive land tax imposed by the state"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "कवि संसार से विरक्त नहीं है; वह सामाजिक जिम्मेदारियों को निभाते हुए भी हृदय में प्रेम जीवित रखता है।",
+        "en": "The poet is not an escapist; while fulfilling social obligations, he keeps love alive in his heart."
+      },
+      "explanation": {
+        "hi": "'जग-जीवन का भार' का अर्थ सांसारिक जिम्मेदारियों, सामाजिक संबंधों और जीवन के संघर्षों के उत्तरदायित्व से है, जिन्हें निभाते हुए भी कवि अपने हृदय में प्रेम बनाए रखता है।",
+        "en": "'Jag-jeevan ka bhaar' signifies worldly responsibilities, social ties, and life's struggles, which the poet shoulders while still keeping love alive in his heart."
+      },
+      "key_takeaway": {
+        "hi": "'जग-जीवन का भार' सांसारिक उत्तरदायित्वों और कर्तव्यों का प्रतीक है।",
+        "en": "'Jag-jeevan ka bhaar' symbolizes worldly duties and social responsibilities."
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "hi": "कवि ने 'स्नेह-सुरा' (प्रेम रूपी मदिरा) का पान करने की बात क्यों कही है?",
+        "en": "Why does the poet speak of drinking 'sneh-sura' (the wine of love)?"
+      },
+      "options": {
+        "a": {
+          "hi": "क्योंकि वह वास्तविक शराब पीकर लोगों से झगड़ना चाहता है",
+          "en": "Because he wants to drink real liquor and quarrel with people"
+        },
+        "b": {
+          "hi": "क्योंकि वह अपनी पीड़ा को भुलाने के लिए नींद की दवा लेता है",
+          "en": "Because he takes sleeping medicine to forget his pain"
+        },
+        "c": {
+          "hi": "क्योंकि उसे भौतिक मदिरा का व्यापार करने का शौक है",
+          "en": "Because he is fond of trading in physical wine"
+        },
+        "d": {
+          "hi": "क्योंकि वह प्रेम की अलौकिक मस्ती में डूबा रहता है और दुनिया की परवाह या आलोचना पर ध्यान नहीं देता",
+          "en": "Because he stays immersed in the divine intoxication of love and pays no heed to worldly criticism or worries"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "यहाँ 'सुरा' सांसारिक शराब नहीं बल्कि निस्वार्थ प्रेम के नशे का रूपक है।",
+        "en": "Here 'sura' is not literal alcohol, but a metaphor for the intoxication of selfless love."
+      },
+      "explanation": {
+        "hi": "'स्नेह-सुरा' में रूपक अलंकार है। कवि प्रेम रूपी मदिरा पीकर अपनी ही धुन में मस्त रहता है और संसार की निंदा या स्वार्थपूर्ण व्यवहार की चिंता नहीं करता।",
+        "en": "'Sneh-sura' employs a metaphor. Intoxicated by pure love, the poet remains absorbed in his inner joy without worrying about worldly gossip or selfishness."
+      },
+      "key_takeaway": {
+        "hi": "'स्नेह-सुरा' प्रेम की मस्ती का प्रतीक है, जो कवि को संसार के कटु व्यंग्यों से अप्रभावित रखती है।",
+        "en": "'Sneh-sura' symbolizes the bliss of love that keeps the poet unaffected by worldly criticism."
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "hi": "कवि संसार के स्वार्थी स्वभाव पर किस प्रकार व्यंग्य करता है?",
+        "en": "How does the poet satirize the selfish nature of the world?"
+      },
+      "options": {
+        "a": {
+          "hi": "संसार केवल उन्हीं लोगों को पूछता और महत्व देता है जो उसकी चापलूसी करते हैं या उसके स्वार्थ पूरे करते हैं",
+          "en": "The world acknowledges and values only those who flatter it or serve its selfish interests"
+        },
+        "b": {
+          "hi": "संसार के सभी लोग निस्वार्थ भाव से कवि की कविताएँ गाते हैं",
+          "en": "Everyone in the world selflessly sings the poet's songs"
+        },
+        "c": {
+          "hi": "संसार ने कवि को अपना सम्राट घोषित कर दिया है",
+          "en": "The world has declared the poet its emperor"
+        },
+        "d": {
+          "hi": "संसार के लोग कभी किसी से कोई बातचीत नहीं करते",
+          "en": "People in the world never speak to anyone"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "पंक्ति याद कीजिए—'जग पूछ रहा उनको, जो जग की गाते, मैं अपने मन का गान किया करता हूँ।'।",
+        "en": "Recall the line: 'The world asks after those who sing the world's praises; I sing the song of my own heart.'"
+      },
+      "explanation": {
+        "hi": "कवि स्पष्ट करता है कि संसार उसी को पूछता है जो संसार की हाँ में हाँ मिलाता है और उसका गुणगान करता है, जबकि कवि स्वतंत्र रूप से अपने मन की भावनाओं का गान करता है।",
+        "en": "The poet observes that the world cares only for those who flatter and echo its tune, whereas he freely sings the authentic song of his own heart."
+      },
+      "key_takeaway": {
+        "hi": "संसार स्वार्थवश चापलूसों को महत्व देता है, जबकि कवि स्वाभिमान से अपने मन का गान करता है।",
+        "en": "The world rewards flatterers out of self-interest, while the poet authentically sings his heart's song."
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "hi": "\"मैं निज उर के उद्गार लिए फिरता हूँ, मैं निज उर के उपहार लिए फिरता हूँ\" — यहाँ 'उर के उपहार' से क्या तात्पर्य है?",
+        "en": "In \"Main nij ur ke udgaar liye phirta hoon, main nij ur ke upahaar liye phirta hoon\", what is meant by 'gifts of the heart' (ur ke upahaar)?"
+      },
+      "options": {
+        "a": {
+          "hi": "सोने-चाँदी के महँगे आभूषण",
+          "en": "Expensive gold and silver ornaments"
+        },
+        "b": {
+          "hi": "हृदय की कोमल भावनाएँ, प्रेम, सद्भाव और संवेदनाएँ जिन्हें कवि संसार को बाँटना चाहता है",
+          "en": "Tender emotions, love, goodwill, and sensibilities of the heart that the poet wishes to share with the world"
+        },
+        "c": {
+          "hi": "राजा द्वारा दिए गए भूमि के पट्टे",
+          "en": "Land grants bestowed by a king"
+        },
+        "d": {
+          "hi": "विदेश से मँगाए गए दुर्लभ वस्त्र",
+          "en": "Rare garments imported from abroad"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "'उर' का अर्थ हृदय है; कवि भौतिक वस्तुओं के बजाय आत्मीय प्रेम को ही सबसे बड़ा उपहार मानता है।",
+        "en": "'Ur' means heart; instead of material goods, the poet offers genuine affection as his finest gift."
+      },
+      "explanation": {
+        "hi": "'उर के उपहार' से आशय कवि के हृदय में संचित निस्वार्थ प्रेम, कोमल संवेदनाओं और काव्यात्मक भावों से है, जिन्हें वह इस अपूर्ण संसार को भेंट करना चाहता है।",
+        "en": "'Ur ke upahaar' refers to the selfless love, tender feelings, and poetic emotions stored in the poet's heart, which he offers to this incomplete world."
+      },
+      "key_takeaway": {
+        "hi": "'उर के उपहार' कवि के हृदय की प्रेमपूर्ण संवेदनाओं और सद्भावनाओं का प्रतीक हैं।",
+        "en": "'Ur ke upahaar' symbolizes the poet's heartfelt love and tender emotions."
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "hi": "कवि को यह संसार 'अपूर्ण' (Incomplete) क्यों लगता है?",
+        "en": "Why does this world seem 'incomplete' (apoorna) to the poet?"
+      },
+      "options": {
+        "a": {
+          "hi": "क्योंकि यहाँ ऊँची इमारतों और सड़कों का निर्माण अभी पूरा नहीं हुआ है",
+          "en": "Because the construction of tall buildings and roads is still unfinished"
+        },
+        "b": {
+          "hi": "क्योंकि इस संसार में हर व्यक्ति अपने आप में पूर्ण और संतुष्ट है",
+          "en": "Because everyone in this world is completely satisfied"
+        },
+        "c": {
+          "hi": "क्योंकि इस संसार में सच्चे प्रेम, आत्मीयता और संवेदनशीलता का अभाव है",
+          "en": "Because this world lacks true love, emotional warmth, and sensitivity"
+        },
+        "d": {
+          "hi": "क्योंकि पृथ्वी पर अभी तक वर्षा नहीं हुई है",
+          "en": "Because it has not rained on Earth yet"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "कवि कहता है—'है यह अपूर्ण संसार न मुझको भाता, मैं स्वप्नों का संसार लिए फिरता हूँ।'।",
+        "en": "The poet says this incomplete world does not appeal to him, so he carries a dream-world of love within."
+      },
+      "explanation": {
+        "hi": "संसार भौतिक रूप से संपन्न होने पर भी प्रेम और मानवीय संवेदनाओं से रिक्त है, इसलिए प्रेम के अभाव के कारण कवि को यह संसार अपूर्ण लगता है।",
+        "en": "Despite material wealth, the world is devoid of genuine love and human warmth; hence, lacking love, the world feels incomplete to the poet."
+      },
+      "key_takeaway": {
+        "hi": "प्रेम और मानवीय संवेदनाओं की कमी के कारण कवि को संसार अपूर्ण प्रतीत होता है।",
+        "en": "Lacking true love and empathy, the world appears incomplete to the poet."
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "hi": "\"मैं जला हृदय में अग्नि, दहा करता हूँ, सुख-दुख दोनों में मग्न रहा करता हूँ\" — यहाँ 'हृदय में अग्नि जलाने' का क्या अर्थ है?",
+        "en": "In \"Main jala hriday mein agni, daha karta hoon, sukh-dukh donon mein magna raha karta hoon\", what does 'burning fire in the heart' mean?"
+      },
+      "options": {
+        "a": {
+          "hi": "दूसरों के प्रति ईर्ष्या और प्रतिशोध की ज्वाला रखना",
+          "en": "Harbouring flames of jealousy and revenge against others"
+        },
+        "b": {
+          "hi": "शरीर में तेज़ बुखार होने के कारण बेचैन रहना",
+          "en": "Feeling restless due to a high physical fever"
+        },
+        "c": {
+          "hi": "जंगल में लकड़ियाँ जलाकर अलाव तापना",
+          "en": "Lighting a bonfire of wood in the forest"
+        },
+        "d": {
+          "hi": "हृदय में प्रेम की तीव्र तड़प, विरह-वेदना और संवेदना की ऊष्मा बनाए रखना",
+          "en": "Keeping alive the intense yearning of love, pang of separation, and warmth of deep sensibility in the heart"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "इस प्रेम-अग्नि में तपकर भी कवि सुख और दुख दोनों स्थितियों में समभाव से मग्न रहता है।",
+        "en": "Even while burning in this flame of love, the poet remains equanimous in both joy and sorrow."
+      },
+      "explanation": {
+        "hi": "'हृदय में अग्नि जलाना' प्रेम की तीव्र अनुभूति, विरह की पीड़ा और जीवन के प्रति गहरी संवेदनशीलता का प्रतीक है, जिसके सहारे कवि सुख-दुख दोनों में समभाव रखता है।",
+        "en": "'Burning fire in the heart' symbolizes the intense passion of love, ache of separation, and deep sensitivity through which the poet remains balanced in both joy and sorrow."
+      },
+      "key_takeaway": {
+        "hi": "'हृदय की अग्नि' प्रेम और विरह की तीव्र ऊष्मा का प्रतीक है जो कवि को सुख-दुख में समभाव रखती है।",
+        "en": "'Fire in the heart' symbolizes the intense warmth of love and longing that keeps the poet steady through joy and sorrow."
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "hi": "\"जग भव-सागर तरने को नाव बनाए, मैं भव मौजों पर मस्त बहा करता हूँ\" — इन पंक्तियों में कवि और संसार के दृष्टिकोण में क्या अंतर स्पष्ट होता है?",
+        "en": "In \"Jag bhav-saagar tarne ko naav banaye, main bhav maujon par mast baha karta hoon\", what contrast is highlighted between the world's outlook and the poet's outlook?"
+      },
+      "options": {
+        "a": {
+          "hi": "संसार सांसारिक संकटों से पार उतरने के लिए सुरक्षित साधन व उपाय ढूँढ़ता है, जबकि कवि जीवन की लहरों (सुख-दुख) का निडर होकर आनंद लेता है",
+          "en": "The world builds safe means to cross worldly troubles, whereas the poet fearlessly rides and enjoys the waves of life"
+        },
+        "b": {
+          "hi": "संसार के लोग मछली पकड़ने के लिए नावें बनाते हैं और कवि नदी में तैरता है",
+          "en": "Worldly people build boats to catch fish while the poet swims in the river"
+        },
+        "c": {
+          "hi": "कवि समुद्री जहाजों का निर्माण करने वाला कारीगर है",
+          "en": "The poet is a craftsman who builds ocean ships"
+        },
+        "d": {
+          "hi": "संसार और कवि दोनों ही जीवन की चुनौतियों से डरकर भाग जाते हैं",
+          "en": "Both the world and the poet run away in fear from life's challenges"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "'भव-सागर' (संसार रूपी सागर) में रूपक अलंकार है; कवि जीवन के उतार-चढ़ाव को बोझ नहीं बल्कि उत्सव मानता है।",
+        "en": "'Bhav-saagar' (ocean of worldly existence) is a metaphor; the poet embraces life's ups and downs joyfully."
+      },
+      "explanation": {
+        "hi": "जहाँ सामान्य लोग संसार रूपी सागर से सुरक्षित पार निकलने के लिए तरह-तरह के भौतिक और व्यावहारिक उपाय (नाव) खोजते हैं, वहीं कवि जीवन की लहरों पर निश्चिंत और मस्त होकर बहता है।",
+        "en": "While ordinary people seek safe worldly means ('boats') to cross the ocean of existence, the poet joyfully and fearlessly rides the waves of life."
+      },
+      "key_takeaway": {
+        "hi": "संसार सुरक्षा के उपाय खोजता है, जबकि कवि जीवन के उतार-चढ़ाव रूपी लहरों में सहज आनंद लेता है।",
+        "en": "The world seeks safe escape routes, whereas the poet joyfully embraces the waves of life."
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "hi": "\"मैं यौवन का उन्माद लिए फिरता हूँ, उन्मादों में अवसाद लिए फिरता हूँ\" — इन पंक्तियों में कौन-सा प्रमुख अलंकार है और इसका क्या भाव है?",
+        "en": "Which prominent figure of speech appears in \"Main yauvan ka unmaad liye phirta hoon, unmaadon mein avasaad liye phirta hoon\", and what does it convey?"
+      },
+      "options": {
+        "a": {
+          "hi": "अतिशयोक्ति अलंकार — केवल युवावस्था की शारीरिक शक्ति का बखान",
+          "en": "Hyperbole — merely boasting of youthful physical strength"
+        },
+        "b": {
+          "hi": "विरोधाभास अलंकार (Paradox) — जवानी की मस्ती (उन्माद) के भीतर भी प्रिय के वियोग की उदासी (अवसाद) छिपी हुई है",
+          "en": "Paradox (Virodhabhas) — even within youthful ecstasy (unmaad), there lies hidden sorrow (avasaad) of separation from the beloved"
+        },
+        "c": {
+          "hi": "उपमा अलंकार — जवानी की तुलना पहाड़ से की गई है",
+          "en": "Simile — comparing youth to a mountain"
+        },
+        "d": {
+          "hi": "श्लेष अलंकार — एक ही शब्द के पाँच अलग अर्थ",
+          "en": "Pun — five different meanings of a single word"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "'उन्माद' (मस्ती/जोश) और 'अवसाद' (उदासी/विषाद) परस्पर विरोधी भाव हैं जो एक साथ विद्यमान हैं।",
+        "en": "'Unmaad' (ecstasy/passion) and 'avasaad' (melancholy/dejection) are contrasting emotions coexisting together."
+      },
+      "explanation": {
+        "hi": "'उन्मादों में अवसाद' में विरोधाभास अलंकार है। बाहर से यौवन के जोश और मस्ती से भरे दिखने वाले कवि के भीतर प्रिय की याद की गहरी उदासी (अवसाद) भी समाई हुई है।",
+        "en": "'Unmaadon mein avasaad' exemplifies Virodhabhas (Paradox): beneath the poet's outward youthful passion and ecstasy lies a deep inner melancholy born of longing."
+      },
+      "key_takeaway": {
+        "hi": "'उन्मादों में अवसाद' में विरोधाभास अलंकार है, जो मस्ती के भीतर छिपी विरह-वेदना को दर्शाता है।",
+        "en": "'Unmaadon mein avasaad' uses paradox to reveal hidden sorrow within outward ecstasy."
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "hi": "कवि के अनुसार जब उसने 'सत्य' को जानने का प्रयास किया तो उसे क्या अनुभव हुआ?",
+        "en": "According to the poet, what did he realize when he tried to discover the 'truth' (satya)?"
+      },
+      "options": {
+        "a": {
+          "hi": "कि सभी विद्वानों ने जीवन के अंतिम सत्य को पूरी तरह जान लिया है",
+          "en": "That all scholars have completely mastered the ultimate truth of life"
+        },
+        "b": {
+          "hi": "कि केवल धन कमाना ही जीवन का एकमात्र सत्य है",
+          "en": "That earning wealth is the sole truth of life"
+        },
+        "c": {
+          "hi": "कि बड़े-बड़े ज्ञानी भी सत्य को नहीं जान पाए; लोग सांसारिक लाभ के पीछे भागने की नादानी करते हैं, इसलिए कवि सीखे हुए ज्ञान को भुलाने की कला सीख रहा है",
+          "en": "That even great wise men failed to fathom truth; people foolishly chase worldly gain, so the poet is learning to unlearn acquired worldly cleverness"
+        },
+        "d": {
+          "hi": "कि सत्य केवल प्राचीन पुस्तकों के पन्नों में बंद है",
+          "en": "That truth is locked strictly inside ancient books"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "पंक्तियाँ देखिए—'कर यत्न मिटे सब, सत्य किसी ने जाना? नादान वहीं है, हाय, जहाँ पर दाना! फिर मूढ़ न क्या जग, जो इस पर भी सीखे? मैं सीख रहा हूँ, सीखा ज्ञान भुलाना!'।",
+        "en": "Recall: 'All strove and perished, yet did anyone know the truth? Wherever there is grain (worldly lure), there sits the naive!'"
+      },
+      "explanation": {
+        "hi": "कवि कहता है कि अनेक विद्वान प्रयास करके मिट गए पर जीवन के परम सत्य को कोई नहीं जान पाया। जहाँ स्वार्थ और लोभ (दाना) है, वहीं अज्ञानी (नादान) उलझे रहते हैं, अतः कवि सांसारिक चतुराई के ज्ञान को भुलाकर सहज प्रेम अपनाना सीख रहा है।",
+        "en": "The poet notes that many strove yet none truly grasped ultimate truth; people remain trapped wherever worldly temptation ('daana') lies, so he is learning to unlearn worldly cleverness in favour of pure love."
+      },
+      "key_takeaway": {
+        "hi": "सांसारिक लोभ और चतुराई को भुलाकर सहज प्रेम अपनाना ही कवि की दृष्टि में सच्ची समझ है।",
+        "en": "Unlearning worldly greed and cleverness to embrace pure love is true wisdom for the poet."
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "hi": "\"मैं और, और जग और, कहाँ का नाता\" — इस पंक्ति में 'और' शब्द की तीन बार आवृत्ति से कौन-सा अलंकार और क्या अर्थ प्रकट होता है?",
+        "en": "In \"Main aur, aur jag aur, kahaan ka naata\", which figure of speech and meaning emerge from repeating the word 'aur' three times?"
+      },
+      "options": {
+        "a": {
+          "hi": "उपमा अलंकार — कवि और संसार दोनों को एक समान बताया गया है",
+          "en": "Simile — declaring the poet and the world identical"
+        },
+        "b": {
+          "hi": "संदेह अलंकार — कवि को अपने नाम पर संदेह है",
+          "en": "Sandeha — the poet doubts his own name"
+        },
+        "c": {
+          "hi": "अतिशयोक्ति अलंकार — संसार की जनसंख्या का वर्णन",
+          "en": "Hyperbole — describing the world's population"
+        },
+        "d": {
+          "hi": "यमक अलंकार — पहला 'और' (भिन्न/अन्य), दूसरा 'और' (तथा/योजक), तीसरा 'और' (भिन्न स्वभाव वाला); अर्थात कवि और संसार के स्वभाव में कोई मेल नहीं",
+          "en": "Yamak Alankar — first 'aur' (different), second 'aur' (and), third 'aur' (of a different nature); showing no bond between the poet and the world"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "जब एक ही शब्द एक से अधिक बार आए और हर बार उसका अर्थ भिन्न हो, तो वहाँ यमक अलंकार होता है।",
+        "en": "When the same word occurs multiple times with different meanings each time, it is Yamak Alankar."
+      },
+      "explanation": {
+        "hi": "यहाँ 'और' शब्द तीन बार अलग-अलग अर्थों में प्रयुक्त हुआ है—'मैं और' (मैं अलग प्रकार का हूँ), 'और' (तथा), 'जग और' (संसार अलग प्रकार का है)—इसलिए यहाँ यमक अलंकार है जो कवि की भावनात्मक दुनिया और संसार की भौतिकवादी दुनिया के अंतर को स्पष्ट करता है।",
+        "en": "Here 'aur' appears three times with distinct meanings—'I am different', 'and', 'the world is different'—creating Yamak Alankar and highlighting the contrast between the poet's emotional world and the materialistic world."
+      },
+      "key_takeaway": {
+        "hi": "'मैं और, और जग और' में यमक अलंकार है, जो कवि और संसार की भिन्न प्रकृति को दर्शाता है।",
+        "en": "'Main aur, aur jag aur' features Yamak Alankar, showing the contrasting natures of the poet and the world."
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "hi": "\"मैं रोया, इसको तुम कहते हो गाना; मैं फूट पड़ा, तुम कहते, छंद बनाना\" — इन पंक्तियों का क्या मर्म है?",
+        "en": "What is the essence of the lines \"Main roya, isko tum kehte ho gaana; main phoot pada, tum kehte, chhand banana\"?"
+      },
+      "options": {
+        "a": {
+          "hi": "कवि की कविताएँ किसी कृत्रिम अभ्यास से नहीं बल्कि उसके हृदय की सच्ची पीड़ा और तीव्र भावनाओं के फूट पड़ने से जन्मी हैं",
+          "en": "The poet's verses arise not from artificial craft, but from the spontaneous overflow of his heart's genuine pain and deep emotion"
+        },
+        "b": {
+          "hi": "कवि को कविता लिखने के लिए समाज द्वारा जबरदस्ती मजबूर किया गया था",
+          "en": "The poet was forced by society to write poetry"
+        },
+        "c": {
+          "hi": "समाज के लोग कवि के रोने का मज़ाक उड़ाते हैं",
+          "en": "People in society mock the poet when he cries"
+        },
+        "d": {
+          "hi": "कवि केवल छंदशास्त्र के कठिन नियमों का प्रदर्शन करना चाहता है",
+          "en": "The poet merely wishes to display complex rules of prosody"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "जिसे दुनिया गीत और छंद समझती है, वह वास्तव में कवि के हृदय की करुण पुकार है।",
+        "en": "What the world applauds as song and verse is actually the heartfelt cry of the poet's soul."
+      },
+      "explanation": {
+        "hi": "कवि कहता है कि जब उसकी अंतर्वेदना आँसू बनकर फूट पड़ी, तो संसार ने उसे केवल गीत और छंद रचना समझ लिया। इससे स्पष्ट होता है कि सच्ची कविता हृदय की गहरी अनुभूति से स्वतः जन्म लेती है।",
+        "en": "The poet expresses that when his inner anguish burst forth, the world treated it merely as singing and crafting verses—showing that true poetry springs spontaneously from deep personal emotion."
+      },
+      "key_takeaway": {
+        "hi": "कवि की रचनाएँ बनावटी कलाबाजी नहीं, बल्कि हृदय की सच्ची वेदना की सहज अभिव्यक्ति हैं।",
+        "en": "The poet's verses are not artificial craft, but the spontaneous expression of genuine inner pain."
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "hi": "\"मैं दीवानों का वेश लिए फिरता हूँ, मैं मादकता निश्शेष लिए फिरता हूँ; जिसको सुनकर जग झूम, झुके, लहराए, मैं मस्ती का संदेश लिए फिरता हूँ\" — कविता के अंत में कवि समाज को क्या संदेश देता है?",
+        "en": "In the closing stanza of 'Aatmaparichay', what message does the poet offer to society?"
+      },
+      "options": {
+        "a": {
+          "hi": "सभी को अपने-अपने घरों में बंद होकर निराश बैठ जाना चाहिए",
+          "en": "Everyone should lock themselves indoors in despair"
+        },
+        "b": {
+          "hi": "चिंताओं और स्वार्थ को त्यागकर प्रेम, आनंद और मस्ती के साथ जीवन जीना चाहिए",
+          "en": "One should cast aside worries and selfishness and live life with love, joy, and ecstasy"
+        },
+        "c": {
+          "hi": "केवल युद्ध और संघर्ष के द्वारा ही संसार को जीता जा सकता है",
+          "en": "The world can be conquered only through war and conflict"
+        },
+        "d": {
+          "hi": "कविता लिखना छोड़कर व्यापार करना चाहिए",
+          "en": "One should abandon poetry and pursue trade"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "कवि 'मस्ती का संदेश' लेकर आया है जिसे सुनकर पूरा संसार झूम उठे और प्रेम के आगे झुक जाए।",
+        "en": "The poet brings a 'message of joy/ecstasy' that inspires the world to sway and bow in love."
+      },
+      "explanation": {
+        "hi": "कविता के समापन में हरिवंशराय बच्चन स्वयं को कवि के बजाय एक 'दीवाना' कहलाना पसंद करते हैं जो संसार की पीड़ाओं के बीच प्रेम, उल्लास और सकारात्मक मस्ती का संदेश बाँटता है।",
+        "en": "At the close of 'Aatmaparichay', Bachchan prefers being called a passionate lover rather than a mere poet, offering a message of love, joy, and uplifting ecstasy to the world."
+      },
+      "key_takeaway": {
+        "hi": "'आत्मपरिचय' का अंतिम संदेश जीवन में प्रेम, उल्लास और सकारात्मक मस्ती को अपनाना है।",
+        "en": "The closing message of 'Aatmaparichay' is to embrace love, joy, and positive ecstasy in life."
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "hi": "'आत्मपरिचय' कविता की भाषा-शैली की प्रमुख विशेषता कौन-सी है?",
+        "en": "Which is a key stylistic feature of the language in 'Aatmaparichay'?"
+      },
+      "options": {
+        "a": {
+          "hi": "अत्यंत क्लिष्ट संस्कृतनिष्ठ गद्य शैली",
+          "en": "Highly obscure Sanskritised prose style"
+        },
+        "b": {
+          "hi": "केवल ब्रज और अवधी भाषा का प्रयोग",
+          "en": "Exclusive use of Braj and Awadhi dialects"
+        },
+        "c": {
+          "hi": "सरल, सरस, संगीतात्मक खड़ी बोली जिसमें गीति-तत्व, तत्सम-तद्भव शब्दों का सुंदर समन्वय तथा 'लिए फिरता हूँ' की टेक से लयात्मकता है",
+          "en": "Simple, melodious, lyrical Khadi Boli rich in musicality, blending Tatsama-Tadbhava words with the rhythmic refrain 'liye phirta hoon'"
+        },
+        "d": {
+          "hi": "अंग्रेजी और फ्रेंच शब्दों की प्रधानता",
+          "en": "Predominance of English and French vocabulary"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "कविता में गेयता (Musicality) और आत्मकथात्मक शैली ('मैं') का सुंदर प्रयोग हुआ है।",
+        "en": "The poem blends singable musicality with an intimate first-person ('Main') lyrical style."
+      },
+      "explanation": {
+        "hi": "'आत्मपरिचय' सहज, प्रवाहमयी और संगीतात्मक खड़ी बोली में रचित है। आत्मकथात्मक शैली, रूपक व विरोधाभास अलंकार तथा टेक की पुनरावृत्ति इसे अत्यंत गेय और प्रभावशाली बनाती है।",
+        "en": "'Aatmaparichay' is written in fluid, musical Khadi Boli. Its first-person lyrical voice, metaphors, paradoxes, and recurring refrain give it remarkable rhythm and emotional resonance."
+      },
+      "key_takeaway": {
+        "hi": "संगीतात्मक खड़ी बोली, आत्मकथात्मक शैली और गेयता 'आत्मपरिचय' की प्रमुख काव्यगत विशेषताएँ हैं।",
+        "en": "Melodious Khadi Boli, first-person lyricism, and musicality define the style of 'Aatmaparichay'."
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "hi": "'दिन जल्दी-जल्दी ढलता है' गीत में पथिक के पैरों में गति और चंचलता किस विचार से आ जाती है?",
+        "en": "In the lyric 'Din Jaldi-Jaldi Dhalta Hai', what thought brings swiftness and eagerness to the traveller's steps?"
+      },
+      "options": {
+        "a": {
+          "hi": "कहीं रास्ते में रात न हो जाए और उसकी मंज़िल (प्रियजन से मिलन) भी अब बहुत दूर नहीं है",
+          "en": "That night might fall on the way, and his destination (reunion with loved ones) is no longer far away"
+        },
+        "b": {
+          "hi": "उसे रास्ते में तेज़ तूफ़ान आने की सूचना मिली है",
+          "en": "He has received news of an approaching storm"
+        },
+        "c": {
+          "hi": "उसे बाज़ार बंद होने से पहले सामान खरीदना है",
+          "en": "He has to buy goods before the market closes"
+        },
+        "d": {
+          "hi": "वह किसी प्रतियोगिता में प्रथम पुरस्कार जीतना चाहता है",
+          "en": "He wants to win first prize in a race"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "पंक्तियाँ याद कीजिए—'हो जाए न पथ में रात कहीं, मंज़िल भी तो है दूर नहीं — यह सोच थका दिन का पंथी भी जल्दी-जल्दी चलता है!'।",
+        "en": "Recall: 'Lest night fall on the path, and the destination is not far either — thinking this, even the tired traveller walks briskly!'"
+      },
+      "explanation": {
+        "hi": "दिन भर का थका हुआ यात्री यह सोचकर तेज़ी से कदम बढ़ाता है कि कहीं रास्ते में ही अंधेरा न हो जाए और अब उसका लक्ष्य (प्रियजनों से मिलन) निकट ही है।",
+        "en": "The tired day-long traveller quickens his pace thinking that night might overtake him on the road and that his destination is close at hand."
+      },
+      "key_takeaway": {
+        "hi": "समय बीतने की चिंता और मंज़िल की निकटता थके हुए पथिक के कदमों में तेज़ी भर देती है।",
+        "en": "Awareness of passing time and nearness to the goal energize the weary traveller."
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "hi": "'दिन जल्दी-जल्दी ढलता है' में चिड़ियों के परों में चंचलता (तेज़ी) किस कारण भर जाती है?",
+        "en": "In 'Din Jaldi-Jaldi Dhalta Hai', what fills the wings of the birds with restless swiftness?"
+      },
+      "options": {
+        "a": {
+          "hi": "शिकारी के तीर से बचने के डर के कारण",
+          "en": "Fear of escaping a hunter's arrow"
+        },
+        "b": {
+          "hi": "ठंडी हवा से बचने के लिए पहाड़ों की ओर जाने की इच्छा से",
+          "en": "Desire to fly toward the mountains to escape cold winds"
+        },
+        "c": {
+          "hi": "दूसरे पक्षियों से ऊँचा उड़ने की होड़ के कारण",
+          "en": "Competition to fly higher than other birds"
+        },
+        "d": {
+          "hi": "यह ध्यान आते ही कि उनके बच्चे नीड़ों (घोंसलों) से झाँक रहे होंगे और उनकी प्रतीक्षा कर रहे होंगे",
+          "en": "The thought that their young ones must be peeping out of their nests, eagerly awaiting their return"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "'बच्चे प्रत्याशा में होंगे, नीड़ों से झाँक रहे होंगे — यह ध्यान परों में चिड़ियों के भरता कितनी चंचलता है!'।",
+        "en": "'The children will be in expectation, peeping out of their nests — this thought fills the birds' wings with swiftness!'"
+      },
+      "explanation": {
+        "hi": "शाम ढलते ही चिड़ियों को याद आता है कि घोंसलों में उनके नन्हे बच्चे भोजन और स्नेह की आशा (प्रत्याशा) में बाहर झाँक रहे होंगे। वात्सल्य की यही भावना उनके पंखों में नई ऊर्जा भर देती है।",
+        "en": "At dusk, birds remember their nestlings peeping out in expectation of food and warmth; this maternal love fills their wings with swift energy."
+      },
+      "key_takeaway": {
+        "hi": "बच्चों के प्रति वात्सल्य और मिलन की उत्कंठा चिड़ियों के पंखों में चंचलता भर देती है।",
+        "en": "Maternal affection and anticipation of meeting their young energize the birds' wings."
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "hi": "कवि के कदम 'दिन जल्दी-जल्दी ढलता है' में शिथिल (धीमे) क्यों हो जाते हैं और उसके उर में विह्वलता क्यों भर जाती है?",
+        "en": "Why do the poet's footsteps grow slack (shithil) and his heart fill with restless anguish (vihvalta) in 'Din Jaldi-Jaldi Dhalta Hai'?"
+      },
+      "options": {
+        "a": {
+          "hi": "क्योंकि वह रास्ता भटक कर घने जंगल में फँस गया है",
+          "en": "Because he has lost his way in a dense forest"
+        },
+        "b": {
+          "hi": "क्योंकि संसार में कोई भी उसकी प्रतीक्षा नहीं कर रहा है; वह सोचता है कि वह किसके लिए शीघ्रता करे",
+          "en": "Because no one in the world is waiting for him; he asks himself for whose sake he should hurry"
+        },
+        "c": {
+          "hi": "क्योंकि उसके पैरों में काँटे चुभ गए हैं",
+          "en": "Because thorns have pricked his feet"
+        },
+        "d": {
+          "hi": "क्योंकि उसे घर पहुँचने की कोई अनुमति नहीं मिली है",
+          "en": "Because he has not received permission to go home"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "'मुझसे मिलने को कौन विकल? मैं होऊँ किसके हित चंचल? यह प्रश्न शिथिल करता पद को, भरता उर में विह्वलता है!'।",
+        "en": "'Who is restless to meet me? For whose sake should I be swift? This question slows my steps and fills my heart with anguish!'"
+      },
+      "explanation": {
+        "hi": "पथिक और चिड़ियों के विपरीत कवि के जीवन में कोई प्रियजन उसकी प्रतीक्षा करने वाला नहीं है। 'मुझसे मिलने को कौन विकल?'—यह अकेलेपन का प्रश्न उसके कदमों की गति धीमी कर देता है और हृदय को व्याकुल बना देता है।",
+        "en": "Unlike the traveller and the birds, no loved one awaits the poet at home. The lonely question 'Who is eager to meet me?' slows his steps and fills his heart with anguish."
+      },
+      "key_takeaway": {
+        "hi": "प्रियजन की प्रतीक्षा का अभाव और एकाकीपन कवि के कदमों को शिथिल व हृदय को व्याकुल कर देता है।",
+        "en": "Loneliness and the absence of someone waiting slow the poet's steps and fill his heart with anguish."
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "hi": "'जल्दी-जल्दी' शब्द में किस अलंकार का प्रयोग हुआ है?",
+        "en": "Which figure of speech is used in the repeated phrase 'jaldi-jaldi'?"
+      },
+      "options": {
+        "a": {
+          "hi": "पुनरुक्ति प्रकाश अलंकार (Punarukti Prakash Alankar)",
+          "en": "Punarukti Prakash Alankar (Repetition for emphasis)"
+        },
+        "b": {
+          "hi": "उत्प्रेक्षा अलंकार (Utpreksha Alankar)",
+          "en": "Utpreksha Alankar"
+        },
+        "c": {
+          "hi": "अतिशयोक्ति अलंकार (Hyperbole)",
+          "en": "Hyperbole"
+        },
+        "d": {
+          "hi": "दृष्टांत अलंकार (Drishtant Alankar)",
+          "en": "Drishtant Alankar"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "एक ही शब्द की समान अर्थ में आवृत्ति होने से समय के तेज़ी से बीतने का प्रभाव गहरा होता है।",
+        "en": "Repeating the same word with the same meaning intensifies the sense of rapidly passing time."
+      },
+      "explanation": {
+        "hi": "'जल्दी-जल्दी' में एक ही शब्द की समान अर्थ में पुनरावृत्ति होने के कारण 'पुनरुक्ति प्रकाश अलंकार' है, जो समय की तीव्र गति और जीवन की क्षणभंगुरता को प्रभावशाली ढंग से व्यक्त करता है।",
+        "en": "'Jaldi-jaldi' repeats the same word with identical meaning, exemplifying Punarukti Prakash Alankar and underscoring the rapid passage of time."
+      },
+      "key_takeaway": {
+        "hi": "'जल्दी-जल्दी' में पुनरुक्ति प्रकाश अलंकार है, जो समय की तीव्र गति को दर्शाता है।",
+        "en": "'Jaldi-jaldi' uses Punarukti Prakash Alankar to emphasize how swiftly time passes."
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "hi": "'दिन जल्दी-जल्दी ढलता है' में 'दिन' किसका प्रतीक है?",
+        "en": "In 'Din Jaldi-Jaldi Dhalta Hai', what does 'day' (din) symbolize?"
+      },
+      "options": {
+        "a": {
+          "hi": "केवल एक स्कूल के घंटे का",
+          "en": "Merely a single school period"
+        },
+        "b": {
+          "hi": "केवल गर्मी के मौसम के एक दोपहर का",
+          "en": "Merely one summer afternoon"
+        },
+        "c": {
+          "hi": "मानव जीवन और समय का, जो निरंतर और तेज़ी से बीतता जा रहा है",
+          "en": "Human life and time, which are continuously and rapidly passing away"
+        },
+        "d": {
+          "hi": "केवल किसानों की फसल कटाई के मौसम का",
+          "en": "Merely the harvest season for farmers"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "दिन का ढलना जीवन की आयु के घटने और संध्या के निकट आने का सूचक है।",
+        "en": "The setting of the day signifies the shortening span of human life and approaching dusk."
+      },
+      "explanation": {
+        "hi": "इस गीत में 'दिन' मानव जीवन और समय का प्रतीक है। जिस प्रकार दिन तेज़ी से ढलकर रात में बदल जाता है, उसी प्रकार जीवन का समय भी तीव्र गति से व्यतीत हो रहा है।",
+        "en": "In this song, 'day' symbolizes human life and time: just as day swiftly fades into night, the span of human life passes rapidly."
+      },
+      "key_takeaway": {
+        "hi": "'दिन' मानव जीवन और समय का प्रतीक है जो निरंतर क्षीण होता जाता है।",
+        "en": "'Day' symbolizes human life and fleeting time."
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "hi": "'प्रत्याशा' और 'विह्वलता' शब्दों के सही अर्थ क्रमशः क्या हैं?",
+        "en": "What are the correct meanings of the words 'pratyasha' and 'vihvalta' respectively?"
+      },
+      "options": {
+        "a": {
+          "hi": "निराशा और कठोरता",
+          "en": "Despair and harshness"
+        },
+        "b": {
+          "hi": "क्रोध और घमंड",
+          "en": "Anger and arrogance"
+        },
+        "c": {
+          "hi": "आलस्य और नींद",
+          "en": "Laziness and sleep"
+        },
+        "d": {
+          "hi": "आशा/प्रतीक्षा (Expectation) और भावुक व्याकुलता/बेचैनी (Restless anguish)",
+          "en": "Expectation/hopeful anticipation and restless emotional anguish"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "बच्चे नीड़ों से 'प्रत्याशा' (आशा भरी प्रतीक्षा) में झाँक रहे होंगे, जबकि अकेलापन कवि के हृदय में 'विह्वलता' (व्याकुलता) भर देता है।",
+        "en": "Nestlings peep out in 'pratyasha' (hopeful expectation), while loneliness fills the poet's heart with 'vihvalta' (anguish)."
+      },
+      "explanation": {
+        "hi": "'प्रत्याशा' का अर्थ है आशा के साथ की जाने वाली प्रतीक्षा, तथा 'विह्वलता' का अर्थ है भावुक व्याकुलता या बेचैनी।",
+        "en": "'Pratyasha' means hopeful anticipation, and 'vihvalta' means intense emotional restlessness or anguish."
+      },
+      "key_takeaway": {
+        "hi": "'प्रत्याशा' का अर्थ आशा भरी प्रतीक्षा तथा 'विह्वलता' का अर्थ व्याकुलता है।",
+        "en": "'Pratyasha' means hopeful expectation and 'vihvalta' means emotional anguish."
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "hi": "'निश्शेष' शब्द का सही अर्थ क्या है जैसा कि 'मैं मादकता निश्शेष लिए फिरता हूँ' में प्रयुक्त हुआ है?",
+        "en": "What is the correct meaning of the word 'nishshesh' as used in 'Main maadakata nishshesh liye phirta hoon'?"
+      },
+      "options": {
+        "a": {
+          "hi": "अत्यंत कड़वा और अरुचिकर",
+          "en": "Extremely bitter and unpleasant"
+        },
+        "b": {
+          "hi": "बहुत थोड़ा या अधूरा",
+          "en": "Very little or incomplete"
+        },
+        "c": {
+          "hi": "केवल रात के समय दिखने वाला",
+          "en": "Visible only at night"
+        },
+        "d": {
+          "hi": "संपूर्ण / बिना कुछ शेष बचे (Complete, with nothing left behind)",
+          "en": "Complete / wholly, with nothing left behind"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "निः + शेष = जिसका कोई अंश बाकी न रहा हो, अर्थात पूरी की पूरी मादकता।",
+        "en": "Nih + shesh = with no remainder left, meaning complete intoxication of love."
+      },
+      "explanation": {
+        "hi": "'निश्शेष' (निः + शेष) का अर्थ है संपूर्ण या बिना कुछ बचाए पूरी तरह से। कवि अपने हृदय में प्रेम की संपूर्ण मस्ती लिए घूमता है।",
+        "en": "'Nishshesh' means completely or entirely, without holding anything back—indicating that the poet carries the fullness of love's ecstasy."
+      },
+      "key_takeaway": {
+        "hi": "'निश्शेष' का अर्थ संपूर्ण या बिना कुछ शेष बचे है।",
+        "en": "'Nishshesh' means complete or wholly without remainder."
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "hi": "'आत्मपरिचय' कविता में 'शीतल वाणी में आग' होने का क्या तात्पर्य है?",
+        "en": "What is meant by having 'fire in cool speech' (sheetal vaani mein aag) in 'Aatmaparichay'?"
+      },
+      "options": {
+        "a": {
+          "hi": "कवि हर किसी को गालियाँ देकर क्रोध प्रकट करता है",
+          "en": "The poet expresses anger by abusing everyone"
+        },
+        "b": {
+          "hi": "कवि की वाणी बाहर से शांत और मधुर है, परंतु उसके भीतर जीवन के संघर्ष, प्रेम की तड़प और व्यवस्था के प्रति तीव्र ऊर्जा व विद्रोह की ऊष्मा है",
+          "en": "The poet's voice is outwardly calm and gentle, yet within it burns intense passion of love, inner struggle, and spirited warmth against worldly hypocrisy"
+        },
+        "c": {
+          "hi": "कवि ठंडा पानी पीकर तेज आवाज़ में भाषण देता है",
+          "en": "The poet drinks cold water and delivers loud speeches"
+        },
+        "d": {
+          "hi": "कवि की वाणी में किसी भी प्रकार की भावना नहीं है",
+          "en": "The poet's voice lacks any emotion whatsoever"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "यहाँ भी विरोधाभास अलंकार है—बाहरी कोमलता के भीतर वैचारिक और भावनात्मक तेजस्विता।",
+        "en": "Here too Virodhabhas (Paradox) operates—inward emotional and ideological fire beneath outward gentleness."
+      },
+      "explanation": {
+        "hi": "'शीतल वाणी में आग' में विरोधाभास अलंकार है। कवि की भाषा अत्यंत कोमल, मधुर और शीतल है, किंतु उसमें प्रेम की तीव्र तड़प, आत्मसम्मान और सामाजिक विसंगतियों के विरुद्ध ओज की अग्नि छिपी है।",
+        "en": "'Sheetal vaani mein aag' uses paradox: while the poet's tone is gentle and soothing, his words carry the fiery warmth of passionate love, self-respect, and quiet resistance against social hypocrisy."
+      },
+      "key_takeaway": {
+        "hi": "'शीतल वाणी में आग' बाहरी मधुरता के भीतर छिपी भावनात्मक ऊष्मा और तेजस्विता का प्रतीक है।",
+        "en": "'Fire in cool speech' symbolizes deep emotional intensity and conviction beneath a gentle voice."
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "hi": "'आत्मपरिचय' और 'दिन जल्दी-जल्दी ढलता है'—दोनों कविताओं का समग्र केंद्रीय भाव क्या है?",
+        "en": "What is the overarching central theme uniting 'Aatmaparichay' and 'Din Jaldi-Jaldi Dhalta Hai'?"
+      },
+      "options": {
+        "a": {
+          "hi": "केवल ऐतिहासिक युद्धों और राजाओं की विजयों का वर्णन",
+          "en": "Merely describing historical wars and royal conquests"
+        },
+        "b": {
+          "hi": "प्रकृति के विनाश और औद्योगिक प्रदूषण की आलोचना",
+          "en": "Critiquing environmental destruction and industrial pollution"
+        },
+        "c": {
+          "hi": "आत्म-पहिचान की खोज, संसार से प्रेमपूर्ण किंतु स्वाभिमानी संबंध, तथा जीवन में प्रेम व प्रतीक्षा की शक्ति जो समय की तीव्र गति को सार्थकता देती है",
+          "en": "The quest for self-identity, a loving yet dignified bond with the world, and the power of love and anticipation that gives meaning to fleeting time"
+        },
+        "d": {
+          "hi": "विज्ञान और तकनीक के आधुनिक आविष्कारों की प्रशंसा",
+          "en": "Praising modern inventions of science and technology"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "दोनों रचनाओं को जोड़िए—पहली में कवि का आत्म-स्वरूप व प्रेम-दर्शन है, और दूसरी में प्रेम/प्रतीक्षा से प्रेरित जीवन-गति।",
+        "en": "Connect both poems: the first explores selfhood and love's philosophy, while the second shows how love and anticipation drive life forward."
+      },
+      "explanation": {
+        "hi": "'आत्मपरिचय' जहाँ व्यक्ति और संसार के द्वंद्वात्मक किंतु प्रेमपूर्ण संबंध को उजागर करती है, वहीं 'दिन जल्दी-जल्दी ढलता है' बताती है कि प्रेम और अपनों की प्रतीक्षा ही जीवन की भागदौड़ को ऊर्जा व दिशा देती है, जिसके अभाव में एकाकीपन जन्म लेता है।",
+        "en": "While 'Aatmaparichay' illuminates the loving yet self-respecting bond between the self and the world, 'Din Jaldi-Jaldi Dhalta Hai' shows that love and anticipation give energy and purpose to fleeting time, whereas loneliness slows the spirit."
+      },
+      "key_takeaway": {
+        "hi": "सच्चा प्रेम, आत्मबोध और अपनों की प्रतीक्षा ही जीवन को गति, ऊर्जा और सार्थकता प्रदान करते हैं।",
+        "en": "True love, self-awareness, and the warmth of loved ones give life energy, direction, and meaning."
+      }
+    }
+  ]
+}
