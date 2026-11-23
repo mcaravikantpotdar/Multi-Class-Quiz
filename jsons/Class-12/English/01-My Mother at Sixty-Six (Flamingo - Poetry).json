@@ -1,0 +1,935 @@
+{
+  "metadata": {
+    "chapter_number": 1,
+    "chapter_title": "My Mother at Sixty-Six (Flamingo - Poetry)",
+    "chapter_title_hindi": "छियासठ वर्ष की आयु में मेरी माँ (फ्लेमिंगो - काव्य)",
+    "subject": "English",
+    "target_class": "Class XII",
+    "total_questions": 24,
+    "question_range": "Q1 to Q24",
+    "source_language": "en",
+    "target_language": "hi",
+    "version": "1.0",
+    "note": "Complete 24-question bilingual MCQ bank for NCERT/HPBOSE Class 12 English (Flamingo Poetry 1: My Mother at Sixty-Six by Kamala Das) tailored for Hindi-medium learners with clear English and Hindi explanations. Pure Unicode, zero trailing commas, zero citation tags, balanced options (6 A, 6 B, 6 C, 6 D)."
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "English Curriculum & JSON Schema Validator",
+    "corrections": [],
+    "notes": "Verified all 24 questions covering poet background, setting (drive from parent's home to Cochin airport), imagery, contrast between youth and ageing, poetic devices (simile, personification, repetition, alliteration, imagery), rhyme scheme, tone, and vocabulary. Options balanced to 6 A, 6 B, 6 C, and 6 D."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who is the poet of 'My Mother at Sixty-Six', and under what pen name did she also write?",
+        "hi": "'माय मदर एट सिक्सटी-सिक्स' (My Mother at Sixty-Six) की कवयित्री कौन हैं, और उन्होंने किस उपनाम (Pen name) से भी लेखन किया?"
+      },
+      "options": {
+        "a": {
+          "en": "Sarojini Naidu; 'Nightingale of India'",
+          "hi": "सरोजिनी नायडू; 'नाइटिंगेल ऑफ इंडिया'"
+        },
+        "b": {
+          "en": "Kamala Das; 'Madhavikutty'",
+          "hi": "कमला दास; 'माधविकुट्टी'"
+        },
+        "c": {
+          "en": "Adrienne Rich; 'Aunt Jennifer'",
+          "hi": "एड्रिएन रिच; 'आंट जेनिफर'"
+        },
+        "d": {
+          "en": "Toru Dutt; 'Bharati'",
+          "hi": "तोरू दत्त; 'भारती'"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She was born in Malabar, Kerala, and is celebrated as a pioneer of confessional poetry in India.",
+        "hi": "उनका जन्म मालाबार (केरल) में हुआ था और वे भारत में आत्मकथात्मक/स्वीकारोक्ति काव्य (Confessional poetry) की अग्रणी मानी जाती हैं।"
+      },
+      "explanation": {
+        "en": "Kamala Das (1934–2009), born in Malabar, Kerala, wrote in English and Malayalam (under the pen name 'Madhavikutty') and is known for capturing subtle nuances of human relationships in lyrical idiom.",
+        "hi": "कमला दास (1934–2009), जिनका जन्म मालाबार (केरल) में हुआ था, ने अंग्रेजी और मलयालम ('माधविकुट्टी' उपनाम से) में लेखन किया तथा मानवीय संबंधों की सूक्ष्म संवेदनाओं को काव्यात्मक शैली में व्यक्त किया।"
+      },
+      "key_takeaway": {
+        "en": "Kamala Das ('Madhavikutty') authored 'My Mother at Sixty-Six', exploring delicate human emotions.",
+        "hi": "कमला दास ('माधविकुट्टी') ने 'माय मदर एट सिक्सटी-सिक्स' की रचना की, जो कोमल मानवीय संवेदनाओं को दर्शाती है।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Where was the poet driving from and heading to on that Friday morning?",
+        "hi": "उस शुक्रवार की सुबह कवयित्री कहाँ से कहाँ की ओर गाड़ी चलाकर जा रही थीं?"
+      },
+      "options": {
+        "a": {
+          "en": "From Cochin airport to her childhood school",
+          "hi": "कोचीन हवाई अड्डे से अपने बचपन के स्कूल की ओर"
+        },
+        "b": {
+          "en": "From Chennai to her ancestral village in Malabar",
+          "hi": "चेन्नई से मालाबार स्थित अपने पैतृक गाँव की ओर"
+        },
+        "c": {
+          "en": "From her parent's home to Cochin airport",
+          "hi": "अपने माता-पिता के घर से कोचीन हवाई अड्डे की ओर"
+        },
+        "d": {
+          "en": "From a hospital to her mother's residence",
+          "hi": "एक अस्पताल से अपनी माँ के निवास की ओर"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "The opening lines state: \"Driving from my parent's home to Cochin last Friday morning, I saw my mother, beside me...\"",
+        "hi": "प्रारंभिक पंक्तियाँ बताती हैं: \"पिछले शुक्रवार की सुबह अपने माता-पिता के घर से कोचीन की ओर जाते हुए मैंने अपनी माँ को अपने बगल में देखा...\""
+      },
+      "explanation": {
+        "en": "The poem begins with Kamala Das driving from her parent's home to Cochin airport on a Friday morning, with her sixty-six-year-old mother seated beside her in the car.",
+        "hi": "कविता की शुरुआत शुक्रवार की सुबह कमला दास द्वारा अपने माता-पिता के घर से कोचीन हवाई अड्डे की ओर गाड़ी चलाने से होती है, जहाँ कार में उनके बगल में उनकी छियासठ वर्षीय माँ बैठी हैं।"
+      },
+      "key_takeaway": {
+        "en": "The setting is a Friday morning car journey from the poet's parent's home to Cochin airport.",
+        "hi": "कविता की पृष्ठभूमि शुक्रवार की सुबह माता-पिता के घर से कोचीन हवाई अड्डे तक की कार यात्रा है।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "How did the poet's mother look while sitting beside her in the car?",
+        "hi": "कार में कवयित्री के बगल में बैठी हुई उनकी माँ कैसी दिख रही थीं?"
+      },
+      "options": {
+        "a": {
+          "en": "Doze, open-mouthed, her face ashen like that of a corpse",
+          "hi": "ऊँघती हुई, मुँह खुला हुआ, और उनका चेहरा किसी शव (Corpse) की तरह राख जैसा पीला व निष्प्राण"
+        },
+        "b": {
+          "en": "Alert, cheerful, and energetically reading a book",
+          "hi": "सतर्क, प्रसन्नचित्त और उत्साहपूर्वक एक पुस्तक पढ़ती हुई"
+        },
+        "c": {
+          "en": "Angrily complaining about the traffic on the road",
+          "hi": "सड़क पर यातायात को लेकर क्रोधपूर्वक शिकायत करती हुई"
+        },
+        "d": {
+          "en": "Singing traditional lullabies softly to the poet",
+          "hi": "कवयित्री को धीमे स्वर में पारंपरिक लोरियाँ सुनाती हुई"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Her pale, lifeless appearance while dozing abruptly reminded the poet of old age and mortality.",
+        "hi": "ऊँघते समय उनके पीले और निष्प्राण चेहरे ने अचानक कवयित्री को वृद्धावस्था और मृत्यु का बोध कराया।"
+      },
+      "explanation": {
+        "en": "Beside the poet, her mother was dozing with her mouth open, and her pale, colourless face looked ashen like a corpse—making the poet painfully realize that her mother was as old as she looked.",
+        "hi": "कवयित्री के बगल में बैठी माँ मुँह खोले ऊँघ रही थीं और उनका पीला, कांतिहीन चेहरा किसी शव की भाँति राख जैसा दिख रहा था—जिससे कवयित्री को पीड़ादायक रूप से एहसास हुआ कि उनकी माँ उतनी ही बूढ़ी हो चुकी हैं जितनी दिख रही हैं।"
+      },
+      "key_takeaway": {
+        "en": "The mother's dozing, open-mouthed, ashen face resembled a corpse, triggering the poet's fear of losing her.",
+        "hi": "ऊँघती हुई माँ का खुला मुँह और राख जैसा पीला चेहरा शव के समान दिख रहा था, जिसने कवयित्री के मन में बिछड़ने का भय जगाया।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Why did the poet look out of the car window at 'Young Trees sprinting, the merry children spilling out of their homes'?",
+        "hi": "कवयित्री ने कार की खिड़की से बाहर 'तेज़ी से पीछे दौड़ते युवा पेड़ों और घरों से बाहर उमड़ते प्रसन्न बच्चों' की ओर क्यों देखा?"
+      },
+      "options": {
+        "a": {
+          "en": "To check if her flight at Cochin airport was delayed",
+          "hi": "यह देखने के लिए कि क्या कोचीन हवाई अड्डे पर उनकी उड़ान में देरी हुई है"
+        },
+        "b": {
+          "en": "To put away the painful thought of her mother's ageing and approaching death",
+          "hi": "अपनी माँ की वृद्धावस्था और आसन्न मृत्यु के पीड़ादायक विचार से ध्यान हटाने के लिए"
+        },
+        "c": {
+          "en": "To ask the children for directions to the terminal",
+          "hi": "बच्चों से टर्मिनल का रास्ता पूछने के लिए"
+        },
+        "d": {
+          "en": "Because her mother asked her to describe the scenery outside",
+          "hi": "क्योंकि उनकी माँ ने उनसे बाहर के दृश्य का वर्णन करने के लिए कहा था"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The poet says she \"soon put that thought away, and looked out...\" to distract herself from grief.",
+        "hi": "कवयित्री कहती हैं कि उन्होंने \"शीघ्र ही उस विचार को मन से हटाया, और बाहर देखा...\" ताकि दुःख से ध्यान भटका सकें।"
+      },
+      "explanation": {
+        "en": "Overwhelmed by the painful realization of her mother's frailty and mortality, Kamala Das deliberately looked outside at the vibrant, energetic world of sprinting young trees and joyful children to distract herself from her sorrow.",
+        "hi": "अपनी माँ की दुर्बलता और नश्वरता के पीड़ादायक एहसास से व्याकुल होकर कमला दास ने जानबूझकर बाहर तेज़ी से भागते युवा पेड़ों और प्रसन्न बच्चों की जीवंत दुनिया की ओर देखा ताकि अपने दुःख से ध्यान हटा सकें।"
+      },
+      "key_takeaway": {
+        "en": "Looking out at lively trees and children was the poet's attempt to escape the agonizing thought of losing her mother.",
+        "hi": "जीवंत पेड़ों और बच्चों की ओर देखना अपनी माँ को खोने के पीड़ादायक विचार से ध्यान हटाने का कवयित्री का प्रयास था।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What striking contrast is created between the scene inside the car and the scene outside the car window?",
+        "hi": "कार के अंदर के दृश्य और कार की खिड़की के बाहर के दृश्य के बीच कौन-सा तीखा विरोधाभास (Contrast) रचा गया है?"
+      },
+      "options": {
+        "a": {
+          "en": "Wealth and luxury inside versus poverty and hunger outside",
+          "hi": "अंदर धन-वैभव बनाम बाहर गरीबी और भूख"
+        },
+        "b": {
+          "en": "Noise and chaos inside versus complete silence outside",
+          "hi": "अंदर शोरगुल बनाम बाहर पूर्ण सन्नाटा"
+        },
+        "c": {
+          "en": "Old age, decay, passive stillness, and approaching death inside versus youth, vitality, energy, and new life outside",
+          "hi": "अंदर वृद्धावस्था, क्षय, निष्क्रियता और आसन्न मृत्यु बनाम बाहर यौवन, जीवंतता, ऊर्जा और नवजीवन"
+        },
+        "d": {
+          "en": "Winter snowfall inside versus desert heat outside",
+          "hi": "अंदर शीतकालीन हिमपात बनाम बाहर रेगिस्तानी गर्मी"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Compare the pale, dozing sixty-six-year-old mother with the 'Young Trees sprinting' and 'merry children spilling'.",
+        "hi": "पीली, ऊँघती छियासठ वर्षीय माँ की तुलना 'तेज़ी से दौड़ते युवा पेड़ों' और 'उमड़ते प्रसन्न बच्चों' से कीजिए।"
+      },
+      "explanation": {
+        "en": "Inside the car sits the frail, dozing mother symbolizing old age, passivity, and mortality; outside, 'Young Trees sprinting' and 'merry children spilling' symbolize youth, dynamism, and vitality—highlighting the inevitable cycle of life.",
+        "hi": "कार के भीतर दुर्बल, ऊँघती हुई माँ वृद्धावस्था, निष्क्रियता और नश्वरता की प्रतीक हैं; जबकि बाहर 'दौड़ते युवा पेड़' और 'उमड़ते प्रसन्न बच्चे' यौवन, गतिशीलता और जीवंतता के प्रतीक हैं—जो जीवन के अटल चक्र को उजागर करते हैं।"
+      },
+      "key_takeaway": {
+        "en": "The poem contrasts the mother's ageing stillness inside with youthful energy outside to emphasize life's transience.",
+        "hi": "कविता भीतर माँ की वृद्ध स्थिरता और बाहर युवा ऊर्जा के विरोधाभास द्वारा जीवन की क्षणभंगुरता को रेखांकित करती है।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Which poetic device is used in the phrase 'Young Trees sprinting'?",
+        "hi": "वाक्यांश 'Young Trees sprinting' (तेज़ी से दौड़ते युवा पेड़) में किस काव्य अलंकार का प्रयोग हुआ है?"
+      },
+      "options": {
+        "a": {
+          "en": "Personification — attributing the human action of 'sprinting' (running fast) to trees",
+          "hi": "मानवीकरण अलंकार (Personification) — पेड़ों पर मनुष्य के 'तेज़ दौड़ने' (sprinting) की क्रिया का आरोपण किया गया है"
+        },
+        "b": {
+          "en": "Simile — comparing trees using 'like' or 'as'",
+          "hi": "उपमा अलंकार (Simile) — 'like' या 'as' से पेड़ों की तुलना"
+        },
+        "c": {
+          "en": "Oxymoron — placing opposite words side by side",
+          "hi": "विरोधाभास (Oxymoron) — विपरीत शब्दों को साथ रखना"
+        },
+        "d": {
+          "en": "Pun — a humorous play on words",
+          "hi": "श्लेष अलंकार (Pun) — शब्दों पर हास्यपूर्ण क्रीड़ा"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Because the car is moving forward rapidly, the stationary trees appear to be running fast like young athletes.",
+        "hi": "कार के तेज़ी से आगे बढ़ने के कारण स्थिर पेड़ युवा धावकों की तरह पीछे दौड़ते हुए प्रतीत होते हैं।"
+      },
+      "explanation": {
+        "en": "'Young Trees sprinting' uses personification by giving trees the human quality of sprinting (running at full speed), reflecting the apparent backward motion seen from a fast-moving car and symbolizing youthful vigour.",
+        "hi": "'Young Trees sprinting' में मानवीकरण अलंकार (Personification) है क्योंकि पेड़ों को मनुष्य की भाँति तेज़ दौड़ते हुए दिखाया गया है, जो चलती कार से पीछे छूटते पेड़ों की गति और युवा ऊर्जा का प्रतीक है।"
+      },
+      "key_takeaway": {
+        "en": "'Young Trees sprinting' is personification, portraying trees as energetic runners to contrast with the mother's stillness.",
+        "hi": "'Young Trees sprinting' मानवीकरण अलंकार है, जो माँ की स्थिरता के विपरीत पेड़ों को ऊर्जावान धावकों के रूप में दर्शाता है।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "What does the image of 'merry children spilling out of their homes' signify in the poem?",
+        "hi": "कविता में 'घरों से बाहर उमड़ते प्रसन्न बच्चे' (merry children spilling out of their homes) की छवि क्या दर्शाती है?"
+      },
+      "options": {
+        "a": {
+          "en": "A natural disaster forcing families to evacuate their houses",
+          "hi": "एक प्राकृतिक आपदा जो परिवारों को घर खाली करने पर मजबूर कर रही है"
+        },
+        "b": {
+          "en": "Uncontrolled mischief and indiscipline in the neighbourhood",
+          "hi": "मोहल्ले में अनियंत्रित शरारत और अनुशासनहीनता"
+        },
+        "c": {
+          "en": "Spontaneous joy, innocence, abundant energy, and the beginning of life in contrast to the mother's frailty",
+          "hi": "माँ की दुर्बलता के विपरीत सहज आनंद, मासूमियत, असीम ऊर्जा और जीवन का आरंभ"
+        },
+        "d": {
+          "en": "Children rushing to catch a school bus before rain starts",
+          "hi": "बारिश शुरू होने से पहले स्कूल बस पकड़ने के लिए भागते बच्चे"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "The verb 'spilling' suggests children overflowing effortlessly like an unstoppable stream of life.",
+        "hi": "क्रिया 'spilling' (उमड़ना/छलकना) जीवन की अबाध धारा की तरह सहजता से बाहर निकलते बच्चों को दर्शाती है।"
+      },
+      "explanation": {
+        "en": "'Merry children spilling out of their homes' uses vivid visual imagery to capture carefree childhood, exuberance, and vitality—standing in sharp contrast to the poet's ageing, pale mother.",
+        "hi": "'Merry children spilling out of their homes' सजीव दृश्य बिंब के माध्यम से बेफिक्र बचपन, उमंग और जीवंतता को व्यक्त करता है—जो कवयित्री की वृद्ध और पीली पड़ चुकी माँ के ठीक विपरीत है।"
+      },
+      "key_takeaway": {
+        "en": "The 'merry children spilling' symbolize youthful vitality and life's fresh energy against old age.",
+        "hi": "'उमड़ते प्रसन्न बच्चे' वृद्धावस्था के विपरीत युवा जीवंतता और जीवन की ताज़गी के प्रतीक हैं।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Why does the poet compare her mother's pale face to a 'late winter's moon'?",
+        "hi": "कवयित्री अपनी माँ के पीले चेहरे की तुलना 'शरद ऋतु के अंतिम चरण के चंद्रमा' (late winter's moon) से क्यों करती हैं?"
+      },
+      "options": {
+        "a": {
+          "en": "Because her mother was wearing bright white silver jewellery",
+          "hi": "क्योंकि उनकी माँ चमकीले सफेद चाँदी के आभूषण पहने हुई थीं"
+        },
+        "b": {
+          "en": "Because the car was travelling under a full moon at midnight",
+          "hi": "क्योंकि कार आधी रात को पूर्णिमा के चाँद के नीचे चल रही थी"
+        },
+        "c": {
+          "en": "Because her mother's face looked round and radiant like a festival lantern",
+          "hi": "क्योंकि उनकी माँ का चेहरा उत्सव के लालटेन जैसा गोल और दमकता हुआ दिख रहा था"
+        },
+        "d": {
+          "en": "Because a late winter's moon looks hazy, dim, pale, and lacks brightness and strength—mirroring her mother's faded beauty, chill of old age, and waning life",
+          "hi": "क्योंकि देर सर्दियों का चाँद धुंधला, मद्धम, पीला और कांतिहीन दिखता है—जो माँ की फीकी पड़ती आभा, बुढ़ापे की ठंडक और ढलते जीवन को दर्शाता है"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Winter is traditionally associated with dormancy and the end of the year, just as old age is the final stage of human life.",
+        "hi": "शरद ऋतु पारंपरिक रूप से निष्क्रियता और वर्ष के अंत से जुड़ी है, ठीक वैसे ही जैसे वृद्धावस्था मानव जीवन का अंतिम चरण है।"
+      },
+      "explanation": {
+        "en": "Just as a late winter's moon appears pale, misty, and devoid of warmth or radiance at the end of the season, the mother's wan, pale face reflects the loss of youthful glow, chill, and approaching end of life.",
+        "hi": "जिस प्रकार देर सर्दियों का चाँद मौसम के अंत में धुंधला, पीला और ऊष्मा व चमक से रहित दिखाई देता है, उसी प्रकार माँ का मुरझाया पीला चेहरा युवा आभा के क्षय, ठंडक और जीवन के अंतिम पड़ाव को प्रतिबिंबित करता है।"
+      },
+      "key_takeaway": {
+        "en": "The simile 'as a late winter's moon' captures the mother's dim, pale frailty and the winter of her life.",
+        "hi": "'देर सर्दियों के चाँद जैसा' उपमा अलंकार माँ की मद्धम, पीली दुर्बलता और जीवन की संध्या को सटीकता से दर्शाता है।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Which poetic device is used in both 'her face ashen like that of a corpse' and 'wan, pale as a late winter's moon'?",
+        "hi": "'her face ashen like that of a corpse' और 'wan, pale as a late winter's moon'—इन दोनों पंक्तियों में किस काव्य अलंकार का प्रयोग हुआ है?"
+      },
+      "options": {
+        "a": {
+          "en": "Simile — explicit comparisons using 'like' and 'as'",
+          "hi": "उपमा अलंकार (Simile) — 'like' और 'as' शब्दों के प्रयोग से प्रत्यक्ष तुलना की गई है"
+        },
+        "b": {
+          "en": "Hyperbole — extreme exaggeration for comic effect",
+          "hi": "अतिशयोक्ति अलंकार (Hyperbole) — हास्य प्रभाव के लिए अत्यधिक बढ़ा-चढ़ाकर वर्णन"
+        },
+        "c": {
+          "en": "Onomatopoeia — words imitating natural sounds",
+          "hi": "ध्वन्यर्थव्यंजना (Onomatopoeia) — प्राकृतिक ध्वनियों की नकल करने वाले शब्द"
+        },
+        "d": {
+          "en": "Irony — stating the exact opposite of what is meant",
+          "hi": "व्यंग्य/विडंबना (Irony) — जो अभिप्रेत है उसके ठीक विपरीत कहना"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Look at the comparative connectors 'like' in the first phrase and 'as' in the second phrase.",
+        "hi": "पहले वाक्यांश में 'like' और दूसरे वाक्यांश में 'as' तुलनात्मक शब्दों पर ध्यान दीजिए।"
+      },
+      "explanation": {
+        "en": "Both expressions are similes: the first uses 'like' to compare the mother's ashen face to a corpse, and the second uses 'as' to compare her pale face to a late winter's moon.",
+        "hi": "दोनों अभिव्यक्तियों में उपमा अलंकार (Simile) है: पहले में 'like' का उपयोग करके माँ के राख जैसे चेहरे की तुलना शव से की गई है, और दूसरे में 'as' का उपयोग करके उनके पीले चेहरे की तुलना देर सर्दियों के चाँद से की गई है।"
+      },
+      "key_takeaway": {
+        "en": "Both comparisons use 'like' and 'as', making them classic examples of Simile.",
+        "hi": "दोनों तुलनाओं में 'like' और 'as' का प्रयोग होने के कारण ये उपमा अलंकार (Simile) के उत्कृष्ट उदाहरण हैं।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What happened at Cochin airport after the security check?",
+        "hi": "कोचीन हवाई अड्डे पर सुरक्षा जाँच (Security check) के बाद क्या हुआ?"
+      },
+      "options": {
+        "a": {
+          "en": "The poet cancelled her flight and returned home with her mother",
+          "hi": "कवयित्री ने अपनी उड़ान रद्द कर दी और अपनी माँ के साथ घर लौट गईं"
+        },
+        "b": {
+          "en": "Her mother boarded the plane alongside her",
+          "hi": "उनकी माँ भी उनके साथ विमान में सवार हो गईं"
+        },
+        "c": {
+          "en": "Standing a few yards away, the poet looked again at her mother's wan, pale face and felt her old familiar ache",
+          "hi": "कुछ गज की दूरी पर खड़ी होकर कवयित्री ने अपनी माँ के मुरझाए, पीले चेहरे को फिर से देखा और अपना पुराना चिर-परिचित दर्द महसूस किया"
+        },
+        "d": {
+          "en": "Airport officials asked her mother to wait outside the terminal",
+          "hi": "हवाई अड्डे के अधिकारियों ने उनकी माँ से टर्मिनल के बाहर इंतजार करने को कहा"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Separated by a short distance after the security check, the poet gazed back at her mother one last time before boarding.",
+        "hi": "सुरक्षा जाँच के बाद थोड़ी दूरी पर खड़ी होकर कवयित्री ने विमान में चढ़ने से पहले एक बार फिर अपनी माँ की ओर देखा।"
+      },
+      "explanation": {
+        "en": "After passing through the airport security check and standing a few yards away, Kamala Das looked back at her mother's wan, pale face, which reminded her of a late winter's moon and revived her childhood fear.",
+        "hi": "हवाई अड्डे की सुरक्षा जाँच से गुजरने के बाद कुछ गज दूर खड़ी कमला दास ने मुड़कर अपनी माँ के मुरझाए, पीले चेहरे को देखा, जिसने उन्हें देर सर्दियों के चाँद की याद दिलाई और उनके बचपन के भय को फिर से जगा दिया।"
+      },
+      "key_takeaway": {
+        "en": "Standing a few yards away after the security check, the poet looked again at her mother and felt the familiar pang of separation.",
+        "hi": "सुरक्षा जाँच के बाद कुछ गज दूर खड़ी होकर कवयित्री ने माँ को पुनः देखा और बिछड़ने की चिर-परिचित पीड़ा महसूस की।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "What was the poet's 'old familiar ache, my childhood's fear'?",
+        "hi": "कवयित्री का 'पुराना चिर-परिचित दर्द, मेरे बचपन का भय' (old familiar ache, my childhood's fear) क्या था?"
+      },
+      "options": {
+        "a": {
+          "en": "Fear of flying in an aeroplane during stormy weather",
+          "hi": "तूफानी मौसम में हवाई जहाज में उड़ने का डर"
+        },
+        "b": {
+          "en": "The deep-seated fear of separation from her mother and losing her permanently to death",
+          "hi": "अपनी माँ से बिछड़ने और मृत्यु के कारण उन्हें हमेशा के लिए खो देने का गहरा भय"
+        },
+        "c": {
+          "en": "Fear of getting lost in a crowded airport terminal",
+          "hi": "भीड़भाड़ वाले हवाई अड्डे के टर्मिनल में खो जाने का डर"
+        },
+        "d": {
+          "en": "Regret over forgetting to lock her parent's house",
+          "hi": "अपने माता-पिता के घर में ताला लगाना भूल जाने का पछतावा"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "As a child, even brief separation from a mother triggers anxiety; now, seeing her mother at sixty-six, that fear returns with adult reality.",
+        "hi": "बचपन में माँ से क्षणिक अलगाव भी बेचैनी पैदा करता है; अब छियासठ वर्ष की माँ को देखकर वही डर कठोर वास्तविकता के साथ लौट आया है।"
+      },
+      "explanation": {
+        "en": "The poet's 'old familiar ache' and 'childhood's fear' is the lifelong dread of losing her mother and being separated from her forever—a fear every child feels, now intensified by her mother's advanced age.",
+        "hi": "कवयित्री का 'पुराना चिर-परिचित दर्द' और 'बचपन का भय' अपनी माँ को खोने और उनसे हमेशा के लिए बिछड़ जाने की वह शाश्वत आशंका है जो हर बच्चे के मन में होती है, और अब माँ की वृद्धावस्था के कारण और गहरा गई है।"
+      },
+      "key_takeaway": {
+        "en": "The 'old familiar ache' is the universal childhood fear of losing one's mother, revived by her ageing fragility.",
+        "hi": "'पुराना चिर-परिचित दर्द' अपनी माँ को खो देने का सार्वभौमिक बचपन का भय है, जो उनकी बढ़ती उम्र को देखकर फिर जाग उठा।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What were the poet's parting words to her mother at the airport?",
+        "hi": "हवाई अड्डे पर अपनी माँ से विदा लेते समय कवयित्री के अंतिम शब्द क्या थे?"
+      },
+      "options": {
+        "a": {
+          "en": "\"Goodbye forever, Mother\"",
+          "hi": "\"हमेशा के लिए अलविदा, माँ\""
+        },
+        "b": {
+          "en": "\"Take your medicines on time\"",
+          "hi": "\"अपनी दवाइयाँ समय पर लेना\""
+        },
+        "c": {
+          "en": "\"Why do you look so pale today?\"",
+          "hi": "\"आज तुम इतनी पीली क्यों दिख रही हो?\""
+        },
+        "d": {
+          "en": "\"See you soon, Amma\"",
+          "hi": "\"जल्द ही फिर मिलेंगे, अम्मा (See you soon, Amma)\""
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Despite fearing she might never see her mother alive again, the poet chose hopeful, reassuring words.",
+        "hi": "इस आशंका के बावजूद कि शायद वह अपनी माँ को फिर जीवित न देख पाएँ, कवयित्री ने आशापूर्ण और आश्वस्त करने वाले शब्द कहे।"
+      },
+      "explanation": {
+        "en": "Hiding her inner grief and fear, Kamala Das parted with the reassuring, optimistic words, \"see you soon, Amma\"—expressing hope to meet her mother again.",
+        "hi": "अपने भीतर के दुःख और भय को छिपाते हुए कमला दास ने आश्वस्त करने वाले आशावादी शब्दों के साथ विदा ली, \"जल्द ही फिर मिलेंगे, अम्मा\"—जिसमें अपनी माँ से पुनः मिलने की कामना निहित थी।"
+      },
+      "key_takeaway": {
+        "en": "The parting words \"see you soon, Amma\" conceal the poet's anxiety behind a brave promise of reunion.",
+        "hi": "विदाई के शब्द \"जल्द ही फिर मिलेंगे, अम्मा\" पुनः मिलन के साहसी वादे के पीछे कवयित्री की चिंता को छिपाते हैं।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Why did the poet repeat the word 'smile' three times in the closing lines: \"all I did was smile and smile and smile......\"?",
+        "hi": "कविता की अंतिम पंक्तियों में कवयित्री ने 'smile' (मुस्कराना) शब्द को तीन बार क्यों दोहराया: \"all I did was smile and smile and smile......\"?"
+      },
+      "options": {
+        "a": {
+          "en": "To hide her deep sorrow and fear of losing her mother, reassure her mother with warmth, and put on a brave front despite inward pain",
+          "hi": "अपनी माँ को खोने के गहरे दुःख और भय को छिपाने, माँ को स्नेहपूर्ण आश्वासन देने तथा आंतरिक पीड़ा के बावजूद साहस दिखाने के लिए"
+        },
+        "b": {
+          "en": "Because she was overjoyed to leave her parent's home behind",
+          "hi": "क्योंकि वह अपने माता-पिता के घर को पीछे छोड़कर जाने से अत्यंत प्रसन्न थीं"
+        },
+        "c": {
+          "en": "Because a photographer at the airport was taking her picture",
+          "hi": "क्योंकि हवाई अड्डे पर एक फोटोग्राफर उनकी तस्वीर खींच रहा था"
+        },
+        "d": {
+          "en": "Because her mother had just told a humorous childhood joke",
+          "hi": "क्योंकि उनकी माँ ने अभी-अभी बचपन का एक मज़ेदार चुटकुला सुनाया था"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Repetition here emphasizes an emotional mask—smiling continuously so her tears would not betray her helplessness.",
+        "hi": "यहाँ पुनरावृत्ति एक भावनात्मक मुखौटे को दर्शाती है—लगातार मुस्कराना ताकि आँसू उनकी विवशता को उजागर न कर दें।"
+      },
+      "explanation": {
+        "en": "The repetition of 'smile' conveys a forced, brave facade: the poet had nothing else to offer against the inevitability of ageing and separation, so she kept smiling to comfort her mother and conceal her own tears.",
+        "hi": "'Smile' शब्द की पुनरावृत्ति एक साहसी और विवश मुस्कान को दर्शाती है: बुढ़ापे और बिछड़ने की अटल नियति के सामने कवयित्री के पास देने को और कुछ नहीं था, इसलिए उन्होंने अपनी माँ को ढांढस बँधाने और अपने आँसू छिपाने के लिए लगातार मुस्कराने का सहारा लिया।"
+      },
+      "key_takeaway": {
+        "en": "Repetition in \"smile and smile and smile\" highlights the poet's brave effort to mask grief and comfort her mother.",
+        "hi": "\"smile and smile and smile\" में पुनरावृत्ति दुःख को छिपाने और माँ को आश्वस्त करने के कवयित्री के साहसी प्रयास को दर्शाती है।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Which poetic device is employed in \"all I did was smile and smile and smile......\"?",
+        "hi": "\"all I did was smile and smile and smile......\" में किस काव्य अलंकार का प्रयोग हुआ है?"
+      },
+      "options": {
+        "a": {
+          "en": "Transferred Epithet",
+          "hi": "विशेषण विपर्यय (Transferred Epithet)"
+        },
+        "b": {
+          "en": "Repetition — repeating 'smile' to stress the prolonged, forced nature of her parting smile",
+          "hi": "पुनरावृत्ति अलंकार (Repetition) — विदाई की लंबी और विवश मुस्कान पर बल देने के लिए 'smile' शब्द दोहराया गया है"
+        },
+        "c": {
+          "en": "Paradox",
+          "hi": "विरोधाभास (Paradox)"
+        },
+        "d": {
+          "en": "Allusion",
+          "hi": "संकेत अलंकार (Allusion)"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The exact same word is repeated consecutively to intensify emotional depth.",
+        "hi": "भावनात्मक गहराई को तीव्र करने के लिए एक ही शब्द को लगातार दोहराया गया है।"
+      },
+      "explanation": {
+        "en": "The consecutive repetition of the word 'smile' is the poetic device of Repetition, underscoring the poet's sustained effort to suppress her anguish and reassure her mother.",
+        "hi": "'Smile' शब्द की निरंतर पुनरावृत्ति 'Repetition' (पुनरावृत्ति अलंकार) है, जो अपनी व्यथा को दबाने और माँ को आश्वस्त करने के कवयित्री के सतत प्रयास को रेखांकित करती है।"
+      },
+      "key_takeaway": {
+        "en": "Repetition of 'smile' deepens the emotional poignancy of the farewell.",
+        "hi": "'Smile' की पुनरावृत्ति विदाई के क्षण की भावनात्मक मार्मिकता को गहरा बनाती है।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What is distinctive about the poetic form and structure of 'My Mother at Sixty-Six'?",
+        "hi": "'माय मदर एट सिक्सटी-सिक्स' के काव्य रूप और संरचना की क्या विशेषता है?"
+      },
+      "options": {
+        "a": {
+          "en": "It is written in strict heroic couplets with an AABB rhyme scheme",
+          "hi": "यह AABB तुकबंदी योजना के साथ सख्त वीर दोहों (Heroic couplets) में लिखी गई है"
+        },
+        "b": {
+          "en": "It is a fourteen-line Shakespearean sonnet",
+          "hi": "यह चौदह पंक्तियों का शेक्सपियरियन सॉनेट है"
+        },
+        "c": {
+          "en": "It is written in free verse as a single continuous sentence punctuated only by commas and ellipses, reflecting an unbroken stream of thought",
+          "hi": "यह मुक्त छंद (Free verse) में एक ही निरंतर वाक्य के रूप में लिखी गई है जिसमें केवल अल्पविराम और लोप चिह्नों (Ellipses) का प्रयोग है, जो विचारों के अबाध प्रवाह को दर्शाता है"
+        },
+        "d": {
+          "en": "It is divided into five rhyming ballads with a chorus",
+          "hi": "यह कोरस के साथ पाँच तुकांत गाथागीतों में विभाजित है"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Notice there is no full stop anywhere in the poem—only commas and trailing dots at the very end.",
+        "hi": "ध्यान दीजिए कि पूरी कविता में कहीं भी पूर्ण विराम (Full stop) नहीं है—केवल अल्पविराम और अंत में बिंदु हैं।"
+      },
+      "explanation": {
+        "en": "'My Mother at Sixty-Six' is composed in free verse without a regular rhyme scheme and flows as a single unbroken sentence separated by commas, mirroring the continuous, breathless rush of the poet's emotions.",
+        "hi": "'माय मदर एट सिक्सटी-सिक्स' बिना किसी नियमित तुकबंदी के मुक्त छंद (Free verse) में रची गई है और अल्पविरामों से जुड़े एक ही अखंड वाक्य के रूप में प्रवाहित होती है, जो कवयित्री की भावनाओं के निरंतर प्रवाह को प्रतिबिंबित करती है।"
+      },
+      "key_takeaway": {
+        "en": "Written in free verse as one continuous sentence, the poem's form mirrors the poet's uninterrupted stream of emotion.",
+        "hi": "मुक्त छंद में एक ही निरंतर वाक्य के रूप में लिखी गई इस कविता की संरचना कवयित्री की भावनाओं के अबाध प्रवाह को दर्शाती है।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What does the word 'wan' mean in the line \"I looked again at her, wan, pale as a late winter's moon\"?",
+        "hi": "पंक्ति \"I looked again at her, wan, pale as a late winter's moon\" में शब्द 'wan' का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {
+          "en": "Dim, colourless, weak, and exhausted",
+          "hi": "मुरझाया हुआ, कांतिहीन, पीला और थका हुआ"
+        },
+        "b": {
+          "en": "Rosy, glowing, and full of youthful warmth",
+          "hi": "गुलाबी, दमकता हुआ और युवा ऊष्मा से भरपूर"
+        },
+        "c": {
+          "en": "Furious and flushed with anger",
+          "hi": "क्रोध से तमतमाया हुआ"
+        },
+        "d": {
+          "en": "Radiant like the midday summer sun",
+          "hi": "दोपहर के ग्रीष्मकालीन सूर्य जैसा तेजस्वी"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Paired right next to 'pale', it reinforces the loss of blood, warmth, and vitality in her mother's face.",
+        "hi": "'Pale' (पीला) के ठीक साथ प्रयुक्त होकर यह माँ के चेहरे की चमक, ऊष्मा और जीवंतता की कमी को दर्शाता है।"
+      },
+      "explanation": {
+        "en": "'Wan' means unnaturally pale, dim, colourless, and lacking vitality—emphasizing the physical frailty of the poet's ageing mother.",
+        "hi": "'Wan' का अर्थ है अस्वाभाविक रूप से पीला, मद्धम, कांतिहीन और निष्प्राण—जो कवयित्री की वृद्ध माँ की शारीरिक दुर्बलता को उजागर करता है।"
+      },
+      "key_takeaway": {
+        "en": "'Wan' means pale, dim, and lacking vitality, highlighting the mother's frailty.",
+        "hi": "'Wan' का अर्थ पीला, मुरझाया और कांतिहीन है, जो माँ की दुर्बलता को दर्शाता है।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What does the word 'ashen' signify in \"her face ashen like that of a corpse\"?",
+        "hi": "\"her face ashen like that of a corpse\" में शब्द 'ashen' क्या दर्शाता है?"
+      },
+      "options": {
+        "a": {
+          "en": "Covered in dust from the unpaved highway",
+          "hi": "कच्ची सड़क की धूल से ढका हुआ"
+        },
+        "b": {
+          "en": "Tanned dark brown from working under the sun",
+          "hi": "धूप में काम करने से गहरा भूरा पड़ा हुआ"
+        },
+        "c": {
+          "en": "Blushing softly with happiness",
+          "hi": "खुशी से हल्का लालिमा लिए हुए"
+        },
+        "d": {
+          "en": "Deathly pale and grey like ash, devoid of life and colour",
+          "hi": "राख के समान मृतवत् पीला और धूसर, जीवन व रंग से रहित"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Derived from 'ash', it evokes both the grey colour of ashes and the finality of death.",
+        "hi": "'Ash' (राख) से बना यह शब्द राख के धूसर रंग और मृत्यु की अटलता दोनों का बोध कराता है।"
+      },
+      "explanation": {
+        "en": "'Ashen' means pale grey like ash, suggesting a lifeless, deathlike pallor that shocks the poet into realizing her mother's mortality.",
+        "hi": "'Ashen' का अर्थ है राख के समान पीला-धूसर, जो निष्प्राण और मृतवत् पीलेपन का संकेत देता है और कवयित्री को अपनी माँ की नश्वरता का झकझोर देने वाला एहसास कराता है।"
+      },
+      "key_takeaway": {
+        "en": "'Ashen' conveys a grey, lifeless pallor resembling ash, underscoring the theme of mortality.",
+        "hi": "'Ashen' राख जैसे धूसर और निष्प्राण पीलेपन को व्यक्त करता है, जो नश्वरता के भाव को गहरा करता है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Which sound device is present in \"said was, see you soon\"?",
+        "hi": "\"said was, see you soon\" में कौन-सा ध्वनि अलंकार विद्यमान है?"
+      },
+      "options": {
+        "a": {
+          "en": "Onomatopoeia",
+          "hi": "ध्वन्यर्थव्यंजना (Onomatopoeia)"
+        },
+        "b": {
+          "en": "Alliteration — repetition of the initial consonant 's' sound in 'said', 'see', and 'soon'",
+          "hi": "अनुप्रास अलंकार (Alliteration) — 'said', 'see' और 'soon' में आरंभिक व्यंजन ध्वनि 's' की पुनरावृत्ति"
+        },
+        "c": {
+          "en": "Apostrophe",
+          "hi": "संबोधन अलंकार (Apostrophe)"
+        },
+        "d": {
+          "en": "Synecdoche",
+          "hi": "उपलक्षणा (Synecdoche)"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Listen to the soft 's' consonant sound repeating across 'said', 'see', and 'soon'.",
+        "hi": "'said', 'see' और 'soon' में दोहराई जाने वाली कोमल 's' व्यंजन ध्वनि पर ध्यान दीजिए।"
+      },
+      "explanation": {
+        "en": "The repetition of the initial 's' consonant sound in 'said', 'see', and 'soon' is an example of alliteration, creating a soft, soothing cadence at the moment of farewell.",
+        "hi": "'said', 'see' और 'soon' में आरंभिक 's' व्यंजन ध्वनि की पुनरावृत्ति अनुप्रास अलंकार (Alliteration) का उदाहरण है, जो विदाई के क्षण को कोमल और भावपूर्ण लय प्रदान करती है।"
+      },
+      "key_takeaway": {
+        "en": "Repetition of the 's' sound in 'said... see you soon' exemplifies alliteration.",
+        "hi": "'said... see you soon' में 's' ध्वनि की पुनरावृत्ति अनुप्रास अलंकार (Alliteration) का उदाहरण है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What is the overall tone and mood of 'My Mother at Sixty-Six'?",
+        "hi": "'माय मदर एट सिक्सटी-सिक्स' का समग्र स्वर (Tone) और भाव (Mood) कैसा है?"
+      },
+      "options": {
+        "a": {
+          "en": "Sarcastic, bitter, and rebellious",
+          "hi": "व्यंग्यात्मक, कटु और विद्रोही"
+        },
+        "b": {
+          "en": "Humorous, lighthearted, and celebratory",
+          "hi": "हास्यपूर्ण, हल्का-फुल्का और उत्सवमय"
+        },
+        "c": {
+          "en": "Poignant, melancholic, tender, and bittersweet—blending filial love with quiet grief over ageing and separation",
+          "hi": "मार्मिक, विषादपूर्ण, कोमल और खट्टा-मीठा—जिसमें मातृ-स्नेह के साथ वृद्धावस्था और बिछड़ने की मौन पीड़ा घुली हुई है"
+        },
+        "d": {
+          "en": "Detached, cold, and purely analytical",
+          "hi": "अनासक्त, भावशून्य और विशुद्ध रूप से विश्लेषणात्मक"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "The poem balances deep affection for 'Amma' with the quiet pain of accepting human mortality.",
+        "hi": "यह कविता 'अम्मा' के प्रति गहरे स्नेह और मानव नश्वरता को स्वीकार करने की मौन पीड़ा के बीच संतुलन बनाती है।"
+      },
+      "explanation": {
+        "en": "The poem's tone is deeply poignant, tender, and melancholic—capturing a daughter's loving concern, helplessness before time, and bittersweet farewell.",
+        "hi": "कविता का स्वर अत्यंत मार्मिक, कोमल और विषादपूर्ण है—जो समय के सामने एक बेटी की स्नेहिल चिंता, विवशता और भावुक विदाई को व्यक्त करता है।"
+      },
+      "key_takeaway": {
+        "en": "The tone is tender and melancholic, reflecting loving attachment alongside sorrow over ageing.",
+        "hi": "कविता का स्वर कोमल और विषादपूर्ण है, जो वृद्धावस्था के दुःख के साथ गहरे मातृ-स्नेह को दर्शाता है।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What does the poet's realization \"that she was as old as she looked\" reveal about human psychology?",
+        "hi": "कवयित्री का यह बोध कि \"वह उतनी ही बूढ़ी हो चुकी थीं जितनी दिख रही थीं\" मानव मनोविज्ञान के बारे में क्या प्रकट करता है?"
+      },
+      "options": {
+        "a": {
+          "en": "We often avoid acknowledging our parents' ageing until a sudden moment forces us to confront reality",
+          "hi": "हम अक्सर अपने माता-पिता की बढ़ती उम्र को स्वीकार करने से बचते हैं, जब तक कि कोई अचानक क्षण हमें वास्तविकता का सामना करने पर विवश न कर दे"
+        },
+        "b": {
+          "en": "Children always keep an exact record of their parents' medical age",
+          "hi": "बच्चे सदैव अपने माता-पिता की चिकित्सकीय आयु का सटीक हिसाब रखते हैं"
+        },
+        "c": {
+          "en": "People stop ageing once they cross sixty years of age",
+          "hi": "साठ वर्ष की आयु पार करने के बाद लोगों की उम्र बढ़ना रुक जाती है"
+        },
+        "d": {
+          "en": "Physical appearance never reflects a person's true age",
+          "hi": "शारीरिक रूप-रंग कभी भी व्यक्ति की वास्तविक आयु को नहीं दर्शाता"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Out of love and denial, we tend to picture our parents as ageless protectors until frailty becomes unmistakable.",
+        "hi": "प्रेम और अस्वीकार के कारण हम अपने माता-पिता को सदा अजेय संरक्षक मानते रहते हैं, जब तक कि उनकी दुर्बलता स्पष्ट न दिखने लगे।"
+      },
+      "explanation": {
+        "en": "Children subconsciously resist seeing their parents grow old and vulnerable; seeing her mother's corpse-like face forced Kamala Das to confront the painful truth of her mother's advancing age.",
+        "hi": "बच्चे अवचेतन रूप से अपने माता-पिता को बूढ़ा और असहाय होते देखने से बचते हैं; अपनी माँ के शव जैसे पीले चेहरे को देखकर कमला दास को उनकी बढ़ती उम्र के कटु सत्य का सामना करना पड़ा।"
+      },
+      "key_takeaway": {
+        "en": "Love often shields us from seeing parents age until an unguarded moment brings reality into sharp focus.",
+        "hi": "स्नेह अक्सर हमें माता-पिता की बढ़ती उम्र देखने से बचाए रखता है, जब तक कि कोई सहज क्षण वास्तविकता को सामने न ला दे।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "What is the significance of the ellipsis (\"smile......\") at the very end of the poem?",
+        "hi": "कविता के बिल्कुल अंत में प्रयुक्त लोप चिह्न या बिंदुओं (\"smile......\") का क्या महत्व है?"
+      },
+      "options": {
+        "a": {
+          "en": "It indicates a printing error in the original manuscript",
+          "hi": "यह मूल पांडुलिपि में छपाई की त्रुटि को दर्शाता है"
+        },
+        "b": {
+          "en": "It signals that the poet fell asleep on the aeroplane",
+          "hi": "यह संकेत देता है कि कवयित्री हवाई जहाज में सो गईं"
+        },
+        "c": {
+          "en": "It shows that the poet forgot what she wanted to say next",
+          "hi": "यह दर्शाता है कि कवयित्री भूल गईं कि वे आगे क्या कहना चाहती थीं"
+        },
+        "d": {
+          "en": "It leaves the poem open-ended, suggesting lingering unspoken emotions, continuing anxiety, and uncertainty about whether she will see her mother again",
+          "hi": "यह कविता को खुला छोड़ता है, जो अनकही भावनाओं, निरंतर चिंता और इस अनिश्चितता को दर्शाता है कि क्या वह अपनी माँ को फिर देख पाएँगी"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Instead of a definitive full stop, trailing dots echo an unresolved ache that stays with the poet after departure.",
+        "hi": "निश्चित पूर्ण विराम के बजाय ये बिंदु एक अनसुलझी टीस को प्रतिध्वनित करते हैं जो विदाई के बाद भी कवयित्री के साथ बनी रहती है।"
+      },
+      "explanation": {
+        "en": "The trailing dots (ellipsis) at the end of \"smile and smile and smile......\" leave the emotional experience unresolved, echoing the poet's lingering ache, unspoken words, and fear of what the future holds.",
+        "hi": "\"smile and smile and smile......\" के अंत में लगे बिंदु भावनात्मक अनुभव को अनसुलझा छोड़ते हैं, जो कवयित्री की शेष रह गई पीड़ा, अनकहे शब्दों और भविष्य की आशंका को प्रतिध्वनित करते हैं।"
+      },
+      "key_takeaway": {
+        "en": "The final ellipsis leaves the poem open-ended, echoing lingering grief and uncertainty.",
+        "hi": "अंतिम लोप चिह्न (Ellipsis) कविता को खुला छोड़ता है, जो शेष रह गई पीड़ा और अनिश्चितता को दर्शाता है।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Which pair of images in the poem best represents the cycle of life (youth versus old age)?",
+        "hi": "कविता में बिंबों (Images) का कौन-सा युग्म जीवन चक्र (यौवन बनाम वृद्धावस्था) का सर्वश्रेष्ठ प्रतिनिधित्व करता है?"
+      },
+      "options": {
+        "a": {
+          "en": "Airport security check versus boarding pass",
+          "hi": "हवाई अड्डे की सुरक्षा जाँच बनाम बोर्डिंग पास"
+        },
+        "b": {
+          "en": "Car headlights versus street lamps",
+          "hi": "कार की हेडलाइट्स बनाम सड़क की बत्तियाँ"
+        },
+        "c": {
+          "en": "Friday morning versus Sunday evening",
+          "hi": "शुक्रवार की सुबह बनाम रविवार की शाम"
+        },
+        "d": {
+          "en": "'Young Trees sprinting' & 'merry children spilling' versus 'ashen like that of a corpse' & 'late winter's moon'",
+          "hi": "'तेज़ी से दौड़ते युवा पेड़' व 'उमड़ते प्रसन्न बच्चे' बनाम 'शव जैसा पीला चेहरा' व 'देर सर्दियों का चाँद'"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Match the vibrant external imagery of growth with the pale internal imagery of ageing.",
+        "hi": "विकास के जीवंत बाहरी बिंबों का मिलान वृद्धावस्था के पीले आंतरिक बिंबों से कीजिए।"
+      },
+      "explanation": {
+        "en": "The dynamic images of sprinting young trees and merry children represent youth and growth, while the corpse-like ashen face and late winter's moon represent ageing and decline.",
+        "hi": "तेज़ी से दौड़ते युवा पेड़ों और प्रसन्न बच्चों के गतिशील बिंब यौवन व विकास का प्रतिनिधित्व करते हैं, जबकि शव जैसा पीला चेहरा और देर सर्दियों का चाँद वृद्धावस्था व अवसान को दर्शाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Contrasting images of sprinting trees/merry children with the corpse/winter's moon encapsulate the human life cycle.",
+        "hi": "दौड़ते पेड़ों/प्रसन्न बच्चों और शव/सर्दियों के चाँद के विरोधाभासी बिंब मानव जीवन चक्र को समेटते हैं।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "How does Kamala Das demonstrate emotional maturity and filial duty in the poem?",
+        "hi": "कविता में कमला दास अपनी भावनात्मक परिपक्वता और संतानोचित कर्तव्य (Filial duty) का परिचय कैसे देती हैं?"
+      },
+      "options": {
+        "a": {
+          "en": "By scolding her mother for falling asleep in the car",
+          "hi": "कार में सो जाने के लिए अपनी माँ को डाँटकर"
+        },
+        "b": {
+          "en": "By complaining aloud to the airport staff about her worries",
+          "hi": "हवाई अड्डे के कर्मचारियों से अपनी चिंताओं की जोर-जोर से शिकायत करके"
+        },
+        "c": {
+          "en": "By refusing to look back at her mother after entering the airport",
+          "hi": "हवाई अड्डे में प्रवेश करने के बाद अपनी माँ की ओर मुड़कर देखने से इनकार करके"
+        },
+        "d": {
+          "en": "By suppressing her own tears and fear of separation so she can bid farewell with comforting words and a warm smile",
+          "hi": "अपने आँसू और बिछड़ने के भय को दबाकर, ताकि वह सांत्वना देने वाले शब्दों और स्नेहपूर्ण मुस्कान के साथ विदा ले सकें"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Instead of burdening her frail mother with her own grief, the poet offers courage and hope.",
+        "hi": "अपनी दुर्बल माँ पर अपने दुःख का बोझ डालने के बजाय कवयित्री उन्हें साहस और आशा प्रदान करती हैं।"
+      },
+      "explanation": {
+        "en": "Rather than breaking down and frightening her elderly mother, Kamala Das controls her anguish, says \"see you soon, Amma\", and keeps smiling—showing selfless love and emotional strength.",
+        "hi": "रोकर अपनी वृद्ध माँ को भयभीत करने के बजाय कमला दास अपनी व्यथा को नियंत्रित करती हैं, \"जल्द ही फिर मिलेंगे, अम्मा\" कहती हैं और लगातार मुस्कराती रहती हैं—जो निस्वार्थ प्रेम और भावनात्मक दृढ़ता को दर्शाता है।"
+      },
+      "key_takeaway": {
+        "en": "Concealing personal sorrow behind a reassuring smile reflects mature, selfless filial love.",
+        "hi": "आश्वस्त करने वाली मुस्कान के पीछे व्यक्तिगत दुःख को छिपाना परिपक्व और निस्वार्थ मातृ-प्रेम को दर्शाता है।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "What is the central theme of Kamala Das's poem 'My Mother at Sixty-Six'?",
+        "hi": "कमला दास की कविता 'माय मदर एट सिक्सटी-सिक्स' का केंद्रीय विषय (Central theme) क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "The excitement of modern air travel and busy airports",
+          "hi": "आधुनिक हवाई यात्रा और व्यस्त हवाई अड्डों का रोमांच"
+        },
+        "b": {
+          "en": "The inevitability of ageing and human mortality, the pain of separation from aging parents, and the enduring bond of love that endures despite helplessness against time",
+          "hi": "वृद्धावस्था और मानव नश्वरता की अटलता, वृद्ध माता-पिता से बिछड़ने की पीड़ा, तथा समय के सामने विवशता के बावजूद बना रहने वाला अटूट प्रेम-बंधन"
+        },
+        "c": {
+          "en": "Environmental conservation of forests in Kerala",
+          "hi": "केरल के जंगलों का पर्यावरण संरक्षण"
+        },
+        "d": {
+          "en": "A critique of childhood education in rural India",
+          "hi": "ग्रामीण भारत में बचपन की शिक्षा की आलोचना"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Bring together the inevitability of old age, the daughter's fear of loss, and her brave parting smile.",
+        "hi": "वृद्धावस्था की अटलता, बेटी के खोने के भय और उसकी साहसी विदाई मुस्कान को एक साथ जोड़िए।"
+      },
+      "explanation": {
+        "en": "'My Mother at Sixty-Six' explores the universal truth that ageing and death are inescapable parts of life, portraying a daughter's tender love and quiet courage as she confronts the fear of losing her ageing mother.",
+        "hi": "'माय मदर एट सिक्सटी-सिक्स' इस सार्वभौमिक सत्य को उजागर करती है कि वृद्धावस्था और मृत्यु जीवन के अटल सत्य हैं, और अपनी वृद्ध माँ को खोने के भय का सामना करती एक बेटी के कोमल प्रेम व मौन साहस को चित्रित करती है।"
+      },
+      "key_takeaway": {
+        "en": "Ageing and separation are inevitable laws of nature, met only with tender love, acceptance, and quiet courage.",
+        "hi": "वृद्धावस्था और बिछड़ना प्रकृति के अटल नियम हैं, जिनका सामना केवल कोमल प्रेम, स्वीकृति और मौन साहस से किया जा सकता है।"
+      }
+    }
+  ]
+}
