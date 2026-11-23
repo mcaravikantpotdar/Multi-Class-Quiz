@@ -1,0 +1,935 @@
+{
+  "metadata": {
+    "chapter_number": 1,
+    "chapter_title": "Chemical Reactions and Equations",
+    "chapter_title_hindi": "रासायनिक अभिक्रियाएँ एवं समीकरण",
+    "subject": "Science",
+    "target_class": "Class X",
+    "total_questions": 24,
+    "question_range": "Q1 to Q24",
+    "source_language": "hi",
+    "target_language": "en",
+    "version": "1.0",
+    "note": "Complete 24-question bilingual MCQ bank for NCERT/HPBOSE Class 10 Science Chapter 1 (रासायनिक अभिक्रियाएँ एवं समीकरण / Chemical Reactions and Equations) tailored for Hindi-medium learners with clear English counterparts. Pure Unicode, zero trailing commas, zero citation tags, balanced options (6 A, 6 B, 6 C, 6 D)."
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "Science Curriculum & JSON Schema Validator",
+    "corrections": [],
+    "notes": "Verified all 24 questions across physical/chemical changes, indicators of chemical reactions, balancing equations, law of conservation of mass, combination, thermal/photolytic/electrolytic decomposition, displacement, double displacement/precipitation, oxidation-reduction (redox), corrosion, and rancidity. Options balanced to 6 A, 6 B, 6 C, and 6 D."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "hi": "मैग्नीशियम रिबन को वायु में जलाने से पहले रेगमाल (Sandpaper) से साफ़ क्यों किया जाता है?",
+        "en": "Why is a magnesium ribbon cleaned with sandpaper before burning it in air?"
+      },
+      "options": {
+        "a": {
+          "hi": "इसे अधिक चमकीला और मुलायम बनाने के लिए",
+          "en": "To make it shinier and softer"
+        },
+        "b": {
+          "hi": "इसकी सतह पर जमी मैग्नीशियम ऑक्साइड की परत को हटाने के लिए ताकि यह आसानी से जल सके",
+          "en": "To remove the layer of magnesium oxide deposited on its surface so it burns easily"
+        },
+        "c": {
+          "hi": "इसमें नमी की मात्रा बढ़ाने के लिए",
+          "en": "To increase its moisture content"
+        },
+        "d": {
+          "hi": "इसे पानी में घुलनशील बनाने के लिए",
+          "en": "To make it soluble in water"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "खुली वायु में रहने पर मैग्नीशियम ऑक्सीजन से क्रिया करके एक सुरक्षात्मक परत बना लेता है जो दहन में बाधा डालती है।",
+        "en": "When exposed to air, magnesium reacts with oxygen to form a surface layer that slows down burning."
+      },
+      "explanation": {
+        "hi": "वायु में खुला छोड़ने पर मैग्नीशियम की सतह पर मैग्नीशियम ऑक्साइड (MgO) की परत जम जाती है। रेगमाल से रगड़कर इस परत को हटाने से मैग्नीशियम का वायु की ऑक्सीजन के साथ सीधा संपर्क होता है और वह चमकदार श्वेत लौ के साथ जलता है।",
+        "en": "Magnesium forms a layer of magnesium oxide (MgO) on its surface when exposed to air. Rubbing with sandpaper removes this layer so magnesium reacts directly with oxygen and burns with a dazzling white flame."
+      },
+      "key_takeaway": {
+        "hi": "दहन से पहले मैग्नीशियम ऑक्साइड की परत हटाने के लिए रिबन को रेगमाल से साफ़ किया जाता है।",
+        "en": "Magnesium ribbon is rubbed with sandpaper to remove the surface layer of magnesium oxide before burning."
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "hi": "निम्नलिखित में से कौन-सा प्रेक्षण यह निर्धारित करने में सहायता करता है कि कोई रासायनिक अभिक्रिया हुई है?",
+        "en": "Which of the following observations helps determine that a chemical reaction has taken place?"
+      },
+      "options": {
+        "a": {
+          "hi": "केवल पदार्थ के आकार को कैंची से काटना",
+          "en": "Only cutting a substance into smaller pieces with scissors"
+        },
+        "b": {
+          "hi": "केवल बर्तन का स्थान बदलना",
+          "en": "Only changing the position of the container"
+        },
+        "c": {
+          "hi": "अवस्था में परिवर्तन, रंग में परिवर्तन, गैस का निकास या तापमान में परिवर्तन",
+          "en": "Change in state, change in colour, evolution of a gas, or change in temperature"
+        },
+        "d": {
+          "hi": "केवल ठोस का छोटे कणों में पीसना",
+          "en": "Only grinding a solid into fine powder"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "NCERT कक्षा 10 अध्याय 1 के क्रियाकलापों (1.1 से 1.3) में देखे गए चारों मुख्य संकेतों को याद कीजिए।",
+        "en": "Recall the four key indicators observed across Activities 1.1 to 1.3 in NCERT Class 10 Chapter 1."
+      },
+      "explanation": {
+        "hi": "किसी रासायनिक अभिक्रिया के होने की पहचान चार मुख्य प्रेक्षणों से की जा सकती है: अवस्था में परिवर्तन, रंग में परिवर्तन, गैस का उत्सर्जन तथा तापमान में परिवर्तन।",
+        "en": "A chemical reaction can be identified by four main observations: change in state, change in colour, evolution of a gas, and change in temperature."
+      },
+      "key_takeaway": {
+        "hi": "अवस्था, रंग, गैस उत्सर्जन या तापमान में बदलाव रासायनिक अभिक्रिया के प्रमुख संकेत हैं।",
+        "en": "Changes in state, colour, temperature, or gas evolution indicate a chemical reaction."
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "hi": "जब दानेदार जस्ते (Zinc) पर तनु सल्फ्यूरिक अम्ल या हाइड्रोक्लोरिक अम्ल डाला जाता है, तो कौन-सी गैस निकलती है?",
+        "en": "Which gas is evolved when dilute sulphuric acid or hydrochloric acid is poured over zinc granules?"
+      },
+      "options": {
+        "a": {
+          "hi": "हाइड्रोजन गैस (H₂)",
+          "en": "Hydrogen gas (H₂)"
+        },
+        "b": {
+          "hi": "ऑक्सीजन गैस (O₂)",
+          "en": "Oxygen gas (O₂)"
+        },
+        "c": {
+          "hi": "नाइट्रोजन गैस (N₂)",
+          "en": "Nitrogen gas (N₂)"
+        },
+        "d": {
+          "hi": "क्लोरीन गैस (Cl₂)",
+          "en": "Chlorine gas (Cl₂)"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "यह गैस जलती हुई मोमबत्ती पास ले जाने पर 'पॉप' (Pop) की ध्वनि के साथ जलती है।",
+        "en": "This gas burns with a characteristic 'pop' sound when a burning candle is brought near it."
+      },
+      "explanation": {
+        "hi": "दानेदार जिंक तनु सल्फ्यूरिक अम्ल से अभिक्रिया करके जिंक सल्फेट और हाइड्रोजन गैस (Zn + H₂SO₄ → ZnSO₄ + H₂) बनाता है। साथ ही फ्लास्क गर्म हो जाता है, जो ऊष्माक्षेपी अभिक्रिया को दर्शाता है।",
+        "en": "Zinc granules react with dilute sulphuric acid to form zinc sulphate and hydrogen gas (Zn + H₂SO₄ → ZnSO₄ + H₂), accompanied by a rise in temperature."
+      },
+      "key_takeaway": {
+        "hi": "जिंक और तनु अम्ल की अभिक्रिया से हाइड्रोजन गैस मुक्त होती है।",
+        "en": "Reaction of zinc with dilute acid releases hydrogen gas."
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "hi": "कंकाली रासायनिक समीकरण (Skeletal chemical equation) किसे कहते हैं?",
+        "en": "What is a skeletal chemical equation?"
+      },
+      "options": {
+        "a": {
+          "hi": "वह समीकरण जिसमें केवल शब्दों का उपयोग होता है",
+          "en": "An equation written only in words"
+        },
+        "b": {
+          "hi": "वह समीकरण जिसमें केवल उत्पाद लिखे जाते हैं",
+          "en": "An equation that lists only products"
+        },
+        "c": {
+          "hi": "वह समीकरण जिसमें केवल गैसीय पदार्थ होते हैं",
+          "en": "An equation containing only gaseous substances"
+        },
+        "d": {
+          "hi": "वह असंतुलित रासायनिक समीकरण जिसमें तीर के दोनों ओर तत्वों के परमाणुओं की संख्या समान नहीं होती",
+          "en": "An unbalanced chemical equation in which the number of atoms of elements on both sides of the arrow is unequal"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "उदाहरण के लिए Mg + O₂ → MgO में बाईं ओर ऑक्सीजन के 2 परमाणु हैं और दाईं ओर केवल 1 है।",
+        "en": "For example, in Mg + O₂ → MgO, there are 2 oxygen atoms on the left and only 1 on the right."
+      },
+      "explanation": {
+        "hi": "जब किसी रासायनिक समीकरण में अभिकारकों और उत्पादों के प्रत्येक तत्व के परमाणुओं की संख्या समान नहीं होती, तो ऐसे असंतुलित समीकरण को कंकाली रासायनिक समीकरण (Skeletal chemical equation) कहते हैं।",
+        "en": "When the number of atoms of each element on the reactant and product sides of a chemical equation is not equal, the unbalanced equation is called a skeletal chemical equation."
+      },
+      "key_takeaway": {
+        "hi": "असंतुलित रासायनिक समीकरण को कंकाली समीकरण कहते हैं।",
+        "en": "An unbalanced chemical equation is known as a skeletal chemical equation."
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "hi": "किसी रासायनिक समीकरण को संतुलित करना क्यों आवश्यक है?",
+        "en": "Why is it necessary to balance a chemical equation?"
+      },
+      "options": {
+        "a": {
+          "hi": "ऊर्जा संरक्षण के नियम को सिद्ध करने के लिए",
+          "en": "To prove the law of conservation of energy"
+        },
+        "b": {
+          "hi": "द्रव्यमान संरक्षण के नियम का पालन करने के लिए, जिसके अनुसार किसी अभिक्रिया में द्रव्यमान का न तो निर्माण होता है और न ही विनाश",
+          "en": "To obey the law of conservation of mass, which states that mass can neither be created nor destroyed in a chemical reaction"
+        },
+        "c": {
+          "hi": "अभिक्रिया की गति को दोगुना करने के लिए",
+          "en": "To double the speed of the reaction"
+        },
+        "d": {
+          "hi": "उत्पादों का रंग बदलने के लिए",
+          "en": "To change the colour of the products"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "आपने कक्षा 9 में द्रव्यमान संरक्षण के नियम के बारे में पढ़ा है—अभिकारकों का कुल द्रव्यमान उत्पादों के कुल द्रव्यमान के बराबर होना चाहिए।",
+        "en": "Recall the law studied in Class 9: total mass of reactants must equal total mass of products."
+      },
+      "explanation": {
+        "hi": "द्रव्यमान संरक्षण के नियम के अनुसार किसी भी रासायनिक अभिक्रिया में द्रव्यमान का न तो सृजन होता है और न ही विनाश। इसलिए तीर के दोनों ओर प्रत्येक तत्व के परमाणुओं की संख्या समान रखना आवश्यक है।",
+        "en": "According to the law of conservation of mass, matter is neither created nor destroyed in a chemical reaction, so the number of atoms of each element must remain equal on both sides."
+      },
+      "key_takeaway": {
+        "hi": "द्रव्यमान संरक्षण के नियम की पूर्ति हेतु रासायनिक समीकरण संतुलित किए जाते हैं।",
+        "en": "Chemical equations are balanced to satisfy the law of conservation of mass."
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "hi": "संतुलित रासायनिक समीकरण: 3Fe(s) + 4H₂O(g) → Fe₃O₄(s) + 4H₂(g) में प्रतीक '(g)' क्या दर्शाता है?",
+        "en": "In the balanced chemical equation 3Fe(s) + 4H₂O(g) → Fe₃O₄(s) + 4H₂(g), what does the symbol '(g)' represent?"
+      },
+      "options": {
+        "a": {
+          "hi": "यह दर्शाता है कि जल का उपयोग भाप (गैसीय अवस्था) के रूप में किया गया है",
+          "en": "It indicates that water is used in the form of steam (gaseous state)"
+        },
+        "b": {
+          "hi": "यह दर्शाता है कि लोहा ठंडे जल में घुला हुआ है",
+          "en": "It indicates that iron is dissolved in cold water"
+        },
+        "c": {
+          "hi": "यह अभिक्रिया का भार ग्राम (gram) में बताता है",
+          "en": "It gives the weight of the reaction in grams"
+        },
+        "d": {
+          "hi": "यह उत्प्रेरक की उपस्थिति दर्शाता है",
+          "en": "It indicates the presence of a catalyst"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "भौतिक अवस्थाओं के प्रतीकों में (s) ठोस, (l) द्रव, (aq) जलीय विलयन और (g) गैस को दर्शाता है।",
+        "en": "Among physical state symbols, (s) stands for solid, (l) for liquid, (aq) for aqueous, and (g) for gas."
+      },
+      "explanation": {
+        "hi": "समीकरण को अधिक सूचनात्मक बनाने के लिए भौतिक अवस्थाएँ लिखी जाती हैं। यहाँ H₂O के साथ (g) का अर्थ है कि इस अभिक्रिया में जल का उपयोग भाप (Steam) के रूप में किया गया है।",
+        "en": "Physical state symbols make equations more informative. Writing (g) with H₂O shows that water reacts in the form of steam."
+      },
+      "key_takeaway": {
+        "hi": "H₂O(g) यह बताता है कि अभिक्रिया में जल भाप के रूप में प्रयुक्त हुआ है।",
+        "en": "H₂O(g) signifies that water is used as steam in the reaction."
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "hi": "रासायनिक समीकरणों को संतुलित करने की सामान्य विधि क्या कहलाती है?",
+        "en": "What is the standard method used to balance chemical equations called?"
+      },
+      "options": {
+        "a": {
+          "hi": "विद्युत अपघटन विधि (Electrolysis method)",
+          "en": "Electrolysis method"
+        },
+        "b": {
+          "hi": "आसवन विधि (Distillation method)",
+          "en": "Distillation method"
+        },
+        "c": {
+          "hi": "हिट एंड ट्रायल विधि (Hit-and-trial method)",
+          "en": "Hit-and-trial method"
+        },
+        "d": {
+          "hi": "क्रोमैटोग्राफी विधि (Chromatography method)",
+          "en": "Chromatography method"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "इस विधि में सबसे छोटी पूर्णांक संख्या के गुणांक का उपयोग करके परमाणुओं की संख्या बराबर की जाती है।",
+        "en": "In this method, whole-number coefficients are adjusted step by step until atoms on both sides match."
+      },
+      "explanation": {
+        "hi": "रासायनिक समीकरणों को संतुलित करने की इस विधि को हिट एंड ट्रायल विधि (Hit-and-trial method) कहते हैं, क्योंकि सबसे छोटी पूर्णांक संख्या के गुणांक का उपयोग करके समीकरण को संतुलित करने का प्रयत्न किया जाता है।",
+        "en": "This balancing technique is called the hit-and-trial method because we make trials to balance the equation using the smallest whole-number coefficients."
+      },
+      "key_takeaway": {
+        "hi": "समीकरण संतुलित करने की मानक विधि हिट एंड ट्रायल विधि कहलाती है।",
+        "en": "Balancing chemical equations by adjusting whole-number coefficients is called the hit-and-trial method."
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "hi": "ऐसी अभिक्रिया जिसमें दो या दो से अधिक अभिकारक मिलकर एकल उत्पाद का निर्माण करते हैं, क्या कहलाती है?",
+        "en": "A reaction in which two or more reactants combine to form a single product is called a:"
+      },
+      "options": {
+        "a": {
+          "hi": "वियोजन अभिक्रिया (Decomposition reaction)",
+          "en": "Decomposition reaction"
+        },
+        "b": {
+          "hi": "विस्थापन अभिक्रिया (Displacement reaction)",
+          "en": "Displacement reaction"
+        },
+        "c": {
+          "hi": "संयोजन अभिक्रिया (Combination reaction)",
+          "en": "Combination reaction"
+        },
+        "d": {
+          "hi": "अपचयन अभिक्रिया (Reduction reaction)",
+          "en": "Reduction reaction"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "उदाहरण: बिना बुझा चूना (CaO) और जल (H₂O) मिलकर केवल बुझा हुआ चूना [Ca(OH)₂] बनाते हैं।",
+        "en": "Example: Quicklime (CaO) and water (H₂O) combine to form a single product, slaked lime [Ca(OH)₂]."
+      },
+      "explanation": {
+        "hi": "जिस अभिक्रिया में दो या दो से अधिक पदार्थ (तत्व या यौगिक) संयोग करके एकल उत्पाद बनाते हैं, उसे संयोजन अभिक्रिया (Combination reaction) कहते हैं।",
+        "en": "When two or more substances (elements or compounds) combine to form a single product, the reaction is called a combination reaction."
+      },
+      "key_takeaway": {
+        "hi": "दो या अधिक अभिकारकों से एकल उत्पाद बनना संयोजन अभिक्रिया है।",
+        "en": "Formation of a single product from two or more reactants is a combination reaction."
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "hi": "दीवारों पर सफेदी करने के दो-तीन दिन बाद चमक क्यों आ जाती है?",
+        "en": "Why do walls develop a shiny finish two to three days after whitewashing?"
+      },
+      "options": {
+        "a": {
+          "hi": "क्योंकि बुझा हुआ चूना वायु की नाइट्रोजन से क्रिया करता है",
+          "en": "Because slaked lime reacts with atmospheric nitrogen"
+        },
+        "b": {
+          "hi": "क्योंकि कैल्सियम हाइड्रॉक्साइड वायु की कार्बन डाइऑक्साइड से धीमी अभिक्रिया करके कैल्सियम कार्बोनेट (CaCO₃) की पतली परत बनाता है",
+          "en": "Because calcium hydroxide reacts slowly with carbon dioxide in air to form a thin layer of calcium carbonate (CaCO₃)"
+        },
+        "c": {
+          "hi": "क्योंकि दीवार का जल जम कर बर्फ बन जाता है",
+          "en": "Because water on the wall freezes into ice"
+        },
+        "d": {
+          "hi": "क्योंकि बिना बुझा चूना ऑक्सीजन छोड़ता है",
+          "en": "Because quicklime releases oxygen"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "संगमरमर (Marble) का रासायनिक सूत्र भी यही यौगिक है: CaCO₃।",
+        "en": "This compound has the same chemical formula as marble: CaCO₃."
+      },
+      "explanation": {
+        "hi": "सफेदी के लिए प्रयुक्त कैल्सियम हाइड्रॉक्साइड [Ca(OH)₂] वायु में उपस्थित कार्बन डाइऑक्साइड (CO₂) के साथ धीमी गति से अभिक्रिया करके दीवारों पर कैल्सियम कार्बोनेट (CaCO₃) की एक पतली चमकदार परत बना लेता है।",
+        "en": "Calcium hydroxide [Ca(OH)₂] applied during whitewashing reacts slowly with carbon dioxide in air to form a thin, shiny layer of calcium carbonate (CaCO₃) on the walls."
+      },
+      "key_takeaway": {
+        "hi": "कैल्सियम कार्बोनेट (CaCO₃) की पतली परत बनने के कारण सफेदी के बाद दीवारों पर चमक आती है।",
+        "en": "A thin layer of calcium carbonate (CaCO₃) gives whitewashed walls their shine."
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "hi": "जिन अभिक्रियाओं में उत्पाद के निर्माण के साथ-साथ ऊष्मा भी उत्पन्न होती है, उन्हें क्या कहते हैं?",
+        "en": "Reactions in which heat is released along with the formation of products are called:"
+      },
+      "options": {
+        "a": {
+          "hi": "ऊष्माशोषी अभिक्रियाएँ (Endothermic reactions)",
+          "en": "Endothermic reactions"
+        },
+        "b": {
+          "hi": "ऊष्माक्षेपी रासायनिक अभिक्रियाएँ (Exothermic chemical reactions)",
+          "en": "Exothermic chemical reactions"
+        },
+        "c": {
+          "hi": "प्रकाशीय अपघटन अभिक्रियाएँ (Photolytic decomposition reactions)",
+          "en": "Photolytic decomposition reactions"
+        },
+        "d": {
+          "hi": "उदासीनीकरण के बिना लवण निर्माण",
+          "en": "Salt formation without heat change"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "'क्षेपी' का अर्थ है बाहर निकलना—जैसे प्राकृतिक गैस का दहन और श्वसन।",
+        "en": "'Exo' means out—examples include burning of natural gas and respiration."
+      },
+      "explanation": {
+        "hi": "जिन अभिक्रियाओं में उत्पाद बनने के साथ ऊष्मा भी निकलती है, उन्हें ऊष्माक्षेपी (Exothermic) रासायनिक अभिक्रियाएँ कहते हैं। श्वसन और शाक-सब्जियों का विघटित होकर कंपोस्ट बनना इसके उदाहरण हैं।",
+        "en": "Reactions that release heat along with product formation are called exothermic reactions, such as respiration and decomposition of vegetable matter into compost."
+      },
+      "key_takeaway": {
+        "hi": "ऊष्मा उत्पन्न करने वाली अभिक्रियाएँ ऊष्माक्षेपी कहलाती हैं।",
+        "en": "Reactions that release heat are called exothermic reactions."
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "hi": "श्वसन (Respiration) को ऊष्माक्षेपी अभिक्रिया क्यों माना जाता है?",
+        "en": "Why is respiration considered an exothermic process?"
+      },
+      "options": {
+        "a": {
+          "hi": "क्योंकि पाचन से प्राप्त ग्लूकोज कोशिकाओं में ऑक्सीजन से संयोग करके कार्बन डाइऑक्साइड, जल और ऊर्जा प्रदान करता है",
+          "en": "Because glucose from digested food combines with oxygen in cells to form carbon dioxide, water, and release energy"
+        },
+        "b": {
+          "hi": "क्योंकि साँस लेने से शरीर का तापमान शून्य हो जाता है",
+          "en": "Because breathing drops body temperature to zero"
+        },
+        "c": {
+          "hi": "क्योंकि इसमें सूर्य के प्रकाश का अवशोषण होता है",
+          "en": "Because it absorbs sunlight directly"
+        },
+        "d": {
+          "hi": "क्योंकि इसमें केवल नाइट्रोजन गैस बनती है",
+          "en": "Because only nitrogen gas is produced"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "समीकरण याद कीजिए: C₆H₁₂O₆(aq) + 6O₂(aq) → 6CO₂(aq) + 6H₂O(l) + ऊर्जा।",
+        "en": "Recall the equation: C₆H₁₂O₆(aq) + 6O₂(aq) → 6CO₂(aq) + 6H₂O(l) + energy."
+      },
+      "explanation": {
+        "hi": "भोजन के पाचन से प्राप्त ग्लूकोज हमारे शरीर की कोशिकाओं में उपस्थित ऑक्सीजन से मिलकर विघटित होता है और हमें ऊर्जा प्रदान करता है। ऊर्जा मुक्त होने के कारण श्वसन एक ऊष्माक्षेपी प्रक्रिया है।",
+        "en": "Glucose obtained from food combines with oxygen in our body cells and breaks down to release energy, making respiration an exothermic process."
+      },
+      "key_takeaway": {
+        "hi": "कोशिकाओं में ग्लूकोज के ऑक्सीकरण से ऊर्जा मुक्त होने के कारण श्वसन ऊष्माक्षेपी अभिक्रिया है।",
+        "en": "Respiration is exothermic because oxidation of glucose in cells releases energy."
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "hi": "फेरस सल्फेट क्रिस्टल (FeSO₄·7H₂O) को गर्म करने पर उसका हरा रंग क्यों बदल जाता है?",
+        "en": "Why does the green colour of ferrous sulphate crystals (FeSO₄·7H₂O) change upon heating?"
+      },
+      "options": {
+        "a": {
+          "hi": "क्योंकि यह जल सोखकर नीला हो जाता है",
+          "en": "Because it absorbs water and turns blue"
+        },
+        "b": {
+          "hi": "क्योंकि यह बिना टूटे सीधे पिघल जाता है",
+          "en": "Because it melts directly without decomposing"
+        },
+        "c": {
+          "hi": "क्योंकि यह ठंडा होकर तांबा बना लेता है",
+          "en": "Because it cools down to form copper"
+        },
+        "d": {
+          "hi": "क्योंकि गर्म करने पर पहले क्रिस्टल का जल निकल जाता है और फिर FeSO₄ विघटित होकर फेरिक ऑक्साइड (Fe₂O₃), SO₂ और SO₃ बनाता है",
+          "en": "Because heating first removes water of crystallisation and then FeSO₄ decomposes into ferric oxide (Fe₂O₃), SO₂, and SO₃"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "इस ऊष्मीय वियोजन अभिक्रिया में जलती हुई सल्फर जैसी गंध वाली गैसें (SO₂ और SO₃) निकलती हैं।",
+        "en": "This thermal decomposition releases gases with the smell of burning sulphur (SO₂ and SO₃)."
+      },
+      "explanation": {
+        "hi": "फेरस सल्फेट क्रिस्टल को गर्म करने पर पहले क्रिस्टलन का जल त्यागने से रंग बदलता है और फिर वह विघटित होकर भूरे-लाल फेरिक ऑक्साइड (Fe₂O₃) तथा सल्फर डाइऑक्साइड (SO₂) व सल्फर ट्राइऑक्साइड (SO₃) गैसें बनाता है।",
+        "en": "On heating, ferrous sulphate crystals lose water of crystallisation and then decompose into reddish-brown ferric oxide (Fe₂O₃), sulphur dioxide (SO₂), and sulphur trioxide (SO₃)."
+      },
+      "key_takeaway": {
+        "hi": "ऊष्मीय वियोजन से FeSO₄ टूटकर Fe₂O₃, SO₂ और SO₃ बनाता है।",
+        "en": "Thermal decomposition of FeSO₄ yields Fe₂O₃, SO₂, and SO₃."
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "hi": "चूना पत्थर (CaCO₃) को गर्म करने पर कैल्सियम ऑक्साइड (CaO) और कार्बन डाइऑक्साइड (CO₂) का बनना किस प्रकार की अभिक्रिया है?",
+        "en": "Heating limestone (CaCO₃) to form calcium oxide (CaO) and carbon dioxide (CO₂) is an example of:"
+      },
+      "options": {
+        "a": {
+          "hi": "ऊष्मीय वियोजन अभिक्रिया (Thermal decomposition reaction)",
+          "en": "Thermal decomposition reaction"
+        },
+        "b": {
+          "hi": "संयोजन अभिक्रिया (Combination reaction)",
+          "en": "Combination reaction"
+        },
+        "c": {
+          "hi": "द्विविस्थापन अभिक्रिया (Double displacement reaction)",
+          "en": "Double displacement reaction"
+        },
+        "d": {
+          "hi": "प्रकाशीय संयोजन (Photolytic combination)",
+          "en": "Photolytic combination"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "जब कोई वियोजन अभिक्रिया ऊष्मा (गर्मी) देने पर होती है, तो उसे क्या कहते हैं?",
+        "en": "What is a decomposition reaction carried out by heating called?"
+      },
+      "explanation": {
+        "hi": "ऊष्मा देने पर कैल्सियम कार्बोनेट का कैल्सियम ऑक्साइड (बिना बुझा चूना) तथा कार्बन डाइऑक्साइड में वियोजित होना एक प्रमुख ऊष्मीय वियोजन (Thermal decomposition) अभिक्रिया है, जिसका उपयोग सीमेंट निर्माण में होता है।",
+        "en": "Breaking down calcium carbonate into calcium oxide (quicklime) and carbon dioxide by heating is an important thermal decomposition reaction used in cement manufacturing."
+      },
+      "key_takeaway": {
+        "hi": "ऊष्मा द्वारा होने वाला वियोजन ऊष्मीय वियोजन कहलाता है।",
+        "en": "Decomposition brought about by heating is called thermal decomposition."
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "hi": "लेड नाइट्रेट [Pb(NO₃)₂] के चूर्ण को क्वथन नली में गर्म करने पर किस रंग का धुआँ उत्सर्जित होता है?",
+        "en": "What colour fumes are emitted when lead nitrate [Pb(NO₃)₂] powder is heated in a boiling tube?"
+      },
+      "options": {
+        "a": {
+          "hi": "हरे रंग का धुआँ",
+          "en": "Green fumes"
+        },
+        "b": {
+          "hi": "भूरे रंग का धुआँ (नाइट्रोजन डाइऑक्साइड, NO₂)",
+          "en": "Brown fumes (nitrogen dioxide, NO₂)"
+        },
+        "c": {
+          "hi": "नीले रंग का धुआँ",
+          "en": "Blue fumes"
+        },
+        "d": {
+          "hi": "बैंगनी रंग का धुआँ",
+          "en": "Violet fumes"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "समीकरण: 2Pb(NO₃)₂(s) → 2PbO(s) + 4NO₂(g) + O₂(g) में बनने वाली विषैली गैस NO₂ का रंग याद कीजिए।",
+        "en": "Recall the colour of nitrogen dioxide gas (NO₂) formed in 2Pb(NO₃)₂(s) → 2PbO(s) + 4NO₂(g) + O₂(g)."
+      },
+      "explanation": {
+        "hi": "लेड नाइट्रेट को गर्म करने पर यह विघटित होकर लेड ऑक्साइड (PbO), ऑक्सीजन (O₂) तथा नाइट्रोजन डाइऑक्साइड (NO₂) गैस बनाता है, जो भूरे रंग के धुएँ के रूप में निकलती है।",
+        "en": "Heating lead nitrate decomposes it into lead oxide (PbO), oxygen (O₂), and nitrogen dioxide (NO₂), which is emitted as brown fumes."
+      },
+      "key_takeaway": {
+        "hi": "लेड नाइट्रेट के ऊष्मीय वियोजन से भूरे रंग की NO₂ गैस निकलती है।",
+        "en": "Thermal decomposition of lead nitrate produces brown fumes of NO₂."
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "hi": "जल के विद्युत अपघटन (Electrolysis of water) में कैथोड और एनोड पर एकत्र होने वाली गैसों का आयतन अनुपात क्या होता है?",
+        "en": "In the electrolysis of water, what is the volume ratio of gases collected at the cathode and anode respectively?"
+      },
+      "options": {
+        "a": {
+          "hi": "1 : 1 (हाइड्रोजन : ऑक्सीजन)",
+          "en": "1 : 1 (Hydrogen : Oxygen)"
+        },
+        "b": {
+          "hi": "1 : 2 (हाइड्रोजन : ऑक्सीजन)",
+          "en": "1 : 2 (Hydrogen : Oxygen)"
+        },
+        "c": {
+          "hi": "2 : 1 (हाइड्रोजन : ऑक्सीजन)",
+          "en": "2 : 1 (Hydrogen : Oxygen)"
+        },
+        "d": {
+          "hi": "3 : 1 (हाइड्रोजन : ऑक्सीजन)",
+          "en": "3 : 1 (Hydrogen : Oxygen)"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "जल के सूत्र H₂O में हाइड्रोजन और ऑक्सीजन परमाणुओं की संख्या के अनुपात पर ध्यान दीजिए।",
+        "en": "Look at the ratio of hydrogen to oxygen atoms in the formula of water, H₂O."
+      },
+      "explanation": {
+        "hi": "समीकरण 2H₂O(l) → 2H₂(g) + O₂(g) के अनुसार जल के विद्युत अपघटन में कैथोड पर एकत्र होने वाली हाइड्रोजन गैस का आयतन एनोड पर एकत्र होने वाली ऑक्सीजन गैस के आयतन का दोगुना (2 : 1) होता है।",
+        "en": "According to 2H₂O(l) → 2H₂(g) + O₂(g), the volume of hydrogen gas collected at the cathode is double (2 : 1) the volume of oxygen gas collected at the anode."
+      },
+      "key_takeaway": {
+        "hi": "जल के विद्युत अपघटन में हाइड्रोजन और ऑक्सीजन का आयतन अनुपात 2 : 1 होता है।",
+        "en": "Electrolysis of water yields hydrogen and oxygen in a 2 : 1 volume ratio."
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "hi": "सूर्य के प्रकाश में रखने पर श्वेत रंग का सिल्वर क्लोराइड (AgCl) धूसर (Grey) रंग का क्यों हो जाता है?",
+        "en": "Why does white silver chloride (AgCl) turn grey when placed in sunlight?"
+      },
+      "options": {
+        "a": {
+          "hi": "क्योंकि प्रकाश की उपस्थिति में सिल्वर क्लोराइड का वियोजन सिल्वर (Ag) और क्लोरीन (Cl₂) में हो जाता है",
+          "en": "Because sunlight decomposes silver chloride into grey silver metal (Ag) and chlorine gas (Cl₂)"
+        },
+        "b": {
+          "hi": "क्योंकि यह वायु से कार्बन सोख लेता है",
+          "en": "Because it absorbs carbon from the air"
+        },
+        "c": {
+          "hi": "क्योंकि यह पानी में घुल जाता है",
+          "en": "Because it dissolves in water"
+        },
+        "d": {
+          "hi": "क्योंकि यह मैग्नीशियम से क्रिया करता है",
+          "en": "Because it reacts with magnesium"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "सिल्वर ब्रोमाइड (AgBr) भी इसी प्रकार की अभिक्रिया करता है और इसका उपयोग श्याम-श्वेत फोटोग्राफी में होता है।",
+        "en": "Silver bromide (AgBr) behaves similarly, and this reaction is used in black-and-white photography."
+      },
+      "explanation": {
+        "hi": "सूर्य के प्रकाश में सिल्वर क्लोराइड का प्रकाशीय अपघटन (2AgCl → 2Ag + Cl₂) होता है, जिससे धूसर रंग की चाँदी (Ag) बनती है और क्लोरीन गैस निकल जाती है।",
+        "en": "In sunlight, silver chloride undergoes photolytic decomposition (2AgCl → 2Ag + Cl₂), forming grey silver metal and releasing chlorine gas."
+      },
+      "key_takeaway": {
+        "hi": "सूर्य के प्रकाश में AgCl का सिल्वर और क्लोरीन में अपघटन होने से उसका रंग धूसर हो जाता है।",
+        "en": "Photolytic decomposition of AgCl in sunlight forms grey silver metal."
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "hi": "जिन अभिक्रियाओं में अभिकारकों को तोड़ने के लिए ऊष्मा, प्रकाश या विद्युत ऊर्जा की आवश्यकता होती है, उन्हें क्या कहते हैं?",
+        "en": "Reactions in which energy is absorbed in the form of heat, light, or electricity to break down reactants are called:"
+      },
+      "options": {
+        "a": {
+          "hi": "ऊष्माक्षेपी अभिक्रियाएँ (Exothermic reactions)",
+          "en": "Exothermic reactions"
+        },
+        "b": {
+          "hi": "संयोजन अभिक्रियाएँ (Combination reactions)",
+          "en": "Combination reactions"
+        },
+        "c": {
+          "hi": "अपचयन अभिक्रियाएँ (Reduction reactions)",
+          "en": "Reduction reactions"
+        },
+        "d": {
+          "hi": "ऊष्माशोषी अभिक्रियाएँ (Endothermic reactions)",
+          "en": "Endothermic reactions"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "'शोषी' का अर्थ है ऊर्जा का अवशोषण करना।",
+        "en": "'Endo' means inward—absorbing energy during the reaction."
+      },
+      "explanation": {
+        "hi": "जिन अभिक्रियाओं में ऊर्जा अवशोषित होती है, उन्हें ऊष्माशोषी (Endothermic) अभिक्रियाएँ कहते हैं। अधिकांश वियोजन अभिक्रियाएँ ऊष्माशोषी होती हैं।",
+        "en": "Reactions in which energy is absorbed are called endothermic reactions; most decomposition reactions are endothermic."
+      },
+      "key_takeaway": {
+        "hi": "ऊर्जा अवशोषित करने वाली अभिक्रियाएँ ऊष्माशोषी कहलाती हैं।",
+        "en": "Reactions that absorb energy are known as endothermic reactions."
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "hi": "लोहे की कील को कॉपर सल्फेट (CuSO₄) के नीले विलयन में डुबोने पर विलयन का रंग मलीन (हल्का हरा) क्यों हो जाता है?",
+        "en": "Why does the blue colour of copper sulphate (CuSO₄) solution fade to light green when an iron nail is dipped in it?"
+      },
+      "options": {
+        "a": {
+          "hi": "क्योंकि कॉपर लोहे को विस्थापित कर देता है",
+          "en": "Because copper displaces iron"
+        },
+        "b": {
+          "hi": "क्योंकि लोहा पानी में घुलकर भाप बन जाता है",
+          "en": "Because iron dissolves in water and turns into steam"
+        },
+        "c": {
+          "hi": "क्योंकि लोहा कॉपर की अपेक्षा अधिक अभिक्रियाशील होने के कारण कॉपर सल्फेट से कॉपर को विस्थापित कर फेरस सल्फेट (FeSO₄) बनाता है",
+          "en": "Because iron is more reactive than copper and displaces copper from copper sulphate to form ferrous sulphate (FeSO₄)"
+        },
+        "d": {
+          "hi": "क्योंकि कॉपर सल्फेट ठंडा होकर जम जाता है",
+          "en": "Because copper sulphate freezes on cooling"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "समीकरण: Fe(s) + CuSO₄(aq) → FeSO₄(aq) + Cu(s) में अधिक सक्रिय धातु कम सक्रिय धातु को उसके यौगिक से हटाती है।",
+        "en": "In Fe(s) + CuSO₄(aq) → FeSO₄(aq) + Cu(s), a more reactive metal displaces a less reactive metal."
+      },
+      "explanation": {
+        "hi": "लोहा (Fe) कॉपर (Cu) की तुलना में अधिक अभिक्रियाशील तत्व है। यह कॉपर सल्फेट विलयन से कॉपर को विस्थापित करके हल्के हरे रंग का फेरस सल्फेट (FeSO₄) बनाता है तथा लोहे की कील पर भूरे रंग का कॉपर जमा हो जाता है।",
+        "en": "Iron is more reactive than copper, so it displaces copper from copper sulphate solution to form light-green ferrous sulphate (FeSO₄) while brownish copper deposits on the nail."
+      },
+      "key_takeaway": {
+        "hi": "यह विस्थापन अभिक्रिया है जिसमें अधिक अभिक्रियाशील लोहा कॉपर को विस्थापित करता है।",
+        "en": "In this displacement reaction, more reactive iron displaces copper from its salt solution."
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "hi": "सोडियम सल्फेट (Na₂SO₄) और बेरियम क्लोराइड (BaCl₂) के जलीय विलयनों को मिलाने पर बनने वाला श्वेत अवक्षेप क्या होता है?",
+        "en": "What is the white precipitate formed when aqueous solutions of sodium sulphate (Na₂SO₄) and barium chloride (BaCl₂) are mixed?"
+      },
+      "options": {
+        "a": {
+          "hi": "सोडियम क्लोराइड (NaCl)",
+          "en": "Sodium chloride (NaCl)"
+        },
+        "b": {
+          "hi": "बेरियम सल्फेट (BaSO₄)",
+          "en": "Barium sulphate (BaSO₄)"
+        },
+        "c": {
+          "hi": "बेरियम ऑक्साइड (BaO)",
+          "en": "Barium oxide (BaO)"
+        },
+        "d": {
+          "hi": "सोडियम हाइड्रॉक्साइड (NaOH)",
+          "en": "Sodium hydroxide (NaOH)"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "यह एक द्विविस्थापन (Double displacement) और अवक्षेपण (Precipitation) अभिक्रिया है जिसमें Ba²⁺ और SO₄²⁻ आयन जुड़ते हैं।",
+        "en": "This is a double displacement and precipitation reaction where Ba²⁺ and SO₄²⁻ ions combine."
+      },
+      "explanation": {
+        "hi": "Na₂SO₄(aq) + BaCl₂(aq) → BaSO₄(s) + 2NaCl(aq) अभिक्रिया में अभिकारकों के बीच आयनों का आदान-प्रदान होता है और जल में अविलेय श्वेत पदार्थ बेरियम सल्फेट (BaSO₄) का अवक्षेप बनता है।",
+        "en": "In Na₂SO₄(aq) + BaCl₂(aq) → BaSO₄(s) + 2NaCl(aq), ions are exchanged between reactants, producing an insoluble white precipitate of barium sulphate (BaSO₄)."
+      },
+      "key_takeaway": {
+        "hi": "Na₂SO₄ और BaCl₂ की द्विविस्थापन अभिक्रिया से BaSO₄ का श्वेत अवक्षेप बनता है।",
+        "en": "Double displacement between Na₂SO₄ and BaCl₂ yields a white precipitate of BaSO₄."
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "hi": "अभिक्रिया CuO + H₂ —(ऊष्मा)→ Cu + H₂O में किस पदार्थ का उपचयन (Oxidation) और किसका अपचयन (Reduction) हो रहा है?",
+        "en": "In the reaction CuO + H₂ —(Heat)→ Cu + H₂O, which substance is oxidised and which is reduced?"
+      },
+      "options": {
+        "a": {
+          "hi": "H₂ का उपचयन हो रहा है और CuO का अपचयन हो रहा है",
+          "en": "H₂ is oxidised and CuO is reduced"
+        },
+        "b": {
+          "hi": "CuO का उपचयन हो रहा है और H₂ का अपचयन हो रहा है",
+          "en": "CuO is oxidised and H₂ is reduced"
+        },
+        "c": {
+          "hi": "दोनों का केवल अपचयन हो रहा है",
+          "en": "Both are only reduced"
+        },
+        "d": {
+          "hi": "न उपचयन हो रहा है और न अपचयन",
+          "en": "Neither oxidation nor reduction occurs"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "ऑक्सीजन की वृद्धि उपचयन (Oxidation) है तथा ऑक्सीजन का ह्रास अपचयन (Reduction) है।",
+        "en": "Gain of oxygen is oxidation, while loss of oxygen is reduction."
+      },
+      "explanation": {
+        "hi": "इस अभिक्रिया में कॉपर ऑक्साइड (CuO) से ऑक्सीजन का ह्रास हो रहा है, अतः यह अपचयित (Reduced) हो रहा है; जबकि हाइड्रोजन (H₂) में ऑक्सीजन की वृद्धि होकर H₂O बन रहा है, अतः H₂ उपचयित (Oxidised) हो रहा है।",
+        "en": "Copper oxide (CuO) loses oxygen and is reduced to Cu, whereas hydrogen (H₂) gains oxygen and is oxidised to H₂O."
+      },
+      "key_takeaway": {
+        "hi": "एक अभिकारक उपचयित और दूसरा अपचयित होने वाली अभिक्रिया को रेडॉक्स (उपचयन-अपचयन) अभिक्रिया कहते हैं।",
+        "en": "A reaction in which one reactant is oxidised while the other is reduced is called a redox reaction."
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "hi": "उपचयन (Oxidation) को रासायनिक रूप से कैसे परिभाषित किया जाता है?",
+        "en": "How is oxidation chemically defined?"
+      },
+      "options": {
+        "a": {
+          "hi": "किसी पदार्थ में ऑक्सीजन की कमी या हाइड्रोजन की वृद्धि",
+          "en": "Loss of oxygen or gain of hydrogen by a substance"
+        },
+        "b": {
+          "hi": "केवल ठोस का द्रव में पिघलना",
+          "en": "Only melting of a solid into a liquid"
+        },
+        "c": {
+          "hi": "किसी पदार्थ में ऑक्सीजन की वृद्धि या हाइड्रोजन का ह्रास",
+          "en": "Gain of oxygen or loss of hydrogen by a substance"
+        },
+        "d": {
+          "hi": "किसी विलयन का ठंडा होना",
+          "en": "Cooling of a solution"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "कॉपर चूर्ण को गर्म करने पर काली परत (2Cu + O₂ → 2CuO) बनना इसका सीधा उदाहरण है।",
+        "en": "Heating copper powder to form black copper oxide (2Cu + O₂ → 2CuO) is a classic example."
+      },
+      "explanation": {
+        "hi": "यदि किसी अभिक्रिया के समय किसी पदार्थ में ऑक्सीजन की वृद्धि होती है अथवा हाइड्रोजन का ह्रास होता है, तो कहा जाता है कि उसका उपचयन (Oxidation) हुआ है।",
+        "en": "If a substance gains oxygen or loses hydrogen during a reaction, it is said to be oxidised (oxidation)."
+      },
+      "key_takeaway": {
+        "hi": "ऑक्सीजन की वृद्धि या हाइड्रोजन की कमी उपचयन (Oxidation) कहलाती है।",
+        "en": "Gain of oxygen or loss of hydrogen is called oxidation."
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "hi": "जब कोई धातु अपने आसपास अम्ल, आर्द्रता (नमी) आदि के संपर्क में आती है और संक्षारित होती है, तो इस प्रक्रिया को क्या कहते हैं?",
+        "en": "When a metal is attacked by substances around it such as moisture and acids, what is this process called?"
+      },
+      "options": {
+        "a": {
+          "hi": "विकृतगंधिता (Rancidity)",
+          "en": "Rancidity"
+        },
+        "b": {
+          "hi": "उदासीनीकरण (Neutralisation)",
+          "en": "Neutralisation"
+        },
+        "c": {
+          "hi": "क्रिस्टलन (Crystallisation)",
+          "en": "Crystallisation"
+        },
+        "d": {
+          "hi": "संक्षारण (Corrosion)",
+          "en": "Corrosion"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "लोहे पर जंग लगना, चाँदी के ऊपर काली परत चढ़ना तथा ताँबे पर हरी परत चढ़ना इसके उदाहरण हैं।",
+        "en": "Rusting of iron, black coating on silver, and green coating on copper are everyday examples."
+      },
+      "explanation": {
+        "hi": "अम्ल, नमी और वायु के संपर्क में आने से धातुओं की सतह का धीरे-धीरे क्षरण होना संक्षारण (Corrosion) कहलाता है। इसके कारण कार के ढाँचे, पुल और लोहे की वस्तुओं को भारी क्षति पहुँचती है।",
+        "en": "Gradual deterioration of metals due to moisture, acids, and air is called corrosion, causing major damage to bridges, iron railings, and car bodies."
+      },
+      "key_takeaway": {
+        "hi": "नमी और अम्ल के प्रभाव से धातुओं का क्षरण संक्षारण (Corrosion) कहलाता है।",
+        "en": "Deterioration of metals by moisture and acids is called corrosion."
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "hi": "चिप्स बनाने वाले चिप्स की थैली में से ऑक्सीजन हटाकर उसमें कौन-सी कम सक्रिय गैस भरते हैं ताकि चिप्स का उपचयन न हो सके?",
+        "en": "Which less reactive gas do chip manufacturers flush bags of chips with after removing oxygen to prevent oxidation?"
+      },
+      "options": {
+        "a": {
+          "hi": "हाइड्रोजन गैस (Hydrogen gas)",
+          "en": "Hydrogen gas"
+        },
+        "b": {
+          "hi": "क्लोरीन गैस (Chlorine gas)",
+          "en": "Chlorine gas"
+        },
+        "c": {
+          "hi": "सल्फर डाइऑक्साइड (Sulphur dioxide)",
+          "en": "Sulphur dioxide"
+        },
+        "d": {
+          "hi": "नाइट्रोजन गैस (Nitrogen gas)",
+          "en": "Nitrogen gas"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "यह गैस वसायुक्त और तैलीय खाद्य पदार्थों को विकृतगंधित (Rancid) होने से बचाती है।",
+        "en": "This inert-like gas prevents oily and fatty foods from becoming rancid."
+      },
+      "explanation": {
+        "hi": "वसायुक्त एवं तैलीय खाद्य सामग्री लंबे समय तक रखने पर उपचयित होकर विकृतगंधित (Rancid) हो जाती है, जिससे उनका स्वाद और गंध बदल जाते हैं। इसे रोकने के लिए चिप्स की थैलियों में नाइट्रोजन गैस भरी जाती है।",
+        "en": "Fats and oils get oxidised over time and become rancid, changing smell and taste. Flushing chip bags with nitrogen gas prevents oxidation."
+      },
+      "key_takeaway": {
+        "hi": "विकृतगंधिता (Rancidity) से बचाने के लिए चिप्स के पैकेट में नाइट्रोजन गैस भरी जाती है।",
+        "en": "Nitrogen gas is flushed into chip packets to prevent rancidity."
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "hi": "अध्याय 'रासायनिक अभिक्रियाएँ एवं समीकरण' का मुख्य सार क्या है?",
+        "en": "What is the core takeaway of the chapter 'Chemical Reactions and Equations'?"
+      },
+      "options": {
+        "a": {
+          "hi": "रासायनिक अभिक्रियाओं में परमाणु नष्ट हो जाते हैं",
+          "en": "Atoms are destroyed during chemical reactions"
+        },
+        "b": {
+          "hi": "संक्षारण और विकृतगंधिता से खाद्य पदार्थ हमेशा ताजे रहते हैं",
+          "en": "Corrosion and rancidity keep food fresh forever"
+        },
+        "c": {
+          "hi": "सभी अभिक्रियाएँ केवल सूर्य के प्रकाश में होती हैं",
+          "en": "All reactions occur only in sunlight"
+        },
+        "d": {
+          "hi": "रासायनिक अभिक्रियाएँ नए पदार्थ बनाती हैं, जिन्हें द्रव्यमान संरक्षण के अनुसार संतुलित समीकरणों तथा संयोजन, वियोजन, विस्थापन और रेडॉक्स प्रकारों में समझा जाता है",
+          "en": "Chemical reactions form new substances, represented by balanced equations following mass conservation and classified into combination, decomposition, displacement, and redox reactions"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "संतुलित समीकरण, अभिक्रियाओं के प्रकार और दैनिक जीवन में उपचयन के प्रभावों को एक साथ जोड़िए।",
+        "en": "Bring together balanced equations, types of reactions, and everyday effects of oxidation."
+      },
+      "explanation": {
+        "hi": "रासायनिक अभिक्रियाओं में परमाणुओं के पुनर्व्यवस्थापन से नए गुणों वाले पदार्थ बनते हैं। द्रव्यमान संरक्षण हेतु समीकरणों को संतुलित किया जाता है और अभिक्रियाओं को संयोजन, वियोजन, विस्थापन, द्विविस्थापन तथा रेडॉक्स श्रेणियों में वर्गीकृत किया जाता है।",
+        "en": "Chemical reactions rearrange atoms to produce new substances, are balanced to obey mass conservation, and are categorized into combination, decomposition, displacement, double displacement, and redox types."
+      },
+      "key_takeaway": {
+        "hi": "संतुलित रासायनिक समीकरण और अभिक्रियाओं के प्रकार रासायनिक परिवर्तनों को सटीकता से समझाते हैं।",
+        "en": "Balanced chemical equations and reaction classifications accurately describe chemical changes."
+      }
+    }
+  ]
+}
