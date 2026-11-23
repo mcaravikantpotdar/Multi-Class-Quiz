@@ -1,0 +1,935 @@
+{
+  "metadata": {
+    "chapter_number": 1,
+    "chapter_title": "The Last Lesson (Flamingo - Prose)",
+    "chapter_title_hindi": "अंतिम पाठ (फ्लेमिंगो - गद्य)",
+    "subject": "English",
+    "target_class": "Class XII",
+    "total_questions": 24,
+    "question_range": "Q1 to Q24",
+    "source_language": "en",
+    "target_language": "hi",
+    "version": "1.0",
+    "note": "Complete 24-question bilingual MCQ bank for NCERT/HPBOSE Class 12 English (Flamingo Prose Chapter 1: The Last Lesson by Alphonse Daudet) tailored for Hindi-medium learners with clear English and Hindi explanations. Pure Unicode, zero trailing commas, zero citation tags, balanced options (6 A, 6 B, 6 C, 6 D)."
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "English Curriculum & JSON Schema Validator",
+    "corrections": [],
+    "notes": "Verified all 24 questions covering plot, historical backdrop (Franco-Prussian War, Alsace-Lorraine), Franz's perspective, M. Hamel's attire and lesson, linguistic chauvinism, literary devices, and key vocabulary. Options balanced to 6 A, 6 B, 6 C, and 6 D."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who is the author of 'The Last Lesson', and against which historical conflict is the story set?",
+        "hi": "'द लास्ट लेसन' (The Last Lesson) के लेखक कौन हैं और यह कहानी किस ऐतिहासिक संघर्ष की पृष्ठभूमि पर आधारित है?"
+      },
+      "options": {
+        "a": {
+          "en": "Anees Jung; World War I (1914–1918)",
+          "hi": "अनीस जंग; प्रथम विश्व युद्ध (1914–1918)"
+        },
+        "b": {
+          "en": "Alphonse Daudet; the Franco-Prussian War (1870–1871)",
+          "hi": "अल्फोंस डॉडेट; फ्रेंको-प्रशियन युद्ध (1870–1871)"
+        },
+        "c": {
+          "en": "William Douglas; the American Civil War",
+          "hi": "विलियम डगलस; अमेरिकी गृहयुद्ध"
+        },
+        "d": {
+          "en": "Selma Lagerlöf; World War II (1939–1945)",
+          "hi": "सेल्मा लेगरलोफ; द्वितीय विश्व युद्ध (1939–1945)"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "In this war, France was defeated by Prussia led by Bismarck, passing Alsace and Lorraine into Prussian hands.",
+        "hi": "इस युद्ध में बिस्मार्क के नेतृत्व वाले प्रशा (Prussia) ने फ्रांस को हराया था, जिससे अलसैस और लॉरेन प्रशा के अधीन चले गए।"
+      },
+      "explanation": {
+        "en": "'The Last Lesson' is written by French novelist Alphonse Daudet and is set during the Franco-Prussian War (1870–1871), when France was defeated by Prussia and the districts of Alsace and Lorraine passed into Prussian control.",
+        "hi": "'द लास्ट लेसन' फ्रांसीसी उपन्यासकार अल्फोंस डॉडेट द्वारा लिखा गया है और इसकी पृष्ठभूमि फ्रेंको-प्रशियन युद्ध (1870–1871) है, जिसमें फ्रांस की हार के बाद अलसैस और लॉरेन जिले प्रशा के अधिकार में चले गए थे।"
+      },
+      "key_takeaway": {
+        "en": "Alphonse Daudet set 'The Last Lesson' during the Franco-Prussian War (1870–1871) when Alsace and Lorraine were annexed by Prussia.",
+        "hi": "अल्फोंस डॉडेट की कहानी 'द लास्ट लेसन' फ्रेंको-प्रशियन युद्ध (1870–1871) में अलसैस व लॉरेन पर प्रशा के कब्जे की पृष्ठभूमि पर आधारित है।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Why was little Franz in great dread of a scolding when he started for school very late that morning?",
+        "hi": "उस सुबह बहुत देर से स्कूल के लिए निकलते समय नन्हा फ्रांज डाँट पड़ने से अत्यधिक भयभीत क्यों था?"
+      },
+      "options": {
+        "a": {
+          "en": "Because he had lost his school bag in the woods",
+          "hi": "क्योंकि उसने जंगल में अपना स्कूल बैग खो दिया था"
+        },
+        "b": {
+          "en": "Because he had fought with Old Hauser on the way",
+          "hi": "क्योंकि रास्ते में उसका बूढ़े हाउसर से झगड़ा हो गया था"
+        },
+        "c": {
+          "en": "Because M. Hamel had said he would question them on participles, and Franz did not know the first word about them",
+          "hi": "क्योंकि एम. हैमेल ने कहा था कि वे कृदंत (Participles) पर प्रश्न पूछेंगे और फ्रांज को उनका पहला शब्द भी नहीं आता था"
+        },
+        "d": {
+          "en": "Because he had broken the school windowpane the previous day",
+          "hi": "क्योंकि उसने पिछले दिन स्कूल की खिड़की का शीशा तोड़ दिया था"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Franz had not prepared his French grammar lesson on a specific verb form.",
+        "hi": "फ्रांज ने फ्रेंच व्याकरण के एक विशेष क्रिया रूप (Participles) का पाठ बिल्कुल भी याद नहीं किया था।"
+      },
+      "explanation": {
+        "en": "Franz started late for school and feared a scolding because his teacher, M. Hamel, had announced that he would question the class on participles, and Franz had not learned even the first word about them.",
+        "hi": "फ्रांज स्कूल के लिए देर से चला था और डाँट से डर रहा था क्योंकि उसके शिक्षक एम. हैमेल ने घोषणा की थी कि वे कक्षा में कृदंत (Participles) पर प्रश्न पूछेंगे, और फ्रांज को उनके बारे में पहला अक्षर भी नहीं आता था।"
+      },
+      "key_takeaway": {
+        "en": "Franz dreaded M. Hamel's scolding because he was late and completely unprepared for the test on participles.",
+        "hi": "देर होने और 'पार्टिसिपल्स' का पाठ याद न होने के कारण फ्रांज एम. हैमेल की डाँट से डरा हुआ था।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What tempted Franz to run away and spend the day out of doors instead of going to school?",
+        "hi": "स्कूल जाने के बजाय दिन बाहर बिताने के लिए किन चीज़ों ने फ्रांज को ललचाया?"
+      },
+      "options": {
+        "a": {
+          "en": "The warm, bright weather, birds chirping at the edge of the woods, and Prussian soldiers drilling in the open field",
+          "hi": "गर्म और चमकीला मौसम, जंगल के किनारे चहचहाते पक्षी और खुले मैदान में अभ्यास करते प्रशियन सैनिक"
+        },
+        "b": {
+          "en": "A travelling circus passing through the town square",
+          "hi": "कस्बे के चौक से गुजरता हुआ एक चलता-फिरता सर्कस"
+        },
+        "c": {
+          "en": "A boat race taking place on the river nearby",
+          "hi": "पास की नदी में हो रही एक नौका दौड़"
+        },
+        "d": {
+          "en": "A village fair with sweets and toys near the sawmill",
+          "hi": "आरा मशीन के पास मिठाइयों और खिलौनों वाला गाँव का मेला"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Notice the contrast between nature's cheerful morning and the Prussian military drill behind the sawmill.",
+        "hi": "सुबह के सुहावने मौसम और आरा मशीन के पीछे चल रही प्रशियन सैनिकों की परेड पर ध्यान दीजिए।"
+      },
+      "explanation": {
+        "en": "The morning was warm and bright, birds were chirping at the edge of the woods, and in the open field back of the sawmill the Prussian soldiers were drilling—all far more tempting to Franz than the rule for participles.",
+        "hi": "सुबह बहुत गर्म और सुहावनी थी, जंगल के किनारे पक्षी चहचहा रहे थे, और आरा मशीन के पीछे खुले मैदान में प्रशियन सैनिक अभ्यास कर रहे थे—ये सब फ्रांज को कृदंत के नियमों से कहीं अधिक आकर्षक लग रहे थे।"
+      },
+      "key_takeaway": {
+        "en": "Bright weather, chirping birds, and Prussian soldiers drilling tempted Franz to skip school, though he resisted and hurried on.",
+        "hi": "सुहावने मौसम, चहचहाते पक्षियों और प्रशियन सैनिकों की ड्रिल ने फ्रांज को ललचाया, पर वह संभलकर स्कूल की ओर बढ़ गया।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Why was there a crowd in front of the bulletin-board near the town hall?",
+        "hi": "टाउन हॉल के पास सूचना-पट्ट (Bulletin-board) के सामने भीड़ क्यों लगी हुई थी?"
+      },
+      "options": {
+        "a": {
+          "en": "People were waiting to collect free grain rations",
+          "hi": "लोग मुफ्त अनाज राशन लेने के लिए इंतजार कर रहे थे"
+        },
+        "b": {
+          "en": "A new order from Berlin had been put up stating that only German would be taught in the schools of Alsace and Lorraine",
+          "hi": "बर्लिन से एक नया आदेश लगा था कि अलसैस और लॉरेन के स्कूलों में केवल जर्मन भाषा पढ़ाई जाएगी"
+        },
+        "c": {
+          "en": "The town mayor was announcing a holiday festival",
+          "hi": "शहर के मेयर एक छुट्टी के उत्सव की घोषणा कर रहे थे"
+        },
+        "d": {
+          "en": "Wachter the blacksmith was selling newspapers",
+          "hi": "लोहार वाचर वहाँ अखबार बेच रहा था"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "For the last two years, all bad news—lost battles, drafts, and orders of the commanding officer—had come from that board.",
+        "hi": "पिछले दो वर्षों से हारे हुए युद्धों और कमांडिंग ऑफिसर के आदेशों की सारी बुरी खबरें इसी सूचना-पट्ट से आती थीं।"
+      },
+      "explanation": {
+        "en": "A crowd had gathered at the town hall bulletin-board to read the latest order from Berlin, which decreed that only German would be taught in the schools of Alsace and Lorraine from the next day.",
+        "hi": "टाउन हॉल के सूचना-पट्ट पर बर्लिन से आए नए आदेश को पढ़ने के लिए भीड़ जुटी थी, जिसमें निर्देश था कि अगले दिन से अलसैस और लॉरेन के स्कूलों में केवल जर्मन भाषा पढ़ाई जाएगी।"
+      },
+      "key_takeaway": {
+        "en": "The bulletin-board announced Berlin's decree banning French and mandating German in Alsace and Lorraine schools.",
+        "hi": "सूचना-पट्ट पर बर्लिन का वह आदेश लगा था जिसने अलसैस व लॉरेन के स्कूलों में फ्रेंच पर रोक लगाकर जर्मन अनिवार्य कर दी थी।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What did Wachter, the blacksmith, mean when he called after Franz, \"Don't go so fast, bub; you'll get to your school in plenty of time!\"?",
+        "hi": "जब लोहार वाचर ने फ्रांज को पीछे से पुकार कर कहा, \"इतनी तेज़ मत चलो, बच्चे; तुम अपने स्कूल में काफी समय रहते पहुँच जाओगे!\", तो उसका क्या आशय था?"
+      },
+      "options": {
+        "a": {
+          "en": "He was teasing Franz because he had already read the Berlin notice and knew it was the last French lesson",
+          "hi": "वह फ्रांज पर व्यंग्य कर रहा था क्योंकि उसने बर्लिन का नोटिस पढ़ लिया था और जानता था कि यह अंतिम फ्रेंच पाठ है"
+        },
+        "b": {
+          "en": "He thought the school had been closed for summer vacation",
+          "hi": "उसे लगा कि स्कूल गर्मियों की छुट्टियों के लिए बंद हो गया है"
+        },
+        "c": {
+          "en": "He wanted Franz to help him mend a horse-shoe",
+          "hi": "वह चाहता था कि फ्रांज घोड़े की नाल ठीक करने में उसकी मदद करे"
+        },
+        "d": {
+          "en": "He believed Franz's watch was running two hours fast",
+          "hi": "उसे विश्वास था कि फ्रांज की घड़ी दो घंटे आगे चल रही है"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Franz thought Wachter was making fun of him, unaware that Wachter had already read the sad news on the board.",
+        "hi": "फ्रांज को लगा कि वाचर उसका मज़ाक उड़ा रहा है, जबकि वाचर को पता था कि अब फ्रेंच पढ़ने के लिए कोई जल्दी नहीं बची है।"
+      },
+      "explanation": {
+        "en": "Wachter had already read the order from Berlin on the bulletin-board and knew that French instruction was ending forever, so he gently teased Franz who was rushing as if for an ordinary school day.",
+        "hi": "वाचर ने सूचना-पट्ट पर बर्लिन का आदेश पढ़ लिया था और वह जानता था कि फ्रेंच की पढ़ाई हमेशा के लिए बंद हो रही है, इसलिए उसने सामान्य दिनों की तरह भागते फ्रांज पर हल्का व्यंग्य किया।"
+      },
+      "key_takeaway": {
+        "en": "Wachter's remark carried dramatic irony because he knew the sad truth about the Berlin order before Franz did.",
+        "hi": "वाचर की टिप्पणी में नाटकीय विडंबना (Dramatic irony) थी क्योंकि वह फ्रांज से पहले बर्लिन के आदेश का दुखद सच जान चुका था।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "How was the atmosphere in the school that morning strikingly different from usual school days?",
+        "hi": "उस सुबह स्कूल का वातावरण सामान्य दिनों की तुलना में किस प्रकार बिल्कुल अलग था?"
+      },
+      "options": {
+        "a": {
+          "en": "There was loud commotion, desks opening and shutting, and M. Hamel's ruler rapping on the table",
+          "hi": "तेज शोरगुल था, डेस्क खुलने-बंद होने की आवाज़ें आ रही थीं और एम. हैमेल का डंडा मेज पर बज रहा था"
+        },
+        "b": {
+          "en": "The classrooms were completely empty because students were on strike",
+          "hi": "कक्षाएँ पूरी तरह खाली थीं क्योंकि छात्र हड़ताल पर थे"
+        },
+        "c": {
+          "en": "Everything was as quiet, solemn, and still as a Sunday morning",
+          "hi": "सब कुछ रविवार की सुबह की तरह शांत, गंभीर और स्थिर था"
+        },
+        "d": {
+          "en": "Prussian officers were inspecting every classroom with drums",
+          "hi": "प्रशियन अधिकारी ढोल-नगाड़ों के साथ हर कक्षा का निरीक्षण कर रहे थे"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Franz had counted on the usual hustle and bustle to slip to his desk unnoticed, but found total silence instead.",
+        "hi": "फ्रांज ने सोचा था कि रोज़ की चहल-पहल के बीच वह चुपचाप अपनी सीट पर बैठ जाएगा, पर वहाँ पूर्ण सन्नाटा था।"
+      },
+      "explanation": {
+        "en": "Usually, the school began with great bustle audible out in the street—opening and closing of desks, lessons repeated in unison, and the teacher's great ruler rapping—but that day everything was as quiet as a Sunday morning.",
+        "hi": "आमतौर पर स्कूल शुरू होते समय सड़क तक शोर सुनाई देता था—डेस्क खुलने-बंद होने, एक साथ पाठ दोहराने और शिक्षक के बड़े डंडे के मेज पर बजने की आवाज़—पर उस दिन सब कुछ रविवार की सुबह जैसा शांत था।"
+      },
+      "key_takeaway": {
+        "en": "Instead of the usual noisy bustle, the school was as still and solemn as a Sunday morning.",
+        "hi": "रोज़ाना के शोरगुल के बजाय उस दिन स्कूल रविवार की सुबह की तरह शांत और गंभीर था।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "What special attire was M. Hamel wearing on the day of the last lesson, and why?",
+        "hi": "अंतिम पाठ के दिन एम. हैमेल ने कौन-सी विशेष पोशाक पहनी हुई थी और क्यों?"
+      },
+      "options": {
+        "a": {
+          "en": "A plain grey uniform worn while gardening",
+          "hi": "बागवानी करते समय पहनी जाने वाली सादी धूसर वर्दी"
+        },
+        "b": {
+          "en": "His beautiful green coat, frilled shirt, and little black silk cap—all embroidered—worn only on inspection and prize days, in honour of the last lesson",
+          "hi": "अपना सुंदर हरा कोट, झालरदार कमीज और छोटी काली रेशमी टोपी—सब कढ़ाईदार—जिन्हें वे केवल निरीक्षण व पुरस्कार दिवस पर पहनते थे, अंतिम पाठ के सम्मान में"
+        },
+        "c": {
+          "en": "A military overcoat gifted by the Prussian commander",
+          "hi": "प्रशियन कमांडर द्वारा उपहार में दिया गया एक सैनिक ओवरकोट"
+        },
+        "d": {
+          "en": "A black mourning cloak with a white collar",
+          "hi": "सफेद कॉलर वाला एक काला शोक वस्त्र"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Franz noticed this ceremonial outfit when he saw M. Hamel walking up and down with his iron ruler under his arm.",
+        "hi": "जब फ्रांज ने एम. हैमेल को बगल में लोहे का डंडा दबाए टहलते देखा, तो उनका ध्यान इस विशेष औपचारिक पोशाक पर गया।"
+      },
+      "explanation": {
+        "en": "M. Hamel wore his fine Sunday clothes—his beautiful green coat, frilled shirt, and little black silk cap, all embroidered—which he normally wore only on inspection and prize days, to honour his last French lesson.",
+        "hi": "एम. हैमेल ने अपने सुंदर रविवार के कपड़े—हरा कोट, झालरदार कमीज और कढ़ाईदार छोटी काली रेशमी टोपी—पहने थे, जिन्हें वे केवल निरीक्षण और पुरस्कार वितरण के दिनों में पहनते थे, ताकि अंतिम फ्रेंच पाठ को सम्मान दे सकें।"
+      },
+      "key_takeaway": {
+        "en": "M. Hamel wore his ceremonial inspection-and-prize-day outfit to honour his final French lesson.",
+        "hi": "एम. हैमेल ने अपने अंतिम फ्रेंच पाठ के सम्मान में निरीक्षण व पुरस्कार दिवस वाली विशेष पोशाक पहनी थी।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Who were sitting quietly on the back benches of the classroom that were usually empty?",
+        "hi": "कक्षा की पिछली बेंचों पर, जो आमतौर पर खाली रहती थीं, कौन लोग शांत बैठे हुए थे?"
+      },
+      "options": {
+        "a": {
+          "en": "Prussian soldiers taking notes on the lesson",
+          "hi": "पाठ के नोट्स लेते हुए प्रशियन सैनिक"
+        },
+        "b": {
+          "en": "New students transferred from Paris",
+          "hi": "पेरिस से स्थानांतरित होकर आए नए विद्यार्थी"
+        },
+        "c": {
+          "en": "School inspectors from Berlin",
+          "hi": "बर्लिन से आए हुए स्कूल निरीक्षक"
+        },
+        "d": {
+          "en": "The village people—including Old Hauser, the former mayor, and the former postmaster—to thank M. Hamel and honour their country",
+          "hi": "गाँव के लोग—जिनमें बूढ़ा हाउसर, पूर्व मेयर और पूर्व पोस्टमास्टर शामिल थे—एम. हैमेल को धन्यवाद देने और अपने देश का सम्मान करने के लिए"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Old Hauser had even brought an old primer thumbed at the edges and held it open on his knees.",
+        "hi": "बूढ़ा हाउसर किनारों से मुड़ा हुआ एक पुराना प्राइमर (बालपोथी) भी लाया था और उसे अपने घुटनों पर खोलकर रखे हुए था।"
+      },
+      "explanation": {
+        "en": "The village elders—Old Hauser, the former mayor, the former postmaster, and several others—sat quietly on the back benches out of regret for not having gone to school more, to thank M. Hamel for forty years of faithful service, and to show respect for the country that was theirs no more.",
+        "hi": "गाँव के बुजुर्ग—बूढ़ा हाउसर, पूर्व मेयर, पूर्व पोस्टमास्टर और कई अन्य लोग—अधिक स्कूल न जा पाने के पछतावे, एम. हैमेल की चालीस वर्षों की निष्ठापूर्ण सेवा के प्रति कृतज्ञता और अपने देश के प्रति सम्मान प्रकट करने हेतु पिछली बेंचों पर बैठे थे।"
+      },
+      "key_takeaway": {
+        "en": "Village elders occupied the back benches to honour M. Hamel's 40 years of service and bid farewell to their mother tongue.",
+        "hi": "गाँव के बुजुर्ग एम. हैमेल की 40 वर्षों की सेवा और अपनी मातृभाषा को सम्मान देने के लिए पिछली बेंचों पर बैठे थे।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "How did Franz's feelings toward his books and M. Hamel change the moment M. Hamel announced it was their last French lesson?",
+        "hi": "जैसे ही एम. हैमेल ने घोषणा की कि यह उनका अंतिम फ्रेंच पाठ है, फ्रांज की अपनी किताबों और एम. हैमेल के प्रति भावनाएँ कैसे बदल गईं?"
+      },
+      "options": {
+        "a": {
+          "en": "His books suddenly seemed like old friends he couldn't give up, and he forgot all about M. Hamel's ruler and crankiness",
+          "hi": "उसकी किताबें अचानक पुराने दोस्तों जैसी लगने लगीं जिन्हें वह छोड़ नहीं सकता था, और वह एम. हैमेल के डंडे व चिड़चिड़ेपन को सब भूल गया"
+        },
+        "b": {
+          "en": "He felt relieved that he would never have to study French grammar again",
+          "hi": "उसे राहत महसूस हुई कि अब उसे फिर कभी फ्रेंच व्याकरण नहीं पढ़ना पड़ेगा"
+        },
+        "c": {
+          "en": "He grew angry at M. Hamel for not warning the village earlier",
+          "hi": "वह गाँव को पहले चेतावनी न देने के लिए एम. हैमेल से नाराज़ हो गया"
+        },
+        "d": {
+          "en": "He decided to throw his grammar and history books into the river",
+          "hi": "उसने अपनी व्याकरण और इतिहास की किताबें नदी में फेंकने का निश्चय किया"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Books that seemed such a nuisance and so heavy to carry a while ago suddenly became precious.",
+        "hi": "जो किताबें थोड़ी देर पहले बोझ और झंझट लगती थीं, वे अचानक अनमोल और पुराने मित्र जैसी लगने लगीं।"
+      },
+      "explanation": {
+        "en": "M. Hamel's announcement struck Franz like a thunderclap. His grammar and history books—which had felt like a nuisance moments earlier—suddenly became dear old friends, and the thought that M. Hamel was going away made Franz forget all about his ruler and crankiness.",
+        "hi": "एम. हैमेल की घोषणा फ्रांज पर बिजली की तरह गिरी। उसकी व्याकरण और इतिहास की किताबें, जो कुछ क्षण पहले तक बोझ लगती थीं, अचानक प्यारे पुराने मित्र बन गईं, और एम. हैमेल के जाने के विचार से वह उनके डंडे व सख्ती को भूल गया।"
+      },
+      "key_takeaway": {
+        "en": "Imminent loss awakened Franz's love for his language, turning despised books into cherished old friends.",
+        "hi": "भाषा छिन जाने के एहसास ने फ्रांज के भीतर मातृभाषा के प्रति प्रेम जगाया और बोझिल किताबें पुराने दोस्त बन गईं।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Whom did M. Hamel blame for the students' neglect of learning French?",
+        "hi": "विद्यार्थियों द्वारा फ्रेंच सीखने की उपेक्षा के लिए एम. हैमेल ने किसे जिम्मेदार ठहराया?"
+      },
+      "options": {
+        "a": {
+          "en": "Only little Franz and his classmates",
+          "hi": "केवल नन्हे फ्रांज और उसके सहपाठियों को"
+        },
+        "b": {
+          "en": "Only the Prussian soldiers stationed in Alsace",
+          "hi": "केवल अलसैस में तैनात प्रशियन सैनिकों को"
+        },
+        "c": {
+          "en": "Parents for preferring work on farms/mills over schooling, himself for sending students to water flowers or giving holidays to go fishing, and the habit of putting off learning till tomorrow",
+          "hi": "माता-पिता को जो बच्चों को खेतों/मिलों में काम पर भेजते थे, स्वयं को जो फूलों में पानी दिलवाने या मछली पकड़ने के लिए छुट्टी दे देते थे, और पढ़ाई को कल पर टालने की आदत को"
+        },
+        "d": {
+          "en": "Only the former mayor and postmaster of the town",
+          "hi": "केवल कस्बे के पूर्व मेयर और पोस्टमास्टर को"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "M. Hamel honestly shared the blame among the people of Alsace, the parents, and himself.",
+        "hi": "एम. हैमेल ने ईमानदारी से अलसैस के लोगों, माता-पिता और स्वयं पर भी दोष स्वीकार किया।"
+      },
+      "explanation": {
+        "en": "M. Hamel pointed out that everyone in Alsace put off learning till tomorrow: parents preferred sending children to work on farms or at the mills for extra money, and M. Hamel himself often sent students to water his flowers instead of learning or gave them a holiday when he wanted to go fishing.",
+        "hi": "एम. हैमेल ने कहा कि अलसैस के सभी लोग सीखने को कल पर टालते रहे: माता-पिता थोड़े पैसों के लिए बच्चों को खेतों या मिलों में काम करने भेज देते थे, और स्वयं एम. हैमेल भी कई बार पढ़ाने के बजाय बच्चों को फूलों में पानी देने भेज देते थे या मछली पकड़ने जाने पर छुट्टी दे देते थे।"
+      },
+      "key_takeaway": {
+        "en": "Procrastination by students, parents' desire for extra income, and M. Hamel's own distractions all contributed to neglecting French.",
+        "hi": "विद्यार्थियों की टालमटोल, माता-पिता का आर्थिक लालच और स्वयं एम. हैमेल की लापरवाही—तीनों फ्रेंच की उपेक्षा के जिम्मेदार थे।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "How did M. Hamel describe the French language to his class?",
+        "hi": "एम. हैमेल ने अपनी कक्षा के समक्ष फ्रेंच भाषा का वर्णन किस रूप में किया?"
+      },
+      "options": {
+        "a": {
+          "en": "As the most difficult and outdated language in Europe",
+          "hi": "यूरोप की सबसे कठिन और पुरानी भाषा के रूप में"
+        },
+        "b": {
+          "en": "As the most beautiful, clearest, and most logical language in the world, which they must guard and never forget",
+          "hi": "दुनिया की सबसे सुंदर, सबसे स्पष्ट और सबसे तर्कसंगत भाषा के रूप में, जिसकी उन्हें रक्षा करनी चाहिए और जिसे कभी नहीं भूलना चाहिए"
+        },
+        "c": {
+          "en": "As a language useful only for poets and historians",
+          "hi": "केवल कवियों और इतिहासकारों के लिए उपयोगी भाषा के रूप में"
+        },
+        "d": {
+          "en": "As a dialect less expressive than German",
+          "hi": "जर्मन की तुलना में कम अभिव्यंजक बोली के रूप में"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "M. Hamel used three superlative adjectives to praise the beauty, clarity, and logic of French.",
+        "hi": "एम. हैमेल ने फ्रेंच की सुंदरता, स्पष्टता और तर्कसंगतता की प्रशंसा करते हुए तीन विशेषणों का प्रयोग किया।"
+      },
+      "explanation": {
+        "en": "M. Hamel declared that French was the most beautiful language in the world—the clearest, the most logical—and urged everyone to guard it among themselves and never forget it.",
+        "hi": "एम. हैमेल ने कहा कि फ्रेंच दुनिया की सबसे सुंदर भाषा है—सबसे स्पष्ट और सबसे तर्कसंगत—और उन्होंने सभी से आग्रह किया कि वे आपस में इसकी रक्षा करें और इसे कभी न भूलें।"
+      },
+      "key_takeaway": {
+        "en": "M. Hamel called French the most beautiful, clearest, and most logical language in the world.",
+        "hi": "एम. हैमेल ने फ्रेंच को विश्व की सबसे सुंदर, स्पष्ट और तर्कसंगत भाषा बताया।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "According to M. Hamel, why is holding fast to one's language vital when a people are enslaved?",
+        "hi": "एम. हैमेल के अनुसार, जब कोई राष्ट्र गुलाम बना लिया जाता है, तो अपनी भाषा से जुड़े रहना क्यों अत्यंत महत्वपूर्ण होता है?"
+      },
+      "options": {
+        "a": {
+          "en": "Because it helps them negotiate better trade deals",
+          "hi": "क्योंकि इससे उन्हें बेहतर व्यापारिक समझौते करने में मदद मिलती है"
+        },
+        "b": {
+          "en": "Because it allows them to hide secrets from soldiers",
+          "hi": "क्योंकि इससे वे सैनिकों से रहस्य छिपा सकते हैं"
+        },
+        "c": {
+          "en": "Because it guarantees immediate political independence",
+          "hi": "क्योंकि यह तत्काल राजनीतिक स्वतंत्रता की गारंटी देता है"
+        },
+        "d": {
+          "en": "Because as long as they hold fast to their language, it is as if they had the key to their prison",
+          "hi": "क्योंकि जब तक वे अपनी भाषा को मजबूती से थामे रहते हैं, तब तक मानो उनके पास अपनी जेल की चाबी होती है"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Think of the famous metaphor M. Hamel uses comparing a mother tongue to a 'key' in captivity.",
+        "hi": "उस प्रसिद्ध रूपक को याद कीजिए जिसमें एम. हैमेल मातृभाषा की तुलना कैदखाने की 'चाबी' से करते हैं।"
+      },
+      "explanation": {
+        "en": "M. Hamel explained that when a people are enslaved, as long as they hold fast to their language it is as if they had the key to their prison—preserving their cultural identity, unity, and spirit of freedom.",
+        "hi": "एम. हैमेल ने समझाया कि जब किसी समाज को गुलाम बना लिया जाता है, तो जब तक वे अपनी भाषा से मजबूती से जुड़े रहते हैं, तब तक मानो उनके पास अपनी जेल की चाबी होती है—जो उनकी पहचान और स्वतंत्रता की चेतना को जीवित रखती है।"
+      },
+      "key_takeaway": {
+        "en": "A native language serves as the 'key to their prison' for an enslaved people, preserving identity and hope of freedom.",
+        "hi": "गुलाम बनाए गए लोगों के लिए उनकी मातृभाषा 'जेल की चाबी' के समान होती है जो उनकी पहचान व मुक्ति की आशा बनाए रखती है।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "What did Franz think when he heard the pigeons cooing very low on the roof during the lesson?",
+        "hi": "पाठ के दौरान छत पर कबूतरों को बहुत धीमे स्वर में गुटरगूँ करते सुनकर फ्रांज ने क्या सोचा?"
+      },
+      "options": {
+        "a": {
+          "en": "\"Will they make them sing in German, even the pigeons?\"",
+          "hi": "\"क्या वे उनसे भी जर्मन में गवाएँगे, यहाँ तक कि कबूतरों से भी?\""
+        },
+        "b": {
+          "en": "\"The pigeons are warning us that Prussian troops are entering the room.\"",
+          "hi": "\"कबूतर हमें चेतावनी दे रहे हैं कि प्रशियन सैनिक कमरे में आ रहे हैं।\""
+        },
+        "c": {
+          "en": "\"I wish I could fly away with the pigeons to Paris.\"",
+          "hi": "\"काश मैं कबूतरों के साथ उड़कर पेरिस जा सकता।\""
+        },
+        "d": {
+          "en": "\"M. Hamel has trained these pigeons to guard the school.\"",
+          "hi": "\"एम. हैमेल ने इन कबूतरों को स्कूल की रखवाली के लिए प्रशिक्षित किया है।\""
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "This ironic thought exposes the absurdity and cruelty of linguistic chauvinism.",
+        "hi": "यह व्यंग्यात्मक विचार भाषायी अंधराष्ट्रवाद (Linguistic chauvinism) की निरर्थकता और क्रूरता को उजागर करता है।"
+      },
+      "explanation": {
+        "en": "Hearing the pigeons cooing softly on the roof, Franz wondered ironically, \"Will they make them sing in German, even the pigeons?\"—highlighting how unnatural and absurd it is to impose a foreign language by force.",
+        "hi": "छत पर धीमे स्वर में गुटरगूँ करते कबूतरों को सुनकर फ्रांज ने व्यंग्यपूर्वक सोचा, \"क्या वे उनसे भी जर्मन में गवाएँगे, यहाँ तक कि कबूतरों से भी?\"—यह दर्शाता है कि किसी भाषा को बलपूर्वक थोपना कितना अस्वाभाविक है।"
+      },
+      "key_takeaway": {
+        "en": "Franz's remark about the pigeons satirizes the unnatural tyranny of imposing a language by force.",
+        "hi": "कबूतरों के बारे में फ्रांज का कथन बलपूर्वक भाषा थोपने की निरर्थकता पर तीखा व्यंग्य है।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Why did Franz find the grammar lesson so remarkably easy to understand on that final day?",
+        "hi": "उस अंतिम दिन फ्रांज को व्याकरण का पाठ इतनी आसानी से समझ में क्यों आ गया?"
+      },
+      "options": {
+        "a": {
+          "en": "Because Old Hauser whispered all the answers to him",
+          "hi": "क्योंकि बूढ़े हाउसर ने उसे सारे उत्तर धीरे से बता दिए थे"
+        },
+        "b": {
+          "en": "Because Franz listened more carefully than ever before, and M. Hamel explained everything with extraordinary patience",
+          "hi": "क्योंकि फ्रांज ने पहले से कहीं अधिक ध्यान से सुना और एम. हैमेल ने असाधारण धैर्य के साथ सब कुछ समझाया"
+        },
+        "c": {
+          "en": "Because M. Hamel skipped all difficult rules of grammar",
+          "hi": "क्योंकि एम. हैमेल ने व्याकरण के सभी कठिन नियम छोड़ दिए थे"
+        },
+        "d": {
+          "en": "Because Franz had already memorized the entire textbook overnight",
+          "hi": "क्योंकि फ्रांज ने रातों-रात पूरी पाठ्यपुस्तक रट ली थी"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Both the student's attentiveness and the teacher's heartfelt patience came together for the first time.",
+        "hi": "पहली बार विद्यार्थी की एकाग्रता और शिक्षक का आत्मीय धैर्य एक साथ जुड़ गए थे।"
+      },
+      "explanation": {
+        "en": "Franz was amazed at how well he understood the grammar lesson because he had never listened so carefully before, and M. Hamel had never explained everything with such patience, wanting to give them all he knew before leaving.",
+        "hi": "फ्रांज को आश्चर्य हुआ कि उसे व्याकरण का पाठ इतनी अच्छी तरह समझ आ गया क्योंकि उसने पहले कभी इतने ध्यान से नहीं सुना था, और एम. हैमेल ने भी पहले कभी इतने धैर्य से नहीं समझाया था।"
+      },
+      "key_takeaway": {
+        "en": "Sincere attention from the learner and patient dedication from the teacher make even difficult lessons effortless.",
+        "hi": "विद्यार्थी की सच्ची एकाग्रता और शिक्षक का धैर्यपूर्ण समर्पण कठिन पाठ को भी सहज बना देता है।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What was written in beautiful round hand on the new copies M. Hamel distributed for the writing lesson?",
+        "hi": "लेखन पाठ के लिए एम. हैमेल द्वारा बाँटी गई नई कॉपियों पर सुंदर गोल अक्षरों में क्या लिखा हुआ था?"
+      },
+      "options": {
+        "a": {
+          "en": "\"Vive La France! Vive La France!\"",
+          "hi": "\"विव ला फ्रांस! विव ला फ्रांस!\""
+        },
+        "b": {
+          "en": "\"Liberty, Equality, Fraternity\"",
+          "hi": "\"स्वतंत्रता, समानता, बंधुत्व\""
+        },
+        "c": {
+          "en": "\"France, Alsace, France, Alsace\"",
+          "hi": "\"फ्रांस, अलसैस, फ्रांस, अलसैस\""
+        },
+        "d": {
+          "en": "\"Guard Your Mother Tongue Forever\"",
+          "hi": "\"अपनी मातृभाषा की सदा रक्षा करो\""
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Franz felt those copies looked like little flags floating everywhere in the school-room.",
+        "hi": "फ्रांज को लगा कि वे कॉपियाँ पूरे स्कूल कक्ष में हर तरफ लहराते छोटे-छोटे झंडों जैसी दिख रही थीं।"
+      },
+      "explanation": {
+        "en": "For the writing lesson, M. Hamel had prepared brand-new copies with \"France, Alsace, France, Alsace\" written in a beautiful round hand, looking like little flags floating from the rod at the top of every desk.",
+        "hi": "लेखन पाठ के लिए एम. हैमेल ने बिल्कुल नई कॉपियाँ तैयार की थीं जिन पर सुंदर गोल अक्षरों में \"फ्रांस, अलसैस, फ्रांस, अलसैस\" लिखा था, जो हर डेस्क के ऊपर छोटे झंडों की तरह लहराती प्रतीत हो रही थीं।"
+      },
+      "key_takeaway": {
+        "en": "The words \"France, Alsace, France, Alsace\" on the writing copies symbolized patriotism and unity.",
+        "hi": "लेखन कॉपियों पर लिखे शब्द \"फ्रांस, अलसैस, फ्रांस, अलसैस\" देशभक्ति और एकता के प्रतीक थे।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "How long had M. Hamel faithfully served in the same school, and what did he observe motionless in his chair?",
+        "hi": "एम. हैमेल ने उसी स्कूल में कितने वर्षों तक निष्ठापूर्वक सेवा की थी, और अपनी कुर्सी पर स्थिर बैठे हुए वे क्या निहार रहे थे?"
+      },
+      "options": {
+        "a": {
+          "en": "Forty years; he gazed first at one thing and then at another as if wanting to fix in his mind just how everything looked in that little school-room",
+          "hi": "चालीस वर्ष; वे पहले एक चीज़ और फिर दूसरी चीज़ को ऐसे निहार रहे थे मानो उस छोटे स्कूल कक्ष की हर वस्तु की छवि अपने मन में बसा लेना चाहते हों"
+        },
+        "b": {
+          "en": "Twenty years; he was reading a newspaper from Berlin",
+          "hi": "बीस वर्ष; वे बर्लिन से आया एक अखबार पढ़ रहे थे"
+        },
+        "c": {
+          "en": "Thirty years; he was packing his books into wooden crates",
+          "hi": "तीस वर्ष; वे अपनी किताबें लकड़ी के बक्सों में पैक कर रहे थे"
+        },
+        "d": {
+          "en": "Fifteen years; he was watching Prussian soldiers march past the window",
+          "hi": "पंद्रह वर्ष; वे खिड़की के बाहर मार्च करते प्रशियन सैनिकों को देख रहे थे"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Outside the window, his garden was still there—the walnut-trees he had planted were taller and the hopvine twined about the windows to the roof.",
+        "hi": "खिड़की के बाहर उनका बगीचा वैसा ही था—उनके लगाए अखरोट के पेड़ लंबे हो गए थे और हॉपवाइन की बेल खिड़कियों से लिपटकर छत तक पहुँच गई थी।"
+      },
+      "explanation": {
+        "en": "M. Hamel had served in the same school for forty years. Sitting motionless in his chair during the writing lesson, he gazed intently at everything around him as if trying to imprint the entire classroom in his memory.",
+        "hi": "एम. हैमेल ने उसी स्कूल में चालीस वर्षों तक सेवा की थी। लेखन पाठ के दौरान अपनी कुर्सी पर स्थिर बैठे वे कमरे की हर वस्तु को ऐसे देख रहे थे मानो उस छोटे से स्कूल कक्ष का हर दृश्य अपनी स्मृति में कैद कर लेना चाहते हों।"
+      },
+      "key_takeaway": {
+        "en": "After 40 years of dedicated service, M. Hamel silently absorbed every detail of his beloved schoolroom before leaving forever.",
+        "hi": "40 वर्षों की समर्पित सेवा के बाद हमेशा के लिए विदा होने से पहले एम. हैमेल अपने प्रिय कक्षा-कक्ष की हर छवि मन में बसा रहे थे।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "What emotional scene occurred when Old Hauser joined the babies in chanting their letters (ba, be, bi, bo, bu)?",
+        "hi": "जब बूढ़े हाउसर ने छोटे बच्चों के साथ मिलकर अक्षर (बा, बे, बि, बो, बु) दोहराए, तो कैसा भावुक दृश्य उत्पन्न हुआ?"
+      },
+      "options": {
+        "a": {
+          "en": "The children laughed loudly and M. Hamel scolded Old Hauser",
+          "hi": "बच्चे जोर-जोर से हँसने लगे और एम. हैमेल ने बूढ़े हाउसर को डाँटा"
+        },
+        "b": {
+          "en": "Old Hauser walked out of the classroom in anger",
+          "hi": "बूढ़ा हाउसर गुस्से में कक्षा से बाहर चला गया"
+        },
+        "c": {
+          "en": "The Prussian soldiers knocked on the door to stop the chanting",
+          "hi": "प्रशियन सैनिकों ने उच्चारण रोकने के लिए दरवाजा खटखटाया"
+        },
+        "d": {
+          "en": "Old Hauser was crying, his voice trembled with emotion, and it was so funny yet touching to hear him that everyone wanted to laugh and cry at the same time",
+          "hi": "बूढ़ा हाउसर रो रहा था, भावनाओं से उसकी आवाज़ काँप रही थी, और उसे सुनना इतना विचित्र व मार्मिक था कि सबका एक साथ हँसने और रोने का मन हो रहा था"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Old Hauser had put on his spectacles and held his primer in both hands to spell the letters with the youngest children.",
+        "hi": "बूढ़े हाउसर ने अपना चश्मा पहनकर दोनों हाथों से बालपोथी थाम रखी थी और छोटे बच्चों के साथ अक्षर बोल रहा था।"
+      },
+      "explanation": {
+        "en": "At the back of the room, Old Hauser put on his spectacles, held his primer in both hands, and spelled letters with the babies. He was crying and his voice trembled with emotion, making the moment both comical and deeply moving—so that Franz wanted to laugh and cry at once.",
+        "hi": "कमरे के पीछे बैठे बूढ़े हाउसर ने चश्मा पहनकर दोनों हाथों से बालपोथी पकड़ी और छोटे बच्चों के साथ अक्षर दोहराए। वह रो रहा था और भावुकता से उसकी आवाज़ काँप रही थी—यह दृश्य इतना विचित्र और मार्मिक था कि फ्रांज को एक साथ हँसी और रुलाई आ रही थी।"
+      },
+      "key_takeaway": {
+        "en": "Old Hauser's tearful chanting with the babies blended humour and pathos, showing the village's deep sorrow.",
+        "hi": "छोटे बच्चों के साथ बूढ़े हाउसर का अश्रुपूर्ण उच्चारण हास्य और करुणा का मार्मिक संगम था जो पूरे गाँव की पीड़ा दर्शाता है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What happened at the stroke of twelve o'clock when the church-clock struck twelve and the trumpets of the Prussians sounded under the windows?",
+        "hi": "जब चर्च की घड़ी में बारह बजे और खिड़कियों के नीचे लौटते हुए प्रशियन सैनिकों के तुरही (Trumpets) की आवाज़ गूँजी, तब क्या हुआ?"
+      },
+      "options": {
+        "a": {
+          "en": "M. Hamel gave a long farewell speech from the doorway",
+          "hi": "एम. हैमेल ने दरवाजे पर खड़े होकर लंबा विदाई भाषण दिया"
+        },
+        "b": {
+          "en": "M. Hamel stood up very pale, tried to speak but choked with emotion, turned to the blackboard, and wrote \"Vive La France!\" as large as he could",
+          "hi": "एम. हैमेल बहुत पीले पड़कर खड़े हुए, बोलने की कोशिश की पर गला रुँध गया, फिर श्यामपट्ट की ओर मुड़कर जितना बड़ा लिख सकते थे उतना बड़ा \"विव ला फ्रांस!\" लिखा"
+        },
+        "c": {
+          "en": "Franz ran out immediately without looking back at M. Hamel",
+          "hi": "फ्रांज एम. हैमेल की ओर देखे बिना तुरंत बाहर भाग गया"
+        },
+        "d": {
+          "en": "The villagers sang the French national anthem together",
+          "hi": "गाँव वालों ने मिलकर फ्रांस का राष्ट्रगान गाया"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Unable to speak another word, M. Hamel leaned his head against the wall and dismissed the class with a gesture of his hand.",
+        "hi": "एक शब्द भी और न बोल पाने के कारण एम. हैमेल ने दीवार से सिर टिकाया और हाथ के इशारे से कक्षा समाप्त होने का संकेत दिया।"
+      },
+      "explanation": {
+        "en": "At twelve noon, as the church-clock struck twelve, the Angelus rang, and Prussian trumpets sounded outside, M. Hamel stood up very pale. Choked with emotion, he could not finish his sentence; he took a piece of chalk and wrote \"Vive La France!\" in huge letters on the blackboard, then gestured with his hand: \"School is dismissed — you may go.\"",
+        "hi": "दोपहर बारह बजे चर्च की घड़ी बजने, एंजेलस की प्रार्थना और बाहर प्रशियन तुरहियों की आवाज़ के साथ एम. हैमेल पीले पड़कर खड़े हुए। भावनाओं से गला रुँध जाने के कारण वे वाक्य पूरा न कर सके; उन्होंने चॉक उठाकर ब्लैकबोर्ड पर बड़े अक्षरों में \"विव ला फ्रांस!\" लिखा और हाथ से इशारा किया: \"स्कूल समाप्त हुआ — आप जा सकते हैं।\""
+      },
+      "key_takeaway": {
+        "en": "Overcome by emotion, M. Hamel wrote \"Vive La France!\" (Long Live France!) on the blackboard and dismissed the class silently.",
+        "hi": "भावविह्वल एम. हैमेल ने ब्लैकबोर्ड पर \"विव ला फ्रांस!\" (फ्रांस अमर रहे!) लिखा और मौन इशारे से कक्षा विदा की।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What does the French phrase \"Vive La France!\" written by M. Hamel on the blackboard mean?",
+        "hi": "एम. हैमेल द्वारा श्यामपट्ट (Blackboard) पर लिखे गए फ्रेंच वाक्यांश \"Vive La France!\" का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {
+          "en": "Farewell to Alsace!",
+          "hi": "अलसैस को अलविदा!"
+        },
+        "b": {
+          "en": "Welcome to Berlin!",
+          "hi": "बर्लिन का स्वागत है!"
+        },
+        "c": {
+          "en": "Long Live France!",
+          "hi": "फ्रांस अमर रहे! / फ्रांस जिंदाबाद!"
+        },
+        "d": {
+          "en": "Peace in Europe!",
+          "hi": "यूरोप में शांति हो!"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It is a patriotic French expression wishing enduring life and glory to the nation.",
+        "hi": "यह राष्ट्र के चिरस्थायी जीवन और गौरव की कामना करने वाला एक देशभक्तिपूर्ण फ्रेंच उद्घोष है।"
+      },
+      "explanation": {
+        "en": "\"Vive La France!\" translates to \"Long Live France!\"—M. Hamel's final silent act of patriotism and resistance against the imposition of German rule.",
+        "hi": "\"विव ला फ्रांस!\" (Vive La France!) का अर्थ है \"फ्रांस अमर रहे!\"—यह जर्मन शासन थोपे जाने के विरुद्ध एम. हैमेल की देशभक्ति और मौन प्रतिरोध की अंतिम अभिव्यक्ति थी।"
+      },
+      "key_takeaway": {
+        "en": "\"Vive La France!\" means \"Long Live France!\" and reflects M. Hamel's undying patriotism.",
+        "hi": "\"विव ला फ्रांस!\" का अर्थ है \"फ्रांस अमर रहे!\" जो एम. हैमेल की अटूट देशभक्ति को दर्शाता है।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Which literary device is used in Franz's description of M. Hamel's announcement: \"What a thunderclap these words were to me!\"?",
+        "hi": "एम. हैमेल की घोषणा के बारे में फ्रांज के कथन: \"ये शब्द मेरे लिए कैसी बिजली की गड़गड़ाहट (Thunderclap) थे!\" में किस साहित्यिक अलंकार का प्रयोग हुआ है?"
+      },
+      "options": {
+        "a": {
+          "en": "Metaphor — directly comparing the shocking words to a sudden thunderclap",
+          "hi": "रूपक अलंकार (Metaphor) — चौंकाने वाले शब्दों की प्रत्यक्ष तुलना अचानक गिरी बिजली की गड़गड़ाहट से की गई है"
+        },
+        "b": {
+          "en": "Oxymoron — pairing two contradictory adjectives",
+          "hi": "विरोधाभास (Oxymoron) — दो परस्पर विरोधी विशेषणों का युग्म"
+        },
+        "c": {
+          "en": "Alliteration — repetition of initial vowel sounds",
+          "hi": "अनुप्रास (Alliteration) — आरंभिक स्वर ध्वनियों की पुनरावृत्ति"
+        },
+        "d": {
+          "en": "Transferred Epithet — shifting an adjective from a person to an object",
+          "hi": "विशेषण विपर्यय (Transferred Epithet) — व्यक्ति का विशेषण वस्तु पर आरोपित करना"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Notice that it makes an implicit comparison without using 'like' or 'as'.",
+        "hi": "ध्यान दीजिए कि यहाँ 'like' या 'as' का उपयोग किए बिना सीधा रूपक स्थापित किया गया है।"
+      },
+      "explanation": {
+        "en": "Calling M. Hamel's words a \"thunderclap\" is a metaphor that vividly conveys the sudden, shocking impact the news had on little Franz.",
+        "hi": "एम. हैमेल के शब्दों को \"बिजली की गड़गड़ाहट\" (Thunderclap) कहना एक रूपक अलंकार (Metaphor) है, जो नन्हे फ्रांज पर इस समाचार के अचानक और स्तब्ध कर देने वाले प्रभाव को दर्शाता है।"
+      },
+      "key_takeaway": {
+        "en": "\"What a thunderclap these words were to me!\" uses a metaphor to express shock and sudden realization.",
+        "hi": "\"ये शब्द मेरे लिए कैसी बिजली की गड़गड़ाहट थे!\" में स्तब्धता व्यक्त करने के लिए रूपक अलंकार (Metaphor) का प्रयोग है।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "What does the phrase 'linguistic chauvinism'—the central theme of 'The Last Lesson'—refer to?",
+        "hi": "'द लास्ट लेसन' के केंद्रीय विषय 'भाषायी अंधराष्ट्रवाद' (Linguistic chauvinism) का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {
+          "en": "Encouraging students to learn multiple foreign languages voluntarily",
+          "hi": "विद्यार्थियों को स्वेच्छा से कई विदेशी भाषाएँ सीखने के लिए प्रोत्साहित करना"
+        },
+        "b": {
+          "en": "Translating classic literature into regional dialects",
+          "hi": "शास्त्रीय साहित्य का क्षेत्रीय बोलियों में अनुवाद करना"
+        },
+        "c": {
+          "en": "Preserving endangered native languages through community schools",
+          "hi": "सामुदायिक स्कूलों के माध्यम से लुप्तप्राय मूल भाषाओं का संरक्षण करना"
+        },
+        "d": {
+          "en": "An aggressive and unreasonable belief that one's own language is superior to all others, leading conquerors to impose it by force",
+          "hi": "यह आक्रामक और अतार्किक विश्वास कि अपनी भाषा अन्य सभी भाषाओं से श्रेष्ठ है, जिसके कारण विजेता इसे बलपूर्वक थोपते हैं"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "In the story, Prussia exemplifies this attitude by banning French in Alsace and Lorraine and forcing German upon the people.",
+        "hi": "कहानी में प्रशा अलसैस और लॉरेन में फ्रेंच पर प्रतिबंध लगाकर और जर्मन थोपकर इसी प्रवृत्ति को दर्शाता है।"
+      },
+      "explanation": {
+        "en": "Linguistic chauvinism is the proud, aggressive belief in the superiority of one's own language over others, seen when victorious Prussia suppresses French in Alsace and Lorraine to erase the conquered people's cultural identity.",
+        "hi": "भाषायी अंधराष्ट्रवाद (Linguistic chauvinism) अपनी भाषा को अन्य भाषाओं से श्रेष्ठ मानने का आक्रामक अहंकार है, जैसा कि विजयी प्रशा द्वारा अलसैस और लॉरेन के लोगों की सांस्कृतिक पहचान मिटाने के लिए फ्रेंच पर रोक लगाने में दिखता है।"
+      },
+      "key_takeaway": {
+        "en": "Linguistic chauvinism is the forceful imposition of a dominant language to suppress another culture's identity.",
+        "hi": "भाषायी अंधराष्ट्रवाद किसी अन्य संस्कृति की पहचान दबाने के लिए अपनी भाषा को बलपूर्वक थोपने की प्रवृत्ति है।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "In the context of the chapter, what does the expression 'in great dread of' mean?",
+        "hi": "अध्याय के संदर्भ में वाक्यांश 'in great dread of' का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {
+          "en": "In complete confusion and doubt",
+          "hi": "पूर्ण भ्रम और संदेह में होना"
+        },
+        "b": {
+          "en": "In great excitement and eagerness",
+          "hi": "अत्यधिक उत्साह और उत्सुकता में होना"
+        },
+        "c": {
+          "en": "In deep admiration and gratitude",
+          "hi": "गहरी प्रशंसा और कृतज्ञता में होना"
+        },
+        "d": {
+          "en": "In great fear or anxiety about something",
+          "hi": "किसी बात को लेकर अत्यधिक भय या चिंता में होना"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Used in the opening sentence: \"I started for school very late that morning and was in great dread of a scolding...\"",
+        "hi": "प्रारंभिक वाक्य में प्रयुक्त: \"मैं उस सुबह स्कूल के लिए बहुत देर से चला और डाँट पड़ने के अत्यधिक भय (in great dread of) में था...\""
+      },
+      "explanation": {
+        "en": "'In great dread of' means experiencing intense fear, apprehension, or anxiety about an impending unpleasant event—here, Franz fearing M. Hamel's scolding.",
+        "hi": "'In great dread of' का अर्थ है किसी आने वाली अप्रिय घटना (यहाँ फ्रांज को एम. हैमेल की डाँट) को लेकर तीव्र भय या आशंका महसूस करना।"
+      },
+      "key_takeaway": {
+        "en": "'In great dread of' means being in intense fear or apprehension of something.",
+        "hi": "'In great dread of' का अर्थ है किसी बात से अत्यधिक भयभीत या आशंकित होना।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "What does the idiom 'counted on' mean in the sentence: \"Usually, when school began, there was a great bustle... I had counted on the commotion to get to my desk without being seen\"?",
+        "hi": "वाक्य \"I had counted on the commotion to get to my desk without being seen\" में मुहावरे 'counted on' का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {
+          "en": "Counted the number of students sitting in rows",
+          "hi": "पंक्तियों में बैठे विद्यार्थियों की संख्या गिनी"
+        },
+        "b": {
+          "en": "Complained loudly about the noise",
+          "hi": "शोर के बारे में जोर से शिकायत की"
+        },
+        "c": {
+          "en": "Relied upon or depended on something happening as expected",
+          "hi": "किसी बात के अपेक्षित रूप से होने पर भरोसा या निर्भरता रखना"
+        },
+        "d": {
+          "en": "Calculated the time left for the bell",
+          "hi": "घंटी बजने में बचे समय की गणना की"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "Franz had depended on the usual classroom noise to cover his late arrival.",
+        "hi": "फ्रांज ने अपनी देरी को छिपाने के लिए कक्षा के रोज़मर्रा के शोरगुल पर भरोसा किया था।"
+      },
+      "explanation": {
+        "en": "The phrasal verb 'counted on' means relied upon or depended on—Franz had depended on the usual morning commotion to slip quietly to his seat.",
+        "hi": "वाक्यांश क्रिया 'counted on' का अर्थ है भरोसा करना या निर्भर रहना—फ्रांज ने चुपचाप अपनी सीट तक पहुँचने के लिए सुबह के सामान्य शोरगुल पर भरोसा किया था।"
+      },
+      "key_takeaway": {
+        "en": "'Counted on' means relied upon or expected something to happen.",
+        "hi": "'Counted on' का अर्थ है किसी चीज़ पर भरोसा या निर्भर रहना।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "What is the central message of Alphonse Daudet's 'The Last Lesson'?",
+        "hi": "अल्फोंस डॉडेट की कहानी 'द लास्ट लेसन' का केंद्रीय संदेश क्या है?"
+      },
+      "options": {
+        "a": {
+          "en": "Students should only study grammar right before examinations",
+          "hi": "विद्यार्थियों को केवल परीक्षाओं से ठीक पहले व्याकरण पढ़ना चाहिए"
+        },
+        "b": {
+          "en": "Teachers should never wear formal clothes to school",
+          "hi": "शिक्षकों को स्कूल में कभी भी औपचारिक कपड़े नहीं पहनने चाहिए"
+        },
+        "c": {
+          "en": "Military conquest always improves the education system of defeated regions",
+          "hi": "सैन्य विजय सदैव पराजित क्षेत्रों की शिक्षा प्रणाली में सुधार करती है"
+        },
+        "d": {
+          "en": "We often take our mother tongue and freedom for granted until we are about to lose them; cherishing one's language preserves cultural identity and dignity",
+          "hi": "हम अक्सर अपनी मातृभाषा और स्वतंत्रता को तब तक हल्के में लेते हैं जब तक वे छिनने न लगें; अपनी भाषा को सहेजना सांस्कृतिक पहचान और स्वाभिमान की रक्षा करता है"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "en": "Connect Franz's regret over postponed lessons with M. Hamel's call to guard the French language.",
+        "hi": "पाठ को कल पर टालने के फ्रांज के पछतावे को फ्रेंच भाषा की रक्षा करने के एम. हैमेल के संदेश से जोड़िए।"
+      },
+      "explanation": {
+        "en": "'The Last Lesson' reminds us never to procrastinate in valuing our mother tongue and heritage. People often realize the true worth of their language and freedom only when threatened with losing them.",
+        "hi": "'द लास्ट लेसन' हमें सिखाता है कि अपनी मातृभाषा और विरासत के महत्व को समझने में कभी टालमटोल नहीं करनी चाहिए। मनुष्य को अपनी भाषा और स्वतंत्रता का वास्तविक मूल्य अक्सर तब समझ आता है जब वे छिनने वाली होती हैं।"
+      },
+      "key_takeaway": {
+        "en": "Value and guard your mother tongue today—it is the heartbeat of cultural identity and freedom.",
+        "hi": "आज ही अपनी मातृभाषा का सम्मान और रक्षा करें—यही सांस्कृतिक पहचान और स्वतंत्रता की धड़कन है।"
+      }
+    }
+  ]
+}
