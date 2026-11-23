@@ -1,0 +1,935 @@
+{
+  "metadata": {
+    "chapter_number": 2,
+    "chapter_title": "Acids, Bases and Salts",
+    "chapter_title_hindi": "अम्ल, क्षारक एवं लवण",
+    "subject": "Science",
+    "target_class": "Class X",
+    "total_questions": 24,
+    "question_range": "Q1 to Q24",
+    "source_language": "hi",
+    "target_language": "en",
+    "version": "1.0",
+    "note": "Complete 24-question bilingual MCQ bank for NCERT/HPBOSE Class 10 Science Chapter 2 (अम्ल, क्षारक एवं लवण / Acids, Bases and Salts) tailored for Hindi-medium learners with clear English counterparts. Pure Unicode, zero trailing commas, zero citation tags, balanced options (6 A, 6 B, 6 C, 6 D)."
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "Science Curriculum & JSON Schema Validator",
+    "corrections": [],
+    "notes": "Verified all 24 questions across indicators, olfactory indicators, reaction of acids/bases with metals, metal carbonates/hydrogencarbonates, neutralisation, metallic/non-metallic oxides, aqueous ions, dilution safety, pH scale, pH in everyday life, chlor-alkali process, bleaching powder, baking soda, washing soda, water of crystallisation, and Plaster of Paris. Options balanced to 6 A, 6 B, 6 C, and 6 D."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "hi": "निम्नलिखित में से कौन-सा एक गंधीय सूचक (Olfactory indicator) है जिसकी गंध अम्लीय या क्षारकीय माध्यम में बदल जाती है?",
+        "en": "Which of the following is an olfactory indicator whose odour changes in acidic or basic media?"
+      },
+      "options": {
+        "a": {
+          "hi": "फीनॉल्फथेलिन (Phenolphthalein)",
+          "en": "Phenolphthalein"
+        },
+        "b": {
+          "hi": "वैनिला, प्याज या लौंग का तेल (Vanilla, onion, or clove oil)",
+          "en": "Vanilla, onion, or clove oil"
+        },
+        "c": {
+          "hi": "मेथिल ऑरेंज (Methyl orange)",
+          "en": "Methyl orange"
+        },
+        "d": {
+          "hi": "लिटमस पत्र (Litmus paper)",
+          "en": "Litmus paper"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "इन पदार्थों का उपयोग दृष्टिबाधित विद्यार्थी भी गंध में बदलाव के आधार पर अम्ल और क्षारक की पहचान करने के लिए कर सकते हैं।",
+        "en": "Visually impaired students can also use these substances to identify acids and bases by sensing changes in smell."
+      },
+      "explanation": {
+        "hi": "कुछ ऐसे पदार्थ होते हैं जिनकी गंध अम्लीय या क्षारकीय माध्यम में भिन्न हो जाती है, उन्हें गंधीय सूचक (Olfactory indicators) कहते हैं—जैसे बारीक कटी प्याज, तनु वैनिला एसेंस और लौंग का तेल।",
+        "en": "Substances whose odour changes in acidic or basic media are called olfactory indicators, such as finely chopped onion, dilute vanilla essence, and clove oil."
+      },
+      "key_takeaway": {
+        "hi": "प्याज, वैनिला और लौंग का तेल गंधीय सूचक हैं जो गंध परिवर्तन से अम्ल व क्षारक की पहचान कराते हैं।",
+        "en": "Onion, vanilla, and clove oil are olfactory indicators that signal acids and bases through odour change."
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "hi": "लिटमस विलयन जब न तो अम्लीय होता है और न ही क्षारकीय, तब वह किस रंग का होता है तथा किस वर्ग के पौधे से निकाला जाता है?",
+        "en": "What colour is litmus solution when it is neither acidic nor basic, and from which division of plants is it extracted?"
+      },
+      "options": {
+        "a": {
+          "hi": "लाल रंग का; ब्रायोफाइटा (Bryophyta) से",
+          "en": "Red; from Bryophyta"
+        },
+        "b": {
+          "hi": "पीले रंग का; टेरिडोफाइटा (Pteridophyta) से",
+          "en": "Yellow; from Pteridophyta"
+        },
+        "c": {
+          "hi": "बैंगनी (Purple) रंग का; थैलोफाइटा (Thallophyta) वर्ग के लिचेन पौधे से",
+          "en": "Purple; from lichen belonging to the division Thallophyta"
+        },
+        "d": {
+          "hi": "नीले रंग का; जिम्नोस्पर्म (Gymnosperms) से",
+          "en": "Blue; from Gymnosperms"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "यह एक प्राकृतिक सूचक है जिसे लिचेन (Lichen) से प्राप्त किया जाता है।",
+        "en": "This natural dye is extracted from lichen."
+      },
+      "explanation": {
+        "hi": "लिटमस विलयन बैंगनी (Purple) रंग का रंजक होता है जिसे थैलोफाइटा (Thallophyta) समूह के लिचेन (Lichen) पौधे से निकाला जाता है। अम्ल नीले लिटमस को लाल और क्षारक लाल लिटमस को नीला कर देते हैं।",
+        "en": "Litmus solution is a purple dye extracted from lichen, a plant belonging to the division Thallophyta. Acids turn blue litmus red, while bases turn red litmus blue."
+      },
+      "key_takeaway": {
+        "hi": "उदासीन लिटमस विलयन बैंगनी रंग का होता है और थैलोफाइटा वर्ग के लिचेन से प्राप्त होता है।",
+        "en": "Neutral litmus solution is purple and is obtained from lichen of division Thallophyta."
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "hi": "जब धातु कार्बोनेट या धातु हाइड्रोजनकार्बोनेट किसी अम्ल से अभिक्रिया करते हैं, तो कौन-सी गैस उत्पन्न होती है जो चूने के पानी को दूधिया कर देती है?",
+        "en": "Which gas is produced when a metal carbonate or metal hydrogencarbonate reacts with an acid, turning lime water milky?"
+      },
+      "options": {
+        "a": {
+          "hi": "कार्बन डाइऑक्साइड गैस (CO₂)",
+          "en": "Carbon dioxide gas (CO₂)"
+        },
+        "b": {
+          "hi": "हाइड्रोजन गैस (H₂)",
+          "en": "Hydrogen gas (H₂)"
+        },
+        "c": {
+          "hi": "नाइट्रोजन गैस (N₂)",
+          "en": "Nitrogen gas (N₂)"
+        },
+        "d": {
+          "hi": "ऑक्सीजन गैस (O₂)",
+          "en": "Oxygen gas (O₂)"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "चूने के पानी [Ca(OH)₂] में इस गैस को प्रवाहित करने पर श्वेत अवक्षेप CaCO₃ बनता है।",
+        "en": "Passing this gas through lime water [Ca(OH)₂] forms a white precipitate of CaCO₃."
+      },
+      "explanation": {
+        "hi": "सभी धातु कार्बोनेट एवं हाइड्रोजनकार्बोनेट अम्ल के साथ अभिक्रिया करके संगत लवण, कार्बन डाइऑक्साइड (CO₂) एवं जल बनाते हैं। उत्पादित CO₂ गैस को चूने के पानी से प्रवाहित करने पर कैल्सियम कार्बोनेट का श्वेत अवक्षेप बनने से विलयन दूधिया हो जाता है।",
+        "en": "Metal carbonates and hydrogencarbonates react with acids to produce a salt, carbon dioxide (CO₂), and water. Passing CO₂ through lime water forms insoluble white CaCO₃, turning it milky."
+      },
+      "key_takeaway": {
+        "hi": "धातु कार्बोनेट/हाइड्रोजनकार्बोनेट + अम्ल → लवण + कार्बन डाइऑक्साइड + जल।",
+        "en": "Metal carbonate/hydrogencarbonate + Acid → Salt + Carbon dioxide + Water."
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "hi": "अम्ल एवं क्षारक की परस्पर अभिक्रिया के परिणामस्वरूप लवण तथा जल प्राप्त होने की अभिक्रिया को क्या कहते हैं?",
+        "en": "What is the reaction between an acid and a base to give a salt and water called?"
+      },
+      "options": {
+        "a": {
+          "hi": "संयोजन अभिक्रिया (Combination reaction)",
+          "en": "Combination reaction"
+        },
+        "b": {
+          "hi": "ऊष्मीय वियोजन (Thermal decomposition)",
+          "en": "Thermal decomposition"
+        },
+        "c": {
+          "hi": "क्रिस्टलन (Crystallisation)",
+          "en": "Crystallisation"
+        },
+        "d": {
+          "hi": "उदासीनीकरण अभिक्रिया (Neutralisation reaction)",
+          "en": "Neutralisation reaction"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "उदाहरण: NaOH(aq) + HCl(aq) → NaCl(aq) + H₂O(l), जहाँ अम्ल और क्षारक एक-दूसरे के प्रभाव को समाप्त करते हैं।",
+        "en": "Example: NaOH(aq) + HCl(aq) → NaCl(aq) + H₂O(l), where the acid and base cancel out each other's effect."
+      },
+      "explanation": {
+        "hi": "अम्ल एवं क्षारक की अभिक्रिया के परिणामस्वरूप लवण तथा जल प्राप्त होते हैं तथा इसे उदासीनीकरण अभिक्रिया (Neutralisation reaction) कहते हैं।",
+        "en": "The reaction between an acid and a base produces salt and water and is known as a neutralisation reaction."
+      },
+      "key_takeaway": {
+        "hi": "क्षारक + अम्ल → लवण + जल उदासीनीकरण अभिक्रिया कहलाती है।",
+        "en": "Base + Acid → Salt + Water is called a neutralisation reaction."
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "hi": "धात्विक ऑक्साइड (Metallic oxides) की सामान्य रासायनिक प्रकृति कैसी होती है?",
+        "en": "What is the general chemical nature of metallic oxides?"
+      },
+      "options": {
+        "a": {
+          "hi": "अम्लीय प्रकृति (Acidic nature)",
+          "en": "Acidic nature"
+        },
+        "b": {
+          "hi": "क्षारकीय प्रकृति (Basic nature)",
+          "en": "Basic nature"
+        },
+        "c": {
+          "hi": "पूर्णतः उदासीन प्रकृति",
+          "en": "Strictly neutral nature"
+        },
+        "d": {
+          "hi": "केवल गैसीय प्रकृति",
+          "en": "Purely gaseous nature"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "चूँकि धात्विक ऑक्साइड अम्ल के साथ अभिक्रिया करके लवण एवं जल बनाते हैं (जैसे CuO + 2HCl → CuCl₂ + H₂O), वे क्षारक के समान व्यवहार करते हैं।",
+        "en": "Since metallic oxides react with acids to form salt and water (such as CuO + 2HCl → CuCl₂ + H₂O), they behave like bases."
+      },
+      "explanation": {
+        "hi": "क्षारक एवं अम्ल की अभिक्रिया के समान ही धात्विक ऑक्साइड (जैसे कॉपर ऑक्साइड, CuO) अम्ल के साथ अभिक्रिया करके लवण एवं जल प्रदान करते हैं, अतः धात्विक ऑक्साइड को क्षारकीय ऑक्साइड (Basic oxides) भी कहते हैं।",
+        "en": "Similar to the reaction of a base with an acid, metallic oxides react with acids to give salt and water; therefore, metallic oxides are basic in nature."
+      },
+      "key_takeaway": {
+        "hi": "धात्विक ऑक्साइड क्षारकीय प्रकृति के होते हैं, जबकि अधात्विक ऑक्साइड अम्लीय प्रकृति के होते हैं।",
+        "en": "Metallic oxides are basic in nature, whereas non-metallic oxides are acidic."
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "hi": "सांद्र अम्ल को तनुकृत (Dilute) करते समय क्या सावधानी बरतनी चाहिए?",
+        "en": "What precaution must be followed while diluting a concentrated acid?"
+      },
+      "options": {
+        "a": {
+          "hi": "अम्ल को सदैव धीरे-धीरे तथा जल को लगातार हिलाते हुए जल में मिलाना चाहिए",
+          "en": "The acid must always be added slowly to water with constant stirring"
+        },
+        "b": {
+          "hi": "सांद्र अम्ल में एक साथ बहुत सारा जल डाल देना चाहिए",
+          "en": "A large amount of water should be poured quickly into concentrated acid"
+        },
+        "c": {
+          "hi": "बंद काँच की बोतल में अम्ल और जल को जोर से हिलाना चाहिए",
+          "en": "Acid and water should be shaken vigorously in a closed glass bottle"
+        },
+        "d": {
+          "hi": "तनुकरण से पहले अम्ल को तेज आँच पर उबालना चाहिए",
+          "en": "The acid should be boiled over a strong flame before dilution"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "जल में अम्ल घुलने की प्रक्रिया अत्यंत ऊष्माक्षेपी होती है; अम्ल में जल डालने पर मिश्रण आस्फलित होकर बाहर आ सकता है।",
+        "en": "Dissolving an acid in water is highly exothermic; adding water to acid can cause the mixture to splash out."
+      },
+      "explanation": {
+        "hi": "जल में अम्ल के घुलने की प्रक्रिया अत्यंत ऊष्माक्षेपी होती है। सांद्र अम्ल में जल मिलाने पर उत्पन्न ऊष्मा के कारण मिश्रण आस्फलित होकर बाहर आ सकता है और स्थानीय ताप बढ़ने से काँच का पात्र भी टूट सकता है। इसलिए अम्ल को सदैव धीरे-धीरे जल में मिलाना चाहिए।",
+        "en": "Dissolving acid in water is highly exothermic. Adding water to concentrated acid generates excessive heat that can splash the acid out or break the glass container, so acid must always be added slowly to water with stirring."
+      },
+      "key_takeaway": {
+        "hi": "तनुकरण करते समय सदैव जल में धीरे-धीरे अम्ल मिलाएँ, कभी भी अम्ल में जल न डालें।",
+        "en": "Always add acid slowly to water during dilution—never add water to concentrated acid."
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "hi": "जलीय विलयन में सभी अम्ल और सभी क्षारक क्रमशः कौन-से आयन उत्पन्न करते हैं?",
+        "en": "Which ions are produced by all acids and all bases respectively in aqueous solution?"
+      },
+      "options": {
+        "a": {
+          "hi": "अम्ल OH⁻(aq) आयन और क्षारक H⁺(aq) आयन",
+          "en": "Acids produce OH⁻(aq) ions and bases produce H⁺(aq) ions"
+        },
+        "b": {
+          "hi": "अम्ल Cl⁻(aq) आयन और क्षारक Na⁺(aq) आयन",
+          "en": "Acids produce Cl⁻(aq) ions and bases produce Na⁺(aq) ions"
+        },
+        "c": {
+          "hi": "अम्ल H⁺(aq) या H₃O⁺ आयन और क्षारक OH⁻(aq) आयन",
+          "en": "Acids produce H⁺(aq) or H₃O⁺ ions and bases produce OH⁻(aq) ions"
+        },
+        "d": {
+          "hi": "अम्ल और क्षारक जलीय विलयन में कोई आयन नहीं बनाते",
+          "en": "Neither acids nor bases form ions in water"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "जल की अनुपस्थिति में शुष्क HCl गैस शुष्क नीले लिटमस पत्र का रंग नहीं बदलती क्योंकि H⁺ आयन पृथक नहीं होते।",
+        "en": "In the absence of water, dry HCl gas does not change dry blue litmus because H⁺ ions do not separate."
+      },
+      "explanation": {
+        "hi": "जल की उपस्थिति में सभी अम्ल हाइड्रोजन आयन H⁺(aq) [जो जल से जुड़कर हाइड्रोनियम आयन H₃O⁺ बनाते हैं] उत्पन्न करते हैं, जबकि सभी क्षारक जल में हाइड्रॉक्साइड आयन OH⁻(aq) उत्पन्न करते हैं।",
+        "en": "In aqueous solution, acids generate hydrogen ions H⁺(aq) [existing as hydronium ions H₃O⁺], whereas bases generate hydroxide ions OH⁻(aq)."
+      },
+      "key_takeaway": {
+        "hi": "जलीय विलयन में अम्ल H⁺(aq) आयन और क्षारक OH⁻(aq) आयन देते हैं।",
+        "en": "Acids furnish H⁺(aq) ions and bases furnish OH⁻(aq) ions in water."
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "hi": "pH स्केल के अनुसार किसी उदासीन विलयन, अम्लीय विलयन और क्षारकीय विलयन के pH मान क्रमशः क्या होते हैं?",
+        "en": "According to the pH scale, what are the pH values for a neutral solution, an acidic solution, and a basic solution respectively?"
+      },
+      "options": {
+        "a": {
+          "hi": "उदासीन = 0, अम्लीय = 7, क्षारकीय = 7 से कम",
+          "en": "Neutral = 0, Acidic = 7, Basic = less than 7"
+        },
+        "b": {
+          "hi": "उदासीन = 14, अम्लीय = 7 से अधिक, क्षारकीय = 7",
+          "en": "Neutral = 14, Acidic = more than 7, Basic = 7"
+        },
+        "c": {
+          "hi": "उदासीन = 7, अम्लीय = 7 से कम, क्षारकीय = 7 से अधिक (14 तक)",
+          "en": "Neutral = 7, Acidic = less than 7, Basic = more than 7 (up to 14)"
+        },
+        "d": {
+          "hi": "सभी विलयनों का pH मान सदैव 7 होता है",
+          "en": "All solutions always have a pH of 7"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "pH में 'p' सूचक है 'पुसांस' (Potenz) का, जो एक जर्मन शब्द है और जिसका अर्थ 'शक्ति' होता है।",
+        "en": "The 'p' in pH stands for 'potenz' in German, meaning power."
+      },
+      "explanation": {
+        "hi": "pH स्केल से 0 (अधिक अम्लता) से 14 (अधिक क्षारीयता) तक pH ज्ञात किया जाता है। किसी भी उदासीन विलयन का pH मान 7 होता है, 7 से कम मान अम्लीय विलयन को तथा 7 से 14 तक मान क्षारकीय विलयन को दर्शाता है।",
+        "en": "The pH scale measures values from 0 (very acidic) to 14 (very alkaline). A neutral solution has pH 7, values below 7 indicate acidic solutions, and values above 7 up to 14 indicate basic solutions."
+      },
+      "key_takeaway": {
+        "hi": "pH = 7 उदासीन, pH < 7 अम्लीय तथा pH > 7 क्षारकीय विलयन को दर्शाता है।",
+        "en": "pH = 7 is neutral, pH < 7 is acidic, and pH > 7 is basic."
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "hi": "वर्षा के जल की pH मान कितना कम हो जाने पर वह 'अम्लीय वर्षा' (Acid rain) कहलाती है?",
+        "en": "Rainwater is called 'acid rain' when its pH falls below:"
+      },
+      "options": {
+        "a": {
+          "hi": "8.5 से अधिक",
+          "en": "Above 8.5"
+        },
+        "b": {
+          "hi": "5.6 से कम",
+          "en": "Less than 5.6"
+        },
+        "c": {
+          "hi": "7.4 के बराबर",
+          "en": "Equal to 7.4"
+        },
+        "d": {
+          "hi": "10.0 से कम",
+          "en": "Less than 10.0"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "हमारा शरीर 7.0 से 7.8 pH परास के बीच कार्य करता है, जबकि अम्लीय वर्षा का जल नदी में बहकर जलीय जीवों की उत्तरजीविता कठिन बना देता है।",
+        "en": "Our body works within 7.0 to 7.8 pH, while acid rain lowers river pH and threatens aquatic life."
+      },
+      "explanation": {
+        "hi": "वर्षा के जल की pH मान जब 5.6 से कम हो जाती है, तो वह अम्लीय वर्षा (Acid rain) कहलाती है। यह जल जब नदी में प्रवाहित होता है तो नदी के जल का pH मान कम हो जाता है जिससे जलीय जीवधारियों का जीवन कठिन हो जाता है।",
+        "en": "When the pH of rainwater drops below 5.6, it is called acid rain; flowing into rivers, it lowers water pH and makes survival of aquatic life difficult."
+      },
+      "key_takeaway": {
+        "hi": "वर्षा के जल का pH 5.6 से कम होने पर उसे अम्लीय वर्षा कहते हैं।",
+        "en": "Rainwater with a pH below 5.6 is termed acid rain."
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "hi": "अपच (Indigestion) की स्थिति में उदर में अत्यधिक अम्ल उत्पन्न होने पर राहत पाने के लिए किस दुर्बल क्षारक (ऐन्टैसिड) का उपयोग किया जाता है?",
+        "en": "Which mild base (antacid) is commonly used to neutralise excess stomach acid during indigestion?"
+      },
+      "options": {
+        "a": {
+          "hi": "मिल्क ऑफ मैग्नीशिया [मैग्नीशियम हाइड्रॉक्साइड, Mg(OH)₂]",
+          "en": "Milk of magnesia [Magnesium hydroxide, Mg(OH)₂]"
+        },
+        "b": {
+          "hi": "सांद्र सल्फ्यूरिक अम्ल (H₂SO₄)",
+          "en": "Concentrated sulphuric acid (H₂SO₄)"
+        },
+        "c": {
+          "hi": "सोडियम हाइड्रॉक्साइड का सांद्र विलयन (NaOH)",
+          "en": "Concentrated sodium hydroxide (NaOH)"
+        },
+        "d": {
+          "hi": "सांद्र हाइड्रोक्लोरिक अम्ल (HCl)",
+          "en": "Concentrated hydrochloric acid (HCl)"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "यह एक दुर्बल क्षारक है जो बिना हानि पहुँचाए अतिरिक्त अम्ल को उदासीन करता है।",
+        "en": "It is a mild base that safely neutralises excess hydrochloric acid in the stomach."
+      },
+      "explanation": {
+        "hi": "हमारा उदर हाइड्रोक्लोरिक अम्ल (HCl) उत्पन्न करता है। अपच के समय अत्यधिक अम्ल बनने से दर्द व जलन होती है, जिससे मुक्ति पाने के लिए 'मिल्क ऑफ मैग्नीशिया' [Mg(OH)₂] जैसे दुर्बल क्षारक (ऐन्टैसिड) का उपयोग किया जाता है।",
+        "en": "During indigestion, the stomach produces too much HCl causing pain and irritation; mild bases called antacids, such as milk of magnesia [Mg(OH)₂], neutralise the excess acid."
+      },
+      "key_takeaway": {
+        "hi": "मिल्क ऑफ मैग्नीशिया [Mg(OH)₂] एक ऐन्टैसिड है जो उदर की अतिरिक्त अम्लता को उदासीन करता है।",
+        "en": "Milk of magnesia [Mg(OH)₂] acts as an antacid to neutralise excess stomach acid."
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "hi": "मुँह का pH मान कितने से कम होने पर दाँतों का क्षय (Tooth decay) प्रारंभ हो जाता है?",
+        "en": "Tooth decay starts when the pH of the mouth falls below:"
+      },
+      "options": {
+        "a": {
+          "hi": "5.5 से कम",
+          "en": "Less than 5.5"
+        },
+        "b": {
+          "hi": "7.5 से कम",
+          "en": "Less than 7.5"
+        },
+        "c": {
+          "hi": "8.0 से कम",
+          "en": "Less than 8.0"
+        },
+        "d": {
+          "hi": "9.2 से कम",
+          "en": "Less than 9.2"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "दाँतों का इनैमल कैल्सियम हाइड्रॉक्सीऐपेटाइट से बना होता है जो मुँह के अम्लीय होने पर संक्षारित होने लगता है।",
+        "en": "Tooth enamel is made of calcium hydroxyapatite, which begins to corrode when the mouth becomes sufficiently acidic."
+      },
+      "explanation": {
+        "hi": "मुँह के pH का मान 5.5 से कम होने पर दाँतों का क्षय प्रारंभ हो जाता है। भोजन के बाद मुँह में बचे शर्करा व खाद्य पदार्थों का जीवाणुओं द्वारा निम्नीकरण होने से अम्ल बनता है, जिसे क्षारकीय दंत-मंजन से उदासीन किया जाता है।",
+        "en": "Tooth decay starts when mouth pH drops below 5.5 because bacteria degrade leftover sugars to produce acid; using basic toothpaste helps neutralise this acid."
+      },
+      "key_takeaway": {
+        "hi": "मुँह का pH 5.5 से कम होने पर दंत क्षय शुरू होता है, जिसे क्षारकीय टूथपेस्ट से रोका जाता है।",
+        "en": "Mouth pH below 5.5 triggers tooth decay, prevented by cleaning teeth with basic toothpaste."
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "hi": "मधुमक्खी के डंक तथा नेटल (Nettle) के शाकीय पादप के डंक मारने वाले बालों में कौन-सा अम्ल होता है जो दर्द व जलन उत्पन्न करता है?",
+        "en": "Which acid is present in a bee sting and in the stinging hair of nettle leaves, causing pain and irritation?"
+      },
+      "options": {
+        "a": {
+          "hi": "सिट्रिक अम्ल (Citric acid)",
+          "en": "Citric acid"
+        },
+        "b": {
+          "hi": "लैक्टिक अम्ल (Lactic acid)",
+          "en": "Lactic acid"
+        },
+        "c": {
+          "hi": "ऑक्सैलिक अम्ल (Oxalic acid)",
+          "en": "Oxalic acid"
+        },
+        "d": {
+          "hi": "मेथैनॉइक अम्ल (Methanoic acid)",
+          "en": "Methanoic acid"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "डंक मारे गए अंग में बेकिंग सोडा जैसे दुर्बल क्षारक के उपयोग से आराम मिलता है।",
+        "en": "Rubbing a mild base like baking soda on the stung area gives relief."
+      },
+      "explanation": {
+        "hi": "मधुमक्खी का डंक और नेटल के पत्ते मेथैनॉइक अम्ल (Methanoic acid) छोड़ते हैं, जिसके कारण दर्द एवं जलन का अनुभव होता है। डंक वाले स्थान पर बेकिंग सोडा लगाने या पास उगने वाले डॉक (Dock) पौधे की पत्ती रगड़ने से आराम मिलता है।",
+        "en": "Bee stings and nettle hair inject methanoic acid, causing burning pain; applying baking soda or rubbing leaves of the dock plant neutralises the acid."
+      },
+      "key_takeaway": {
+        "hi": "मधुमक्खी व नेटल के डंक में मेथैनॉइक अम्ल होता है, जिसे दुर्बल क्षारक से उदासीन किया जाता है।",
+        "en": "Bee and nettle stings contain methanoic acid, which is neutralised using a mild base."
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "hi": "प्राकृतिक स्रोत और उसमें पाए जाने वाले अम्ल का कौन-सा युग्म सही सुमेलित है?",
+        "en": "Which pair of natural source and its corresponding acid is correctly matched?"
+      },
+      "options": {
+        "a": {
+          "hi": "सिरका — ऐसिटिक अम्ल (Vinegar — Acetic acid)",
+          "en": "Vinegar — Acetic acid"
+        },
+        "b": {
+          "hi": "इमली — लैक्टिक अम्ल (Tamarind — Lactic acid)",
+          "en": "Tamarind — Lactic acid"
+        },
+        "c": {
+          "hi": "दही — टार्टरिक अम्ल (Curd — Tartaric acid)",
+          "en": "Curd — Tartaric acid"
+        },
+        "d": {
+          "hi": "टमाटर — मेथैनॉइक अम्ल (Tomato — Methanoic acid)",
+          "en": "Tomato — Methanoic acid"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "इमली में टार्टरिक अम्ल, दही में लैक्टिक अम्ल और टमाटर में ऑक्सैलिक अम्ल पाया जाता है।",
+        "en": "Tamarind has tartaric acid, curd has lactic acid, and tomato has oxalic acid."
+      },
+      "explanation": {
+        "hi": "NCERT सारणी 2.3 के अनुसार सिरका में ऐसिटिक अम्ल (Acetic acid), संतरा व नींबू में सिट्रिक अम्ल, इमली में टार्टरिक अम्ल, टमाटर में ऑक्सैलिक अम्ल तथा दही में लैक्टिक अम्ल पाया जाता है।",
+        "en": "According to NCERT Table 2.3, vinegar contains acetic acid, citrus fruits contain citric acid, tamarind contains tartaric acid, tomato contains oxalic acid, and curd contains lactic acid."
+      },
+      "key_takeaway": {
+        "hi": "सिरका में ऐसिटिक अम्ल, इमली में टार्टरिक अम्ल, टमाटर में ऑक्सैलिक अम्ल तथा दही में लैक्टिक अम्ल होता है।",
+        "en": "Vinegar has acetic acid, tamarind has tartaric acid, tomato has oxalic acid, and curd has lactic acid."
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "hi": "प्रबल अम्ल और दुर्बल क्षारक से बने लवण (जैसे अमोनियम क्लोराइड, NH₄Cl) की प्रकृति तथा pH मान कैसा होता है?",
+        "en": "What is the nature and pH value of a salt formed from a strong acid and a weak base (such as ammonium chloride, NH₄Cl)?"
+      },
+      "options": {
+        "a": {
+          "hi": "क्षारकीय प्रकृति; pH मान 7 से अधिक",
+          "en": "Basic nature; pH greater than 7"
+        },
+        "b": {
+          "hi": "अम्लीय प्रकृति; pH मान 7 से कम",
+          "en": "Acidic nature; pH less than 7"
+        },
+        "c": {
+          "hi": "उदासीन प्रकृति; pH मान ठीक 7",
+          "en": "Neutral nature; pH exactly 7"
+        },
+        "d": {
+          "hi": "pH मान सदैव 14 होता है",
+          "en": "pH value is always 14"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "प्रबल अम्ल एवं प्रबल क्षारक के लवण उदासीन (pH = 7) होते हैं, जबकि प्रबल अम्ल व दुर्बल क्षारक के लवण अम्लीय होते हैं।",
+        "en": "Salts of a strong acid and strong base are neutral (pH = 7), whereas salts of a strong acid and weak base are acidic."
+      },
+      "explanation": {
+        "hi": "प्रबल अम्ल एवं दुर्बल क्षारक के लवण अम्लीय होते हैं तथा इनका pH मान 7 से कम होता है, जबकि प्रबल क्षारक एवं दुर्बल अम्ल के लवण क्षारकीय होते हैं और उनका pH मान 7 से अधिक होता है।",
+        "en": "Salts of a strong acid and a weak base are acidic with pH less than 7, while salts of a strong base and weak acid are basic with pH greater than 7."
+      },
+      "key_takeaway": {
+        "hi": "प्रबल अम्ल + दुर्बल क्षारक से बने लवण अम्लीय (pH < 7) होते हैं।",
+        "en": "Salts formed from a strong acid and weak base are acidic (pH < 7)."
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "hi": "सोडियम क्लोराइड के जलीय विलयन (लवण जल / Brine) से विद्युत प्रवाहित करने पर होने वाली क्लोर-क्षार प्रक्रिया (Chlor-alkali process) के तीन मुख्य उत्पाद कौन-से हैं?",
+        "en": "What are the three main products of the chlor-alkali process when electricity is passed through an aqueous solution of sodium chloride (brine)?"
+      },
+      "options": {
+        "a": {
+          "hi": "सोडियम कार्बोनेट, कार्बन डाइऑक्साइड और ऑक्सीजन",
+          "en": "Sodium carbonate, carbon dioxide, and oxygen"
+        },
+        "b": {
+          "hi": "कैल्सियम ऑक्साइड, हाइड्रोजन और नाइट्रोजन",
+          "en": "Calcium oxide, hydrogen, and nitrogen"
+        },
+        "c": {
+          "hi": "सोडियम हाइड्रॉक्साइड (NaOH), क्लोरीन गैस (Cl₂) और हाइड्रोजन गैस (H₂)",
+          "en": "Sodium hydroxide (NaOH), chlorine gas (Cl₂), and hydrogen gas (H₂)"
+        },
+        "d": {
+          "hi": "कैल्सियम सल्फेट, क्लोरीन और जल",
+          "en": "Calcium sulphate, chlorine, and water"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "समीकरण: 2NaCl(aq) + 2H₂O(l) → 2NaOH(aq) + Cl₂(g) + H₂(g), जिसमें क्लोरीन एनोड पर और हाइड्रोजन कैथोड पर मुक्त होती है।",
+        "en": "Equation: 2NaCl(aq) + 2H₂O(l) → 2NaOH(aq) + Cl₂(g) + H₂(g), with Cl₂ at the anode and H₂ at the cathode."
+      },
+      "explanation": {
+        "hi": "क्लोर-क्षार प्रक्रिया में सोडियम क्लोराइड के जलीय विलयन (ब्राइन) का विद्युत अपघटन करने पर एनोड पर क्लोरीन (Cl₂) गैस, कैथोड पर हाइड्रोजन (H₂) गैस तथा कैथोड के पास सोडियम हाइड्रॉक्साइड (NaOH) विलयन बनता है।",
+        "en": "In the chlor-alkali process, electrolysis of aqueous sodium chloride (brine) yields chlorine gas (Cl₂) at the anode, hydrogen gas (H₂) at the cathode, and sodium hydroxide (NaOH) near the cathode."
+      },
+      "key_takeaway": {
+        "hi": "क्लोर-क्षार प्रक्रिया से NaOH, Cl₂ और H₂ तीन उपयोगी उत्पाद प्राप्त होते हैं।",
+        "en": "The chlor-alkali process produces NaOH, Cl₂, and H₂."
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "hi": "विरंजक चूर्ण (Bleaching powder) का रासायनिक सूत्र क्या है और इसका निर्माण कैसे होता है?",
+        "en": "What is the chemical formula of bleaching powder and how is it manufactured?"
+      },
+      "options": {
+        "a": {
+          "hi": "CaOCl₂; शुष्क बुझे हुए चूने [Ca(OH)₂] पर क्लोरीन (Cl₂) की क्रिया से",
+          "en": "CaOCl₂; by the action of chlorine (Cl₂) on dry slaked lime [Ca(OH)₂]"
+        },
+        "b": {
+          "hi": "NaHCO₃; सोडियम क्लोराइड और अमोनिया की क्रिया से",
+          "en": "NaHCO₃; by reacting sodium chloride and ammonia"
+        },
+        "c": {
+          "hi": "CaCO₃; चूना पत्थर को गर्म करने से",
+          "en": "CaCO₃; by heating limestone"
+        },
+        "d": {
+          "hi": "Na₂CO₃·10H₂O; बेकिंग सोडा को गर्म करने से",
+          "en": "Na₂CO₃·10H₂O; by heating baking soda"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "hi": "समीकरण याद कीजिए: Ca(OH)₂ + Cl₂ → CaOCl₂ + H₂O।",
+        "en": "Recall the equation: Ca(OH)₂ + Cl₂ → CaOCl₂ + H₂O."
+      },
+      "explanation": {
+        "hi": "शुष्क बुझे हुए चूने [Ca(OH)₂] पर क्लोरीन की क्रिया से विरंजक चूर्ण (CaOCl₂) का निर्माण होता है। इसका उपयोग वस्त्र उद्योग में विरंजन, कई रासायनिक उद्योगों में उपचायक तथा पीने के जल को जीवाणुमुक्त करने में होता है।",
+        "en": "Bleaching powder (CaOCl₂) is produced by the action of chlorine on dry slaked lime [Ca(OH)₂]. It is used for bleaching cotton and linen, as an oxidising agent, and for disinfecting drinking water."
+      },
+      "key_takeaway": {
+        "hi": "विरंजक चूर्ण का सूत्र CaOCl₂ है, जो शुष्क बुझे हुए चूने और क्लोरीन की क्रिया से बनता है।",
+        "en": "Bleaching powder (CaOCl₂) is formed by reacting dry slaked lime with chlorine."
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "hi": "बेकिंग सोडा (Baking soda) का रासायनिक नाम और सूत्र क्या है?",
+        "en": "What are the chemical name and formula of baking soda?"
+      },
+      "options": {
+        "a": {
+          "hi": "सोडियम कार्बोनेट (Na₂CO₃)",
+          "en": "Sodium carbonate (Na₂CO₃)"
+        },
+        "b": {
+          "hi": "कैल्सियम ऑक्सीक्लोराइड (CaOCl₂)",
+          "en": "Calcium oxychloride (CaOCl₂)"
+        },
+        "c": {
+          "hi": "सोडियम हाइड्रॉक्साइड (NaOH)",
+          "en": "Sodium hydroxide (NaOH)"
+        },
+        "d": {
+          "hi": "सोडियम हाइड्रोजनकार्बोनेट / सोडियम बाइकार्बोनेट (NaHCO₃)",
+          "en": "Sodium hydrogencarbonate / Sodium bicarbonate (NaHCO₃)"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "यह एक दुर्बल असंक्षारक क्षारक है जिसका उपयोग रसोईघर में स्वादिष्ट खस्ता पकौड़े बनाने और ऐन्टैसिड के रूप में होता है।",
+        "en": "It is a mild non-corrosive base used in the kitchen for crispy pakoras and as an antacid."
+      },
+      "explanation": {
+        "hi": "बेकिंग सोडा का रासायनिक नाम सोडियम हाइड्रोजनकार्बोनेट (NaHCO₃) है। कच्चे पदार्थों में सोडियम क्लोराइड का उपयोग कर इसका निर्माण किया जाता है: NaCl + H₂O + CO₂ + NH₃ → NH₄Cl + NaHCO₃।",
+        "en": "The chemical name of baking soda is sodium hydrogencarbonate (NaHCO₃), produced using sodium chloride: NaCl + H₂O + CO₂ + NH₃ → NH₄Cl + NaHCO₃."
+      },
+      "key_takeaway": {
+        "hi": "बेकिंग सोडा का रासायनिक सूत्र NaHCO₃ (सोडियम हाइड्रोजनकार्बोनेट) है।",
+        "en": "Baking soda is sodium hydrogencarbonate with the formula NaHCO₃."
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "hi": "बेकिंग पाउडर (Baking powder) किसका मिश्रण होता है और केक या पाव-रोटी को मुलायम एवं स्पंजी बनाने में कैसे मदद करता है?",
+        "en": "What is baking powder a mixture of, and how does it make bread or cake soft and spongy?"
+      },
+      "options": {
+        "a": {
+          "hi": "NaOH और HCl का मिश्रण; ऑक्सीजन गैस निकालकर",
+          "en": "Mixture of NaOH and HCl; by releasing oxygen gas"
+        },
+        "b": {
+          "hi": "CaO और जल का मिश्रण; नाइट्रोजन गैस निकालकर",
+          "en": "Mixture of CaO and water; by releasing nitrogen gas"
+        },
+        "c": {
+          "hi": "बेकिंग सोडा (NaHCO₃) और टार्टरिक अम्ल जैसे मंद खाद्य अम्ल का मिश्रण; गर्म करने या जल में मिलाने पर CO₂ गैस उत्पन्न करके",
+          "en": "Mixture of baking soda (NaHCO₃) and a mild edible acid such as tartaric acid; by producing CO₂ gas when heated or mixed in water"
+        },
+        "d": {
+          "hi": "NaCl और जिप्सम का मिश्रण; हाइड्रोजन गैस निकालकर",
+          "en": "Mixture of NaCl and gypsum; by releasing hydrogen gas"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "अभिक्रिया: NaHCO₃ + H⁺ (अम्ल से) → CO₂ + H₂O + अम्ल का सोडियम लवण।",
+        "en": "Reaction: NaHCO₃ + H⁺ (from acid) → CO₂ + H₂O + sodium salt of acid."
+      },
+      "explanation": {
+        "hi": "बेकिंग पाउडर बेकिंग सोडा (NaHCO₃) एवं टार्टरिक अम्ल जैसे एक मंद खाद्य अम्ल का मिश्रण है। जब इसे जल में मिलाया या गर्म किया जाता है तो उत्पन्न कार्बन डाइऑक्साइड (CO₂) के कारण पाव-रोटी या केक में खमीर उठ जाता है तथा यह मुलायम और स्पंजी हो जाता है।",
+        "en": "Baking powder is a mixture of baking soda (NaHCO₃) and a mild edible acid like tartaric acid. When heated or mixed with water, CO₂ is released, causing bread or cake to rise and become soft and spongy."
+      },
+      "key_takeaway": {
+        "hi": "बेकिंग पाउडर (NaHCO₃ + टार्टरिक अम्ल) से निकली CO₂ गैस केक व ब्रेड को स्पंजी बनाती है।",
+        "en": "CO₂ released from baking powder (NaHCO₃ + tartaric acid) makes cakes and bread soft and spongy."
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "hi": "धोने के सोडा (Washing soda) का रासायनिक सूत्र क्या है और इसका एक प्रमुख उपयोग कौन-सा है?",
+        "en": "What is the chemical formula of washing soda and one of its major uses?"
+      },
+      "options": {
+        "a": {
+          "hi": "NaHCO₃; पीने के पानी को ठंडा करने में",
+          "en": "NaHCO₃; cooling drinking water"
+        },
+        "b": {
+          "hi": "Na₂CO₃·10H₂O; जल की स्थायी कठोरता को हटाने तथा काँच, साबुन एवं कागज उद्योगों में",
+          "en": "Na₂CO₃·10H₂O; removing permanent hardness of water and in glass, soap, and paper industries"
+        },
+        "c": {
+          "hi": "CaSO₄·2H₂O; टूटी हड्डियों को जोड़ने में",
+          "en": "CaSO₄·2H₂O; setting fractured bones"
+        },
+        "d": {
+          "hi": "CaOCl₂; भोजन को पकाने में",
+          "en": "CaOCl₂; cooking food"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "सोडियम कार्बोनेट के पुनः क्रिस्टलीकरण से प्राप्त इस लवण में क्रिस्टलन के 10 जल अणु होते हैं।",
+        "en": "Obtained by recrystallisation of sodium carbonate, this salt carries 10 molecules of water of crystallisation."
+      },
+      "explanation": {
+        "hi": "धोने के सोडा का सूत्र Na₂CO₃·10H₂O (सोडियम कार्बोनेट डेकाहाइड्रेट) है। इसका उपयोग काँच, साबुन एवं कागज उद्योगों में, बोरेक्स जैसे सोडियम यौगिक के उत्पादन में तथा जल की स्थायी कठोरता हटाने के लिए होता है।",
+        "en": "Washing soda has the formula Na₂CO₃·10H₂O. It is used in glass, soap, and paper industries, in making borax, and for removing permanent hardness of water."
+      },
+      "key_takeaway": {
+        "hi": "धोने का सोडा (Na₂CO₃·10H₂O) जल की स्थायी कठोरता हटाने और साबुन-काँच उद्योग में प्रयुक्त होता है।",
+        "en": "Washing soda (Na₂CO₃·10H₂O) removes permanent hardness of water and is used in soap and glass industries."
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "hi": "'क्रिस्टलन का जल' (Water of crystallisation) किसे कहते हैं?",
+        "en": "What is meant by 'water of crystallisation'?"
+      },
+      "options": {
+        "a": {
+          "hi": "उबलते हुए पानी से निकलने वाली भाप",
+          "en": "Steam rising from boiling water"
+        },
+        "b": {
+          "hi": "किसी बीकर में भरा हुआ सामान्य नल का पानी",
+          "en": "Ordinary tap water filled in a beaker"
+        },
+        "c": {
+          "hi": "वर्षा के बाद छत पर जमा पानी",
+          "en": "Rainwater collected on a rooftop"
+        },
+        "d": {
+          "hi": "लवण के एक सूत्र इकाई में जल के निश्चित अणुओं की संख्या",
+          "en": "The fixed number of water molecules present in one formula unit of a salt"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "उदाहरण के लिए कॉपर सल्फेट के एक सूत्र इकाई (CuSO₄·5H₂O) में जल के 5 अणु उपस्थित होते हैं।",
+        "en": "For example, one formula unit of hydrated copper sulphate (CuSO₄·5H₂O) contains 5 water molecules."
+      },
+      "explanation": {
+        "hi": "लवण के एक सूत्र इकाई में जल के निश्चित अणुओं की संख्या को क्रिस्टलन का जल (Water of crystallisation) कहते हैं। शुष्क दिखने वाले कॉपर सल्फेट क्रिस्टल (CuSO₄·5H₂O) में भी क्रिस्टलन का जल होता है, जिसे गर्म करने पर क्रिस्टल श्वेत हो जाते हैं।",
+        "en": "Water of crystallisation is the fixed number of water molecules chemically bound in one formula unit of a salt, such as 5 molecules in CuSO₄·5H₂O."
+      },
+      "key_takeaway": {
+        "hi": "लवण के एक सूत्र इकाई में जुड़े निश्चित जल अणुओं की संख्या क्रिस्टलन का जल कहलाती है।",
+        "en": "The fixed number of water molecules in one formula unit of a salt is called water of crystallisation."
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "hi": "जिप्सम (CaSO₄·2H₂O) को 373 K पर गर्म करने पर कौन-सा पदार्थ प्राप्त होता है जिसका उपयोग डॉक्टर टूटी हुई हड्डियों को सही जगह पर स्थिर रखने के लिए करते हैं?",
+        "en": "Which substance is obtained by heating gypsum (CaSO₄·2H₂O) at 373 K and is used by doctors to support fractured bones in the right position?"
+      },
+      "options": {
+        "a": {
+          "hi": "विरंजक चूर्ण (CaOCl₂)",
+          "en": "Bleaching powder (CaOCl₂)"
+        },
+        "b": {
+          "hi": "बिना बुझा चूना (CaO)",
+          "en": "Quicklime (CaO)"
+        },
+        "c": {
+          "hi": "प्लास्टर ऑफ पेरिस [कैल्सियम सल्फेट अर्धहाइड्रेट, CaSO₄·½H₂O]",
+          "en": "Plaster of Paris [Calcium sulphate hemihydrate, CaSO₄·½H₂O]"
+        },
+        "d": {
+          "hi": "सोडियम क्लोराइड (NaCl)",
+          "en": "Sodium chloride (NaCl)"
+        }
+      },
+      "correct_option": "c",
+      "hint": {
+        "hi": "यह एक सफेद चूर्ण है जो जल मिलाने पर पुनः जिप्सम बनकर कठोर ठोस पदार्थ प्रदान करता है।",
+        "en": "It is a white powder that sets into a hard solid mass (gypsum) when mixed with water."
+      },
+      "explanation": {
+        "hi": "जिप्सम को 373 K पर गर्म करने पर यह जल के अणुओं का त्याग कर कैल्सियम सल्फेट अर्धहाइड्रेट/हेमिहाइड्रेट (CaSO₄·½H₂O) बनाता है, जिसे प्लास्टर ऑफ पेरिस (POP) कहते हैं। जल मिलाने पर यह पुनः कठोर जिप्सम बन जाता है।",
+        "en": "Heating gypsum at 373 K removes water molecules to form calcium sulphate hemihydrate (CaSO₄·½H₂O), known as Plaster of Paris, which hardens back into gypsum upon mixing with water."
+      },
+      "key_takeaway": {
+        "hi": "जिप्सम को 373 K पर गर्म करने से प्लास्टर ऑफ पेरिस (CaSO₄·½H₂O) बनता है।",
+        "en": "Heating gypsum at 373 K produces Plaster of Paris (CaSO₄·½H₂O)."
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "hi": "प्लास्टर ऑफ पेरिस को आर्द्र-रोधी बर्तन (Moisture-proof container) में क्यों रखा जाना चाहिए?",
+        "en": "Why should Plaster of Paris be stored in a moisture-proof container?"
+      },
+      "options": {
+        "a": {
+          "hi": "क्योंकि यह वायु में उड़कर गायब हो जाता है",
+          "en": "Because it evaporates into the air"
+        },
+        "b": {
+          "hi": "क्योंकि नमी के संपर्क में आकर यह विषैली गैस छोड़ता है",
+          "en": "Because it releases toxic gas on contact with moisture"
+        },
+        "c": {
+          "hi": "क्योंकि नमी से यह नीले रंग के द्रव में बदल जाता है",
+          "en": "Because moisture turns it into a blue liquid"
+        },
+        "d": {
+          "hi": "क्योंकि आर्द्रता (नमी) की उपस्थिति में यह जल अवशोषित करके कठोर ठोस पदार्थ जिप्सम (CaSO₄·2H₂O) में बदल जाता है",
+          "en": "Because in the presence of moisture it absorbs water and sets into a hard solid mass of gypsum (CaSO₄·2H₂O)"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "समीकरण: CaSO₄·½H₂O + 1½H₂O → CaSO₄·2H₂O (जिप्सम)।",
+        "en": "Equation: CaSO₄·½H₂O + 1½H₂O → CaSO₄·2H₂O (Gypsum)."
+      },
+      "explanation": {
+        "hi": "प्लास्टर ऑफ पेरिस आर्द्रता (नमी) से अभिक्रिया करके पुनः कठोर ठोस पदार्थ जिप्सम (CaSO₄·2H₂O) बना लेता है, जिससे यह अनुपयोगी हो जाता है। इसलिए इसे आर्द्र-रोधी बर्तन में रखा जाता है।",
+        "en": "Plaster of Paris reacts with moisture to harden into solid gypsum (CaSO₄·2H₂O), rendering it useless for setting; hence it must be stored in a moisture-proof container."
+      },
+      "key_takeaway": {
+        "hi": "नमी के संपर्क में आकर जिप्सम बनकर जमने से रोकने हेतु प्लास्टर ऑफ पेरिस को आर्द्र-रोधी बर्तन में रखते हैं।",
+        "en": "Plaster of Paris is kept in moisture-proof containers so it does not absorb moisture and harden into gypsum."
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "hi": "सोडियम हाइड्रोजनकार्बोनेट (बेकिंग सोडा) को सोडा-अम्ल अग्निशामक (Soda-acid fire extinguisher) में क्यों उपयोग किया जाता है?",
+        "en": "Why is sodium hydrogencarbonate (baking soda) used in soda-acid fire extinguishers?"
+      },
+      "options": {
+        "a": {
+          "hi": "क्योंकि यह जलकर तेज लौ उत्पन्न करता है",
+          "en": "Because it burns with a bright flame"
+        },
+        "b": {
+          "hi": "क्योंकि यह आग में ऑक्सीजन की मात्रा बढ़ाता है",
+          "en": "Because it increases oxygen supply to the fire"
+        },
+        "c": {
+          "hi": "क्योंकि यह हाइड्रोजन गैस बनाता है",
+          "en": "Because it generates hydrogen gas"
+        },
+        "d": {
+          "hi": "क्योंकि अम्ल से क्रिया करके यह कार्बन डाइऑक्साइड (CO₂) गैस उत्पन्न करता है जो आग बुझाने में सहायक है",
+          "en": "Because it reacts with acid to produce carbon dioxide (CO₂) gas, which helps extinguish fire"
+        }
+      },
+      "correct_option": "d",
+      "hint": {
+        "hi": "धातु हाइड्रोजनकार्बोनेट + अम्ल → लवण + जल + CO₂ गैस।",
+        "en": "Metal hydrogencarbonate + Acid → Salt + Water + CO₂ gas."
+      },
+      "explanation": {
+        "hi": "सोडा-अम्ल अग्निशामक में सोडियम हाइड्रोजनकार्बोनेट (NaHCO₃) अम्ल के साथ अभिक्रिया करके तीव्रता से कार्बन डाइऑक्साइड (CO₂) गैस उत्पन्न करता है, जो ऑक्सीजन की आपूर्ति रोककर आग बुझा देती है।",
+        "en": "In a soda-acid fire extinguisher, sodium hydrogencarbonate reacts with acid to rapidly release CO₂ gas, which blankets the fire and cuts off oxygen."
+      },
+      "key_takeaway": {
+        "hi": "अम्ल से क्रिया कर CO₂ गैस उत्पन्न करने के कारण NaHCO₃ का उपयोग सोडा-अम्ल अग्निशामक में होता है।",
+        "en": "NaHCO₃ is used in soda-acid fire extinguishers because it reacts with acid to release fire-extinguishing CO₂."
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "hi": "अध्याय 'अम्ल, क्षारक एवं लवण' का मुख्य सार क्या है?",
+        "en": "What is the core takeaway of the chapter 'Acids, Bases and Salts'?"
+      },
+      "options": {
+        "a": {
+          "hi": "सभी अम्ल और क्षारक जल में अघुलनशील होते हैं",
+          "en": "All acids and bases are insoluble in water"
+        },
+        "b": {
+          "hi": "अम्ल जलीय विलयन में H⁺ आयन और क्षारक OH⁻ आयन देते हैं; इनकी प्रबलता pH स्केल से मापी जाती है तथा उदासीनीकरण व लवण परिवार से दैनिक जीवन के अनेक उपयोगी रसायन बनते हैं",
+          "en": "Acids furnish H⁺ ions and bases furnish OH⁻ ions in water; their strength is measured on the pH scale, and neutralisation and the salt family yield essential everyday chemicals"
+        },
+        "c": {
+          "hi": "pH स्केल केवल ठोस धातुओं का भार मापता है",
+          "en": "The pH scale only measures the weight of solid metals"
+        },
+        "d": {
+          "hi": "बेकिंग सोडा और विरंजक चूर्ण एक ही यौगिक हैं",
+          "en": "Baking soda and bleaching powder are the exact same compound"
+        }
+      },
+      "correct_option": "b",
+      "hint": {
+        "hi": "जलीय विलयन के आयन, pH स्केल, और NaCl से बनने वाले प्रमुख लवणों को एक साथ जोड़िए।",
+        "en": "Connect aqueous ions, the pH scale, and the key salts derived from common salt."
+      },
+      "explanation": {
+        "hi": "अम्ल व क्षारक जल में क्रमशः H⁺(aq) व OH⁻(aq) आयन देते हैं, जिनका मापन pH स्केल (0–14) द्वारा होता है। इनकी उदासीनीकरण अभिक्रिया से लवण बनते हैं और साधारण नमक से NaOH, विरंजक चूर्ण, बेकिंग सोडा, धोने का सोडा तथा प्लास्टर ऑफ पेरिस जैसे उपयोगी रसायन तैयार होते हैं।",
+        "en": "Acids and bases produce H⁺(aq) and OH⁻(aq) ions in water, quantified by the pH scale (0–14), and yield salts that serve as raw materials for NaOH, bleaching powder, baking soda, washing soda, and Plaster of Paris."
+      },
+      "key_takeaway": {
+        "hi": "आयन सिद्धांत, pH स्केल और लवण परिवार अम्ल-क्षारक रसायन और दैनिक जीवन के अनुप्रयोगों को जोड़ते हैं।",
+        "en": "Ion behaviour, the pH scale, and the salt family connect acid-base chemistry to practical applications."
+      }
+    }
+  ]
+}
